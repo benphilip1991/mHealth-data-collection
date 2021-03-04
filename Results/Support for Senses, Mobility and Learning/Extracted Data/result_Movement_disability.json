@@ -1,0 +1,845 @@
+[
+    {
+        "package": "com.ability_studio.wheelchair_exercises",
+        "apk": "wheelchair-exercises_1.2.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.INTERNET"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.notiis.plopdiary",
+        "apk": "plop-poop-tracker-analyzer_2.2.5.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.INTERNET"
+        ],
+        "feature_set": [
+            "android.hardware.camera"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.Healthtipsbd.physioclinicfm",
+        "apk": "physiotherapy-clinic_2.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.WAKE_LOCK"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.google.android.apps.fitness",
+        "apk": "google-fit-health-and-activity-tracking_2.43.26-130.apk",
+        "bluetooth_permissions": true,
+        "permission_set": [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.CAMERA",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.MANAGE_ACCOUNTS",
+            "android.permission.VIBRATE",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.ACCESS_BACKGROUND_LOCATION",
+            "android.permission.READ_SYNC_SETTINGS",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.BLUETOOTH",
+            "android.permission.INTERNET",
+            "com.google.android.providers.gsf.permission.READ_GSERVICES",
+            "android.permission.QUERY_ALL_PACKAGES",
+            "android.permission.READ_SYNC_STATS",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.GET_ACCOUNTS",
+            "android.permission.GET_PACKAGE_SIZE",
+            "com.google.android.gms.permission.ACTIVITY_RECOGNITION",
+            "android.permission.RECEIVE_BOOT_COMPLETED"
+        ],
+        "feature_set": [
+            "android.hardware.location.gps",
+            "android.hardware.location",
+            "android.hardware.faketouch",
+            "android.hardware.camera",
+            "android.hardware.camera.any",
+            "android.hardware.camera.autofocus",
+            "android.hardware.screen.portrait"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "in.sweatco.app",
+        "apk": "sweatcoin-\u2014-walking-step-counter-pedometer-app_41.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.app.sweatcoin.BROADCAST_EVENTS",
+            "android.permission.INTERNET",
+            "android.permission.VIBRATE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "in.sweatco.app.provider.content.READ",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            "in.sweatco.app.provider.content.WRITE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.SYSTEM_ALERT_WINDOW",
+            "android.permission.READ_PROFILE",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.ACCESS_BACKGROUND_LOCATION",
+            "com.google.android.gms.permission.ACTIVITY_RECOGNITION",
+            "com.huawei.hms.permission.ACTIVITY_RECOGNITION",
+            "android.permission.ACTIVITY_RECOGNITION",
+            "com.android.vending.BILLING",
+            "android.permission.READ_CONTACTS",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA"
+        ],
+        "feature_set": [
+            "android.hardware.location.gps",
+            "android.hardware.sensor.stepcounter",
+            "android.hardware.sensor.gyroscope"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "ai.replika.app",
+        "apk": "replika-my-ai-friend_5.1.4.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY",
+            "android.permission.RECORD_AUDIO",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.CAMERA",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.android.vending.BILLING",
+            "android.permission.USE_FINGERPRINT",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.VIBRATE",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.MODIFY_AUDIO_SETTINGS"
+        ],
+        "feature_set": [
+            "android.hardware.touchscreen",
+            "android.hardware.touchscreen.multitouch",
+            "android.hardware.touchscreen.multitouch.distinct"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "bot.touchkin",
+        "apk": "wysa-stress-depression-anxiety-therapy-chatbot_2.2.8.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.INTERNET",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.RECORD_AUDIO",
+            "com.android.vending.BILLING",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.WAKE_LOCK"
+        ],
+        "feature_set": [
+            "android.hardware.wifi",
+            "android.hardware.screen.portrait",
+            "android.hardware.telephony"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.fitnesskeeper.runkeeper.pro",
+        "apk": "runkeeper-gps-track-run-walk_11.0.1.apk",
+        "bluetooth_permissions": true,
+        "permission_set": [
+            "android.permission.READ_CONTACTS",
+            "android.permission.CAMERA",
+            "android.permission.BLUETOOTH_ADMIN",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.ACTIVITY_RECOGNITION",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.BODY_SENSORS",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.BLUETOOTH",
+            "android.permission.INTERNET",
+            "com.google.android.providers.gsf.permission.READ_GSERVICES",
+            "com.android.vending.BILLING",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.GET_ACCOUNTS",
+            "android.permission.RECEIVE_BOOT_COMPLETED"
+        ],
+        "feature_set": [
+            "android.hardware.bluetooth_le"
+        ],
+        "uuid_count": 40,
+        "uuids": [
+            {
+                "uuid": "00000000-0000-0000-0000-000000000000",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00001101-0000-1000-8000-00805f9b34fb",
+                "name": "SPP Serial Port Service UUID"
+            },
+            {
+                "uuid": "0000180d-0000-1000-8000-00805f9b34fb",
+                "name": "Heart Rate"
+            },
+            {
+                "uuid": "00002a37-0000-1000-8000-00805f9b34fb",
+                "name": "Heart Rate Measurement"
+            },
+            {
+                "uuid": "00002902-0000-1000-8000-00805f9b34fb",
+                "name": "Client Characteristic Configuration"
+            },
+            {
+                "uuid": "252a0217-8db1-4885-b250-873c0489348b",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "018c1276-632e-4698-a12c-f9fb35d9cb34",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "4e365ea4-7b29-44d2-9a6a-f5cb853f22e8",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "b801f344-e97f-491a-a10d-04d04ff503de",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "5b83f76c-31d4-4e35-82bb-dcac63a1e179",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0cdf030b-f322-44ad-b693-40c57316d026",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "b0c50008-88b0-4fcf-9ca6-dac54f0813ee",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "88be0f61-c9b9-407a-a1f5-0c157e12e25f",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "e4142812-bf53-403c-ba18-cebdf87b82ed",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "91273afb-d5b8-4037-b1dc-3aed2083dd65",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "95a0f5b1-cab7-4734-9cbf-c5ab7ff8d22e",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "1fb0de63-2a19-4238-9815-3cb77afbc2b9",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "26a31f01-8516-4a85-a7e7-efaf14340b99",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "2fb2f3a3-eef6-4dc2-be06-8c1e0ad95cb3",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "374c0970-70b9-4775-8b49-5cebb0a7621c",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "9264371d-b799-4260-9282-442cdcf0e6b3",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "d4b84eae-6666-4772-95e2-206151cab996",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "dbdd4d75-3e22-4988-9ee1-9ba21f057cc7",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "19a41763-7e00-4267-95f3-9a7af46ed380",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "a038c08e-897f-41d2-9f5f-8656a20519ac",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "b5a63561-14af-46f4-ab1d-638628b49d62",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "4ce581ac-ac17-410f-9fa7-d057d3eb3d76",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "93b3e469-de9f-4d6b-8522-479944929111",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "4231298a-242e-462d-a25f-6446ccb3c698",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "d8044cd3-e29c-4cfd-b231-c7d6172d0995",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "bfa00bac-4435-425d-89d2-ec21fdf42c30",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0x7fff",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0xffff",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0x0000",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "258eafa5-e914-47da-95ca-c5ab0dc85b11",
+                "name": "RFC6455 Websocket String"
+            },
+            {
+                "uuid": "00001531-1212-efde-1523-785feabcd123",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00001532-1212-efde-1523-785feabcd123",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "22eac6e9-24d6-4bb5-be44-b36ace7c7bfb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "9fbf120d-6301-42d9-8c58-25e699a21dbd",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "69d1d8f3-45e1-49a8-9821-9bbdfdaad9d9",
+                "name": "Unknown"
+            }
+        ]
+    },
+    {
+        "package": "bot.touchkin",
+        "apk": "wysa-stress-depression-anxiety-therapy-chatbot_2.2.8.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.INTERNET",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.RECORD_AUDIO",
+            "com.android.vending.BILLING",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.WAKE_LOCK"
+        ],
+        "feature_set": [
+            "android.hardware.wifi",
+            "android.hardware.screen.portrait",
+            "android.hardware.telephony"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.fitnesskeeper.runkeeper.pro",
+        "apk": "runkeeper-gps-track-run-walk_11.0.1.apk",
+        "bluetooth_permissions": true,
+        "permission_set": [
+            "android.permission.READ_CONTACTS",
+            "android.permission.CAMERA",
+            "android.permission.BLUETOOTH_ADMIN",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.ACTIVITY_RECOGNITION",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.BODY_SENSORS",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.BLUETOOTH",
+            "android.permission.INTERNET",
+            "com.google.android.providers.gsf.permission.READ_GSERVICES",
+            "com.android.vending.BILLING",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.GET_ACCOUNTS",
+            "android.permission.RECEIVE_BOOT_COMPLETED"
+        ],
+        "feature_set": [
+            "android.hardware.bluetooth_le"
+        ],
+        "uuid_count": 40,
+        "uuids": [
+            {
+                "uuid": "00000000-0000-0000-0000-000000000000",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00001101-0000-1000-8000-00805f9b34fb",
+                "name": "SPP Serial Port Service UUID"
+            },
+            {
+                "uuid": "0000180d-0000-1000-8000-00805f9b34fb",
+                "name": "Heart Rate"
+            },
+            {
+                "uuid": "00002a37-0000-1000-8000-00805f9b34fb",
+                "name": "Heart Rate Measurement"
+            },
+            {
+                "uuid": "00002902-0000-1000-8000-00805f9b34fb",
+                "name": "Client Characteristic Configuration"
+            },
+            {
+                "uuid": "252a0217-8db1-4885-b250-873c0489348b",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "018c1276-632e-4698-a12c-f9fb35d9cb34",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "4e365ea4-7b29-44d2-9a6a-f5cb853f22e8",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "b801f344-e97f-491a-a10d-04d04ff503de",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "5b83f76c-31d4-4e35-82bb-dcac63a1e179",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0cdf030b-f322-44ad-b693-40c57316d026",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "b0c50008-88b0-4fcf-9ca6-dac54f0813ee",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "88be0f61-c9b9-407a-a1f5-0c157e12e25f",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "e4142812-bf53-403c-ba18-cebdf87b82ed",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "91273afb-d5b8-4037-b1dc-3aed2083dd65",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "95a0f5b1-cab7-4734-9cbf-c5ab7ff8d22e",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "1fb0de63-2a19-4238-9815-3cb77afbc2b9",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "26a31f01-8516-4a85-a7e7-efaf14340b99",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "2fb2f3a3-eef6-4dc2-be06-8c1e0ad95cb3",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "374c0970-70b9-4775-8b49-5cebb0a7621c",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "9264371d-b799-4260-9282-442cdcf0e6b3",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "d4b84eae-6666-4772-95e2-206151cab996",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "dbdd4d75-3e22-4988-9ee1-9ba21f057cc7",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "19a41763-7e00-4267-95f3-9a7af46ed380",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "a038c08e-897f-41d2-9f5f-8656a20519ac",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "b5a63561-14af-46f4-ab1d-638628b49d62",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "4ce581ac-ac17-410f-9fa7-d057d3eb3d76",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "93b3e469-de9f-4d6b-8522-479944929111",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "4231298a-242e-462d-a25f-6446ccb3c698",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "d8044cd3-e29c-4cfd-b231-c7d6172d0995",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "bfa00bac-4435-425d-89d2-ec21fdf42c30",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0x7fff",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0xffff",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0x0000",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "258eafa5-e914-47da-95ca-c5ab0dc85b11",
+                "name": "RFC6455 Websocket String"
+            },
+            {
+                "uuid": "00001531-1212-efde-1523-785feabcd123",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00001532-1212-efde-1523-785feabcd123",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "22eac6e9-24d6-4bb5-be44-b36ace7c7bfb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "9fbf120d-6301-42d9-8c58-25e699a21dbd",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "69d1d8f3-45e1-49a8-9821-9bbdfdaad9d9",
+                "name": "Unknown"
+            }
+        ]
+    },
+    {
+        "package": "je.fit",
+        "apk": "jefit-workout-tracker-weight-lifting-gym-log-app_10.69.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.WAKE_LOCK",
+            "android.permission.CAMERA",
+            "android.permission.VIBRATE",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_CONTACTS",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.GET_ACCOUNTS",
+            "android.permission.MODIFY_AUDIO",
+            "android.permission.ACCESS_WIFI_STATE",
+            "com.android.vending.BILLING",
+            "android.permission.FOREGROUND_SERVICE"
+        ],
+        "feature_set": [
+            "android.hardware.camera",
+            "android.hardware.camera.front",
+            "android.hardware.camera.autofocus",
+            "android.hardware.camera.flash",
+            "android.hardware.screen.landscape",
+            "android.hardware.wifi"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.calm.android",
+        "apk": "calm-meditate-sleep-relax_5.6.apk",
+        "bluetooth_permissions": true,
+        "permission_set": [
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.android.vending.BILLING",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.BLUETOOTH",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NOTIFICATION_POLICY",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "com.android.vending.CHECK_LICENSE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.VIBRATE",
+            "android.permission.WRITE_EXTERNAL_STORAGE"
+        ],
+        "feature_set": [],
+        "uuid_count": 2,
+        "uuids": [
+            {
+                "uuid": "00000000-0000-0000-0000-000000000000",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "258eafa5-e914-47da-95ca-c5ab0dc85b11",
+                "name": "RFC6455 Websocket String"
+            }
+        ]
+    },
+    {
+        "package": "com.lge.lifetracker",
+        "apk": "lg-health_5.60.1.apk",
+        "bluetooth_permissions": true,
+        "permission_set": [
+            "com.lge.sizechangable.weather.platform.permission.USE_WEATHER_INFO",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.GET_ACCOUNTS",
+            "android.permission.AUTHENTICATE_ACCOUNTS",
+            "android.permission.SYSTEM_ALERT_WINDOW",
+            "com.android.launcher.permission.READ_SETTINGS",
+            "com.lge.bioitplatform.sdservice.provider.BioDataProvider.WRITE_HEALTHPROVIDER",
+            "android.permission.READ_SYNC_SETTINGS",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_CONTACTS",
+            "android.permission.MANAGE_ACCOUNTS",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.BLUETOOTH_ADMIN",
+            "android.permission.WAKE_LOCK",
+            "android.permission.ACTIVITY_RECOGNITION",
+            "android.permission.WRITE_SYNC_SETTINGS",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.FOREGROUND_SERVICE",
+            "com.lge.launcher3.permission.READ_SETTINGS",
+            "com.lge.bioitplatform.provider.BPBioDataProvider.WRITE_HEALTHPROVIDER",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "com.lge.bioitplatform.provider.BPBioDataProvider.READ_HEALTHPROVIDER",
+            "com.lge.permission.GO_SLEEP_FORCE",
+            "android.permission.READ_PROFILE",
+            "com.lge.systemui.permission.USE_NOTIFICATION_FLAGS",
+            "android.permission.BLUETOOTH",
+            "android.permission.BODY_SENSORS",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.GET_TASKS",
+            "com.google.android.gms.permission.ACTIVITY_RECOGNITION",
+            "com.lge.lgaccount.permission.READ",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.READ_SYNC_STATS",
+            "com.lge.bioitplatform.sdservice.provider.BioDataProvider.READ_HEALTHPROVIDER"
+        ],
+        "feature_set": [],
+        "uuid_count": 2,
+        "uuids": [
+            {
+                "uuid": "25772c77-c66a-4804-ad9a-c594f0498c55",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "c8db01d9-37d6-4857-99ed-5245289d1705",
+                "name": "Unknown"
+            }
+        ]
+    },
+    {
+        "package": "cc.pacer.androidapp",
+        "apk": "pacer-pedometer-walking-running-step-challenges_p7.10.1.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.ACTIVITY_RECOGNITION",
+            "android.permission.SYSTEM_ALERT_WINDOW",
+            "android.permission.DISABLE_KEYGUARD",
+            "com.google.android.providers.gsf.permission.READ_GSERVICES",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.android.vending.BILLING",
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.INTERNET",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.google.android.gms.permission.ACTIVITY_RECOGNITION",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_CONTACTS",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.CAMERA",
+            "android.permission.WAKE_LOCK",
+            "android.permission.FOREGROUND_SERVICE"
+        ],
+        "feature_set": [
+            "android.hardware.sensor.stepcounter"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "sixpack.sixpackabs.absworkout",
+        "apk": "six-pack-in-30-days-abs-workout_1.0.34.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.WAKE_LOCK",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.android.vending.BILLING",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.INTERNET",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.USE_CREDENTIALS",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.VIBRATE",
+            "android.permission.WRITE_EXTERNAL_STORAGE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.caynax.a6w",
+        "apk": "abs-workout-a6w-flat-belly-at-home_9.22.1.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.WAKE_LOCK",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.INTERNET",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.android.vending.BILLING",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.RECEIVE_BOOT_COMPLETED"
+        ],
+        "feature_set": [
+            "android.hardware.touchscreen",
+            "android.hardware.faketouch",
+            "android.hardware.screen.portrait",
+            "android.hardware.screen.landscape",
+            "android.hardware.camera"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "homeworkout.homeworkouts.noequipment",
+        "apk": "home-workout-no-equipment_1.1.2.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.USE_CREDENTIALS",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.android.vending.BILLING",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.WAKE_LOCK",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.VIBRATE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.andromo.dev601172.app865126",
+        "apk": "physiotherapy_1.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE"
+        ],
+        "feature_set": [
+            "android.hardware.touchscreen"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.ianhanniballake.contractiontimer",
+        "apk": "contraction-timer_2.4.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.INTERNET",
+            "com.android.vending.BILLING",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.ianhanniballake.contractiontimer.permission.C2D_MESSAGE",
+            "android.permission.WAKE_LOCK"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.extreme_eye_exercise",
+        "apk": "extreme-eye-exercise_1.1.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.VIBRATE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.INTERNET"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    }
+]

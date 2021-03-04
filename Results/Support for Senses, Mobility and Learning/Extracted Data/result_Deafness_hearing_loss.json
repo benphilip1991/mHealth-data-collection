@@ -1,0 +1,2160 @@
+[
+    {
+        "package": "mobile.eaudiologia",
+        "apk": "hearing-test_1.2.4.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.RECORD_AUDIO",
+            "android.permission.INTERNET"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.audiocardio",
+        "apk": "audiocardio-ear-training-and-hearing-test_1.0.8.apk",
+        "bluetooth_permissions": true,
+        "permission_set": [
+            "android.permission.WAKE_LOCK",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.INTERNET",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.ACCESS_MEDIA_LOCATION",
+            "android.permission.BLUETOOTH",
+            "android.permission.VIBRATE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.android.vending.BILLING",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.RECEIVE_BOOT_COMPLETED"
+        ],
+        "feature_set": [],
+        "uuid_count": 2,
+        "uuids": [
+            {
+                "uuid": "00000000-0000-0000-0000-000000000000",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "258eafa5-e914-47da-95ca-c5ab0dc85b11",
+                "name": "RFC6455 Websocket String"
+            }
+        ]
+    },
+    {
+        "package": "com.zygne.earextender",
+        "apk": "ear-booster-better-hearing-mobile-hearing-aid_1.6.8.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.RECORD_AUDIO",
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.WAKE_LOCK",
+            "com.google.android.c2dm.permission.RECEIVE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.it4you.petralex",
+        "apk": "petralex-hearing-aid-app_3.7.2.apk",
+        "bluetooth_permissions": true,
+        "permission_set": [
+            "android.permission.INTERNET",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.RECORD_AUDIO",
+            "android.permission.BLUETOOTH",
+            "com.android.vending.BILLING",
+            "android.permission.CAMERA",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.MODIFY_AUDIO_SETTINGS"
+        ],
+        "feature_set": [
+            "android.hardware.microphone",
+            "android.hardware.audio.output"
+        ],
+        "uuid_count": 12,
+        "uuids": [
+            {
+                "uuid": "5af5b069-952a-4d5d-9f84-466ea74eb16f",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "3f20e439-fc9b-4a4e-8dec-ad2b5a44407d",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "b340f6b3-a019-4731-b40d-16c3a4f804ea",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "f5b9bf70-2345-49d4-afd6-8ea9cd8d2132",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "20799a27-fa80-4b36-b2db-0f8141f24180",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0e5e9c33-f8c3-4568-86c5-2e4f57523f72",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "01528cc0-dd34-494d-9218-24af1317e1ee",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "4e610cd2-753f-4bfc-9b05-772ce8905c5e",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "67bb016b-be40-4c08-a190-96a3f3b503d3",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "e4250327-8d3c-4d35-b9e8-3c1720a64b91",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "6c5f504e-8928-47b5-bfb5-73af8d8bf4b4",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "7d962ba4-a392-449a-a02d-6c5be5613928",
+                "name": "Unknown"
+            }
+        ]
+    },
+    {
+        "package": "com.ronasoftstudios.hearmax",
+        "apk": "hearmax-super-hearing-aid-amplifier_12.2.7.apk",
+        "bluetooth_permissions": true,
+        "permission_set": [
+            "android.permission.INTERNET",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.BROADCAST_STICKY",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.BLUETOOTH_ADMIN",
+            "android.permission.RECORD_AUDIO",
+            "android.permission.BLUETOOTH",
+            "com.android.vending.BILLING",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.MODIFY_AUDIO_SETTINGS"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.microphone.soundmagnifier",
+        "apk": "super-hearing-sound-magnifier_1.0.6.apk",
+        "bluetooth_permissions": true,
+        "permission_set": [
+            "android.permission.INTERNET",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.BROADCAST_STICKY",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.BLUETOOTH_ADMIN",
+            "android.permission.RECORD_AUDIO",
+            "android.permission.BLUETOOTH",
+            "com.android.vending.BILLING",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.MODIFY_AUDIO_SETTINGS"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.alkarradatech.checkyourhearing",
+        "apk": "check-your-hearing_0.0.6.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.WAKE_LOCK"
+        ],
+        "feature_set": [
+            "android.hardware.touchscreen",
+            "android.software.leanback"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.psychocreatives.supereartool",
+        "apk": "best-hearing-aid-app-super-ear-tool_1.1.0.apk",
+        "bluetooth_permissions": true,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.CAPTURE_AUDIO_OUTPUT",
+            "android.permission.BLUETOOTH",
+            "android.permission.WAKE_LOCK",
+            "android.permission.ACTIVITY_RECOGNITION",
+            "android.permission.INTERNET",
+            "android.permission.RECORD_AUDIO",
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            "android.permission.BLUETOOTH_ADMIN",
+            "com.android.vending.BILLING",
+            "android.permission.BROADCAST_STICKY"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.ronasoftstudios.earmax",
+        "apk": "hearing-aid-app_12.2.5.apk",
+        "bluetooth_permissions": true,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.RECORD_AUDIO",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.BROADCAST_STICKY",
+            "com.android.vending.BILLING",
+            "android.permission.INTERNET",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.BLUETOOTH_ADMIN",
+            "android.permission.BLUETOOTH",
+            "android.permission.MODIFY_AUDIO_SETTINGS"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.ronasoftstudios.soundmagnifier",
+        "apk": "super-hearing-sound-magnifier_12.2.4.apk",
+        "bluetooth_permissions": true,
+        "permission_set": [
+            "android.permission.INTERNET",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.BROADCAST_STICKY",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.BLUETOOTH_ADMIN",
+            "android.permission.RECORD_AUDIO",
+            "android.permission.BLUETOOTH",
+            "com.android.vending.BILLING",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.MODIFY_AUDIO_SETTINGS"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "co.newbrick.usoundporsamsung",
+        "apk": "usound-for-samsung-hearing-test_2.0.21r.apk",
+        "bluetooth_permissions": true,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.BLUETOOTH",
+            "android.permission.WAKE_LOCK",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.INTERNET",
+            "android.permission.RECORD_AUDIO",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.READ_PHONE_STATE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.lifeear.mainapp",
+        "apk": "mdhearing_2.1.4.apk",
+        "bluetooth_permissions": true,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.RECORD_AUDIO",
+            "android.permission.BLUETOOTH_PRIVILEGED",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "android.permission.BLUETOOTH_ADMIN",
+            "android.permission.VIBRATE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.BLUETOOTH"
+        ],
+        "feature_set": [
+            "android.hardware.bluetooth_le"
+        ],
+        "uuid_count": 21,
+        "uuids": [
+            {
+                "uuid": "0000fff0-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0000180a-0000-1000-8000-00805f9b34fb",
+                "name": "Device Information"
+            },
+            {
+                "uuid": "95e81860-47b6-c216-a125-403009d6f03e",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "95e81861-47b6-c216-a125-403009d6f03e",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-1000-8000-00805f9b34fb",
+                "name": "Base UUID"
+            },
+            {
+                "uuid": "258eafa5-e914-47da-95ca-c5ab0dc85b11",
+                "name": "RFC6455 Websocket String"
+            },
+            {
+                "uuid": "0000fff2-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00002a28-0000-1000-8000-00805f9b34fb",
+                "name": "Software Revision String"
+            },
+            {
+                "uuid": "00002a27-0000-1000-8000-00805f9b34fb",
+                "name": "Hardware Revision String"
+            },
+            {
+                "uuid": "0000fff1-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00002a25-0000-1000-8000-00805f9b34fb",
+                "name": "Serial Number String"
+            },
+            {
+                "uuid": "95e82a93-47b6-c216-a125-403009d6f03e",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00002a26-0000-1000-8000-00805f9b34fb",
+                "name": "Firmware Revision String"
+            },
+            {
+                "uuid": "95e82a91-47b6-c216-a125-403009d6f03e",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "95e82ab0-47b6-c216-a125-403009d6f03e",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "95e82ab1-47b6-c216-a125-403009d6f03e",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "95e82ab3-47b6-c216-a125-403009d6f03e",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "95e82ab4-47b6-c216-a125-403009d6f03e",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "95e82ab5-47b6-c216-a125-403009d6f03e",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "95e82a90-47b6-c216-a125-403009d6f03e",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "b6f37f8f-4651-4718-87a1-d8378d42bef8",
+                "name": "Unknown"
+            }
+        ]
+    },
+    {
+        "package": "com.simple.sounds.hearingtester",
+        "apk": "cyht-hearing-test-can-you-hear-these-simple-fast_1.2.3.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.WAKE_LOCK",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.WRITE_SETTINGS",
+            "android.permission.INTERNET",
+            "android.permission.WRITE_EXTERNAL_STORAGE"
+        ],
+        "feature_set": [
+            "android.hardware.touchscreen"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.hearxgroup.hearwho",
+        "apk": "hearwho_1.0.4.apk",
+        "bluetooth_permissions": true,
+        "permission_set": [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_CALENDAR",
+            "android.permission.BLUETOOTH",
+            "android.permission.WRITE_CALENDAR",
+            "android.permission.RECORD_AUDIO",
+            "com.google.android.c2dm.permission.RECEIVE"
+        ],
+        "feature_set": [],
+        "uuid_count": 1,
+        "uuids": [
+            {
+                "uuid": "e43a8041-0800-4e82-8467-d870d16fb93d",
+                "name": "Unknown"
+            }
+        ]
+    },
+    {
+        "package": "com.hear.hearo",
+        "apk": "the-official-hear-com-app_4.1.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.CHANGE_NETWORK_STATE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.CAMERA",
+            "android.permission.READ_CALENDAR",
+            "android.permission.WRITE_CALENDAR",
+            "android.permission.INTERNET",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.android.alarm.permission.SET_ALARM"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.earshot.crysis.fyp",
+        "apk": "earshot\u2014\u200ahearing-aid_2.1.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.INTERNET",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.RECORD_AUDIO",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.bluetooth",
+            "android.permission.MODIFY_AUDIO_SETTINGS"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.miracleear.geniuscontrol",
+        "apk": "geniuscontrol_2.50.1.186.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.GET_ACCOUNTS",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.CAMERA",
+            "android.permission.INTERNET",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.WRITE_EXTERNAL_STORAGE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.flames.besthearingaid",
+        "apk": "best-hearing-aid-easy-listener_3.6.apk",
+        "bluetooth_permissions": true,
+        "permission_set": [
+            "android.permission.INTERNET",
+            "android.permission.BROADCAST_STICKY",
+            "android.permission.BLUETOOTH_ADMIN",
+            "android.permission.RECORD_AUDIO",
+            "android.permission.BLUETOOTH",
+            "android.permission.BLUETOOTH_PRIVILEGED",
+            "android.permission.CAPTURE_AUDIO_OUTPUT",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACTIVITY_RECOGNITION",
+            "android.permission.MODIFY_AUDIO_SETTINGS"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.hearingaid.volumebooster",
+        "apk": "chatable-focus-your-hearing-remove-distraction_1.0.27.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.INTERNET",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.RECORD_AUDIO",
+            "com.android.vending.BILLING",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.MODIFY_AUDIO_SETTINGS"
+        ],
+        "feature_set": [
+            "android.hardware.audio.low_latency",
+            "android.hardware.microphone",
+            "android.hardware.audio.output"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.liberathor.diapason",
+        "apk": "super-ear_.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.WAKE_LOCK",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.RECORD_AUDIO",
+            "android.permission.VIBRATE",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.INTERNET",
+            "android.permission.MODIFY_AUDIO_SETTINGS"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "se.tzikas.HearingAidControl",
+        "apk": "hearing-aid-control_1.14.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.WAKE_LOCK",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.INTERNET",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.VIBRATE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.hearingaid.easylistening",
+        "apk": "easylistening-\u2013-hearing-aid-app_0.1.38.apk",
+        "bluetooth_permissions": true,
+        "permission_set": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.RECORD_AUDIO",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.BLUETOOTH",
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            "android.permission.WRITE_EXTERNAL_STORAGE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.ihst.app",
+        "apk": "indian-hearing-screening-test_1.4.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.INTERNET"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.amw.hearingtest",
+        "apk": "hearing-test_1.9.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.miracleear.mdapp",
+        "apk": "miracle-ear_2.2.1.apk",
+        "bluetooth_permissions": true,
+        "permission_set": [
+            "android.permission.WAKE_LOCK",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "com.google.android.providers.gsf.permission.READ_GSERVICES",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_CALENDAR",
+            "com.miracleear.mdapp.permission.C2D_MESSAGE",
+            "android.permission.BLUETOOTH",
+            "android.permission.BLUETOOTH_ADMIN",
+            "android.permission.WRITE_CALENDAR",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.ACCESS_FINE_LOCATION"
+        ],
+        "feature_set": [],
+        "uuid_count": 34,
+        "uuids": [
+            {
+                "uuid": "00002902-0000-1000-8000-00805f9b34fb",
+                "name": "Client Characteristic Configuration"
+            },
+            {
+                "uuid": "7d74f4bd-c74a-4431-862c-cce884371592",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00002a24-0000-1000-8000-00805f9b34fb",
+                "name": "Model Number String"
+            },
+            {
+                "uuid": "00002a26-0000-1000-8000-00805f9b34fb",
+                "name": "Firmware Revision String"
+            },
+            {
+                "uuid": "00002a28-0000-1000-8000-00805f9b34fb",
+                "name": "Software Revision String"
+            },
+            {
+                "uuid": "00002a29-0000-1000-8000-00805f9b34fb",
+                "name": "Manufacturer Name String"
+            },
+            {
+                "uuid": "00002a19-0000-1000-8000-00805f9b34fb",
+                "name": "Battery Level"
+            },
+            {
+                "uuid": "0000180a-0000-1000-8000-00805f9b34fb",
+                "name": "Device Information"
+            },
+            {
+                "uuid": "56772eaf-2153-4f74-acf3-4368d99fbf5a",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "14293049-77d7-4244-ae6a-d3873e4a3184",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0a23ae62-c4c2-43d1-87b1-e8c83839a063",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "68bfa64e-3209-4172-b117-f7eafce17414",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0000180f-0000-1000-8000-00805f9b34fb",
+                "name": "Battery Service"
+            },
+            {
+                "uuid": "f44a04d5-e0c6-4ad7-85d5-87d5aa33c9c6",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "34dfc7cb-5252-430b-ba6d-df2fe87914e7",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "535442f7-0ff7-4fec-9780-742f3eb00eda",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "51939bb6-a635-4b1e-903b-76cd9dff3fac",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "1454e9d6-f658-4190-8589-22aa9e3021eb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "50632720-4c0f-4bc4-960a-2404bdfdfbca",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "bba1c7f1-b445-4657-90c3-8dbd97361a0c",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "353ecc73-4d2c-421b-ac1c-8dcb35cd4477",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "268c4933-d2ed-4b09-b1da-cf5fd8e3a8a3",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "42e940ef-98c8-4ccd-a557-30425295af89",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "e24fac83-b5a8-4b9b-8fda-803fffb0c21c",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "d28617fe-0ad5-40c5-a04a-bc89051ff755",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "d01ab591-d282-4ef5-b83b-538e0bf32d85",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "dcbe7a3e-a742-4527-aeb5-cd8dee63167f",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "5f35c43d-e0f4-4da9-87e6-9719982cd25e",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "bc6829c4-b750-48e6-b6f4-48ec866a1efb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "58bbccc5-5a57-4e00-98d5-18c6a0408dfd",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "e5892ebe-97d0-4f97-8f8e-cb85d16a4cc1",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "60415e72-c345-417a-bb2b-bbba95b2c9a3",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "9215a295-b813-483f-9f85-b700d0b7bc75",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "6e557876-ccc4-40e0-8c2d-651542c5ad3d",
+                "name": "Unknown"
+            }
+        ]
+    },
+    {
+        "package": "com.gnresound.tinnitus",
+        "apk": "resound-tinnitus-relief_5.2.4.apk",
+        "bluetooth_permissions": true,
+        "permission_set": [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.android.vending.BILLING",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            "me.everything.badger.permission.BADGE_COUNT_READ",
+            "com.majeur.launcher.permission.UPDATE_BADGE",
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            "com.anddoes.launcher.permission.UPDATE_COUNT",
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.gnresound.tinnitus.permission.C2D_MESSAGE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.sec.android.provider.badge.permission.READ",
+            "com.sonyericsson.home.permission.BROADCAST_BADGE",
+            "com.sec.android.provider.badge.permission.WRITE",
+            "android.permission.INTERNET",
+            "com.oppo.launcher.permission.WRITE_SETTINGS",
+            "android.permission.DOWNLOAD_WITHOUT_NOTIFICATION",
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            "android.permission.VIBRATE",
+            "com.oppo.launcher.permission.READ_SETTINGS",
+            "android.permission.READ_APP_BADGE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.BLUETOOTH",
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "me.everything.badger.permission.BADGE_COUNT_WRITE",
+            "android.permission.FOREGROUND_SERVICE",
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            "com.htc.launcher.permission.READ_SETTINGS"
+        ],
+        "feature_set": [],
+        "uuid_count": 4,
+        "uuids": [
+            {
+                "uuid": "d3288bef-f4c9-4027-87b4-f84b48cad1b3",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "b2f7f966-d8cc-11e4-bed1-df8f05be55ba",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "5eb5a37e-b458-11e3-ac11-000c2940e62c",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "258eafa5-e914-47da-95ca-c5ab0dc85b11",
+                "name": "RFC6455 Websocket String"
+            }
+        ]
+    },
+    {
+        "package": "com.hieuit.mosquitoringtone",
+        "apk": "hearing-test_1.1.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.WRITE_SETTINGS",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.sonitum.soniccloud",
+        "apk": "soniccloud-hearing-test-for-personalizing-sound_1.27.0.apk",
+        "bluetooth_permissions": true,
+        "permission_set": [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.BLUETOOTH_ADMIN",
+            "com.android.vending.BILLING",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.REORDER_TASKS",
+            "android.permission.WAKE_LOCK",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.RECORD_AUDIO",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.DISABLE_KEYGUARD",
+            "android.permission.INTERNET",
+            "android.permission.DOWNLOAD_WITHOUT_NOTIFICATION",
+            "android.permission.CAMERA",
+            "android.permission.GET_TASKS",
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            "android.permission.VIBRATE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.BLUETOOTH",
+            "android.permission.READ_CONTACTS",
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+            "android.permission.WRITE_CONTACTS",
+            "android.permission.FOREGROUND_SERVICE"
+        ],
+        "feature_set": [],
+        "uuid_count": 4,
+        "uuids": [
+            {
+                "uuid": "9493725a-3207-4245-a716-6fc584296644",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-000000000000",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "258eafa5-e914-47da-95ca-c5ab0dc85b11",
+                "name": "RFC6455 Websocket String"
+            },
+            {
+                "uuid": "9b6d6f31-73cd-46fc-8a78-db711743d671",
+                "name": "Unknown"
+            }
+        ]
+    },
+    {
+        "package": "com.kazma.hearingplus",
+        "apk": "hearing-plus-hearing-aid-app_1.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.GET_ACCOUNTS",
+            "com.kazma.hearingplus.permission.C2D_MESSAGE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.sunappdeveloper.superhearingaid",
+        "apk": "super-hearing-aid_35.1.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.RECORD_AUDIO",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            "android.permission.INTERNET",
+            "android.permission.WRITE_EXTERNAL_STORAGE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.jabez.eartone.eartonehearingtest",
+        "apk": "eartone-hearing-test_1.6.6.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.CALL_PHONE",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "com.google.android.providers.gsf.permission.READ_GSERVICES",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.ACCESS_FINE_LOCATION"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.quadiodevices.qplus",
+        "apk": "q-hearing-aid_2.0.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.WAKE_LOCK",
+            "com.quadiodevices.qplus.permission.C2D_MESSAGE",
+            "android.permission.INTERNET",
+            "android.permission.RECORD_AUDIO",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.MODIFY_AUDIO_SETTINGS"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.mhealthstudio.hearza",
+        "apk": "hearza_3010.apk",
+        "bluetooth_permissions": true,
+        "permission_set": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.BLUETOOTH",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.ACCESS_NOTIFICATION_POLICY",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.WAKE_LOCK"
+        ],
+        "feature_set": [],
+        "uuid_count": 3,
+        "uuids": [
+            {
+                "uuid": "c70d8932-b2b9-7e67-ffed-a660be513700",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "129bd3e9-2bc6-750c-ffa3-cbb139888c00",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "258eafa5-e914-47da-95ca-c5ab0dc85b11",
+                "name": "RFC6455 Websocket String"
+            }
+        ]
+    },
+    {
+        "package": "com.phonak.tinnitus",
+        "apk": "tinnitus-balance_1.1.947.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.WAKE_LOCK",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.INTERNET",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.WRITE_EXTERNAL_STORAGE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "doven1.dsh",
+        "apk": "deaf-interpreter_7.4.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.BATTERY_STATS",
+            "android.permission.GET_TASKS",
+            "android.permission.RECORD_AUDIO",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.SET_WALLPAPER",
+            "com.android.vending.BILLING",
+            "android.permission.BIND_WALLPAPER",
+            "android.permission.WAKE_LOCK",
+            "android.permission.REBOOT",
+            "android.permission.DUMP",
+            "android.permission.INTERNET",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.KILL_BACKGROUND_PROCESSES",
+            "android.permission.WRITE_SETTINGS"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.miracleear.minimeblueconnectremote",
+        "apk": "miracle-ear_1.3.0.apk",
+        "bluetooth_permissions": true,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.BLUETOOTH",
+            "android.permission.BLUETOOTH_ADMIN",
+            "android.permission.INTERNET",
+            "android.permission.VIBRATE",
+            "android.permission.GET_TASKS"
+        ],
+        "feature_set": [],
+        "uuid_count": 1,
+        "uuids": [
+            {
+                "uuid": "00001101-0000-1000-8000-00805f9b34fb",
+                "name": "SPP Serial Port Service UUID"
+            }
+        ]
+    },
+    {
+        "package": "com.loreca.selfservicehearingtest",
+        "apk": "hearing-test_2.2.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.google.android.providers.gsf.permission.READ_GSERVICES",
+            "android.permission.RECORD_AUDIO",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "com.google.maps.android.utils.permission.MAPS_RECEIVE",
+            "com.loreca.selfservicehearingtest.permission.C2D_MESSAGE",
+            "android.permission.WRITE_EXTERNAL_STORAGE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "it.android.eardiagnostic",
+        "apk": "ear-diagnostic_1.1.6.apk",
+        "bluetooth_permissions": true,
+        "permission_set": [
+            "android.permission.VIBRATE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.INTERNET",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.BLUETOOTH",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.MODIFY_AUDIO_SETTINGS"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.miracleear.geniuslinkapp",
+        "apk": "geniuslink_2.30.0.411.apk",
+        "bluetooth_permissions": true,
+        "permission_set": [
+            "android.permission.CAMERA",
+            "android.permission.INTERNET",
+            "android.permission.BLUETOOTH",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.BLUETOOTH_ADMIN",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.GET_ACCOUNTS"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.Ear.Problems.Infection.Treatment",
+        "apk": "ear-problems-guide_2.3.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.anddoes.launcher.permission.UPDATE_COUNT",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.sec.android.provider.badge.permission.READ",
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            "com.Ear.Problems.Infection.Treatment.permission.C2D_MESSAGE",
+            "com.oppo.launcher.permission.WRITE_SETTINGS",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_APP_BADGE",
+            "android.permission.WAKE_LOCK",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.FOREGROUND_SERVICE",
+            "com.sonyericsson.home.permission.BROADCAST_BADGE",
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            "me.everything.badger.permission.BADGE_COUNT_READ",
+            "android.permission.INTERNET",
+            "com.oppo.launcher.permission.READ_SETTINGS",
+            "com.htc.launcher.permission.READ_SETTINGS",
+            "android.permission.ACCESS_WIFI_STATE",
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.sec.android.provider.badge.permission.WRITE",
+            "com.majeur.launcher.permission.UPDATE_BADGE",
+            "me.everything.badger.permission.BADGE_COUNT_WRITE",
+            "android.permission.VIBRATE"
+        ],
+        "feature_set": [
+            "android.hardware.touchscreen"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.ileisou.htsoundtherapy",
+        "apk": "h-t-sound-therapy_1.6.4.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.VIBRATE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.INTERNET",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.READ_PHONE_STATE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.calm.android",
+        "apk": "calm-meditate-sleep-relax_5.6.apk",
+        "bluetooth_permissions": true,
+        "permission_set": [
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.android.vending.BILLING",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.BLUETOOTH",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NOTIFICATION_POLICY",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "com.android.vending.CHECK_LICENSE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.VIBRATE",
+            "android.permission.WRITE_EXTERNAL_STORAGE"
+        ],
+        "feature_set": [],
+        "uuid_count": 2,
+        "uuids": [
+            {
+                "uuid": "00000000-0000-0000-0000-000000000000",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "258eafa5-e914-47da-95ca-c5ab0dc85b11",
+                "name": "RFC6455 Websocket String"
+            }
+        ]
+    },
+    {
+        "package": "com.sec.android.app.shealth",
+        "apk": "samsung-health_6.12.3.001.apk",
+        "bluetooth_permissions": true,
+        "permission_set": [
+            "com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY",
+            "com.samsung.android.rubin.app.ui.permission.LAUNCH_RUBIN_SETTING",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.samsung.android.rubin.context.permission.READ_CONTEXT_MANAGER",
+            "android.permission.GET_ACCOUNTS",
+            "android.permission.AUTHENTICATE_ACCOUNTS",
+            "android.permission.CAMERA",
+            "android.permission.WRITE_SETTINGS",
+            "android.permission.READ_SYNC_SETTINGS",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_CONTACTS",
+            "android.permission.READ_PHONE_NUMBERS",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.BLUETOOTH_ADMIN",
+            "com.sec.spp.permission.TOKEN_c6bbae539f5994fc130a6ce9ba9b5fc4f54564bd01e0b1ccb8ffcdf3bef305faae4eec16a8316c02433cb3095486314842a58858641f71a1a5e0a8cb90344f0336d54728d000ba3967db09e0103bd8418b8bc885533d3aac74432897939464afedd9866e154eb0b718cad3da47370960d91d90dc826095e20de810fa71bef02e",
+            "com.samsung.android.rubin.persona.permission.READ_PERSONA_MANAGER",
+            "com.sec.android.service.health.permission.SWEIGHTSENSOR",
+            "android.permission.WAKE_LOCK",
+            "android.permission.ACTIVITY_RECOGNITION",
+            "android.permission.WRITE_SYNC_SETTINGS",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.FOREGROUND_SERVICE",
+            "com.samsung.android.app.spage.permission.WRITE_CARD_DATA",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.BLUETOOTH",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.NFC",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.google.android.gms.permission.ACTIVITY_RECOGNITION",
+            "com.google.android.providers.gsf.permission.READ_GSERVICES",
+            "com.sec.spp.permission.PUSH_SERVICE_PROVIDER",
+            "com.samsung.android.app.withtv.ACCESS_WITH_TV",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.READ_SYNC_STATS",
+            "android.permission.VIBRATE"
+        ],
+        "feature_set": [
+            "android.hardware.bluetooth_le",
+            "android.hardware.nfc"
+        ],
+        "uuid_count": 211,
+        "uuids": [
+            {
+                "uuid": "00000000-0000-0000-0000-000000000000",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0000180a-0000-1000-8000-00805f9b34fb",
+                "name": "Device Information"
+            },
+            {
+                "uuid": "0000180d-0000-1000-8000-00805f9b34fb",
+                "name": "Heart Rate"
+            },
+            {
+                "uuid": "00001816-0000-1000-8000-00805f9b34fb",
+                "name": "Cycling Speed and Cadence"
+            },
+            {
+                "uuid": "00001814-0000-1000-8000-00805f9b34fb",
+                "name": "Running Speed and Cadence"
+            },
+            {
+                "uuid": "00001818-0000-1000-8000-00805f9b34fb",
+                "name": "Cycling Power"
+            },
+            {
+                "uuid": "0000181d-0000-1000-8000-00805f9b34fb",
+                "name": "Weight Scale"
+            },
+            {
+                "uuid": "0000181b-0000-1000-8000-00805f9b34fb",
+                "name": "Body Composition"
+            },
+            {
+                "uuid": "00001808-0000-1000-8000-00805f9b34fb",
+                "name": "Glucose"
+            },
+            {
+                "uuid": "0000181f-0000-1000-8000-00805f9b34fb",
+                "name": "Continuous Glucose Monitoring"
+            },
+            {
+                "uuid": "00001810-0000-1000-8000-00805f9b34fb",
+                "name": "Blood Pressure"
+            },
+            {
+                "uuid": "0000181a-0000-1000-8000-00805f9b34fb",
+                "name": "Environmental Sensing"
+            },
+            {
+                "uuid": "0000180f-0000-1000-8000-00805f9b34fb",
+                "name": "Battery Service"
+            },
+            {
+                "uuid": "00001800-0000-1000-8000-00805f9b34fb",
+                "name": "Generic Access"
+            },
+            {
+                "uuid": "00001801-0000-1000-8000-00805f9b34fb",
+                "name": "Generic Attribute"
+            },
+            {
+                "uuid": "0000181c-0000-1000-8000-00805f9b34fb",
+                "name": "User Data"
+            },
+            {
+                "uuid": "00001811-0000-1000-8000-00805f9b34fb",
+                "name": "Alert Notification Service"
+            },
+            {
+                "uuid": "0000181e-0000-1000-8000-00805f9b34fb",
+                "name": "Bond Management Service"
+            },
+            {
+                "uuid": "00001805-0000-1000-8000-00805f9b34fb",
+                "name": "Current Time Service"
+            },
+            {
+                "uuid": "00001812-0000-1000-8000-00805f9b34fb",
+                "name": "Human Interface Device"
+            },
+            {
+                "uuid": "00001821-0000-1000-8000-00805f9b34fb",
+                "name": "Indoor Positioning"
+            },
+            {
+                "uuid": "00001802-0000-1000-8000-00805f9b34fb",
+                "name": "Immediate Alert"
+            },
+            {
+                "uuid": "00001819-0000-1000-8000-00805f9b34fb",
+                "name": "Location and Navigation"
+            },
+            {
+                "uuid": "00001807-0000-1000-8000-00805f9b34fb",
+                "name": "Next DST Change Service"
+            },
+            {
+                "uuid": "0000180e-0000-1000-8000-00805f9b34fb",
+                "name": "Phone Alert Status Service"
+            },
+            {
+                "uuid": "00001806-0000-1000-8000-00805f9b34fb",
+                "name": "Reference Time Update Service"
+            },
+            {
+                "uuid": "00001813-0000-1000-8000-00805f9b34fb",
+                "name": "Scan Parameters"
+            },
+            {
+                "uuid": "00001804-0000-1000-8000-00805f9b34fb",
+                "name": "Tx Power"
+            },
+            {
+                "uuid": "00001803-0000-1000-8000-00805f9b34fb",
+                "name": "Link Loss"
+            },
+            {
+                "uuid": "00001820-0000-1000-8000-00805f9b34fb",
+                "name": "Internet Protocol Support Service"
+            },
+            {
+                "uuid": "00001809-0000-1000-8000-00805f9b34fb",
+                "name": "Health Thermometer"
+            },
+            {
+                "uuid": "00001815-0000-1000-8000-00805f9b34fb",
+                "name": "Automation IO"
+            },
+            {
+                "uuid": "00001823-0000-1000-8000-00805f9b34fb",
+                "name": "HTTP Proxy"
+            },
+            {
+                "uuid": "00000100-ebae-4526-9511-8357c35d7be2",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000200-ebae-4526-9511-8357c35d7be2",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000300-ebae-4526-9511-8357c35d7be2",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000400-ebae-4526-9511-8357c35d7be2",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0000fe00-ebae-4526-9511-8357c35d7be2",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00002a29-0000-1000-8000-00805f9b34fb",
+                "name": "Manufacturer Name String"
+            },
+            {
+                "uuid": "00002a24-0000-1000-8000-00805f9b34fb",
+                "name": "Model Number String"
+            },
+            {
+                "uuid": "00002a25-0000-1000-8000-00805f9b34fb",
+                "name": "Serial Number String"
+            },
+            {
+                "uuid": "00002a27-0000-1000-8000-00805f9b34fb",
+                "name": "Hardware Revision String"
+            },
+            {
+                "uuid": "00002a26-0000-1000-8000-00805f9b34fb",
+                "name": "Firmware Revision String"
+            },
+            {
+                "uuid": "00002a28-0000-1000-8000-00805f9b34fb",
+                "name": "Software Revision String"
+            },
+            {
+                "uuid": "00002a23-0000-1000-8000-00805f9b34fb",
+                "name": "System ID"
+            },
+            {
+                "uuid": "00002a2a-0000-1000-8000-00805f9b34fb",
+                "name": "IEEE 11073-20601 Regulatory Certification Data List"
+            },
+            {
+                "uuid": "00002a50-0000-1000-8000-00805f9b34fb",
+                "name": "PnP ID"
+            },
+            {
+                "uuid": "00002a08-0000-1000-8000-00805f9b34fb",
+                "name": "Date Time"
+            },
+            {
+                "uuid": "00002a2b-0000-1000-8000-00805f9b34fb",
+                "name": "Current Time"
+            },
+            {
+                "uuid": "00002a0c-0000-1000-8000-00805f9b34fb",
+                "name": "Exact Time 256"
+            },
+            {
+                "uuid": "00002a0a-0000-1000-8000-00805f9b34fb",
+                "name": "Day Date Time"
+            },
+            {
+                "uuid": "00002a37-0000-1000-8000-00805f9b34fb",
+                "name": "Heart Rate Measurement"
+            },
+            {
+                "uuid": "00002a38-0000-1000-8000-00805f9b34fb",
+                "name": "Body Sensor Location"
+            },
+            {
+                "uuid": "00002a39-0000-1000-8000-00805f9b34fb",
+                "name": "Heart Rate Control Point"
+            },
+            {
+                "uuid": "00000101-ebae-4526-9511-8357c35d7be2",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000102-ebae-4526-9511-8357c35d7be2",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000103-ebae-4526-9511-8357c35d7be2",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00002a5b-0000-1000-8000-00805f9b34fb",
+                "name": "CSC Measurement"
+            },
+            {
+                "uuid": "00002a5c-0000-1000-8000-00805f9b34fb",
+                "name": "CSC Feature"
+            },
+            {
+                "uuid": "00002a5d-0000-1000-8000-00805f9b34fb",
+                "name": "Sensor Location"
+            },
+            {
+                "uuid": "00002a55-0000-1000-8000-00805f9b34fb",
+                "name": "SC Control Point"
+            },
+            {
+                "uuid": "00002a53-0000-1000-8000-00805f9b34fb",
+                "name": "RSC Measurement"
+            },
+            {
+                "uuid": "00002a54-0000-1000-8000-00805f9b34fb",
+                "name": "RSC Feature"
+            },
+            {
+                "uuid": "00002a9d-0000-1000-8000-00805f9b34fb",
+                "name": "Weight Measurement"
+            },
+            {
+                "uuid": "00002a9e-0000-1000-8000-00805f9b34fb",
+                "name": "Weight Scale Feature"
+            },
+            {
+                "uuid": "00002a9c-0000-1000-8000-00805f9b34fb",
+                "name": "Body Composition Measurement"
+            },
+            {
+                "uuid": "00002a9b-0000-1000-8000-00805f9b34fb",
+                "name": "Body Composition Feature"
+            },
+            {
+                "uuid": "00002a18-0000-1000-8000-00805f9b34fb",
+                "name": "Glucose Measurement"
+            },
+            {
+                "uuid": "00002a34-0000-1000-8000-00805f9b34fb",
+                "name": "Glucose Measurement Context"
+            },
+            {
+                "uuid": "00002a51-0000-1000-8000-00805f9b34fb",
+                "name": "Glucose Feature"
+            },
+            {
+                "uuid": "00002a52-0000-1000-8000-00805f9b34fb",
+                "name": "Record Access Control Point"
+            },
+            {
+                "uuid": "00002aa7-0000-1000-8000-00805f9b34fb",
+                "name": "CGM Measurement"
+            },
+            {
+                "uuid": "00002aa8-0000-1000-8000-00805f9b34fb",
+                "name": "CGM Feature"
+            },
+            {
+                "uuid": "00002aa9-0000-1000-8000-00805f9b34fb",
+                "name": "CGM Status"
+            },
+            {
+                "uuid": "00002aaa-0000-1000-8000-00805f9b34fb",
+                "name": "CGM Session Start Time"
+            },
+            {
+                "uuid": "00002aab-0000-1000-8000-00805f9b34fb",
+                "name": "CGM Session Run Time"
+            },
+            {
+                "uuid": "00002aac-0000-1000-8000-00805f9b34fb",
+                "name": "CGM Specific Ops Control Point"
+            },
+            {
+                "uuid": "00002a35-0000-1000-8000-00805f9b34fb",
+                "name": "Blood Pressure Measurement"
+            },
+            {
+                "uuid": "00002a36-0000-1000-8000-00805f9b34fb",
+                "name": "Intermediate Cuff Pressure"
+            },
+            {
+                "uuid": "00002a49-0000-1000-8000-00805f9b34fb",
+                "name": "Blood Pressure Feature"
+            },
+            {
+                "uuid": "00002a63-0000-1000-8000-00805f9b34fb",
+                "name": "Cycling Power Measurement"
+            },
+            {
+                "uuid": "00002a65-0000-1000-8000-00805f9b34fb",
+                "name": "Cycling Power Feature"
+            },
+            {
+                "uuid": "00002a64-0000-1000-8000-00805f9b34fb",
+                "name": "Cycling Power Vector"
+            },
+            {
+                "uuid": "00002a66-0000-1000-8000-00805f9b34fb",
+                "name": "Cycling Power Control Point"
+            },
+            {
+                "uuid": "00002a6f-0000-1000-8000-00805f9b34fb",
+                "name": "Humidity"
+            },
+            {
+                "uuid": "00002a75-0000-1000-8000-00805f9b34fb",
+                "name": "Pollen Concentration"
+            },
+            {
+                "uuid": "00002a6e-0000-1000-8000-00805f9b34fb",
+                "name": "Temperature"
+            },
+            {
+                "uuid": "00002a76-0000-1000-8000-00805f9b34fb",
+                "name": "UV Index"
+            },
+            {
+                "uuid": "00002a7a-0000-1000-8000-00805f9b34fb",
+                "name": "Heat Index"
+            },
+            {
+                "uuid": "00002a7d-0000-1000-8000-00805f9b34fb",
+                "name": "Descriptor Value Changed"
+            },
+            {
+                "uuid": "00002a19-0000-1000-8000-00805f9b34fb",
+                "name": "Battery Level"
+            },
+            {
+                "uuid": "00002a00-0000-1000-8000-00805f9b34fb",
+                "name": "Device Name"
+            },
+            {
+                "uuid": "00002a01-0000-1000-8000-00805f9b34fb",
+                "name": "Appearance"
+            },
+            {
+                "uuid": "00002a02-0000-1000-8000-00805f9b34fb",
+                "name": "Peripheral Privacy Flag"
+            },
+            {
+                "uuid": "00002a03-0000-1000-8000-00805f9b34fb",
+                "name": "Reconnection Address"
+            },
+            {
+                "uuid": "00002a04-0000-1000-8000-00805f9b34fb",
+                "name": "Peripheral Preferred Connection Parameters"
+            },
+            {
+                "uuid": "00002a05-0000-1000-8000-00805f9b34fb",
+                "name": "Service Changed"
+            },
+            {
+                "uuid": "00002a8a-0000-1000-8000-00805f9b34fb",
+                "name": "First Name"
+            },
+            {
+                "uuid": "00002a90-0000-1000-8000-00805f9b34fb",
+                "name": "Last Name"
+            },
+            {
+                "uuid": "00002a87-0000-1000-8000-00805f9b34fb",
+                "name": "Email Address"
+            },
+            {
+                "uuid": "00002a80-0000-1000-8000-00805f9b34fb",
+                "name": "Age"
+            },
+            {
+                "uuid": "00002a85-0000-1000-8000-00805f9b34fb",
+                "name": "Date of Birth"
+            },
+            {
+                "uuid": "00002a8c-0000-1000-8000-00805f9b34fb",
+                "name": "Gender"
+            },
+            {
+                "uuid": "00002a98-0000-1000-8000-00805f9b34fb",
+                "name": "Weight"
+            },
+            {
+                "uuid": "00002a8e-0000-1000-8000-00805f9b34fb",
+                "name": "Height"
+            },
+            {
+                "uuid": "00002a96-0000-1000-8000-00805f9b34fb",
+                "name": "VO2 Max"
+            },
+            {
+                "uuid": "00002a8d-0000-1000-8000-00805f9b34fb",
+                "name": "Heart Rate Max"
+            },
+            {
+                "uuid": "00002a92-0000-1000-8000-00805f9b34fb",
+                "name": "Resting Heart Rate"
+            },
+            {
+                "uuid": "00002a91-0000-1000-8000-00805f9b34fb",
+                "name": "Maximum Recommended Heart Rate"
+            },
+            {
+                "uuid": "00002a7f-0000-1000-8000-00805f9b34fb",
+                "name": "Aerobic Threshold"
+            },
+            {
+                "uuid": "00002a83-0000-1000-8000-00805f9b34fb",
+                "name": "Anaerobic Threshold"
+            },
+            {
+                "uuid": "00002a93-0000-1000-8000-00805f9b34fb",
+                "name": "Sport Type for Aerobic and Anaerobic Thresholds"
+            },
+            {
+                "uuid": "00002a97-0000-1000-8000-00805f9b34fb",
+                "name": "Waist Circumference"
+            },
+            {
+                "uuid": "00002a8f-0000-1000-8000-00805f9b34fb",
+                "name": "Hip Circumference"
+            },
+            {
+                "uuid": "00002a88-0000-1000-8000-00805f9b34fb",
+                "name": "Fat Burn Heart Rate Lower Limit"
+            },
+            {
+                "uuid": "00002a89-0000-1000-8000-00805f9b34fb",
+                "name": "Fat Burn Heart Rate Upper Limit"
+            },
+            {
+                "uuid": "00002a86-0000-1000-8000-00805f9b34fb",
+                "name": "Date of Threshold Assessment"
+            },
+            {
+                "uuid": "00002a7e-0000-1000-8000-00805f9b34fb",
+                "name": "Aerobic Heart Rate Lower Limit"
+            },
+            {
+                "uuid": "00002a84-0000-1000-8000-00805f9b34fb",
+                "name": "Aerobic Heart Rate Upper Limit"
+            },
+            {
+                "uuid": "00002a81-0000-1000-8000-00805f9b34fb",
+                "name": "Anaerobic Heart Rate Lower Limit"
+            },
+            {
+                "uuid": "00002a82-0000-1000-8000-00805f9b34fb",
+                "name": "Anaerobic Heart Rate Upper Limit"
+            },
+            {
+                "uuid": "00002a8b-0000-1000-8000-00805f9b34fb",
+                "name": "Five Zone Heart Rate Limits"
+            },
+            {
+                "uuid": "00002a94-0000-1000-8000-00805f9b34fb",
+                "name": "Three Zone Heart Rate Limits"
+            },
+            {
+                "uuid": "00002a95-0000-1000-8000-00805f9b34fb",
+                "name": "Two Zone Heart Rate Limit"
+            },
+            {
+                "uuid": "00002a99-0000-1000-8000-00805f9b34fb",
+                "name": "Database Change Increment"
+            },
+            {
+                "uuid": "00002a9a-0000-1000-8000-00805f9b34fb",
+                "name": "User Index"
+            },
+            {
+                "uuid": "00002a9f-0000-1000-8000-00805f9b34fb",
+                "name": "User Control Point"
+            },
+            {
+                "uuid": "00002aa2-0000-1000-8000-00805f9b34fb",
+                "name": "Language"
+            },
+            {
+                "uuid": "00002a1c-0000-1000-8000-00805f9b34fb",
+                "name": "Temperature Measurement"
+            },
+            {
+                "uuid": "00002a1d-0000-1000-8000-00805f9b34fb",
+                "name": "Temperature Type"
+            },
+            {
+                "uuid": "00002a1e-0000-1000-8000-00805f9b34fb",
+                "name": "Intermediate Temperature"
+            },
+            {
+                "uuid": "00002a21-0000-1000-8000-00805f9b34fb",
+                "name": "Measurement Interval"
+            },
+            {
+                "uuid": "00002a3f-0000-1000-8000-00805f9b34fb",
+                "name": "Alert Status"
+            },
+            {
+                "uuid": "00002a46-0000-1000-8000-00805f9b34fb",
+                "name": "New Alert"
+            },
+            {
+                "uuid": "00002a14-0000-1000-8000-00805f9b34fb",
+                "name": "Reference Time Information"
+            },
+            {
+                "uuid": "00002a56-0000-1000-8000-00805f9b34fb",
+                "name": "Digital"
+            },
+            {
+                "uuid": "00002902-0000-1000-8000-00805f9b34fb",
+                "name": "Client Characteristic Configuration"
+            },
+            {
+                "uuid": "0000fff0-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00001310-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0000d618-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00005801-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0000ffe5-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0000ffe0-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "ecbe3980-c9a2-11e1-b1bd-0002a5d5c51b",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-1000-1000-000000000000",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "53544d54-4552-494f-5345-525631303030",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "6e400001-b5a3-f393-e0a9-e50e24dcca9e",
+                "name": "Nordic Service UUID"
+            },
+            {
+                "uuid": "0000fff1-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00002a2f-0000-3512-2118-0009af100700",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0000ffe9-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0000ffe4-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "53544f55-4152-5449-4e20-205630303031",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "6e400002-b5a3-f393-e0a9-e50e24dcca9e",
+                "name": "Nordic RX Characteristic"
+            },
+            {
+                "uuid": "6e400003-b5a3-f393-e0a9-e50e24dcca9e",
+                "name": "Nordic TX Characteristic"
+            },
+            {
+                "uuid": "0000fe01-ebae-4526-9511-8357c35d7be2",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0000fe02-ebae-4526-9511-8357c35d7be2",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0000fe95-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00002a0f-0000-1000-8000-00805f9b34fb",
+                "name": "Local Time Information"
+            },
+            {
+                "uuid": "00000401-ebae-4526-9511-8357c35d7be2",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000407-ebae-4526-9511-8357c35d7be2",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000402-ebae-4526-9511-8357c35d7be2",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000403-ebae-4526-9511-8357c35d7be2",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000404-ebae-4526-9511-8357c35d7be2",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000405-ebae-4526-9511-8357c35d7be2",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000406-ebae-4526-9511-8357c35d7be2",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000301-ebae-4526-9511-8357c35d7be2",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000302-ebae-4526-9511-8357c35d7be2",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000303-ebae-4526-9511-8357c35d7be2",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000304-ebae-4526-9511-8357c35d7be2",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000201-ebae-4526-9511-8357c35d7be2",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000202-ebae-4526-9511-8357c35d7be2",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000203-ebae-4526-9511-8357c35d7be2",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "7aa99a1d-c128-4218-af51-3ed5fccbb631",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "768694f0-94fe-4cd4-b354-ee44a727998b",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "a5aba82a-6933-4685-8843-b1c94dff816b",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-000000000001",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-000000000002",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-000000000003",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-000000000004",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-000000000005",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-000000000006",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-000000000007",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-000000000008",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-000000000009",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-00000000000a",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-00000000000b",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-00000000000c",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-00000000000d",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-00000000000e",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-00000000000f",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-000000000010",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-000000000011",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-000000000012",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-000000000013",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-000000000014",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-000000000015",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-000000000016",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-000000000017",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-000000000018",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-000000000019",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-00000000001a",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-00000000001b",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-00000000001c",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-00000000001d",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-00000000001e",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-00000000001f",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-000000000020",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "a49eb41e-cb06-495c-9f4f-aa80a90cdf4a",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "fc1cff01-71f1-887f-c5fa-a19b3dca3230",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "fc1cff08-71f1-887f-c5fa-a19b3dca3230",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "fc1cff07-71f1-887f-c5fa-a19b3dca3230",
+                "name": "Unknown"
+            }
+        ]
+    },
+    {
+        "package": "com.medisafe.android.client",
+        "apk": "pill-reminder-medication-tracker-medisafe_8.92.09877.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.READ_CALENDAR",
+            "com.medisafe.android.debugapp.RECEIVE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.WRITE_INTERNAL_STORAGE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.WAKE_LOCK",
+            "android.permission.VIBRATE",
+            "android.permission.ACCESS_BACKGROUND_LOCATION",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.android.vending.BILLING",
+            "android.permission.SYSTEM_ALERT_WINDOW",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.READ_CONTACTS",
+            "android.permission.WRITE_CALENDAR",
+            "android.permission.GET_ACCOUNTS",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.FOREGROUND_SERVICE"
+        ],
+        "feature_set": [
+            "android.hardware.screen.portrait",
+            "android.hardware.touchscreen"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "bot.touchkin",
+        "apk": "wysa-stress-depression-anxiety-therapy-chatbot_2.2.8.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.INTERNET",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.RECORD_AUDIO",
+            "com.android.vending.BILLING",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.WAKE_LOCK"
+        ],
+        "feature_set": [
+            "android.hardware.wifi",
+            "android.hardware.screen.portrait",
+            "android.hardware.telephony"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    }
+]
