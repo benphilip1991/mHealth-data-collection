@@ -1,0 +1,800 @@
+[
+    {
+        "package": "com.albertosanchezmac.ortotrauma",
+        "apk": "ortotrauma_1.7.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.USE_FINGERPRINT",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+        ],
+        "feature_set": [
+            "android.hardware.screen.portrait",
+            "android.hardware.screen.landscape"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "stretching.stretch.exercises.back",
+        "apk": "stretching-exercises-at-home-flexibility-training_1.1.5.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.USE_CREDENTIALS",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.android.vending.BILLING",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.VIBRATE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "nl.veiligheid.versterkjeenkel",
+        "apk": "versterk-je-enkel_2.5.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.READ_CALENDAR",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.WRITE_CALENDAR",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "android.permission.WRITE_EXTERNAL_STORAGE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.soccerFitYou.App",
+        "apk": "b42-soccer-training-app_2.31.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.android.vending.BILLING",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.WAKE_LOCK",
+            "com.google.android.c2dm.permission.RECEIVE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "cura.com.cura",
+        "apk": "acl-knee-replacement-hip-surgery-by-curovate_1.0.9.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.INTERNET",
+            "com.sec.android.provider.badge.permission.WRITE",
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            "com.oppo.launcher.permission.WRITE_SETTINGS",
+            "android.permission.VIBRATE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.anddoes.launcher.permission.UPDATE_COUNT",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.oppo.launcher.permission.READ_SETTINGS",
+            "android.permission.WAKE_LOCK",
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            "android.permission.READ_APP_BADGE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "me.everything.badger.permission.BADGE_COUNT_WRITE",
+            "com.htc.launcher.permission.READ_SETTINGS",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.USE_FINGERPRINT",
+            "com.majeur.launcher.permission.UPDATE_BADGE",
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            "android.permission.USE_BIOMETRIC",
+            "me.everything.badger.permission.BADGE_COUNT_READ",
+            "com.android.vending.BILLING",
+            "com.sec.android.provider.badge.permission.READ",
+            "com.sonyericsson.home.permission.BROADCAST_BADGE",
+            "com.google.android.c2dm.permission.RECEIVE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.albertosanchez.lca",
+        "apk": "lca_1.4.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.WAKE_LOCK",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.USE_FINGERPRINT",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.INTERNET",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+        ],
+        "feature_set": [
+            "android.hardware.screen.portrait",
+            "android.hardware.screen.landscape"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.Healthtipsbd.physioclinicfm",
+        "apk": "physiotherapy-clinic_2.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.WAKE_LOCK"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.healthyroster.virtualathletictrainer",
+        "apk": "healthy-roster_4.31.apk",
+        "bluetooth_permissions": true,
+        "permission_set": [
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            "android.permission.CAMERA",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.USE_FINGERPRINT",
+            "com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY",
+            "android.permission.RECORD_AUDIO",
+            "com.healthyroster.virtualathletictrainer.permission.C2D_MESSAGE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.BLUETOOTH",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.CALL_PHONE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.BROADCAST_STICKY",
+            "android.permission.INTERNET",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.VIBRATE",
+            "android.permission.ACCESS_FINE_LOCATION"
+        ],
+        "feature_set": [
+            "android.hardware.location.gps",
+            "android.hardware.location.network",
+            "android.hardware.telephony",
+            "android.hardware.camera",
+            "android.hardware.camera.autofocus",
+            "android.hardware.camera.front",
+            "android.hardware.microphone"
+        ],
+        "uuid_count": 4,
+        "uuids": [
+            {
+                "uuid": "00000000-0000-0000-0000-000000000000",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "258eafa5-e914-47da-95ca-c5ab0dc85b11",
+                "name": "RFC6455 Websocket String"
+            },
+            {
+                "uuid": "bb392ec0-8d4d-11e0-a896-0002a5d5c51b",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "c06c8400-8e06-11e0-9cb6-0002a5d5c51b",
+                "name": "Unknown"
+            }
+        ]
+    },
+    {
+        "package": "com.salaso.salaso",
+        "apk": "salaso-injury-rehab_2.0.3.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.WRITE_EXTERNAL_STORAGE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "melstudio.mback",
+        "apk": "healthy-spine-straight-posture-back-exercises_3.3.5.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.VIBRATE",
+            "com.android.alarm.permission.SET_ALARM",
+            "android.permission.INTERNET",
+            "com.google.android.gms.permission.ACTIVITY_RECOGNITION",
+            "com.android.vending.BILLING",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACTIVITY_RECOGNITION",
+            "android.permission.WAKE_LOCK"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.worldgymfitness.stretchingexercisesflexibilitytraining",
+        "apk": "stretching-exercises-flexibility-by-gym-fitness_1.0.4.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.INTERNET",
+            "android.permission.VIBRATE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.fitivity.rehab_ankle",
+        "apk": "ankle-sprain-physical-therapy-rehab_8.0.2.apk",
+        "bluetooth_permissions": true,
+        "permission_set": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.BLUETOOTH",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.android.vending.BILLING",
+            "com.google.android.c2dm.permission.RECEIVE"
+        ],
+        "feature_set": [],
+        "uuid_count": 1,
+        "uuids": [
+            {
+                "uuid": "258eafa5-e914-47da-95ca-c5ab0dc85b11",
+                "name": "RFC6455 Websocket String"
+            }
+        ]
+    },
+    {
+        "package": "com.andromo.dev601172.app865126",
+        "apk": "physiotherapy_1.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE"
+        ],
+        "feature_set": [
+            "android.hardware.touchscreen"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.mun.aspc",
+        "apk": "aspc-manipulation-therapy_1.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.everythingforpeople.twinefor30days",
+        "apk": "how-to-do-the-split-in-30-days-best-stretching_2.6f4.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.android.vending.BILLING",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "android.permission.VIBRATE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "melstudio.mstretch",
+        "apk": "stretching-exercise-flexibility-training-for-body_3.2.5.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.android.vending.BILLING",
+            "android.permission.INTERNET",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.VIBRATE",
+            "com.android.alarm.permission.SET_ALARM",
+            "android.permission.WRITE_EXTERNAL_STORAGE"
+        ],
+        "feature_set": [
+            "android.hardware.location",
+            "android.hardware.location.network",
+            "android.hardware.screen.landscape",
+            "android.hardware.wifi"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "losebellyfat.flatstomach.absworkout.fatburning",
+        "apk": "lose-belly-fat-at-home-lose-weight-flat-stomach_1.3.2.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.USE_CREDENTIALS",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.GET_ACCOUNTS",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.VIBRATE",
+            "android.permission.FOREGROUND_SERVICE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "menloseweight.loseweightappformen.weightlossformen",
+        "apk": "lose-weight-app-for-men-weight-loss-in-30-days_1.0.31.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.WAKE_LOCK",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.android.vending.BILLING",
+            "android.permission.RECEIVE_USER_PRESENT",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.INTERNET",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.USE_CREDENTIALS",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.VIBRATE",
+            "android.permission.WRITE_EXTERNAL_STORAGE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "absworkout.abchallenge.waistworkout.fatburningworkout",
+        "apk": "abs-workout-30-day-ab-challenge_1.0.4.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.INTERNET",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.USE_CREDENTIALS",
+            "android.permission.WAKE_LOCK",
+            "com.android.vending.BILLING",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.VIBRATE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.WRITE_EXTERNAL_STORAGE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "ch.zem.ready",
+        "apk": "ready-\u2013-fit-for-teamarmee_1.3.1.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.android.vending.CHECK_LICENSE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.QUICKBOOT_POWERON",
+            "android.permission.WAKE_LOCK",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "com.google.android.providers.gsf.permission.READ_GSERVICES",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "ch.zem.ready.permission.MAPS_RECEIVE",
+            "android.permission.CAMERA",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.WRITE_EXTERNAL_STORAGE"
+        ],
+        "feature_set": [
+            "android.hardware.camera",
+            "android.hardware.camera.autofocus",
+            "android.hardware.camera.front",
+            "android.hardware.microphone"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.weBananas.weStretch",
+        "apk": "westretch-the-stretching-app_3.0.1.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.READ_PHONE_STATE",
+            "com.weBananas.weStretch.permission.C2D_MESSAGE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.android.vending.BILLING",
+            "android.permission.READ_CONTACTS",
+            "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+            "android.permission.INTERNET",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.READ_PHONE_NUMBERS",
+            "android.permission.ACCESS_WIFI_STATE"
+        ],
+        "feature_set": [
+            "android.hardware.touchscreen",
+            "android.hardware.touchscreen.multitouch",
+            "android.hardware.touchscreen.multitouch.distinct",
+            "android.software.vr.mode",
+            "android.software.vr.high_performance"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.fusionetics.mobiletracker",
+        "apk": "fusionetics_1.1.9.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "de.fit4handball",
+        "apk": "fit4handball_2.0.2.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.INTERNET",
+            "android.permission.CAMERA",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.FLASHLIGHT",
+            "android.permission.WRITE_EXTERNAL_STORAGE"
+        ],
+        "feature_set": [
+            "android.hardware.camera"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.phast.Phast",
+        "apk": "phast_1.18.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.majeur.launcher.permission.UPDATE_BADGE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            "com.amazon.device.messaging.permission.RECEIVE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.anddoes.launcher.permission.UPDATE_COUNT",
+            "com.phast.Phast.permission.RECEIVE_ADM_MESSAGE",
+            "com.phast.Phast.permission.C2D_MESSAGE",
+            "me.everything.badger.permission.BADGE_COUNT_WRITE",
+            "com.oppo.launcher.permission.WRITE_SETTINGS",
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            "com.android.vending.BILLING",
+            "com.sec.android.provider.badge.permission.READ",
+            "me.everything.badger.permission.BADGE_COUNT_READ",
+            "com.sec.android.provider.badge.permission.WRITE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            "android.permission.INTERNET",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.VIBRATE",
+            "com.oppo.launcher.permission.READ_SETTINGS",
+            "android.permission.READ_APP_BADGE",
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+            "com.sonyericsson.home.permission.BROADCAST_BADGE",
+            "android.permission.WAKE_LOCK",
+            "com.htc.launcher.permission.READ_SETTINGS"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "splits.training.challenge.flexibility",
+        "apk": "do-the-splits-in-30-days-flexibility-training_1.9.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_PHONE_STATE",
+            "com.android.vending.BILLING",
+            "android.permission.INTERNET",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.VIBRATE",
+            "android.permission.MODIFY_AUDIO_SETTINGS"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "cc.pacer.androidapp",
+        "apk": "pacer-pedometer-walking-running-step-challenges_p7.10.1.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.ACTIVITY_RECOGNITION",
+            "android.permission.SYSTEM_ALERT_WINDOW",
+            "android.permission.DISABLE_KEYGUARD",
+            "com.google.android.providers.gsf.permission.READ_GSERVICES",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.android.vending.BILLING",
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.INTERNET",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.google.android.gms.permission.ACTIVITY_RECOGNITION",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_CONTACTS",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.CAMERA",
+            "android.permission.WAKE_LOCK",
+            "android.permission.FOREGROUND_SERVICE"
+        ],
+        "feature_set": [
+            "android.hardware.sensor.stepcounter"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "je.fit",
+        "apk": "jefit-workout-tracker-weight-lifting-gym-log-app_10.69.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.WAKE_LOCK",
+            "android.permission.CAMERA",
+            "android.permission.VIBRATE",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_CONTACTS",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.GET_ACCOUNTS",
+            "android.permission.MODIFY_AUDIO",
+            "android.permission.ACCESS_WIFI_STATE",
+            "com.android.vending.BILLING",
+            "android.permission.FOREGROUND_SERVICE"
+        ],
+        "feature_set": [
+            "android.hardware.camera",
+            "android.hardware.camera.front",
+            "android.hardware.camera.autofocus",
+            "android.hardware.camera.flash",
+            "android.hardware.screen.landscape",
+            "android.hardware.wifi"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.freeletics.lite",
+        "apk": "freeletics-training-coach-\u2013-bodyweight-mindset_6.41.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.android.vending.CHECK_LICENSE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "com.google.android.providers.gsf.permission.READ_GSERVICES",
+            "com.freeletics.permission.LOGIN_PROVIDER",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.INTERNET",
+            "com.android.vending.BILLING",
+            "android.permission.REORDER_TASKS",
+            "android.permission.VIBRATE",
+            "android.permission.FOREGROUND_SERVICE"
+        ],
+        "feature_set": [
+            "android.hardware.location.gps",
+            "android.hardware.location.network"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.insplisity.ultimateabandcoreworkouts",
+        "apk": "ultimate-ab-core-workouts_1.30.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.WAKE_LOCK",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.android.alarm.permission.SET_ALARM"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.caynax.a6w",
+        "apk": "abs-workout-a6w-flat-belly-at-home_9.22.1.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.WAKE_LOCK",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.INTERNET",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.android.vending.BILLING",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.RECEIVE_BOOT_COMPLETED"
+        ],
+        "feature_set": [
+            "android.hardware.touchscreen",
+            "android.hardware.faketouch",
+            "android.hardware.screen.portrait",
+            "android.hardware.screen.landscape",
+            "android.hardware.camera"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.abentapps.navysealexercises",
+        "apk": "navy-seal-exercises-stew-smith_2.0.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.android.vending.BILLING",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.WRITE_EXTERNAL_STORAGE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.fitivity.low_back_hip_pain",
+        "apk": "lower-back-and-hip-pain-exercise_8.1.0.apk",
+        "bluetooth_permissions": true,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.android.vending.BILLING",
+            "android.permission.INTERNET",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.BLUETOOTH"
+        ],
+        "feature_set": [],
+        "uuid_count": 1,
+        "uuids": [
+            {
+                "uuid": "258eafa5-e914-47da-95ca-c5ab0dc85b11",
+                "name": "RFC6455 Websocket String"
+            }
+        ]
+    },
+    {
+        "package": "com.themovementathlete",
+        "apk": "movement-athlete_1.30.10.2.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.WAKE_LOCK",
+            "com.themovementathlete.permission.C2D_MESSAGE",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.android.vending.BILLING",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.CAMERA",
+            "android.permission.READ_PHONE_STATE"
+        ],
+        "feature_set": [
+            "android.hardware.camera",
+            "android.hardware.camera.autofocus"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.ravensolutions.noffs2",
+        "apk": "noffs-strength_1.0.57.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.stefanroobol.splitschallenge",
+        "apk": "30-day-splits-challenge_1.1.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.INTERNET",
+            "android.permission.VIBRATE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.android.vending.BILLING",
+            "android.permission.MODIFY_AUDIO_SETTINGS"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.ravensolutions.noffs",
+        "apk": "noffs-operational_1.0.191003.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.READ_INTERNAL_STORAGE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.WRITE_INTERNAL_STORAGE",
+            "android.permission.INTERNET"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    }
+]

@@ -1,0 +1,1128 @@
+[
+    {
+        "package": "com.genialabs.medicaible",
+        "apk": "dermia-analyze-skin-cancer-with-your-camera-a-i_2.2.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.WAKE_LOCK",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.VIBRATE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.miiskin.android",
+        "apk": "miiskin-skin-cancer-track-and-check-moles_1.61.2.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.CAMERA",
+            "android.permission.READ_PHONE_STATE",
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.sec.android.provider.badge.permission.WRITE",
+            "com.sonyericsson.home.permission.BROADCAST_BADGE",
+            "android.permission.WRITE_CALENDAR",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.majeur.launcher.permission.UPDATE_BADGE",
+            "me.everything.badger.permission.BADGE_COUNT_WRITE",
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            "android.permission.READ_APP_BADGE",
+            "android.permission.INTERNET",
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            "com.android.vending.BILLING",
+            "com.oppo.launcher.permission.WRITE_SETTINGS",
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            "android.permission.READ_CALENDAR",
+            "me.everything.badger.permission.BADGE_COUNT_READ",
+            "com.anddoes.launcher.permission.UPDATE_COUNT",
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+            "android.permission.GET_ACCOUNTS",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.oppo.launcher.permission.READ_SETTINGS",
+            "com.sec.android.provider.badge.permission.READ",
+            "com.htc.launcher.permission.READ_SETTINGS",
+            "android.permission.RECEIVE_BOOT_COMPLETED"
+        ],
+        "feature_set": [
+            "android.hardware.camera",
+            "android.hardware.camera.flash",
+            "android.hardware.camera.autofocus"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.jd.dermoscanner",
+        "apk": "dermoscanner_1.10.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.google.android.providers.gsf.permission.READ_GSERVICES",
+            "com.sec.android.provider.badge.permission.READ",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.WRITE_SETTINGS",
+            "com.htc.launcher.permission.READ_SETTINGS",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.anddoes.launcher.permission.UPDATE_COUNT",
+            "android.permission.VIBRATE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.USE_FINGERPRINT",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            "android.permission.RECORD_AUDIO",
+            "android.permission.INTERNET",
+            "com.jd.dermoscanner.permission.C2D_MESSAGE",
+            "android.permission.READ_PHONE_STATE",
+            "com.sonyericsson.home.permission.BROADCAST_BADGE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            "android.permission.WAKE_LOCK",
+            "android.permission.READ_CONTACTS",
+            "android.permission.MANAGE_DOCUMENTS",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.FOREGROUND_SERVICE",
+            "com.android.launcher.permission.INSTALL_SHORTCUT",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.READ_CALENDAR",
+            "android.permission.SYSTEM_ALERT_WINDOW",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.CAMERA",
+            "android.permission.READ_INTERNAL_STORAGE",
+            "android.permission.WRITE_CALENDAR",
+            "com.majeur.launcher.permission.UPDATE_BADGE",
+            "com.google.android.gms.permission.ACTIVITY_RECOGNITION",
+            "com.sec.android.provider.badge.permission.WRITE",
+            "host.exp.exponent.permission.C2D_MESSAGE"
+        ],
+        "feature_set": [
+            "android.software.leanback",
+            "android.hardware.touchscreen",
+            "android.hardware.camera",
+            "android.hardware.camera.autofocus",
+            "android.hardware.location",
+            "android.hardware.location.gps",
+            "android.hardware.location.network",
+            "android.hardware.wifi",
+            "android.hardware.microphone",
+            "android.hardware.telephony",
+            "android.hardware.bluetooth"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "co.medgic.medgic",
+        "apk": "medgic-scan-analyze-and-detect-skin-problems_1.7.6.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.INTERNET",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.CAMERA",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "co.medgic.medgic.permission.C2D_MESSAGE",
+            "android.permission.FLASHLIGHT",
+            "android.permission.WAKE_LOCK"
+        ],
+        "feature_set": [
+            "android.hardware.camera.autofocus",
+            "android.hardware.camera",
+            "android.hardware.camera.front",
+            "android.hardware.microphone"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.usatineMediaLLC.dermoscopyTwoStep",
+        "apk": "dermoscopy-two-step-algorithm_2.4.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.android.vending.CHECK_LICENSE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "android.permission.WRITE_EXTERNAL_STORAGE"
+        ],
+        "feature_set": [
+            "android.hardware.touchscreen"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.adria.skindiseases",
+        "apk": "all-skin-diseases-and-treatments-skin-care-guide_3.1.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.visualdx.aysa",
+        "apk": "aysa-your-answer-to-common-skin-conditions_1.2.1.2.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.CAMERA",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.READ_PHONE_STATE"
+        ],
+        "feature_set": [
+            "android.hardware.camera",
+            "android.hardware.camera.autofocus"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.canxer.canxer",
+        "apk": "tnm-cancer-staging-calculator_1.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.ruthieapps.all.skin.diseases.with.photo.treatment",
+        "apk": "all-skin-diseases-and-treatment_6.0.a.sxs.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.WAKE_LOCK"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.thenetfirm.android.ederma",
+        "apk": "ederma_3.0.24.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.hardware.camera.autofocus",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.RECORD_AUDIO",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.thenetfirm.android.ederma.permission.C2D_MESSAGE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.FLASHLIGHT",
+            "android.permission.READ_CALENDAR",
+            "android.permission.WRITE_CALENDAR",
+            "android.permission.STORAGE",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.GET_ACCOUNTS",
+            "android.permission.MANAGE_ACCOUNTS",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.CAMERA",
+            "android.permission.VIBRATE"
+        ],
+        "feature_set": [
+            "android.hardware.camera",
+            "android.hardware.camera.flash"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "it.meeter.ydtraning",
+        "apk": "youdermoscopy_2.12.1912.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.sec.android.provider.badge.permission.READ",
+            "com.htc.launcher.permission.READ_SETTINGS",
+            "com.sec.android.provider.badge.permission.WRITE",
+            "com.majeur.launcher.permission.UPDATE_BADGE",
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.READ_APP_BADGE",
+            "it.meeter.ydtraning.permission.C2D_MESSAGE",
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            "android.permission.CAMERA",
+            "me.everything.badger.permission.BADGE_COUNT_READ",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.WAKE_LOCK",
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            "android.permission.VIBRATE",
+            "it.meeter.ydtraining.permission.C2D_MESSAGE",
+            "com.sonyericsson.home.permission.BROADCAST_BADGE",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.anddoes.launcher.permission.UPDATE_COUNT",
+            "me.everything.badger.permission.BADGE_COUNT_WRITE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.USE_CREDENTIALS",
+            "android.permission.SYSTEM_ALERT_WINDOW",
+            "com.oppo.launcher.permission.WRITE_SETTINGS",
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.oppo.launcher.permission.READ_SETTINGS"
+        ],
+        "feature_set": [
+            "android.hardware.camera.any",
+            "android.hardware.camera.autofocus",
+            "android.hardware.camera"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.F22.SkyMD",
+        "apk": "skymd-see-a-doctor-now_6.1.5.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.CAMERA",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.INTERNET",
+            "com.android.vending.CHECK_LICENSE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.WRITE_EXTERNAL_STORAGE"
+        ],
+        "feature_set": [
+            "android.hardware.camera",
+            "android.hardware.camera.front"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.phonegap.dermatology_en",
+        "apk": "i-dermatology-clinic_1.0.0.13.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.INTERNET",
+            "android.permission.RECORD_VIDEO",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.RECORD_AUDIO",
+            "android.permission.MODIFY_AUDIO_SETTINGS"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "ai.tibot",
+        "apk": "understand-skin-problems-ai-tool-for-skin_1.34.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.CAMERA",
+            "android.permission.WAKE_LOCK",
+            "android.permission.CALL_PHONE",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+        ],
+        "feature_set": [
+            "android.hardware.camera",
+            "android.hardware.camera.autofocus",
+            "android.hardware.camera.front"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.andromo.dev474745.app504241",
+        "apk": "blood-cancer_1.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.INTERNET"
+        ],
+        "feature_set": [
+            "android.hardware.touchscreen"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "be.tdf_it.cancerrisk",
+        "apk": "cancer-risk-calculator_1.1.12.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.leo_pharma.imagine",
+        "apk": "imagine-\u2013-skin-condition-tracker_2.7.1.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.CAMERA",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "android.permission.VIBRATE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.ACCESS_WIFI_STATE",
+            "com.leo_pharma.imagine.permission.C2D_MESSAGE"
+        ],
+        "feature_set": [
+            "android.hardware.camera",
+            "android.hardware.camera.autofocus"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.programming.progressive.diagnoseapp",
+        "apk": "\ud83c\uddfa\ud83c\uddf8diagnosis-medical-app_3.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.WAKE_LOCK",
+            "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE"
+        ],
+        "feature_set": [
+            "android.hardware.sensor.accelerometer",
+            "android.hardware.touchscreen",
+            "android.hardware.touchscreen.multitouch",
+            "android.hardware.touchscreen.multitouch.distinct"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.andromo.dev706301.app782141",
+        "apk": "dermatology-atlas-skin-infections_2.3.4.5.7z.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.INTERNET",
+            "android.permission.FOREGROUND_SERVICE"
+        ],
+        "feature_set": [
+            "android.hardware.touchscreen"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.mcsadvertising.molliefund",
+        "apk": "mollie-s-fund-have-you-checked-your-skin-lately_1.1.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.lionasys.skindisordersapp",
+        "apk": "skin-diseases-treatment_2.2.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.INTERNET",
+            "com.lionasys.skindisordersapp.permission.C2D_MESSAGE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "eczemaless.ai.tibot",
+        "apk": "ai-eczema-app-a-tool-to-manage-eczema_1.38.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.CAMERA",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.WAKE_LOCK",
+            "com.google.android.c2dm.permission.RECEIVE"
+        ],
+        "feature_set": [
+            "android.hardware.camera",
+            "android.hardware.camera.autofocus",
+            "android.hardware.camera.front"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.spark64.uvlens.mobile",
+        "apk": "uvlens-uv-index-forecasts_2.5.4.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.INTERNET",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.VIBRATE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.outcomes4me",
+        "apk": "outcomes4me-breast-cancer-care_2.12.1.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.CAMERA",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.USE_FINGERPRINT",
+            "com.outcomes4me.permission.C2D_MESSAGE",
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.WAKE_LOCK",
+            "com.android.vending.CHECK_LICENSE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.VIBRATE",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "com.sec.android.provider.badge.permission.WRITE",
+            "com.sonyericsson.home.permission.BROADCAST_BADGE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.majeur.launcher.permission.UPDATE_BADGE",
+            "me.everything.badger.permission.BADGE_COUNT_WRITE",
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            "android.permission.READ_APP_BADGE",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_WIFI_STATE",
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            "android.permission.SYSTEM_ALERT_WINDOW",
+            "com.oppo.launcher.permission.WRITE_SETTINGS",
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            "me.everything.badger.permission.BADGE_COUNT_READ",
+            "com.anddoes.launcher.permission.UPDATE_COUNT",
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.oppo.launcher.permission.READ_SETTINGS",
+            "com.sec.android.provider.badge.permission.READ",
+            "com.htc.launcher.permission.READ_SETTINGS",
+            "android.permission.RECEIVE_BOOT_COMPLETED"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.jstech.skindiseases.dermatology",
+        "apk": "skin-diseases-and-treatment-offline_1.0.4.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.ioniq",
+        "apk": "ioniq-skincare_1.0.2.apk",
+        "bluetooth_permissions": true,
+        "permission_set": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.BLUETOOTH_ADMIN",
+            "android.permission.BLUETOOTH",
+            "android.permission.CAMERA",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.RECORD_AUDIO",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.WAKE_LOCK"
+        ],
+        "feature_set": [
+            "android.hardware.bluetooth_le",
+            "android.hardware.camera",
+            "android.hardware.camera.autofocus",
+            "android.hardware.camera2"
+        ],
+        "uuid_count": 6,
+        "uuids": [
+            {
+                "uuid": "00000000-0000-1000-8000-00805f9b34fb",
+                "name": "Base UUID"
+            },
+            {
+                "uuid": "0000180a-0000-1000-8000-00805f9b34fb",
+                "name": "Device Information"
+            },
+            {
+                "uuid": "b2295d50-24a5-4032-b33e-112862199c52",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00002a29-0000-1000-8000-00805f9b34fb",
+                "name": "Manufacturer Name String"
+            },
+            {
+                "uuid": "00002902-0000-1000-8000-00805f9b34fb",
+                "name": "Client Characteristic Configuration"
+            },
+            {
+                "uuid": "258eafa5-e914-47da-95ca-c5ab0dc85b11",
+                "name": "RFC6455 Websocket String"
+            }
+        ]
+    },
+    {
+        "package": "com.medicalapps.coloratlasofskindiseases",
+        "apk": "color-atlas-of-skin-diseases-dermatology-atlas_1.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.INTERNET"
+        ],
+        "feature_set": [
+            "android.hardware.touchscreen"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.aramhuvis.solutionist.artistry2",
+        "apk": "2-0-artistry-skin-analyzer_0.0.50.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.INTERNET",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.CAMERA",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.android.vending.CHECK_LICENSE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "com.android.launcher.permission.INSTALL_SHORTCUT",
+            "android.permission.WAKE_LOCK"
+        ],
+        "feature_set": [
+            "android.hardware.camera",
+            "android.hardware.telephony"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.skin.infections.treatments",
+        "apk": "all-skin-infections-treatments-diseases-atlas_1.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE"
+        ],
+        "feature_set": [
+            "android.hardware.touchscreen"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.luminousapps.diseasesanddisordersguide",
+        "apk": "diseases-and-disorders-guide_1.2.2.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "com.android.vending.BILLING"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.medisafe.android.client",
+        "apk": "pill-reminder-medication-tracker-medisafe_8.92.09877.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.READ_CALENDAR",
+            "com.medisafe.android.debugapp.RECEIVE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.WRITE_INTERNAL_STORAGE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.WAKE_LOCK",
+            "android.permission.VIBRATE",
+            "android.permission.ACCESS_BACKGROUND_LOCATION",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.android.vending.BILLING",
+            "android.permission.SYSTEM_ALERT_WINDOW",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.READ_CONTACTS",
+            "android.permission.WRITE_CALENDAR",
+            "android.permission.GET_ACCOUNTS",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.FOREGROUND_SERVICE"
+        ],
+        "feature_set": [
+            "android.hardware.screen.portrait",
+            "android.hardware.touchscreen"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.patrikat.pediatricdiseaseandtreatment",
+        "apk": "pediatric-disease-and-treatment_11.16.29.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.WAKE_LOCK"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.vaslufi.facialmasks",
+        "apk": "homemade-facial-masks_1.1.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.INTERNET"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "org.testicularcancersociety.android",
+        "apk": "testicular-cancer-self-exam_1.1+b5.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "org.testicularcancersociety.android.permission.C2D_MESSAGE",
+            "android.permission.VIBRATE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.RECEIVE_BOOT_COMPLETED"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.practo.fabric",
+        "apk": "practo-online-doctor-consultations-appointments_4.81.2.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.CAMERA",
+            "android.permission.RECORD_AUDIO",
+            "android.permission.CALL_PHONE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            "android.permission.MANAGE_OWN_CALLS",
+            "android.permission.WRITE_SYNC_SETTINGS",
+            "android.permission.WAKE_LOCK",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.USE_FULL_SCREEN_INTENT",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.VIBRATE"
+        ],
+        "feature_set": [
+            "android.hardware.telephony",
+            "android.hardware.camera",
+            "android.hardware.location",
+            "android.hardware.touchscreen"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "aksharclearing.agency.skinDiseases",
+        "apk": "skin-diseases-remedies_1.4.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.scymed.android.ehnp",
+        "apk": "eh-p\u2122_4.4.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.dailyyoga.inc",
+        "apk": "daily-yoga-yoga-fitness-plans_7.41.00.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.RECEIVE_USER_PRESENT",
+            "com.android.vending.BILLING",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.CHANGE_WIFI_STATE",
+            "android.permission.WRITE_SETTINGS",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.VIBRATE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.dailyyoga.inc.PAYMENT_BROADCAST_PERMISSION",
+            "android.permission.INTERNET",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.READ_CALENDAR",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.CAMERA",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.WRITE_CALENDAR",
+            "android.permission.GET_TASKS"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.patrikat.respiratorydiseaseandtreatment",
+        "apk": "all-respiratory-disease-and-treatment_4.6.9.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.INTERNET",
+            "android.permission.WAKE_LOCK",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.ACCESS_NETWORK_STATE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.ruthieapps.all.stomach.diseases.and.treatment.sdfroma_z",
+        "apk": "all-stomach-diseases-and-treatment_7.7a.4.2.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.INTERNET",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.WAKE_LOCK"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.medicalgroupsoft.medical.directorymedtermsmultilang.free",
+        "apk": "medical-terminology-dictionary-search-vocabulary_3.6.2.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.INTERNET",
+            "com.android.vending.BILLING",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.READ_PHONE_STATE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "xyz.cursedapps.backpain",
+        "apk": "back-pain-causes-symptoms-treatments_1.0.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.nabazmajid.nabazdrugdictpro",
+        "apk": "nabaz-drug-dictionary_1.7.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.CAMERA"
+        ],
+        "feature_set": [
+            "android.hardware.camera"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.mobilecreatures.drinkwater",
+        "apk": "water-time-drink-tracker-reminder_10.0.3.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.QUICKBOOT_POWERON",
+            "android.permission.WAKE_LOCK",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.VIBRATE",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.android.alarm.permission.SET_ALARM",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "com.android.vending.BILLING",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.ACCESS_WIFI_STATE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "menloseweight.loseweightappformen.weightlossformen",
+        "apk": "lose-weight-app-for-men-weight-loss-in-30-days_1.0.31.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.WAKE_LOCK",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.android.vending.BILLING",
+            "android.permission.RECEIVE_USER_PRESENT",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.INTERNET",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.USE_CREDENTIALS",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.VIBRATE",
+            "android.permission.WRITE_EXTERNAL_STORAGE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.glow.android",
+        "apk": "glow-ovulation-period-tracker_7.21.3-play.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.MANAGE_ACCOUNTS",
+            "android.permission.CALL_PHONE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.glow.android.accounts",
+            "android.permission.GET_ACCOUNTS",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.android.vending.BILLING",
+            "android.permission.AUTHENTICATE_ACCOUNTS",
+            "android.permission.WRITE_SYNC_SETTINGS",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.RECORD_AUDIO",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.NETWORK",
+            "android.permission.INTERNET",
+            "android.permission.USE_CREDENTIALS",
+            "android.permission.CAMERA",
+            "android.permission.READ_SYNC_SETTINGS",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.glow.android.permission.C2D_MESSAGE",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.FLASHLIGHT"
+        ],
+        "feature_set": [
+            "android.hardware.location.gps",
+            "android.hardware.location.network",
+            "android.hardware.camera",
+            "android.hardware.camera.autofocus"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.babylon.ascension",
+        "apk": "symplcheck_2.0.2.60308000.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.CAMERA",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.USE_FINGERPRINT",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.USE_BIOMETRIC",
+            "android.permission.READ_PHONE_STATE"
+        ],
+        "feature_set": [
+            "android.hardware.camera",
+            "android.hardware.camera.autofocus",
+            "android.hardware.touchscreen",
+            "android.hardware.touchscreen.multitouch",
+            "android.hardware.touchscreen.multitouch.distinct"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "sintomas.enfermedades",
+        "apk": "s\u00edntomas-y-enfermedades_Sintomas+y+Enfermedades.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "sintomas.enfermedades.permission.C2D_MESSAGE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "je.fit",
+        "apk": "jefit-workout-tracker-weight-lifting-gym-log-app_10.69.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.WAKE_LOCK",
+            "android.permission.CAMERA",
+            "android.permission.VIBRATE",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_CONTACTS",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.GET_ACCOUNTS",
+            "android.permission.MODIFY_AUDIO",
+            "android.permission.ACCESS_WIFI_STATE",
+            "com.android.vending.BILLING",
+            "android.permission.FOREGROUND_SERVICE"
+        ],
+        "feature_set": [
+            "android.hardware.camera",
+            "android.hardware.camera.front",
+            "android.hardware.camera.autofocus",
+            "android.hardware.camera.flash",
+            "android.hardware.screen.landscape",
+            "android.hardware.wifi"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.appspouch.medicaldictionary",
+        "apk": "medical-dictionary_1.11.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.blogspot.httphealthcareitsolution.face.wrinkle",
+        "apk": "face-wrinkles-\ud83c\uddfa\ud83c\uddf8_1.1.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    }
+]

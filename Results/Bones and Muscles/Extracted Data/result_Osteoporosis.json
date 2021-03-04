@@ -1,0 +1,1230 @@
+[
+    {
+        "package": "com.mdaware.mdcalc",
+        "apk": "mdcalc-medical-calculator_3.3.6.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.INTERNET",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.CAMERA",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.WAKE_LOCK"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.hanekedesign.npcconcierge",
+        "apk": "parathyroid-surgery-guide_1.5.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.hanekedesign.npcconcierge.permission.C2D_MESSAGE",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.RECORD_AUDIO",
+            "android.permission.CAMERA",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "android.permission.WRITE_EXTERNAL_STORAGE"
+        ],
+        "feature_set": [
+            "android.hardware.camera",
+            "android.hardware.camera.front"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.vratsev.bpex",
+        "apk": "back-pain-relief-exercises-at-home_1.0.83.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "me.everything.badger.permission.BADGE_COUNT_WRITE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            "com.oppo.launcher.permission.READ_SETTINGS",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+            "android.permission.INTERNET",
+            "com.oppo.launcher.permission.WRITE_SETTINGS",
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            "android.permission.WAKE_LOCK",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.FOREGROUND_SERVICE",
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            "android.permission.ACCESS_WIFI_STATE",
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            "me.everything.badger.permission.BADGE_COUNT_READ",
+            "android.permission.SYSTEM_ALERT_WINDOW",
+            "com.vratsev.bpex.permission.C2D_MESSAGE",
+            "android.permission.READ_APP_BADGE",
+            "host.exp.exponent.permission.C2D_MESSAGE"
+        ],
+        "feature_set": [
+            "android.software.leanback",
+            "android.hardware.touchscreen",
+            "android.hardware.camera",
+            "android.hardware.camera.autofocus",
+            "android.hardware.location",
+            "android.hardware.location.gps",
+            "android.hardware.location.network",
+            "android.hardware.wifi",
+            "android.hardware.microphone",
+            "android.hardware.telephony",
+            "android.hardware.bluetooth"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "org.aofoundation.aotrauma.orthogeriatrics",
+        "apk": "aotrauma-orthogeriatrics_3.1.5.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.INTERNET"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.qxmd.calculate",
+        "apk": "calculate-by-qxmd_8.9.0.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.THESPINEAPP",
+        "apk": "the-spine-app_1.11.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.READ_INTERNAL_STORAGE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.WAKE_LOCK",
+            "android.webkit.PermissionRequest",
+            "android.permission.INTERNET"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "melstudio.mback",
+        "apk": "healthy-spine-straight-posture-back-exercises_3.3.5.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.VIBRATE",
+            "com.android.alarm.permission.SET_ALARM",
+            "android.permission.INTERNET",
+            "com.google.android.gms.permission.ACTIVITY_RECOGNITION",
+            "com.android.vending.BILLING",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACTIVITY_RECOGNITION",
+            "android.permission.WAKE_LOCK"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "net.imaios.eanatomy",
+        "apk": "e-anatomy_4.12.12.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.android.vending.BILLING"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.OneLife2Care.OsteoarthritisFeverHelp",
+        "apk": "osteoarthritis-joint-pain-treatment-home-remedies_1.9.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.android.vending.BILLING",
+            "android.permission.INTERNET",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.ACCESS_NETWORK_STATE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.codium.bmicalculator",
+        "apk": "bmi-calculator_1.1.13.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.appsgames.medicalskindiseases",
+        "apk": "treatment-for-all-diseases_68.02.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.INTERNET",
+            "android.permission.RESTART_PACKAGES",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.appsgames.medicalskindiseases.permission.C2D_MESSAGE",
+            "android.permission.WAKE_LOCK"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.scymed.android.medicalc8",
+        "apk": "medicalc\u00ae_9.27.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "tw.com.iobear.medicalcalculator",
+        "apk": "medical-calculators_2.2.0.1.6.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.WAKE_LOCK",
+            "com.android.vending.BILLING",
+            "android.permission.INTERNET"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.relief.lowbackpainexercises",
+        "apk": "low-back-pain-exercise_3.8.2.2.1.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.INTERNET",
+            "com.sec.android.provider.badge.permission.WRITE",
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            "com.oppo.launcher.permission.WRITE_SETTINGS",
+            "android.permission.VIBRATE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.anddoes.launcher.permission.UPDATE_COUNT",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.oppo.launcher.permission.READ_SETTINGS",
+            "android.permission.WAKE_LOCK",
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.READ_APP_BADGE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "me.everything.badger.permission.BADGE_COUNT_WRITE",
+            "com.htc.launcher.permission.READ_SETTINGS",
+            "android.permission.ACCESS_WIFI_STATE",
+            "com.majeur.launcher.permission.UPDATE_BADGE",
+            "com.sonyericsson.home.permission.BROADCAST_BADGE",
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "me.everything.badger.permission.BADGE_COUNT_READ",
+            "com.android.vending.BILLING",
+            "com.sec.android.provider.badge.permission.READ",
+            "com.google.android.c2dm.permission.RECEIVE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "org.acc.cvrisk",
+        "apk": "ascvd-risk-estimator-plus_4.1.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.INTERNET",
+            "android.permission.GET_ACCOUNTS",
+            "android.permission.WAKE_LOCK"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.glow.android",
+        "apk": "glow-ovulation-period-tracker_7.21.3-play.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.MANAGE_ACCOUNTS",
+            "android.permission.CALL_PHONE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.glow.android.accounts",
+            "android.permission.GET_ACCOUNTS",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.android.vending.BILLING",
+            "android.permission.AUTHENTICATE_ACCOUNTS",
+            "android.permission.WRITE_SYNC_SETTINGS",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.RECORD_AUDIO",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.NETWORK",
+            "android.permission.INTERNET",
+            "android.permission.USE_CREDENTIALS",
+            "android.permission.CAMERA",
+            "android.permission.READ_SYNC_SETTINGS",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.glow.android.permission.C2D_MESSAGE",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.FLASHLIGHT"
+        ],
+        "feature_set": [
+            "android.hardware.location.gps",
+            "android.hardware.location.network",
+            "android.hardware.camera",
+            "android.hardware.camera.autofocus"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "org.rheumatology.guidelines_criteria",
+        "apk": "guidelines-and-criteria_1.1.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.INTERNET",
+            "android.permission.WRITE_EXTERNAL_STORAGE"
+        ],
+        "feature_set": [
+            "android.hardware.telephony",
+            "android.hardware.screen.portrait",
+            "android.hardware.screen.landscape"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "org.nkf.calculators",
+        "apk": "egfr-calculators_2.3.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.amila.kegel",
+        "apk": "kegel-exercises_1.2.27.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.VIBRATE",
+            "android.permission.INTERNET",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.WAKE_LOCK"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.treatment.kneepainexercises",
+        "apk": "knee-pain-exercises_3.8.1.3.1.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.anddoes.launcher.permission.UPDATE_COUNT",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.sec.android.provider.badge.permission.READ",
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            "com.oppo.launcher.permission.WRITE_SETTINGS",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_APP_BADGE",
+            "android.permission.WAKE_LOCK",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.sonyericsson.home.permission.BROADCAST_BADGE",
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            "me.everything.badger.permission.BADGE_COUNT_READ",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.INTERNET",
+            "com.oppo.launcher.permission.READ_SETTINGS",
+            "com.android.vending.BILLING",
+            "com.htc.launcher.permission.READ_SETTINGS",
+            "android.permission.ACCESS_WIFI_STATE",
+            "me.everything.badger.permission.BADGE_COUNT_WRITE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.sec.android.provider.badge.permission.WRITE",
+            "com.majeur.launcher.permission.UPDATE_BADGE",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.VIBRATE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.jsdev.pfei",
+        "apk": "kegel-trainer-exercises_7.1.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.WAKE_LOCK",
+            "android.permission.VIBRATE",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.android.vending.BILLING",
+            "com.google.android.c2dm.permission.RECEIVE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "org.rheumatology.guidelines_criteria",
+        "apk": "guidelines-and-criteria_1.1.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.INTERNET",
+            "android.permission.WRITE_EXTERNAL_STORAGE"
+        ],
+        "feature_set": [
+            "android.hardware.telephony",
+            "android.hardware.screen.portrait",
+            "android.hardware.screen.landscape"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "org.nkf.calculators",
+        "apk": "egfr-calculators_2.3.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.amila.kegel",
+        "apk": "kegel-exercises_1.2.27.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.VIBRATE",
+            "android.permission.INTERNET",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.WAKE_LOCK"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.treatment.kneepainexercises",
+        "apk": "knee-pain-exercises_3.8.1.3.1.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.anddoes.launcher.permission.UPDATE_COUNT",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.sec.android.provider.badge.permission.READ",
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            "com.oppo.launcher.permission.WRITE_SETTINGS",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_APP_BADGE",
+            "android.permission.WAKE_LOCK",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.sonyericsson.home.permission.BROADCAST_BADGE",
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            "me.everything.badger.permission.BADGE_COUNT_READ",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.INTERNET",
+            "com.oppo.launcher.permission.READ_SETTINGS",
+            "com.android.vending.BILLING",
+            "com.htc.launcher.permission.READ_SETTINGS",
+            "android.permission.ACCESS_WIFI_STATE",
+            "me.everything.badger.permission.BADGE_COUNT_WRITE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.sec.android.provider.badge.permission.WRITE",
+            "com.majeur.launcher.permission.UPDATE_BADGE",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.VIBRATE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.jsdev.pfei",
+        "apk": "kegel-trainer-exercises_7.1.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.WAKE_LOCK",
+            "android.permission.VIBRATE",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.android.vending.BILLING",
+            "com.google.android.c2dm.permission.RECEIVE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "Pedcall.Calculator",
+        "apk": "medical-calculators_5.6.3.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.USE_CREDENTIALS",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.INTERNET",
+            "android.permission.GET_ACCOUNTS",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.CALL_PHONE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.VIBRATE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.dailyyoga.inc",
+        "apk": "daily-yoga-yoga-fitness-plans_7.41.00.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.RECEIVE_USER_PRESENT",
+            "com.android.vending.BILLING",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.CHANGE_WIFI_STATE",
+            "android.permission.WRITE_SETTINGS",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.VIBRATE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.dailyyoga.inc.PAYMENT_BROADCAST_PERMISSION",
+            "android.permission.INTERNET",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.READ_CALENDAR",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.CAMERA",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.WRITE_CALENDAR",
+            "android.permission.GET_TASKS"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.medisafe.android.client",
+        "apk": "pill-reminder-medication-tracker-medisafe_8.92.09877.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.READ_CALENDAR",
+            "com.medisafe.android.debugapp.RECEIVE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.WRITE_INTERNAL_STORAGE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.WAKE_LOCK",
+            "android.permission.VIBRATE",
+            "android.permission.ACCESS_BACKGROUND_LOCATION",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.android.vending.BILLING",
+            "android.permission.SYSTEM_ALERT_WINDOW",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.READ_CONTACTS",
+            "android.permission.WRITE_CALENDAR",
+            "android.permission.GET_ACCOUNTS",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.FOREGROUND_SERVICE"
+        ],
+        "feature_set": [
+            "android.hardware.screen.portrait",
+            "android.hardware.touchscreen"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "app.perfectposture",
+        "apk": "perfect-posture-posture-correction-in-30-days_1.7.5.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.google.android.providers.gsf.permission.READ_GSERVICES",
+            "android.permission.INTERNET",
+            "com.sec.android.provider.badge.permission.WRITE",
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            "com.oppo.launcher.permission.WRITE_SETTINGS",
+            "android.permission.VIBRATE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+            "com.anddoes.launcher.permission.UPDATE_COUNT",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.oppo.launcher.permission.READ_SETTINGS",
+            "android.permission.WAKE_LOCK",
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            "android.permission.READ_APP_BADGE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "me.everything.badger.permission.BADGE_COUNT_WRITE",
+            "com.htc.launcher.permission.READ_SETTINGS",
+            "android.permission.ACCESS_WIFI_STATE",
+            "com.majeur.launcher.permission.UPDATE_BADGE",
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            "me.everything.badger.permission.BADGE_COUNT_READ",
+            "com.android.vending.BILLING",
+            "com.sec.android.provider.badge.permission.READ",
+            "com.sonyericsson.home.permission.BROADCAST_BADGE",
+            "com.google.android.c2dm.permission.RECEIVE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.withings.wiscale2",
+        "apk": "withings-health-mate_5.2.2.apk",
+        "bluetooth_permissions": true,
+        "permission_set": [
+            "android.permission.CAMERA",
+            "android.permission.INTERNET",
+            "android.permission.VIBRATE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.FLASHLIGHT",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.GET_ACCOUNTS",
+            "android.permission.WAKE_LOCK",
+            "android.permission.READ_CALL_LOG",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.FOREGROUND_SERVICE",
+            "com.withings.wiscale2.permission.C2D_MESSAGE",
+            "android.permission.ACCESS_BACKGROUND_LOCATION",
+            "android.permission.BLUETOOTH",
+            "android.permission.BLUETOOTH_ADMIN",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.ACTIVITY_RECOGNITION",
+            "com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY",
+            "android.permission.READ_CALENDAR",
+            "android.permission.READ_CONTACTS",
+            "com.google.android.c2dm.permission.RECEIVE"
+        ],
+        "feature_set": [
+            "android.hardware.bluetooth",
+            "android.hardware.bluetooth_le",
+            "android.hardware.camera.any",
+            "android.hardware.telephony",
+            "android.hardware.location.gps"
+        ],
+        "uuid_count": 13,
+        "uuids": [
+            {
+                "uuid": "00001101-0000-1000-8000-00805f9b34fb",
+                "name": "SPP Serial Port Service UUID"
+            },
+            {
+                "uuid": "10000057-5749-5448-0037-000000000000",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "10000059-5749-5448-0037-000000000000",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "10000058-5749-5448-0037-000000000000",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "1000005a-5749-5448-0037-000000000000",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00009992-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000001-e1ba-dfb7-c7f0-da2b149de289",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00009998-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00009999-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00009993-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00009994-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00009990-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-1000-8000-00805f9b34fb",
+                "name": "Base UUID"
+            }
+        ]
+    },
+    {
+        "package": "je.fit",
+        "apk": "jefit-workout-tracker-weight-lifting-gym-log-app_10.69.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.WAKE_LOCK",
+            "android.permission.CAMERA",
+            "android.permission.VIBRATE",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_CONTACTS",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.GET_ACCOUNTS",
+            "android.permission.MODIFY_AUDIO",
+            "android.permission.ACCESS_WIFI_STATE",
+            "com.android.vending.BILLING",
+            "android.permission.FOREGROUND_SERVICE"
+        ],
+        "feature_set": [
+            "android.hardware.camera",
+            "android.hardware.camera.front",
+            "android.hardware.camera.autofocus",
+            "android.hardware.camera.flash",
+            "android.hardware.screen.landscape",
+            "android.hardware.wifi"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.myfitnesspal.android",
+        "apk": "calorie-counter-myfitnesspal_20.21.2.apk",
+        "bluetooth_permissions": true,
+        "permission_set": [
+            "android.permission.GET_ACCOUNTS",
+            "com.android.vending.BILLING",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.CHANGE_WIFI_STATE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.VIBRATE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACTIVITY_RECOGNITION",
+            "android.permission.BLUETOOTH",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.INTERNET",
+            "android.permission.FLASHLIGHT",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.samsung.accessory.permission.ACCESSORY_FRAMEWORK",
+            "android.permission.WAKE_LOCK",
+            "android.permission.READ_CONTACTS",
+            "android.permission.CHANGE_NETWORK_STATE",
+            "android.permission.MANAGE_DOCUMENTS",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.BLUETOOTH_ADMIN",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.USE_CREDENTIALS",
+            "com.samsung.WATCH_APP_TYPE.Companion",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.CAMERA",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "com.myfitnesspal.android.permission.C2D_MESSAGE"
+        ],
+        "feature_set": [
+            "android.hardware.camera",
+            "android.hardware.camera.front",
+            "android.hardware.camera.autofocus"
+        ],
+        "uuid_count": 8,
+        "uuids": [
+            {
+                "uuid": "00000000-0000-0000-0000-000000000000",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "258eafa5-e914-47da-95ca-c5ab0dc85b11",
+                "name": "RFC6455 Websocket String"
+            },
+            {
+                "uuid": "8b28ae46-f8c8-447b-9772-6ffb6b46fe89",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "616feb6e-4bb1-4718-bb8c-8c88bd978a9c",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "b11efcc8-da04-47c4-8feb-3ed98d6503ef",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "1c70aed5-15c7-40a2-b4f0-a55ed1a5c43c",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "e3b7e8fd-af82-4b84-b7e8-fdaf82db8442",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "4f9e4415-31e7-4e9f-b3b3-eb172ffa1aec",
+                "name": "Unknown"
+            }
+        ]
+    },
+    {
+        "package": "com.caynax.a6w",
+        "apk": "abs-workout-a6w-flat-belly-at-home_9.22.1.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.WAKE_LOCK",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.INTERNET",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.android.vending.BILLING",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.RECEIVE_BOOT_COMPLETED"
+        ],
+        "feature_set": [
+            "android.hardware.touchscreen",
+            "android.hardware.faketouch",
+            "android.hardware.screen.portrait",
+            "android.hardware.screen.landscape",
+            "android.hardware.camera"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "cn.fitdays.fitdays",
+        "apk": "fitdays_1.6.6.apk",
+        "bluetooth_permissions": true,
+        "permission_set": [
+            "android.permission.ACCESS_BACKGROUND_LOCATION",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.CAMERA",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.BLUETOOTH_ADMIN",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.BLUETOOTH",
+            "android.permission.WAKE_LOCK",
+            "android.permission.CHANGE_WIFI_STATE",
+            "android.permission.INTERNET",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.VIBRATE",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.FLASHLIGHT"
+        ],
+        "feature_set": [
+            "android.hardware.bluetooth_le",
+            "android.hardware.camera",
+            "android.hardware.camera.autofocus"
+        ],
+        "uuid_count": 31,
+        "uuids": [
+            {
+                "uuid": "0000ffb0-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0000feb0-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "cf61947c-a8fe-4fa3-aa7c-fbeb7f291352",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0783b03e-8535-b5a0-7140-a304d2495cb7",
+                "name": "WiFi Manager Service UUID"
+            },
+            {
+                "uuid": "0783b03e-8535-b5a0-7140-a304d2495cba",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0783b03e-8535-b5a0-7140-a304d2495cb8",
+                "name": "WiFi Manager Characteristic (Command Respond) UUID"
+            },
+            {
+                "uuid": "0000feb2-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0000feb1-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0000ffb1-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0000ffb2-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "6e400001-b5a3-f393-e0a9-e50e24dcca9e",
+                "name": "Nordic Service UUID"
+            },
+            {
+                "uuid": "6e400002-b5a3-f393-e0a9-e50e24dcca9e",
+                "name": "Nordic RX Characteristic"
+            },
+            {
+                "uuid": "6e400003-b5a3-f393-e0a9-e50e24dcca9e",
+                "name": "Nordic TX Characteristic"
+            },
+            {
+                "uuid": "00002a23-0000-1000-8000-00805f9b34fb",
+                "name": "System ID"
+            },
+            {
+                "uuid": "00002a24-0000-1000-8000-00805f9b34fb",
+                "name": "Model Number String"
+            },
+            {
+                "uuid": "00002a28-0000-1000-8000-00805f9b34fb",
+                "name": "Software Revision String"
+            },
+            {
+                "uuid": "00002a26-0000-1000-8000-00805f9b34fb",
+                "name": "Firmware Revision String"
+            },
+            {
+                "uuid": "00002a27-0000-1000-8000-00805f9b34fb",
+                "name": "Hardware Revision String"
+            },
+            {
+                "uuid": "00002a29-0000-1000-8000-00805f9b34fb",
+                "name": "Manufacturer Name String"
+            },
+            {
+                "uuid": "0000180a-0000-1000-8000-00805f9b34fb",
+                "name": "Device Information"
+            },
+            {
+                "uuid": "0000fff0-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0000fff2-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0000fff1-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00002a25-0000-1000-8000-00805f9b34fb",
+                "name": "Serial Number String"
+            },
+            {
+                "uuid": "0000ffb3-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "5833ff01-9b8b-5191-6142-22a4536ef123",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "5833ff02-9b8b-5191-6142-22a4536ef123",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "5833ff03-9b8b-5191-6142-22a4536ef123",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "5833ff04-9b8b-5191-6142-22a4536ef123",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0x1008",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "258eafa5-e914-47da-95ca-c5ab0dc85b11",
+                "name": "RFC6455 Websocket String"
+            }
+        ]
+    },
+    {
+        "package": "com.andromo.dev686997.app718080",
+        "apk": "menopause-all-information_6.5.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.INTERNET",
+            "android.permission.FOREGROUND_SERVICE"
+        ],
+        "feature_set": [
+            "android.hardware.touchscreen"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "net.iValueHealth.HIT",
+        "apk": "ivh-hit_2.11.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.CAMERA",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.android.vending.BILLING",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.GET_ACCOUNTS"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.ramuanherbalsakitlututlengkap.obatherbal.kumpulanramuanherbal.mesotheliaomalawfirm",
+        "apk": "ramuan-herbal-sakit-lutut-paling-ampuh-dan-manjur_12.0.apk",
+        "bluetooth_permissions": true,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.RECORD_AUDIO",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.ACCESS_WIFI_STATE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.GET_ACCOUNTS",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.VIBRATE",
+            "android.permission.BLUETOOTH"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "eu.ipix.NativeMedAbbrevEN",
+        "apk": "mag-medical-abbreviations_2.1.9.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.android.vending.BILLING",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "android.permission.VIBRATE",
+            "eu.ipix.NativeMedAbbrevEN.permission.C2D_MESSAGE",
+            "android.permission.ACCESS_COARSE"
+        ],
+        "feature_set": [
+            "android.hardware.touchscreen"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.NurBat.boosttestosteronenaturally",
+        "apk": "boost-testosterone-naturally_1.3.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.google.android.providers.gsf.permission.READ_GSERVICES",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "android.permission.VIBRATE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.NurBat.boosttestosteronenaturally.permission.C2D_MESSAGE",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.google.android.c2dm.permission.RECEIVE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.sirseni.homeremedies.naturalcure",
+        "apk": "home-remedies-natural-treatment_2.0.3.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.android.alarm.permission.SET_ALARM",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "android.permission.WRITE_EXTERNAL_STORAGE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "apps.Simple.Hasasia",
+        "apk": "\u0627\u0644\u062d\u0633\u0627\u0633\u064a\u0629-\u0623\u0633\u0628\u0627\u0628\u0647\u0627-\u0648-\u0639\u0644\u0627\u062c\u0647\u0627_1.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "jugoterapia.salud",
+        "apk": "jugoterapia-para-la-salud_1.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.WAKE_LOCK"
+        ],
+        "feature_set": [
+            "android.hardware.touchscreen"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "pl.net.ipix.NativeMedAbbrev",
+        "apk": "mag-medical-abbreviations-pl_2.1.6.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.WAKE_LOCK",
+            "pl.net.ipix.NativeMedAbbrev.permission.C2D_MESSAGE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.ACCESS_COARSE",
+            "android.permission.INTERNET",
+            "com.android.vending.BILLING",
+            "android.permission.VIBRATE"
+        ],
+        "feature_set": [
+            "android.hardware.touchscreen"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.rnamobile.alkaline",
+        "apk": "alkaline-diet-plan_1.8.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.USE_FINGERPRINT",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.CAMERA",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.WAKE_LOCK",
+            "com.google.android.c2dm.permission.RECEIVE"
+        ],
+        "feature_set": [
+            "android.hardware.screen.portrait",
+            "android.hardware.screen.landscape"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    }
+]

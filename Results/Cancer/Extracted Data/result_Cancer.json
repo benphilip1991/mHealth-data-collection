@@ -1,0 +1,830 @@
+[
+    {
+        "package": "com.belongtail.belong",
+        "apk": "belong-beating-cancer-together_4.20.217.5.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.VIBRATE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.INTERNET",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.READ_CONTACTS",
+            "android.permission.SYSTEM_ALERT_WINDOW",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.CAMERA",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.WAKE_LOCK"
+        ],
+        "feature_set": [
+            "android.hardware.telephony"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.fueled.cancernet",
+        "apk": "cancer-net-mobile_6.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.VIBRATE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.CAMERA",
+            "android.permission.ACTIVITY_RECOGNITION",
+            "android.permission.RECORD_AUDIO",
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            "android.permission.READ_CONTACTS",
+            "android.permission.INTERNET",
+            "android.permission.WRITE_EXTERNAL_STORAGE"
+        ],
+        "feature_set": [
+            "android.hardware.camera"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.genomichealth.mybreastcancercoach",
+        "apk": "my-breast-cancer-coach_1.1.0.1.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.VIBRATE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.CALL_PHONE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.CAMERA",
+            "android.permission.READ_CALENDAR",
+            "android.permission.RECORD_AUDIO",
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            "android.permission.WRITE_CALENDAR",
+            "android.permission.INTERNET",
+            "android.permission.WRITE_EXTERNAL_STORAGE"
+        ],
+        "feature_set": [
+            "android.hardware.camera",
+            "android.hardware.camera.front",
+            "android.hardware.camera.autofocus",
+            "android.hardware.microphone",
+            "android.hardware.telephony",
+            "android.hardware.location",
+            "android.hardware.location.network",
+            "android.hardware.location.gps"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.healthline.breastcancer",
+        "apk": "breast-cancer-healthline_6.9.3.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_FINE_LOCATION",
+            "com.healthline.breastcancer.permission.C2D_MESSAGE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.GET_ACCOUNTS",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            "com.android.vending.CHECK_LICENSE",
+            "me.everything.badger.permission.BADGE_COUNT_READ",
+            "com.majeur.launcher.permission.UPDATE_BADGE",
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            "com.anddoes.launcher.permission.UPDATE_COUNT",
+            "android.permission.ACCESS_WIFI_STATE",
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.sec.android.provider.badge.permission.READ",
+            "com.sonyericsson.home.permission.BROADCAST_BADGE",
+            "com.sec.android.provider.badge.permission.WRITE",
+            "android.permission.INTERNET",
+            "com.oppo.launcher.permission.WRITE_SETTINGS",
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            "android.permission.CAMERA",
+            "android.permission.VIBRATE",
+            "com.oppo.launcher.permission.READ_SETTINGS",
+            "android.permission.READ_APP_BADGE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "me.everything.badger.permission.BADGE_COUNT_WRITE",
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            "com.htc.launcher.permission.READ_SETTINGS"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "be.tdf_it.cancerrisk",
+        "apk": "cancer-risk-calculator_1.1.12.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.canxer.canxer",
+        "apk": "tnm-cancer-staging-calculator_1.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.usbmis.troposphere.chemad",
+        "apk": "cancer-therapy-advisor_6.0.0.782.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.GET_ACCOUNTS",
+            "android.permission.WAKE_LOCK",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.android.vending.BILLING",
+            "android.permission.AUTHENTICATE_ACCOUNTS",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.INTERNET",
+            "com.android.vending.CHECK_LICENSE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.WRITE_EXTERNAL_STORAGE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.pfizer.us.livingwith",
+        "apk": "livingwith\u2122-cancer-support_2.0.9.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_FINE_LOCATION",
+            "com.majeur.launcher.permission.UPDATE_BADGE",
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            "com.anddoes.launcher.permission.UPDATE_COUNT",
+            "me.everything.badger.permission.BADGE_COUNT_WRITE",
+            "com.oppo.launcher.permission.WRITE_SETTINGS",
+            "android.permission.RECORD_AUDIO",
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.USE_CREDENTIALS",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.sec.android.provider.badge.permission.READ",
+            "android.permission.WRITE_CALENDAR",
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            "me.everything.badger.permission.BADGE_COUNT_READ",
+            "com.sec.android.provider.badge.permission.WRITE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            "android.permission.INTERNET",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            "com.oppo.launcher.permission.READ_SETTINGS",
+            "android.permission.VIBRATE",
+            "android.permission.READ_APP_BADGE",
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+            "com.sonyericsson.home.permission.BROADCAST_BADGE",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.READ_CALENDAR",
+            "android.permission.GET_ACCOUNTS",
+            "android.permission.WAKE_LOCK",
+            "com.htc.launcher.permission.READ_SETTINGS"
+        ],
+        "feature_set": [
+            "android.hardware.location.gps"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.tipmedcom.nccn.guidelines.mobile",
+        "apk": "nccn-guidelines\u00ae_3.4.2.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "android.permission.WRITE_EXTERNAL_STORAGE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.andromo.dev462136.app546291",
+        "apk": "beat-cancer_6.5.7.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            "me.everything.badger.permission.BADGE_COUNT_READ",
+            "com.majeur.launcher.permission.UPDATE_BADGE",
+            "com.andromo.dev462136.app546291.permission.C2D_MESSAGE",
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            "com.anddoes.launcher.permission.UPDATE_COUNT",
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.sec.android.provider.badge.permission.READ",
+            "com.sonyericsson.home.permission.BROADCAST_BADGE",
+            "com.sec.android.provider.badge.permission.WRITE",
+            "android.permission.INTERNET",
+            "com.oppo.launcher.permission.WRITE_SETTINGS",
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            "android.permission.VIBRATE",
+            "com.oppo.launcher.permission.READ_SETTINGS",
+            "android.permission.READ_APP_BADGE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "me.everything.badger.permission.BADGE_COUNT_WRITE",
+            "android.permission.FOREGROUND_SERVICE",
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            "com.htc.launcher.permission.READ_SETTINGS"
+        ],
+        "feature_set": [
+            "android.hardware.touchscreen"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.genomichealth.mycancercoach",
+        "apk": "my-cancer-coach_3.4.0.10.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.genomichealth.mycancercoach.permission.C2D_MESSAGE",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.CAMERA",
+            "android.permission.RECORD_AUDIO",
+            "android.permission.WAKE_LOCK",
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.READ_CALENDAR",
+            "android.permission.CALL_PHONE",
+            "android.permission.WRITE_CALENDAR",
+            "android.permission.VIBRATE"
+        ],
+        "feature_set": [
+            "android.hardware.camera",
+            "android.hardware.camera.front",
+            "android.hardware.camera.autofocus",
+            "android.hardware.microphone",
+            "android.hardware.telephony",
+            "android.hardware.location",
+            "android.hardware.location.network",
+            "android.hardware.location.gps"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.genialabs.medicaible",
+        "apk": "dermia-analyze-skin-cancer-with-your-camera-a-i_2.2.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.WAKE_LOCK",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.VIBRATE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.miiskin.android",
+        "apk": "miiskin-skin-cancer-track-and-check-moles_1.61.2.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.CAMERA",
+            "android.permission.READ_PHONE_STATE",
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.sec.android.provider.badge.permission.WRITE",
+            "com.sonyericsson.home.permission.BROADCAST_BADGE",
+            "android.permission.WRITE_CALENDAR",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.majeur.launcher.permission.UPDATE_BADGE",
+            "me.everything.badger.permission.BADGE_COUNT_WRITE",
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            "android.permission.READ_APP_BADGE",
+            "android.permission.INTERNET",
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            "com.android.vending.BILLING",
+            "com.oppo.launcher.permission.WRITE_SETTINGS",
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            "android.permission.READ_CALENDAR",
+            "me.everything.badger.permission.BADGE_COUNT_READ",
+            "com.anddoes.launcher.permission.UPDATE_COUNT",
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+            "android.permission.GET_ACCOUNTS",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.oppo.launcher.permission.READ_SETTINGS",
+            "com.sec.android.provider.badge.permission.READ",
+            "com.htc.launcher.permission.READ_SETTINGS",
+            "android.permission.RECEIVE_BOOT_COMPLETED"
+        ],
+        "feature_set": [
+            "android.hardware.camera",
+            "android.hardware.camera.flash",
+            "android.hardware.camera.autofocus"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "pgquest.cancerstaging",
+        "apk": "tnm-cancer-staging-8th-edition_1.0.27.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.WAKE_LOCK",
+            "android.permission.CALL_PHONE",
+            "android.permission.INTERNET",
+            "android.permission.WRITE_SETTINGS",
+            "android.permission.VIBRATE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.SYSTEM_ALERT_WINDOW",
+            "com.android.vending.BILLING",
+            "pgquest.cancerstaging.permission.C2D_MESSAGE",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "com.google.android.c2dm.permission.RECEIVE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.andromo.dev522101.app497462",
+        "apk": "cancer-preventing-food_3.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.WAKE_LOCK"
+        ],
+        "feature_set": [
+            "android.hardware.touchscreen"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.app.tnm",
+        "apk": "tnm-cancer-staging_1.0.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.andromo.dev474745.app504241",
+        "apk": "blood-cancer_1.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.INTERNET"
+        ],
+        "feature_set": [
+            "android.hardware.touchscreen"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.atmoapps.pcch",
+        "apk": "physicians-cancer-chemotherapy-drug-manual_2.0.0.105.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.android.vending.CHECK_LICENSE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.android.vending.BILLING",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "android.permission.WRITE_EXTERNAL_STORAGE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.tiredofcancer",
+        "apk": "untire-beating-cancer-fatigue_3.3.6.apk",
+        "bluetooth_permissions": true,
+        "permission_set": [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            "com.android.vending.CHECK_LICENSE",
+            "me.everything.badger.permission.BADGE_COUNT_READ",
+            "com.majeur.launcher.permission.UPDATE_BADGE",
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            "com.anddoes.launcher.permission.UPDATE_COUNT",
+            "android.permission.ACCESS_WIFI_STATE",
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+            "android.permission.USE_FINGERPRINT",
+            "android.permission.WAKE_LOCK",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.tiredofcancer.permission.C2D_MESSAGE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.sec.android.provider.badge.permission.READ",
+            "com.sonyericsson.home.permission.BROADCAST_BADGE",
+            "com.sec.android.provider.badge.permission.WRITE",
+            "android.permission.INTERNET",
+            "com.oppo.launcher.permission.WRITE_SETTINGS",
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            "android.permission.VIBRATE",
+            "com.oppo.launcher.permission.READ_SETTINGS",
+            "android.permission.READ_APP_BADGE",
+            "android.permission.BLUETOOTH",
+            "android.permission.ACCESS_NOTIFICATION_POLICY",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "me.everything.badger.permission.BADGE_COUNT_WRITE",
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            "com.htc.launcher.permission.READ_SETTINGS"
+        ],
+        "feature_set": [],
+        "uuid_count": 4,
+        "uuids": [
+            {
+                "uuid": "00000000-0000-0000-0000-000000000000",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "b2f7f966-d8cc-11e4-bed1-df8f05be55ba",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "5eb5a37e-b458-11e3-ac11-000c2940e62c",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "258eafa5-e914-47da-95ca-c5ab0dc85b11",
+                "name": "RFC6455 Websocket String"
+            }
+        ]
+    },
+    {
+        "package": "com.vesna.cancerscreening",
+        "apk": "brexa-breast-cancer-screening_3.0.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.ACCESS_FINE_LOCATION"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.mediaparts.nccn",
+        "apk": "nccn-patient-guides-for-cancer_2.0.2.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.VIBRATE",
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            "com.sec.android.provider.badge.permission.WRITE",
+            "com.sonyericsson.home.permission.BROADCAST_BADGE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.majeur.launcher.permission.UPDATE_BADGE",
+            "me.everything.badger.permission.BADGE_COUNT_WRITE",
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            "android.permission.READ_APP_BADGE",
+            "android.permission.INTERNET",
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            "com.oppo.launcher.permission.WRITE_SETTINGS",
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            "me.everything.badger.permission.BADGE_COUNT_READ",
+            "com.anddoes.launcher.permission.UPDATE_COUNT",
+            "android.permission.DOWNLOAD_WITHOUT_NOTIFICATION",
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.oppo.launcher.permission.READ_SETTINGS",
+            "com.sec.android.provider.badge.permission.READ",
+            "com.htc.launcher.permission.READ_SETTINGS",
+            "android.permission.RECEIVE_BOOT_COMPLETED"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.outcomes4me",
+        "apk": "outcomes4me-breast-cancer-care_2.12.1.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.CAMERA",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.USE_FINGERPRINT",
+            "com.outcomes4me.permission.C2D_MESSAGE",
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.WAKE_LOCK",
+            "com.android.vending.CHECK_LICENSE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.VIBRATE",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "com.sec.android.provider.badge.permission.WRITE",
+            "com.sonyericsson.home.permission.BROADCAST_BADGE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.majeur.launcher.permission.UPDATE_BADGE",
+            "me.everything.badger.permission.BADGE_COUNT_WRITE",
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            "android.permission.READ_APP_BADGE",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_WIFI_STATE",
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            "android.permission.SYSTEM_ALERT_WINDOW",
+            "com.oppo.launcher.permission.WRITE_SETTINGS",
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            "me.everything.badger.permission.BADGE_COUNT_READ",
+            "com.anddoes.launcher.permission.UPDATE_COUNT",
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.oppo.launcher.permission.READ_SETTINGS",
+            "com.sec.android.provider.badge.permission.READ",
+            "com.htc.launcher.permission.READ_SETTINGS",
+            "android.permission.RECEIVE_BOOT_COMPLETED"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.proven.cancercure.AOUJZCYXQQQEVGMK",
+        "apk": "cancer-curing-foods_11.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.INTERNET"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "air.stagingandroid",
+        "apk": "lung-cancer-staging-table_v3.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.INTERNET"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.jd.dermoscanner",
+        "apk": "dermoscanner_1.10.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.google.android.providers.gsf.permission.READ_GSERVICES",
+            "com.sec.android.provider.badge.permission.READ",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.WRITE_SETTINGS",
+            "com.htc.launcher.permission.READ_SETTINGS",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.anddoes.launcher.permission.UPDATE_COUNT",
+            "android.permission.VIBRATE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.USE_FINGERPRINT",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            "android.permission.RECORD_AUDIO",
+            "android.permission.INTERNET",
+            "com.jd.dermoscanner.permission.C2D_MESSAGE",
+            "android.permission.READ_PHONE_STATE",
+            "com.sonyericsson.home.permission.BROADCAST_BADGE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            "android.permission.WAKE_LOCK",
+            "android.permission.READ_CONTACTS",
+            "android.permission.MANAGE_DOCUMENTS",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.FOREGROUND_SERVICE",
+            "com.android.launcher.permission.INSTALL_SHORTCUT",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.READ_CALENDAR",
+            "android.permission.SYSTEM_ALERT_WINDOW",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.CAMERA",
+            "android.permission.READ_INTERNAL_STORAGE",
+            "android.permission.WRITE_CALENDAR",
+            "com.majeur.launcher.permission.UPDATE_BADGE",
+            "com.google.android.gms.permission.ACTIVITY_RECOGNITION",
+            "com.sec.android.provider.badge.permission.WRITE",
+            "host.exp.exponent.permission.C2D_MESSAGE"
+        ],
+        "feature_set": [
+            "android.software.leanback",
+            "android.hardware.touchscreen",
+            "android.hardware.camera",
+            "android.hardware.camera.autofocus",
+            "android.hardware.location",
+            "android.hardware.location.gps",
+            "android.hardware.location.network",
+            "android.hardware.wifi",
+            "android.hardware.microphone",
+            "android.hardware.telephony",
+            "android.hardware.bluetooth"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.bodyxq.cancer",
+        "apk": "bodyxq-cancer_2.4.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.INTERNET"
+        ],
+        "feature_set": [
+            "android.hardware.touchscreen",
+            "android.hardware.touchscreen.multitouch",
+            "android.hardware.touchscreen.multitouch.distinct"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.andromo.dev518100.app479474",
+        "apk": "anti-cancer-diet_3.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE"
+        ],
+        "feature_set": [
+            "android.hardware.touchscreen"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "org.asco.guidelines",
+        "apk": "asco-guidelines_1.5.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "android.permission.WRITE_EXTERNAL_STORAGE"
+        ],
+        "feature_set": [
+            "android.hardware.telephony",
+            "android.hardware.screen.portrait",
+            "android.hardware.screen.landscape"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.oncoassist.core",
+        "apk": "oncoassist_8.7.4.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.CAMERA",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_WIFI_STATE",
+            "com.oncoassist.core.permission.RECEIVE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.RECEIVE_BOOT_COMPLETED"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.borinfer.test",
+        "apk": "prostate-cancer-calculator_1.0.6.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.borinfer.test.permission.C2D_MESSAGE",
+            "android.permission.WAKE_LOCK",
+            "com.google.android.c2dm.permission.RECEIVE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "org.testicularcancersociety.android",
+        "apk": "testicular-cancer-self-exam_1.1+b5.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "org.testicularcancersociety.android.permission.C2D_MESSAGE",
+            "android.permission.VIBRATE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.RECEIVE_BOOT_COMPLETED"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.sandroparoi.anticancerfood",
+        "apk": "anti-cancer-foods_1.0.2.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "android.permission.VIBRATE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "app.com.figostaging",
+        "apk": "figo-gyn-cancer-management_2.5.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.INTERNET",
+            "android.permission.WRITE_EXTERNAL_STORAGE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.magna.srior.breastcancer",
+        "apk": "breast-cancer-awareness-srior_2.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.andromo.dev667101.app681429",
+        "apk": "breast-cancer-guide_1.1.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE"
+        ],
+        "feature_set": [
+            "android.hardware.touchscreen"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    }
+]
