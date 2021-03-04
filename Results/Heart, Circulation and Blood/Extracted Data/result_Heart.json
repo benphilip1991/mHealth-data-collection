@@ -1,0 +1,3144 @@
+[
+    {
+        "package": "si.modula.android.instantheartrate",
+        "apk": "instant-heart-rate-hr-monitor-pulse-checker_5.36.7238.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.GET_ACCOUNTS",
+            "android.permission.READ_PROFILE",
+            "com.android.vending.BILLING",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.VIBRATE",
+            "si.modula.android.instantheartrate.permission.C2D_MESSAGE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACTIVITY_RECOGNITION",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.INTERNET",
+            "android.permission.FLASHLIGHT",
+            "android.permission.BODY_SENSORS",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY",
+            "android.permission.WAKE_LOCK",
+            "android.permission.READ_CONTACTS",
+            "android.permission.MANAGE_ACCOUNTS",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "com.azumio.android.argus.intents.SYNC_SERVICE_READ",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.CAMERA",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "com.google.android.gms.permission.ACTIVITY_RECOGNITION",
+            "android.permission.ACCESS_NOTIFICATION_POLICY"
+        ],
+        "feature_set": [
+            "android.hardware.sensor.accelerometer",
+            "android.hardware.camera",
+            "android.hardware.camera.flash",
+            "android.hardware.camera.flash",
+            "android.hardware.camera.front",
+            "android.hardware.camera.autofocus",
+            "android.hardware.screen.landscape",
+            "android.hardware.wifi"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.repsi.heartrate",
+        "apk": "heart-rate-monitor_4.9.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.VIBRATE",
+            "android.permission.INTERNET",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.CAMERA",
+            "com.android.vending.BILLING",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.WAKE_LOCK"
+        ],
+        "feature_set": [
+            "android.hardware.camera.front"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.macropinch.hydra.android",
+        "apk": "cardiograph-heart-rate-meter_4.1.3.apk",
+        "bluetooth_permissions": true,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.BLUETOOTH_ADMIN",
+            "android.permission.BLUETOOTH",
+            "android.permission.BODY_SENSORS",
+            "android.permission.WAKE_LOCK",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.CAMERA",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.INTERNET"
+        ],
+        "feature_set": [
+            "android.hardware.bluetooth",
+            "android.hardware.camera",
+            "android.hardware.camera.autofocus",
+            "android.hardware.camera.flash",
+            "android.hardware.location",
+            "android.hardware.location.gps",
+            "android.hardware.location.network",
+            "android.hardware.sensor.heartrate",
+            "android.hardware.sensor.heartrate.ecg"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.bluefish.heartrate",
+        "apk": "heart-rate-monitor_0.3.19.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.INTERNET",
+            "android.permission.CAMERA",
+            "android.permission.VIBRATE"
+        ],
+        "feature_set": [
+            "android.hardware.camera",
+            "android.hardware.camera.flash"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.dungelin.heartrate",
+        "apk": "heart-rate-plus-pulse-heart-rate-monitor_2.5.7.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.VIBRATE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.INTERNET",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.CAMERA",
+            "com.android.vending.BILLING",
+            "com.sec.android.iap.permission.BILLING",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.samsung.permission.SSENSOR_HRM_RAW_PPG",
+            "com.dungelin.heartrate.permission.C2D_MESSAGE",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.FLASHLIGHT",
+            "com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY",
+            "android.permission.BODY_SENSORS",
+            "android.permission.WAKE_LOCK"
+        ],
+        "feature_set": [
+            "android.hardware.camera.flash",
+            "android.hardware.camera",
+            "android.hardware.camera.autofocus",
+            "android.hardware.sensor.heartrate",
+            "android.hardware.touchscreen",
+            "android.hardware.faketouch",
+            "android.hardware.screen.portrait",
+            "android.hardware.wifi"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.welltory.client.android",
+        "apk": "welltory-ekg-heart-rate-monitor-stress-test_3.0.3.apk",
+        "bluetooth_permissions": true,
+        "permission_set": [
+            "com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.CAMERA",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.BLUETOOTH_ADMIN",
+            "android.permission.WAKE_LOCK",
+            "android.permission.ACTIVITY_RECOGNITION",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.INTERNET",
+            "android.permission.MANAGE_DOCUMENTS",
+            "android.permission.ACCESS_BACKGROUND_LOCATION",
+            "com.android.vending.BILLING",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.BLUETOOTH",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.samsung.permission.SSENSOR_HRM_RAW_PPG",
+            "android.permission.BODY_SENSORS",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.google.android.gms.permission.ACTIVITY_RECOGNITION",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.VIBRATE"
+        ],
+        "feature_set": [
+            "android.hardware.location.gps"
+        ],
+        "uuid_count": 7,
+        "uuids": [
+            {
+                "uuid": "00000000-0000-0000-0000-000000000000",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "258eafa5-e914-47da-95ca-c5ab0dc85b11",
+                "name": "RFC6455 Websocket String"
+            },
+            {
+                "uuid": "1951f79c-537c-40be-9847-992bc735261a",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0000180d-0000-1000-8000-00805f9b34fb",
+                "name": "Heart Rate"
+            },
+            {
+                "uuid": "00002902-0000-1000-8000-00805f9b34fb",
+                "name": "Client Characteristic Configuration"
+            },
+            {
+                "uuid": "00002a37-0000-1000-8000-00805f9b34fb",
+                "name": "Heart Rate Measurement"
+            },
+            {
+                "uuid": "00002a38-0000-1000-8000-00805f9b34fb",
+                "name": "Body Sensor Location"
+            }
+        ]
+    },
+    {
+        "package": "ki.facehrm",
+        "apk": "selfie-heart-rate-monitor-facebeat_1.0.5.8.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.CAMERA",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.android.vending.BILLING",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.google.android.providers.gsf.permission.READ_GSERVICES",
+            "android.permission.READ_LOGS"
+        ],
+        "feature_set": [
+            "android.hardware.camera",
+            "android.hardware.camera.autofocus",
+            "android.hardware.camera.front",
+            "android.hardware.camera.front.autofocus"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "org.acc.csexplorer",
+        "apk": "cardiosmart-heart-explorer_2.3.0.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.INTERNET",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.WAKE_LOCK"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.examobile.cardiograph",
+        "apk": "cardiograph-heart-rate-monitor_1.5.07.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.VIBRATE",
+            "android.permission.INTERNET",
+            "android.permission.CAMERA",
+            "com.android.vending.BILLING",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.FLASHLIGHT",
+            "android.permission.WAKE_LOCK",
+            "android.permission.MODIFY_AUDIO_SETTINGS"
+        ],
+        "feature_set": [
+            "android.hardware.camera",
+            "android.hardware.camera.flash",
+            "android.hardware.camera.autofocus"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.visual3dscience.heart",
+        "apk": "my-heart-anatomy_1.4.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.INTERNET",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.ACCESS_COARSE_UPDATES"
+        ],
+        "feature_set": [
+            "android.hardware.touchscreen",
+            "android.hardware.touchscreen.multitouch",
+            "android.hardware.touchscreen.multitouch.distinct"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.workoutapps.heart.rate.monitor",
+        "apk": "heart-rate-monitor-pulse-checker-bpm-tracker_6.2.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.VIBRATE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.CAMERA",
+            "android.permission.READ_LOGS",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.INTERNET",
+            "com.android.vending.BILLING",
+            "android.permission.WRITE_EXTERNAL_STORAGE"
+        ],
+        "feature_set": [
+            "android.hardware.camera",
+            "android.hardware.camera.autofocus"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.magic09.hearttrace",
+        "apk": "heart-trace-2_2.3.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.VIBRATE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.android.vending.BILLING",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.BODY_SENSORS",
+            "android.permission.WAKE_LOCK"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.helloheart.app.healthplan",
+        "apk": "hello-heart_4.4.3.apk",
+        "bluetooth_permissions": true,
+        "permission_set": [
+            "android.permission.ACCESS_FINE_LOCATION",
+            "com.majeur.launcher.permission.UPDATE_BADGE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.ACTIVITY_RECOGNITION",
+            "com.anddoes.launcher.permission.UPDATE_COUNT",
+            "android.permission.SYSTEM_ALERT_WINDOW",
+            "android.permission.BLUETOOTH_ADMIN",
+            "me.everything.badger.permission.BADGE_COUNT_WRITE",
+            "com.fingerprints.service.ACCESS_FINGERPRINT_MANAGER",
+            "com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY",
+            "com.oppo.launcher.permission.WRITE_SETTINGS",
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.sec.android.provider.badge.permission.READ",
+            "me.everything.badger.permission.BADGE_COUNT_READ",
+            "com.sec.android.provider.badge.permission.WRITE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            "android.permission.INTERNET",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.VIBRATE",
+            "com.oppo.launcher.permission.READ_SETTINGS",
+            "android.permission.READ_APP_BADGE",
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_CONTACTS",
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+            "com.android.vending.CHECK_LICENSE",
+            "com.sonyericsson.home.permission.BROADCAST_BADGE",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.USE_FINGERPRINT",
+            "android.permission.WAKE_LOCK",
+            "com.helloheart.app.healthplan.permission.C2D_MESSAGE",
+            "android.permission.BLUETOOTH",
+            "com.htc.launcher.permission.READ_SETTINGS"
+        ],
+        "feature_set": [
+            "android.hardware.bluetooth_le"
+        ],
+        "uuid_count": 4,
+        "uuids": [
+            {
+                "uuid": "00002902-0000-1000-8000-00805f9b34fb",
+                "name": "Client Characteristic Configuration"
+            },
+            {
+                "uuid": "00000000-0000-1000-8000-00805f9b34fb",
+                "name": "Base UUID"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-000000000000",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "258eafa5-e914-47da-95ca-c5ab0dc85b11",
+                "name": "RFC6455 Websocket String"
+            }
+        ]
+    },
+    {
+        "package": "com.supersimpleapps.heart_rate_monitor_newui",
+        "apk": "heart-rate-monitor_1.31.12S3.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.BODY_SENSORS",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.android.vending.CHECK_LICENSE",
+            "android.permission.CAMERA",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "android.permission.FLASHLIGHT",
+            "com.supersimpleapps.heart_rate_monitor_newui.permission.C2D_MESSAGE"
+        ],
+        "feature_set": [
+            "android.hardware.camera",
+            "android.hardware.camera.flash"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.apps23.heartrate",
+        "apk": "heart-rate-monitor_200815.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.CAMERA",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.android.vending.BILLING",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET"
+        ],
+        "feature_set": [
+            "android.hardware.camera",
+            "android.hardware.camera.flash"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.lionasys.heartdisordersapp",
+        "apk": "heart-diseases-treatment_2.1.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.lionasys.heartdisordersapp.permission.C2D_MESSAGE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.WAKE_LOCK"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.aha.hw.communicator",
+        "apk": "heart-walk_6.3.apk",
+        "bluetooth_permissions": true,
+        "permission_set": [
+            "android.permission.DELETE_CACHE_FILES",
+            "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+            "com.google.android.gms.permission.ACTIVITY_RECOGNITION",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "com.huawei.permission.external_app_settings.USE_COMPONENT",
+            "android.permission.CAMERA",
+            "oppo.permission.OPPO_COMPONENT_SAFE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.WAKE_LOCK",
+            "android.permission.VIBRATE",
+            "android.permission.ACCESS_BACKGROUND_LOCATION",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.BLUETOOTH",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.GET_TASKS",
+            "android.permission.USE_CREDENTIALS",
+            "android.permission.ACTIVITY_RECOGNITION",
+            "android.permission.RECORD_AUDIO",
+            "android.permission.GET_ACCOUNTS",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.RECORD_VIDEO",
+            "android.permission.FOREGROUND_SERVICE"
+        ],
+        "feature_set": [
+            "android.hardware.location.gps",
+            "android.hardware.camera",
+            "android.hardware.camera.autofocus",
+            "android.hardware.camera.flash"
+        ],
+        "uuid_count": 1,
+        "uuids": [
+            {
+                "uuid": "258eafa5-e914-47da-95ca-c5ab0dc85b11",
+                "name": "RFC6455 Websocket String"
+            }
+        ]
+    },
+    {
+        "package": "com.sdk.blood_pressure",
+        "apk": "cardiac-diagnosis-arrhythmia_140.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.CAMERA",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.RECORD_AUDIO",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+        ],
+        "feature_set": [
+            "android.hardware.camera"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.visual3dscience.heartpro",
+        "apk": "heart-anatomy-pro_2.1.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.android.vending.BILLING",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+        ],
+        "feature_set": [
+            "android.software.vr.mode",
+            "android.software.vr.high_performance",
+            "android.hardware.touchscreen",
+            "android.hardware.touchscreen.multitouch",
+            "android.hardware.touchscreen.multitouch.distinct"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.anatomyapps3d.circulatory3d",
+        "apk": "circulatory-system-in-3d-anatomy_1.58.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.WAKE_LOCK",
+            "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE"
+        ],
+        "feature_set": [
+            "android.hardware.touchscreen",
+            "android.hardware.touchscreen.multitouch",
+            "android.hardware.touchscreen.multitouch.distinct"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.mm.heart.rate.pedometer",
+        "apk": "heart-rate-monitor-pulse-checker-step-counter_1.0.3.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.WAKE_LOCK",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.CAMERA",
+            "com.android.vending.BILLING",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.INTERNET",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.VIBRATE"
+        ],
+        "feature_set": [
+            "android.hardware.camera",
+            "android.hardware.camera.autofocus"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.theheartappnew",
+        "apk": "the-heart-app-\u00a9_2.0.4.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.theheartappnew.permission.C2D_MESSAGE",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.CAMERA",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "android.permission.WRITE_EXTERNAL_STORAGE"
+        ],
+        "feature_set": [
+            "android.hardware.camera",
+            "android.hardware.camera.autofocus"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.bmi.hr_monitor",
+        "apk": "heart-rate-monitor_1.1.apk",
+        "bluetooth_permissions": true,
+        "permission_set": [
+            "android.permission.BLUETOOTH",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.BLUETOOTH_ADMIN"
+        ],
+        "feature_set": [
+            "android.hardware.bluetooth_le"
+        ],
+        "uuid_count": 26,
+        "uuids": [
+            {
+                "uuid": "00002a19-0000-1000-8000-00805f9b34fb",
+                "name": "Battery Level"
+            },
+            {
+                "uuid": "00002a37-0000-1000-8000-00805f9b34fb",
+                "name": "Heart Rate Measurement"
+            },
+            {
+                "uuid": "00002a27-0000-1000-8000-00805f9b34fb",
+                "name": "Hardware Revision String"
+            },
+            {
+                "uuid": "00002a26-0000-1000-8000-00805f9b34fb",
+                "name": "Firmware Revision String"
+            },
+            {
+                "uuid": "00002a25-0000-1000-8000-00805f9b34fb",
+                "name": "Serial Number String"
+            },
+            {
+                "uuid": "00002a24-0000-1000-8000-00805f9b34fb",
+                "name": "Model Number String"
+            },
+            {
+                "uuid": "00002a29-0000-1000-8000-00805f9b34fb",
+                "name": "Manufacturer Name String"
+            },
+            {
+                "uuid": "0000180f-0000-1000-8000-00805f9b34fb",
+                "name": "Battery Service"
+            },
+            {
+                "uuid": "0000180a-0000-1000-8000-00805f9b34fb",
+                "name": "Device Information"
+            },
+            {
+                "uuid": "00002902-0000-1000-8000-00805f9b34fb",
+                "name": "Client Characteristic Configuration"
+            },
+            {
+                "uuid": "00002a28-0000-1000-8000-00805f9b34fb",
+                "name": "Software Revision String"
+            },
+            {
+                "uuid": "0000180d-0000-1000-8000-00805f9b34fb",
+                "name": "Heart Rate"
+            },
+            {
+                "uuid": "00002a38-0000-1000-8000-00805f9b34fb",
+                "name": "Body Sensor Location"
+            },
+            {
+                "uuid": "00002a39-0000-1000-8000-00805f9b34fb",
+                "name": "Heart Rate Control Point"
+            },
+            {
+                "uuid": "f000ffc0-0451-4000-b000-000000000000",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "f000ffc1-0451-4000-b000-000000000000",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "f000ffc2-0451-4000-b000-000000000000",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "21a53000-4c86-11e2-bcfd-0800200c9a66",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "21a53001-4c86-11e2-bcfd-0800200c9a66",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "21a53002-4c86-11e2-bcfd-0800200c9a66",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "21a53003-4c86-11e2-bcfd-0800200c9a66",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "21a53005-4c86-11e2-bcfd-0800200c9a66",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "21a53006-4c86-11e2-bcfd-0800200c9a66",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "21a53010-4c86-11e2-bcfd-0800200c9a66",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "21a53011-4c86-11e2-bcfd-0800200c9a66",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "21a53012-4c86-11e2-bcfd-0800200c9a66",
+                "name": "Unknown"
+            }
+        ]
+    },
+    {
+        "package": "org.myworkouts",
+        "apk": "myworkouts-heart-rate-monitor-sport-gps-tracker_2.4.45.apk",
+        "bluetooth_permissions": true,
+        "permission_set": [
+            "android.permission.VIBRATE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.INTERNET",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.BLUETOOTH_ADMIN",
+            "android.permission.BLUETOOTH",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.USE_FULL_SCREEN_INTENT",
+            "org.myworkouts.READ_WRITE_PROVIDER",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.ACCESS_BACKGROUND_LOCATION",
+            "android.permission.WAKE_LOCK"
+        ],
+        "feature_set": [
+            "android.hardware.location.network",
+            "android.hardware.location.gps",
+            "android.hardware.telephony",
+            "android.hardware.wifi",
+            "android.hardware.sensor.pressure",
+            "android.hardware.bluetooth_le"
+        ],
+        "uuid_count": 10,
+        "uuids": [
+            {
+                "uuid": "0000180d-0000-1000-8000-00805f9b34fb",
+                "name": "Heart Rate"
+            },
+            {
+                "uuid": "00002a37-0000-1000-8000-00805f9b34fb",
+                "name": "Heart Rate Measurement"
+            },
+            {
+                "uuid": "00001816-0000-1000-8000-00805f9b34fb",
+                "name": "Cycling Speed and Cadence"
+            },
+            {
+                "uuid": "00002a5b-0000-1000-8000-00805f9b34fb",
+                "name": "CSC Measurement"
+            },
+            {
+                "uuid": "00002902-0000-1000-8000-00805f9b34fb",
+                "name": "Client Characteristic Configuration"
+            },
+            {
+                "uuid": "0000180a-0000-1000-8000-00805f9b34fb",
+                "name": "Device Information"
+            },
+            {
+                "uuid": "00002a29-0000-1000-8000-00805f9b34fb",
+                "name": "Manufacturer Name String"
+            },
+            {
+                "uuid": "0x7fff",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0xffff",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0x0000",
+                "name": "Unknown"
+            }
+        ]
+    },
+    {
+        "package": "com.cloudapps.heartbeatrate",
+        "apk": "heart-beat-rate-monitor_1.2.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.WAKE_LOCK",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.CAMERA",
+            "android.permission.INTERNET",
+            "android.permission.WRITE_EXTERNAL_STORAGE"
+        ],
+        "feature_set": [
+            "android.hardware.camera",
+            "android.hardware.camera.flash"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "tuanter.tuan.heartbeat1",
+        "apk": "heart-beat_1.2.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.CAMERA",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.ACCESS_WIFI_STATE"
+        ],
+        "feature_set": [
+            " android.hardware.camera"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.equatehearthealthmobileapp",
+        "apk": "equate-heart-health_1.4.apk",
+        "bluetooth_permissions": true,
+        "permission_set": [
+            "com.anddoes.launcher.permission.UPDATE_COUNT",
+            "com.sec.android.provider.badge.permission.READ",
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            "android.permission.SYSTEM_ALERT_WINDOW",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.BLUETOOTH_ADMIN",
+            "android.permission.WAKE_LOCK",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.sonyericsson.home.permission.BROADCAST_BADGE",
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            "com.android.vending.CHECK_LICENSE",
+            "android.permission.INTERNET",
+            "com.htc.launcher.permission.READ_SETTINGS",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.BLUETOOTH",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.equatehearthealthmobileapp.permission.C2D_MESSAGE",
+            "com.sec.android.provider.badge.permission.WRITE",
+            "com.majeur.launcher.permission.UPDATE_BADGE",
+            "android.permission.VIBRATE"
+        ],
+        "feature_set": [
+            "android.hardware.bluetooth_le"
+        ],
+        "uuid_count": 3,
+        "uuids": [
+            {
+                "uuid": "00002902-0000-1000-8000-00805f9b34fb",
+                "name": "Client Characteristic Configuration"
+            },
+            {
+                "uuid": "00000000-0000-1000-8000-00805f9b34fb",
+                "name": "Base UUID"
+            },
+            {
+                "uuid": "258eafa5-e914-47da-95ca-c5ab0dc85b11",
+                "name": "RFC6455 Websocket String"
+            }
+        ]
+    },
+    {
+        "package": "igost.health.instantheartrate",
+        "apk": "instant-heart-rate_1.3.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.INTERNET",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.CAMERA",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.WAKE_LOCK"
+        ],
+        "feature_set": [
+            "android.hardware.camera",
+            "android.hardware.camera.flash"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.rer.medapps.auscultation",
+        "apk": "auscultation-heart-lung-sounds-cardiac-murmurs_2.2.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.android.vending.BILLING",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.miko3apps.healthyfoodsforheart",
+        "apk": "healthy-foods-for-heart_1.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.USE_FINGERPRINT",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.WAKE_LOCK",
+            "com.google.android.c2dm.permission.RECEIVE"
+        ],
+        "feature_set": [
+            "android.hardware.screen.portrait",
+            "android.hardware.screen.landscape"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.dumsco.stressscan",
+        "apk": "stressscan-heart-rate-monitoring-and-stress-test_1.2.9.5.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.CAMERA",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "android.permission.VIBRATE",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+        ],
+        "feature_set": [
+            "android.hardware.camera.autofocus",
+            "android.hardware.camera.flash",
+            "android.hardware.camera.capability.manual_post_processing",
+            "android.hardware.camera.capability.manual_sensor",
+            "android.hardware.camera.level.full",
+            "android.hardware.location.gps"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.seashore.hrm",
+        "apk": "heartbeat-monitor-pulse-heart-rate-checker_2.1.1.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.INTERNET",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.CAMERA",
+            "com.android.vending.BILLING",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.WAKE_LOCK"
+        ],
+        "feature_set": [
+            "android.hardware.camera",
+            "android.hardware.camera.flash"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.luckystars.heartratemonitor",
+        "apk": "heart-rate-monitor_1.10.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.FLASHLIGHT",
+            "android.permission.INTERNET",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.CAMERA",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.WAKE_LOCK"
+        ],
+        "feature_set": [
+            "android.hardware.camera",
+            "android.hardware.camera.flash"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.microcadsystems.serge.heartrateanalyzer",
+        "apk": "heart-rate-analyzer_1.13.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.BODY_SENSORS",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_EXTERNAL_STORAGE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.qompium.fibricheck",
+        "apk": "fibricheck-check-your-heart-prevent-strokes_1.8.2.apk",
+        "bluetooth_permissions": true,
+        "permission_set": [
+            "com.samsung.accessory.permission.ACCESSORY_FRAMEWORK",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.CAMERA",
+            "com.samsung.WATCH_APP_TYPE.Companion",
+            "android.permission.WAKE_LOCK",
+            "android.permission.VIBRATE",
+            "android.permission.FLASHLIGHT",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.BLUETOOTH",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.BLUETOOTH_ADMIN",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.FOREGROUND_SERVICE"
+        ],
+        "feature_set": [],
+        "uuid_count": 2,
+        "uuids": [
+            {
+                "uuid": "258eafa5-e914-47da-95ca-c5ab0dc85b11",
+                "name": "RFC6455 Websocket String"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-000000000000",
+                "name": "Unknown"
+            }
+        ]
+    },
+    {
+        "package": "com.imedical_apps.ecgheartaxis",
+        "apk": "electrocardiogram-ecg-rhythm-app-heart-axis_1.2.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.stratecore.helloheart",
+        "apk": "hello-heart_1.3.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.BODY_SENSORS",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.CAMERA",
+            "android.permission.INTERNET",
+            "android.permission.WRITE_EXTERNAL_STORAGE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "life.heartcare",
+        "apk": "heart-care_1.0.5.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.anddoes.launcher.permission.UPDATE_COUNT",
+            "android.permission.BODY_SENSORS",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "com.majeur.launcher.permission.UPDATE_BADGE",
+            "com.htc.launcher.permission.READ_SETTINGS",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.sonyericsson.home.permission.BROADCAST_BADGE",
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            "life.heartcare.permission.C2D_MESSAGE",
+            "android.permission.WAKE_LOCK",
+            "com.oppo.launcher.permission.WRITE_SETTINGS",
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            "android.permission.INTERNET",
+            "com.oppo.launcher.permission.READ_SETTINGS",
+            "android.permission.READ_APP_BADGE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "me.everything.badger.permission.BADGE_COUNT_WRITE",
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            "me.everything.badger.permission.BADGE_COUNT_READ",
+            "com.sec.android.provider.badge.permission.WRITE",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.CAMERA",
+            "com.sec.android.provider.badge.permission.READ",
+            "android.permission.VIBRATE"
+        ],
+        "feature_set": [
+            "android.hardware.camera",
+            "android.hardware.camera.flash",
+            "android.hardware.location.gps"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.fitiv.fitivapplication",
+        "apk": "fitiv-pulse-heart-rate-monitor-workout-tracker_2.3.15.apk",
+        "bluetooth_permissions": true,
+        "permission_set": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.samsung.wmanager.ENABLE_NOTIFICATION",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.BODY_SENSORS",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.samsung.WATCH_APP_TYPE.Companion",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.ACCESS_BACKGROUND_LOCATION",
+            "android.permission.BLUETOOTH",
+            "android.permission.BLUETOOTH_ADMIN",
+            "com.samsung.accessory.permission.ACCESSORY_FRAMEWORK",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "com.google.android.gms.permission.ACTIVITY_RECOGNITION",
+            "android.permission.ACTIVITY_RECOGNITION",
+            "com.android.vending.BILLING",
+            "com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY",
+            "com.google.android.c2dm.permission.RECEIVE"
+        ],
+        "feature_set": [
+            "android.hardware.camera",
+            "android.hardware.bluetooth_le",
+            "android.hardware.bluetooth"
+        ],
+        "uuid_count": 8,
+        "uuids": [
+            {
+                "uuid": "0000180d-0000-1000-8000-00805f9b34fb",
+                "name": "Heart Rate"
+            },
+            {
+                "uuid": "00002a37-0000-1000-8000-00805f9b34fb",
+                "name": "Heart Rate Measurement"
+            },
+            {
+                "uuid": "00002a19-0000-1000-8000-00805f9b34fb",
+                "name": "Battery Level"
+            },
+            {
+                "uuid": "00002a29-0000-1000-8000-00805f9b34fb",
+                "name": "Manufacturer Name String"
+            },
+            {
+                "uuid": "00002a38-0000-1000-8000-00805f9b34fb",
+                "name": "Body Sensor Location"
+            },
+            {
+                "uuid": "00002a26-0000-1000-8000-00805f9b34fb",
+                "name": "Firmware Revision String"
+            },
+            {
+                "uuid": "00002902-0000-1000-8000-00805f9b34fb",
+                "name": "Client Characteristic Configuration"
+            },
+            {
+                "uuid": "258eafa5-e914-47da-95ca-c5ab0dc85b11",
+                "name": "RFC6455 Websocket String"
+            }
+        ]
+    },
+    {
+        "package": "com.clardia.clardia",
+        "apk": "heart-attack-risk-calculator-clardia_1.0.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.INTERNET"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.Rxprism.HeartExplore3D",
+        "apk": "heart-explore-3d_1.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [],
+        "feature_set": [
+            "android.hardware.touchscreen",
+            "android.hardware.touchscreen.multitouch",
+            "android.hardware.touchscreen.multitouch.distinct"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.medroid.ayman.ausculation",
+        "apk": "auscultation-heart-lung-sounds_1.2.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "drzio.heartyoga.heartdisease.treatment.cardiovascular",
+        "apk": "heart-disease-yoga-diet-\u2013-cardiovascular-disease_1.0.7.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.SET_ALARM",
+            "android.permission.WAKE_LOCK",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "com.android.vending.BILLING",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.INTERNET",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.VIBRATE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.ACTION_TIME_CHANGE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.focusmedica.digitalatlas.heart",
+        "apk": "heart-digital-anatomy-atlas_1.8.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.android.vending.BILLING",
+            "android.permission.INTERNET",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.WRITE_EXTERNAL_STORAGE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.bodyxq.heart",
+        "apk": "bodyxq-heart_2.3.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.INTERNET"
+        ],
+        "feature_set": [
+            "android.hardware.touchscreen",
+            "android.hardware.touchscreen.multitouch",
+            "android.hardware.touchscreen.multitouch.distinct"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.appinaweek.pocketfetaldoppler",
+        "apk": "baby-heart-beat-fetal-doppler-device-required_3.6(EN_BHB_M_S_2191).apk",
+        "bluetooth_permissions": true,
+        "permission_set": [
+            "android.permission.VIBRATE",
+            "android.permission.INTERNET",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.BLUETOOTH_ADMIN",
+            "android.permission.RECORD_AUDIO",
+            "android.permission.BLUETOOTH",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.MODIFY_AUDIO_SETTINGS"
+        ],
+        "feature_set": [],
+        "uuid_count": 13,
+        "uuids": [
+            {
+                "uuid": "00010203-0405-0607-0809-0a0b0c0d1911",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00010203-0405-0607-0809-0a0b0c0d2b18",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0000180a-0000-1000-8000-00805f9b34fb",
+                "name": "Device Information"
+            },
+            {
+                "uuid": "00002a25-0000-1000-8000-00805f9b34fb",
+                "name": "Serial Number String"
+            },
+            {
+                "uuid": "00002a29-0000-1000-8000-00805f9b34fb",
+                "name": "Manufacturer Name String"
+            },
+            {
+                "uuid": "00002a24-0000-1000-8000-00805f9b34fb",
+                "name": "Model Number String"
+            },
+            {
+                "uuid": "00002a27-0000-1000-8000-00805f9b34fb",
+                "name": "Hardware Revision String"
+            },
+            {
+                "uuid": "00002a26-0000-1000-8000-00805f9b34fb",
+                "name": "Firmware Revision String"
+            },
+            {
+                "uuid": "0000180f-0000-1000-8000-00805f9b34fb",
+                "name": "Battery Service"
+            },
+            {
+                "uuid": "00002a19-0000-1000-8000-00805f9b34fb",
+                "name": "Battery Level"
+            },
+            {
+                "uuid": "0000ff12-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0000ff01-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0000ff02-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            }
+        ]
+    },
+    {
+        "package": "com.microhealthllc.targetheartratecalculator",
+        "apk": "target-heart-rate-calculator_1.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.sec.android.app.shealth",
+        "apk": "samsung-health_6.12.3.001.apk",
+        "bluetooth_permissions": true,
+        "permission_set": [
+            "com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY",
+            "com.samsung.android.rubin.app.ui.permission.LAUNCH_RUBIN_SETTING",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.samsung.android.rubin.context.permission.READ_CONTEXT_MANAGER",
+            "android.permission.GET_ACCOUNTS",
+            "android.permission.AUTHENTICATE_ACCOUNTS",
+            "android.permission.CAMERA",
+            "android.permission.WRITE_SETTINGS",
+            "android.permission.READ_SYNC_SETTINGS",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_CONTACTS",
+            "android.permission.READ_PHONE_NUMBERS",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.BLUETOOTH_ADMIN",
+            "com.sec.spp.permission.TOKEN_c6bbae539f5994fc130a6ce9ba9b5fc4f54564bd01e0b1ccb8ffcdf3bef305faae4eec16a8316c02433cb3095486314842a58858641f71a1a5e0a8cb90344f0336d54728d000ba3967db09e0103bd8418b8bc885533d3aac74432897939464afedd9866e154eb0b718cad3da47370960d91d90dc826095e20de810fa71bef02e",
+            "com.samsung.android.rubin.persona.permission.READ_PERSONA_MANAGER",
+            "com.sec.android.service.health.permission.SWEIGHTSENSOR",
+            "android.permission.WAKE_LOCK",
+            "android.permission.ACTIVITY_RECOGNITION",
+            "android.permission.WRITE_SYNC_SETTINGS",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.FOREGROUND_SERVICE",
+            "com.samsung.android.app.spage.permission.WRITE_CARD_DATA",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.BLUETOOTH",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.NFC",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.google.android.gms.permission.ACTIVITY_RECOGNITION",
+            "com.google.android.providers.gsf.permission.READ_GSERVICES",
+            "com.sec.spp.permission.PUSH_SERVICE_PROVIDER",
+            "com.samsung.android.app.withtv.ACCESS_WITH_TV",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.READ_SYNC_STATS",
+            "android.permission.VIBRATE"
+        ],
+        "feature_set": [
+            "android.hardware.bluetooth_le",
+            "android.hardware.nfc"
+        ],
+        "uuid_count": 211,
+        "uuids": [
+            {
+                "uuid": "00000000-0000-0000-0000-000000000000",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0000180a-0000-1000-8000-00805f9b34fb",
+                "name": "Device Information"
+            },
+            {
+                "uuid": "0000180d-0000-1000-8000-00805f9b34fb",
+                "name": "Heart Rate"
+            },
+            {
+                "uuid": "00001816-0000-1000-8000-00805f9b34fb",
+                "name": "Cycling Speed and Cadence"
+            },
+            {
+                "uuid": "00001814-0000-1000-8000-00805f9b34fb",
+                "name": "Running Speed and Cadence"
+            },
+            {
+                "uuid": "00001818-0000-1000-8000-00805f9b34fb",
+                "name": "Cycling Power"
+            },
+            {
+                "uuid": "0000181d-0000-1000-8000-00805f9b34fb",
+                "name": "Weight Scale"
+            },
+            {
+                "uuid": "0000181b-0000-1000-8000-00805f9b34fb",
+                "name": "Body Composition"
+            },
+            {
+                "uuid": "00001808-0000-1000-8000-00805f9b34fb",
+                "name": "Glucose"
+            },
+            {
+                "uuid": "0000181f-0000-1000-8000-00805f9b34fb",
+                "name": "Continuous Glucose Monitoring"
+            },
+            {
+                "uuid": "00001810-0000-1000-8000-00805f9b34fb",
+                "name": "Blood Pressure"
+            },
+            {
+                "uuid": "0000181a-0000-1000-8000-00805f9b34fb",
+                "name": "Environmental Sensing"
+            },
+            {
+                "uuid": "0000180f-0000-1000-8000-00805f9b34fb",
+                "name": "Battery Service"
+            },
+            {
+                "uuid": "00001800-0000-1000-8000-00805f9b34fb",
+                "name": "Generic Access"
+            },
+            {
+                "uuid": "00001801-0000-1000-8000-00805f9b34fb",
+                "name": "Generic Attribute"
+            },
+            {
+                "uuid": "0000181c-0000-1000-8000-00805f9b34fb",
+                "name": "User Data"
+            },
+            {
+                "uuid": "00001811-0000-1000-8000-00805f9b34fb",
+                "name": "Alert Notification Service"
+            },
+            {
+                "uuid": "0000181e-0000-1000-8000-00805f9b34fb",
+                "name": "Bond Management Service"
+            },
+            {
+                "uuid": "00001805-0000-1000-8000-00805f9b34fb",
+                "name": "Current Time Service"
+            },
+            {
+                "uuid": "00001812-0000-1000-8000-00805f9b34fb",
+                "name": "Human Interface Device"
+            },
+            {
+                "uuid": "00001821-0000-1000-8000-00805f9b34fb",
+                "name": "Indoor Positioning"
+            },
+            {
+                "uuid": "00001802-0000-1000-8000-00805f9b34fb",
+                "name": "Immediate Alert"
+            },
+            {
+                "uuid": "00001819-0000-1000-8000-00805f9b34fb",
+                "name": "Location and Navigation"
+            },
+            {
+                "uuid": "00001807-0000-1000-8000-00805f9b34fb",
+                "name": "Next DST Change Service"
+            },
+            {
+                "uuid": "0000180e-0000-1000-8000-00805f9b34fb",
+                "name": "Phone Alert Status Service"
+            },
+            {
+                "uuid": "00001806-0000-1000-8000-00805f9b34fb",
+                "name": "Reference Time Update Service"
+            },
+            {
+                "uuid": "00001813-0000-1000-8000-00805f9b34fb",
+                "name": "Scan Parameters"
+            },
+            {
+                "uuid": "00001804-0000-1000-8000-00805f9b34fb",
+                "name": "Tx Power"
+            },
+            {
+                "uuid": "00001803-0000-1000-8000-00805f9b34fb",
+                "name": "Link Loss"
+            },
+            {
+                "uuid": "00001820-0000-1000-8000-00805f9b34fb",
+                "name": "Internet Protocol Support Service"
+            },
+            {
+                "uuid": "00001809-0000-1000-8000-00805f9b34fb",
+                "name": "Health Thermometer"
+            },
+            {
+                "uuid": "00001815-0000-1000-8000-00805f9b34fb",
+                "name": "Automation IO"
+            },
+            {
+                "uuid": "00001823-0000-1000-8000-00805f9b34fb",
+                "name": "HTTP Proxy"
+            },
+            {
+                "uuid": "00000100-ebae-4526-9511-8357c35d7be2",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000200-ebae-4526-9511-8357c35d7be2",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000300-ebae-4526-9511-8357c35d7be2",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000400-ebae-4526-9511-8357c35d7be2",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0000fe00-ebae-4526-9511-8357c35d7be2",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00002a29-0000-1000-8000-00805f9b34fb",
+                "name": "Manufacturer Name String"
+            },
+            {
+                "uuid": "00002a24-0000-1000-8000-00805f9b34fb",
+                "name": "Model Number String"
+            },
+            {
+                "uuid": "00002a25-0000-1000-8000-00805f9b34fb",
+                "name": "Serial Number String"
+            },
+            {
+                "uuid": "00002a27-0000-1000-8000-00805f9b34fb",
+                "name": "Hardware Revision String"
+            },
+            {
+                "uuid": "00002a26-0000-1000-8000-00805f9b34fb",
+                "name": "Firmware Revision String"
+            },
+            {
+                "uuid": "00002a28-0000-1000-8000-00805f9b34fb",
+                "name": "Software Revision String"
+            },
+            {
+                "uuid": "00002a23-0000-1000-8000-00805f9b34fb",
+                "name": "System ID"
+            },
+            {
+                "uuid": "00002a2a-0000-1000-8000-00805f9b34fb",
+                "name": "IEEE 11073-20601 Regulatory Certification Data List"
+            },
+            {
+                "uuid": "00002a50-0000-1000-8000-00805f9b34fb",
+                "name": "PnP ID"
+            },
+            {
+                "uuid": "00002a08-0000-1000-8000-00805f9b34fb",
+                "name": "Date Time"
+            },
+            {
+                "uuid": "00002a2b-0000-1000-8000-00805f9b34fb",
+                "name": "Current Time"
+            },
+            {
+                "uuid": "00002a0c-0000-1000-8000-00805f9b34fb",
+                "name": "Exact Time 256"
+            },
+            {
+                "uuid": "00002a0a-0000-1000-8000-00805f9b34fb",
+                "name": "Day Date Time"
+            },
+            {
+                "uuid": "00002a37-0000-1000-8000-00805f9b34fb",
+                "name": "Heart Rate Measurement"
+            },
+            {
+                "uuid": "00002a38-0000-1000-8000-00805f9b34fb",
+                "name": "Body Sensor Location"
+            },
+            {
+                "uuid": "00002a39-0000-1000-8000-00805f9b34fb",
+                "name": "Heart Rate Control Point"
+            },
+            {
+                "uuid": "00000101-ebae-4526-9511-8357c35d7be2",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000102-ebae-4526-9511-8357c35d7be2",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000103-ebae-4526-9511-8357c35d7be2",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00002a5b-0000-1000-8000-00805f9b34fb",
+                "name": "CSC Measurement"
+            },
+            {
+                "uuid": "00002a5c-0000-1000-8000-00805f9b34fb",
+                "name": "CSC Feature"
+            },
+            {
+                "uuid": "00002a5d-0000-1000-8000-00805f9b34fb",
+                "name": "Sensor Location"
+            },
+            {
+                "uuid": "00002a55-0000-1000-8000-00805f9b34fb",
+                "name": "SC Control Point"
+            },
+            {
+                "uuid": "00002a53-0000-1000-8000-00805f9b34fb",
+                "name": "RSC Measurement"
+            },
+            {
+                "uuid": "00002a54-0000-1000-8000-00805f9b34fb",
+                "name": "RSC Feature"
+            },
+            {
+                "uuid": "00002a9d-0000-1000-8000-00805f9b34fb",
+                "name": "Weight Measurement"
+            },
+            {
+                "uuid": "00002a9e-0000-1000-8000-00805f9b34fb",
+                "name": "Weight Scale Feature"
+            },
+            {
+                "uuid": "00002a9c-0000-1000-8000-00805f9b34fb",
+                "name": "Body Composition Measurement"
+            },
+            {
+                "uuid": "00002a9b-0000-1000-8000-00805f9b34fb",
+                "name": "Body Composition Feature"
+            },
+            {
+                "uuid": "00002a18-0000-1000-8000-00805f9b34fb",
+                "name": "Glucose Measurement"
+            },
+            {
+                "uuid": "00002a34-0000-1000-8000-00805f9b34fb",
+                "name": "Glucose Measurement Context"
+            },
+            {
+                "uuid": "00002a51-0000-1000-8000-00805f9b34fb",
+                "name": "Glucose Feature"
+            },
+            {
+                "uuid": "00002a52-0000-1000-8000-00805f9b34fb",
+                "name": "Record Access Control Point"
+            },
+            {
+                "uuid": "00002aa7-0000-1000-8000-00805f9b34fb",
+                "name": "CGM Measurement"
+            },
+            {
+                "uuid": "00002aa8-0000-1000-8000-00805f9b34fb",
+                "name": "CGM Feature"
+            },
+            {
+                "uuid": "00002aa9-0000-1000-8000-00805f9b34fb",
+                "name": "CGM Status"
+            },
+            {
+                "uuid": "00002aaa-0000-1000-8000-00805f9b34fb",
+                "name": "CGM Session Start Time"
+            },
+            {
+                "uuid": "00002aab-0000-1000-8000-00805f9b34fb",
+                "name": "CGM Session Run Time"
+            },
+            {
+                "uuid": "00002aac-0000-1000-8000-00805f9b34fb",
+                "name": "CGM Specific Ops Control Point"
+            },
+            {
+                "uuid": "00002a35-0000-1000-8000-00805f9b34fb",
+                "name": "Blood Pressure Measurement"
+            },
+            {
+                "uuid": "00002a36-0000-1000-8000-00805f9b34fb",
+                "name": "Intermediate Cuff Pressure"
+            },
+            {
+                "uuid": "00002a49-0000-1000-8000-00805f9b34fb",
+                "name": "Blood Pressure Feature"
+            },
+            {
+                "uuid": "00002a63-0000-1000-8000-00805f9b34fb",
+                "name": "Cycling Power Measurement"
+            },
+            {
+                "uuid": "00002a65-0000-1000-8000-00805f9b34fb",
+                "name": "Cycling Power Feature"
+            },
+            {
+                "uuid": "00002a64-0000-1000-8000-00805f9b34fb",
+                "name": "Cycling Power Vector"
+            },
+            {
+                "uuid": "00002a66-0000-1000-8000-00805f9b34fb",
+                "name": "Cycling Power Control Point"
+            },
+            {
+                "uuid": "00002a6f-0000-1000-8000-00805f9b34fb",
+                "name": "Humidity"
+            },
+            {
+                "uuid": "00002a75-0000-1000-8000-00805f9b34fb",
+                "name": "Pollen Concentration"
+            },
+            {
+                "uuid": "00002a6e-0000-1000-8000-00805f9b34fb",
+                "name": "Temperature"
+            },
+            {
+                "uuid": "00002a76-0000-1000-8000-00805f9b34fb",
+                "name": "UV Index"
+            },
+            {
+                "uuid": "00002a7a-0000-1000-8000-00805f9b34fb",
+                "name": "Heat Index"
+            },
+            {
+                "uuid": "00002a7d-0000-1000-8000-00805f9b34fb",
+                "name": "Descriptor Value Changed"
+            },
+            {
+                "uuid": "00002a19-0000-1000-8000-00805f9b34fb",
+                "name": "Battery Level"
+            },
+            {
+                "uuid": "00002a00-0000-1000-8000-00805f9b34fb",
+                "name": "Device Name"
+            },
+            {
+                "uuid": "00002a01-0000-1000-8000-00805f9b34fb",
+                "name": "Appearance"
+            },
+            {
+                "uuid": "00002a02-0000-1000-8000-00805f9b34fb",
+                "name": "Peripheral Privacy Flag"
+            },
+            {
+                "uuid": "00002a03-0000-1000-8000-00805f9b34fb",
+                "name": "Reconnection Address"
+            },
+            {
+                "uuid": "00002a04-0000-1000-8000-00805f9b34fb",
+                "name": "Peripheral Preferred Connection Parameters"
+            },
+            {
+                "uuid": "00002a05-0000-1000-8000-00805f9b34fb",
+                "name": "Service Changed"
+            },
+            {
+                "uuid": "00002a8a-0000-1000-8000-00805f9b34fb",
+                "name": "First Name"
+            },
+            {
+                "uuid": "00002a90-0000-1000-8000-00805f9b34fb",
+                "name": "Last Name"
+            },
+            {
+                "uuid": "00002a87-0000-1000-8000-00805f9b34fb",
+                "name": "Email Address"
+            },
+            {
+                "uuid": "00002a80-0000-1000-8000-00805f9b34fb",
+                "name": "Age"
+            },
+            {
+                "uuid": "00002a85-0000-1000-8000-00805f9b34fb",
+                "name": "Date of Birth"
+            },
+            {
+                "uuid": "00002a8c-0000-1000-8000-00805f9b34fb",
+                "name": "Gender"
+            },
+            {
+                "uuid": "00002a98-0000-1000-8000-00805f9b34fb",
+                "name": "Weight"
+            },
+            {
+                "uuid": "00002a8e-0000-1000-8000-00805f9b34fb",
+                "name": "Height"
+            },
+            {
+                "uuid": "00002a96-0000-1000-8000-00805f9b34fb",
+                "name": "VO2 Max"
+            },
+            {
+                "uuid": "00002a8d-0000-1000-8000-00805f9b34fb",
+                "name": "Heart Rate Max"
+            },
+            {
+                "uuid": "00002a92-0000-1000-8000-00805f9b34fb",
+                "name": "Resting Heart Rate"
+            },
+            {
+                "uuid": "00002a91-0000-1000-8000-00805f9b34fb",
+                "name": "Maximum Recommended Heart Rate"
+            },
+            {
+                "uuid": "00002a7f-0000-1000-8000-00805f9b34fb",
+                "name": "Aerobic Threshold"
+            },
+            {
+                "uuid": "00002a83-0000-1000-8000-00805f9b34fb",
+                "name": "Anaerobic Threshold"
+            },
+            {
+                "uuid": "00002a93-0000-1000-8000-00805f9b34fb",
+                "name": "Sport Type for Aerobic and Anaerobic Thresholds"
+            },
+            {
+                "uuid": "00002a97-0000-1000-8000-00805f9b34fb",
+                "name": "Waist Circumference"
+            },
+            {
+                "uuid": "00002a8f-0000-1000-8000-00805f9b34fb",
+                "name": "Hip Circumference"
+            },
+            {
+                "uuid": "00002a88-0000-1000-8000-00805f9b34fb",
+                "name": "Fat Burn Heart Rate Lower Limit"
+            },
+            {
+                "uuid": "00002a89-0000-1000-8000-00805f9b34fb",
+                "name": "Fat Burn Heart Rate Upper Limit"
+            },
+            {
+                "uuid": "00002a86-0000-1000-8000-00805f9b34fb",
+                "name": "Date of Threshold Assessment"
+            },
+            {
+                "uuid": "00002a7e-0000-1000-8000-00805f9b34fb",
+                "name": "Aerobic Heart Rate Lower Limit"
+            },
+            {
+                "uuid": "00002a84-0000-1000-8000-00805f9b34fb",
+                "name": "Aerobic Heart Rate Upper Limit"
+            },
+            {
+                "uuid": "00002a81-0000-1000-8000-00805f9b34fb",
+                "name": "Anaerobic Heart Rate Lower Limit"
+            },
+            {
+                "uuid": "00002a82-0000-1000-8000-00805f9b34fb",
+                "name": "Anaerobic Heart Rate Upper Limit"
+            },
+            {
+                "uuid": "00002a8b-0000-1000-8000-00805f9b34fb",
+                "name": "Five Zone Heart Rate Limits"
+            },
+            {
+                "uuid": "00002a94-0000-1000-8000-00805f9b34fb",
+                "name": "Three Zone Heart Rate Limits"
+            },
+            {
+                "uuid": "00002a95-0000-1000-8000-00805f9b34fb",
+                "name": "Two Zone Heart Rate Limit"
+            },
+            {
+                "uuid": "00002a99-0000-1000-8000-00805f9b34fb",
+                "name": "Database Change Increment"
+            },
+            {
+                "uuid": "00002a9a-0000-1000-8000-00805f9b34fb",
+                "name": "User Index"
+            },
+            {
+                "uuid": "00002a9f-0000-1000-8000-00805f9b34fb",
+                "name": "User Control Point"
+            },
+            {
+                "uuid": "00002aa2-0000-1000-8000-00805f9b34fb",
+                "name": "Language"
+            },
+            {
+                "uuid": "00002a1c-0000-1000-8000-00805f9b34fb",
+                "name": "Temperature Measurement"
+            },
+            {
+                "uuid": "00002a1d-0000-1000-8000-00805f9b34fb",
+                "name": "Temperature Type"
+            },
+            {
+                "uuid": "00002a1e-0000-1000-8000-00805f9b34fb",
+                "name": "Intermediate Temperature"
+            },
+            {
+                "uuid": "00002a21-0000-1000-8000-00805f9b34fb",
+                "name": "Measurement Interval"
+            },
+            {
+                "uuid": "00002a3f-0000-1000-8000-00805f9b34fb",
+                "name": "Alert Status"
+            },
+            {
+                "uuid": "00002a46-0000-1000-8000-00805f9b34fb",
+                "name": "New Alert"
+            },
+            {
+                "uuid": "00002a14-0000-1000-8000-00805f9b34fb",
+                "name": "Reference Time Information"
+            },
+            {
+                "uuid": "00002a56-0000-1000-8000-00805f9b34fb",
+                "name": "Digital"
+            },
+            {
+                "uuid": "00002902-0000-1000-8000-00805f9b34fb",
+                "name": "Client Characteristic Configuration"
+            },
+            {
+                "uuid": "0000fff0-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00001310-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0000d618-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00005801-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0000ffe5-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0000ffe0-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "ecbe3980-c9a2-11e1-b1bd-0002a5d5c51b",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-1000-1000-000000000000",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "53544d54-4552-494f-5345-525631303030",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "6e400001-b5a3-f393-e0a9-e50e24dcca9e",
+                "name": "Nordic Service UUID"
+            },
+            {
+                "uuid": "0000fff1-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00002a2f-0000-3512-2118-0009af100700",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0000ffe9-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0000ffe4-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "53544f55-4152-5449-4e20-205630303031",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "6e400002-b5a3-f393-e0a9-e50e24dcca9e",
+                "name": "Nordic RX Characteristic"
+            },
+            {
+                "uuid": "6e400003-b5a3-f393-e0a9-e50e24dcca9e",
+                "name": "Nordic TX Characteristic"
+            },
+            {
+                "uuid": "0000fe01-ebae-4526-9511-8357c35d7be2",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0000fe02-ebae-4526-9511-8357c35d7be2",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0000fe95-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00002a0f-0000-1000-8000-00805f9b34fb",
+                "name": "Local Time Information"
+            },
+            {
+                "uuid": "00000401-ebae-4526-9511-8357c35d7be2",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000407-ebae-4526-9511-8357c35d7be2",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000402-ebae-4526-9511-8357c35d7be2",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000403-ebae-4526-9511-8357c35d7be2",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000404-ebae-4526-9511-8357c35d7be2",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000405-ebae-4526-9511-8357c35d7be2",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000406-ebae-4526-9511-8357c35d7be2",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000301-ebae-4526-9511-8357c35d7be2",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000302-ebae-4526-9511-8357c35d7be2",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000303-ebae-4526-9511-8357c35d7be2",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000304-ebae-4526-9511-8357c35d7be2",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000201-ebae-4526-9511-8357c35d7be2",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000202-ebae-4526-9511-8357c35d7be2",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000203-ebae-4526-9511-8357c35d7be2",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "7aa99a1d-c128-4218-af51-3ed5fccbb631",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "768694f0-94fe-4cd4-b354-ee44a727998b",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "a5aba82a-6933-4685-8843-b1c94dff816b",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-000000000001",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-000000000002",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-000000000003",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-000000000004",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-000000000005",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-000000000006",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-000000000007",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-000000000008",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-000000000009",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-00000000000a",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-00000000000b",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-00000000000c",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-00000000000d",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-00000000000e",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-00000000000f",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-000000000010",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-000000000011",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-000000000012",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-000000000013",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-000000000014",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-000000000015",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-000000000016",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-000000000017",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-000000000018",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-000000000019",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-00000000001a",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-00000000001b",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-00000000001c",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-00000000001d",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-00000000001e",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-00000000001f",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-000000000020",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "a49eb41e-cb06-495c-9f4f-aa80a90cdf4a",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "fc1cff01-71f1-887f-c5fa-a19b3dca3230",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "fc1cff08-71f1-887f-c5fa-a19b3dca3230",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "fc1cff07-71f1-887f-c5fa-a19b3dca3230",
+                "name": "Unknown"
+            }
+        ]
+    },
+    {
+        "package": "com.workshophk.andrheartrate",
+        "apk": "instant-heart-rate_1.0.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.CAMERA",
+            "android.permission.INTERNET"
+        ],
+        "feature_set": [
+            "android.hardware.camera",
+            "android.hardware.camera.flash"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.veryfit2hr.second",
+        "apk": "veryfitpro_3.2.2.apk",
+        "bluetooth_permissions": true,
+        "permission_set": [
+            "android.permission.MANAGE_ACCOUNTS",
+            "android.permission.CALL_PHONE",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.READ_CALL_LOG",
+            "android.permission.BLUETOOTH_ADMIN",
+            "android.permission.GET_ACCOUNTS",
+            "android.permission.SYSTEM_ALERT_WINDOW",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.RECEIVE_SMS",
+            "android.permission.READ_SMS",
+            "android.permission.BODY_SENSORS",
+            "android.permission.INTERNET",
+            "android.permission.MODIFY_PHONE_STATE",
+            "android.permission.CAMERA",
+            "android.permission.CHANGE_WIFI_STATE",
+            "android.permission.GET_TASKS",
+            "com.project.ble.service",
+            "android.permission.VIBRATE",
+            "android.permission.ANSWER_PHONE_CALLS",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.BLUETOOTH",
+            "android.permission.READ_CONTACTS",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            "android.permission.WRITE_CONTACTS",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.google.android.providers.gsf.permission.READ_GSERVICES",
+            "android.permission.FOREGROUND_SERVICE"
+        ],
+        "feature_set": [
+            "android.hardware.bluetooth_le",
+            "android.hardware.camera",
+            "android.hardware.camera.front",
+            "android.hardware.camera.autofocus",
+            "android.hardware.location.gps"
+        ],
+        "uuid_count": 132,
+        "uuids": [
+            {
+                "uuid": "cf61947c-a8fe-4fa3-aa7c-fbeb7f291352",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000af4-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00002902-0000-1000-8000-00805f9b34fb",
+                "name": "Client Characteristic Configuration"
+            },
+            {
+                "uuid": "00001530-1212-efde-1523-785feabcd123",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0000fe59-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000af0-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000af6-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000af7-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000af1-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000af2-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "258eafa5-e914-47da-95ca-c5ab0dc85b11",
+                "name": "RFC6455 Websocket String"
+            },
+            {
+                "uuid": "0x1008",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0000abf0-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0000abf1-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0000abf2-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00001801-0000-1000-8000-00805f9b34fb",
+                "name": "Generic Attribute"
+            },
+            {
+                "uuid": "00000000-0000-1000-8000-00805f9b34fb",
+                "name": "Base UUID"
+            },
+            {
+                "uuid": "0000fff0-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0000ffe0-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0000feb3-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0000181d-0000-1000-8000-00805f9b34fb",
+                "name": "Weight Scale"
+            },
+            {
+                "uuid": "0000ffe1-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0000ffe3-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0000fff1-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0000fff2-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0000180f-0000-1000-8000-00805f9b34fb",
+                "name": "Battery Service"
+            },
+            {
+                "uuid": "00002a19-0000-1000-8000-00805f9b34fb",
+                "name": "Battery Level"
+            },
+            {
+                "uuid": "00001800-0000-1000-8000-00805f9b34fb",
+                "name": "Generic Access"
+            },
+            {
+                "uuid": "00002a00-0000-1000-8000-00805f9b34fb",
+                "name": "Device Name"
+            },
+            {
+                "uuid": "0000ffe4-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0000ffe2-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0000ffe5-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0000fff4-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00002a9e-0000-1000-8000-00805f9b34fb",
+                "name": "Weight Scale Feature"
+            },
+            {
+                "uuid": "00002a9f-0000-1000-8000-00805f9b34fb",
+                "name": "User Control Point"
+            },
+            {
+                "uuid": "00002aff-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00002a85-0000-1000-8000-00805f9b34fb",
+                "name": "Date of Birth"
+            },
+            {
+                "uuid": "00002a2b-0000-1000-8000-00805f9b34fb",
+                "name": "Current Time"
+            },
+            {
+                "uuid": "00002a9b-0000-1000-8000-00805f9b34fb",
+                "name": "Body Composition Feature"
+            },
+            {
+                "uuid": "00002a8c-0000-1000-8000-00805f9b34fb",
+                "name": "Gender"
+            },
+            {
+                "uuid": "00002a9d-0000-1000-8000-00805f9b34fb",
+                "name": "Weight Measurement"
+            },
+            {
+                "uuid": "00002a8e-0000-1000-8000-00805f9b34fb",
+                "name": "Height"
+            },
+            {
+                "uuid": "00002a9c-0000-1000-8000-00805f9b34fb",
+                "name": "Body Composition Measurement"
+            },
+            {
+                "uuid": "00002a80-0000-1000-8000-00805f9b34fb",
+                "name": "Age"
+            },
+            {
+                "uuid": "00002a25-0000-1000-8000-00805f9b34fb",
+                "name": "Serial Number String"
+            },
+            {
+                "uuid": "0000110b-0000-1000-8000-00805f9b34fb",
+                "name": "Advanced Audio Distribution Profile Sink"
+            },
+            {
+                "uuid": "0000110a-0000-1000-8000-00805f9b34fb",
+                "name": "Advanced Audio Distribution Profile (A2DP) Source"
+            },
+            {
+                "uuid": "0000110d-0000-1000-8000-00805f9b34fb",
+                "name": "Advanced Audio Distribution Service Class"
+            },
+            {
+                "uuid": "00001108-0000-1000-8000-00805f9b34fb",
+                "name": "Headset Profile (HSP)"
+            },
+            {
+                "uuid": "00001112-0000-1000-8000-00805f9b34fb",
+                "name": "Headset Profile (HSP) Audio Gateway"
+            },
+            {
+                "uuid": "0000111e-0000-1000-8000-00805f9b34fb",
+                "name": "Hands Free Profile UUID"
+            },
+            {
+                "uuid": "0000111f-0000-1000-8000-00805f9b34fb",
+                "name": "Hands Free Profile (HFP) Audio Gateway"
+            },
+            {
+                "uuid": "0000110e-0000-1000-8000-00805f9b34fb",
+                "name": "AVRCP Controller"
+            },
+            {
+                "uuid": "0000110c-0000-1000-8000-00805f9b34fb",
+                "name": "AVRCP Target"
+            },
+            {
+                "uuid": "00001105-0000-1000-8000-00805f9b34fb",
+                "name": "OBEX Object Push"
+            },
+            {
+                "uuid": "00001124-0000-1000-8000-00805f9b34fb",
+                "name": "Human Interface Device"
+            },
+            {
+                "uuid": "00001812-0000-1000-8000-00805f9b34fb",
+                "name": "Human Interface Device"
+            },
+            {
+                "uuid": "00001115-0000-1000-8000-00805f9b34fb",
+                "name": "PANU"
+            },
+            {
+                "uuid": "00001116-0000-1000-8000-00805f9b34fb",
+                "name": "Network Aggregation Point"
+            },
+            {
+                "uuid": "0000000f-0000-1000-8000-00805f9b34fb",
+                "name": "Bluetooth Network Encapsulation Protocol"
+            },
+            {
+                "uuid": "0000112e-0000-1000-8000-00805f9b34fb",
+                "name": "OBEX Phonebook Client Equipment"
+            },
+            {
+                "uuid": "0000112f-0000-1000-8000-00805f9b34fb",
+                "name": "Phonebook Access Profile"
+            },
+            {
+                "uuid": "00001134-0000-1000-8000-00805f9b34fb",
+                "name": "OBEX Message Access Profile"
+            },
+            {
+                "uuid": "00001133-0000-1000-8000-00805f9b34fb",
+                "name": "OBEX Message Notification Service"
+            },
+            {
+                "uuid": "00001132-0000-1000-8000-00805f9b34fb",
+                "name": "OBEX Message Access"
+            },
+            {
+                "uuid": "0x0011",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0x0010",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0x000f",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0x000e",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0x000d",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0x000c",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0x000b",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0x000a",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0x0009",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0x0008",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0x0007",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0x0006",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0x0005",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0x0004",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0x0003",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0x0002",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0x0001",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0x0000",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0x008f",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0x008e",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0x008d",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0x008c",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0x008b",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0x008a",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0x0089",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0x0088",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0x0087",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0x0086",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0x0085",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0x0084",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0x0083",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0x0082",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0x0081",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0x0080",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0x00ff",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0x00fe",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0x00fd",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0x0101",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0x0100",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00001101-0000-1000-8000-00805f9b34fb",
+                "name": "SPP Serial Port Service UUID"
+            },
+            {
+                "uuid": "00002904-0000-1000-8000-00805f9b34fb",
+                "name": "Characteristic Presentation Format"
+            },
+            {
+                "uuid": "0000180d-0000-1000-8000-00805f9b34fb",
+                "name": "Heart Rate"
+            },
+            {
+                "uuid": "00002a37-0000-1000-8000-00805f9b34fb",
+                "name": "Heart Rate Measurement"
+            },
+            {
+                "uuid": "00001802-0000-1000-8000-00805f9b34fb",
+                "name": "Immediate Alert"
+            },
+            {
+                "uuid": "00002a06-0000-1000-8000-00805f9b34fb",
+                "name": "Alert Level"
+            },
+            {
+                "uuid": "00001803-0000-1000-8000-00805f9b34fb",
+                "name": "Link Loss"
+            },
+            {
+                "uuid": "00001804-0000-1000-8000-00805f9b34fb",
+                "name": "Tx Power"
+            },
+            {
+                "uuid": "00002a07-0000-1000-8000-00805f9b34fb",
+                "name": "Tx Power Level"
+            },
+            {
+                "uuid": "00006287-3c17-d293-8e48-14fe2e4da212",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00006387-3c17-d293-8e48-14fe2e4da212",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00006487-3c17-d293-8e48-14fe2e4da212",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00006587-3c17-d293-8e48-14fe2e4da212",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0000180a-0000-1000-8000-00805f9b34fb",
+                "name": "Device Information"
+            },
+            {
+                "uuid": "00002a29-0000-1000-8000-00805f9b34fb",
+                "name": "Manufacturer Name String"
+            },
+            {
+                "uuid": "00002a23-0000-1000-8000-00805f9b34fb",
+                "name": "System ID"
+            },
+            {
+                "uuid": "00002a50-0000-1000-8000-00805f9b34fb",
+                "name": "PnP ID"
+            },
+            {
+                "uuid": "0000ffd0-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0000d0ff-3c17-d293-8e48-14fe2e4da212",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0000ffd1-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0000ffd2-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0000ffd3-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0000ffd4-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0000ffd5-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0000ffd8-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00001805-0000-1000-8000-00805f9b34fb",
+                "name": "Current Time Service"
+            },
+            {
+                "uuid": "0000181c-0000-1000-8000-00805f9b34fb",
+                "name": "User Data"
+            },
+            {
+                "uuid": "0000181b-0000-1000-8000-00805f9b34fb",
+                "name": "Body Composition"
+            }
+        ]
+    },
+    {
+        "package": "com.fitdigits.icardio.app",
+        "apk": "icardio-workout-tracker-heart-rate-trainer_10.020.apk",
+        "bluetooth_permissions": true,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.CAMERA",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.android.vending.BILLING",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "android.permission.BLUETOOTH_ADMIN",
+            "android.permission.VIBRATE",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.BLUETOOTH"
+        ],
+        "feature_set": [
+            "android.hardware.bluetooth_le"
+        ],
+        "uuid_count": 15,
+        "uuids": [
+            {
+                "uuid": "0000180d-0000-1000-8000-00805f9b34fb",
+                "name": "Heart Rate"
+            },
+            {
+                "uuid": "00002a37-0000-1000-8000-00805f9b34fb",
+                "name": "Heart Rate Measurement"
+            },
+            {
+                "uuid": "0000180f-0000-1000-8000-00805f9b34fb",
+                "name": "Battery Service"
+            },
+            {
+                "uuid": "00002a19-0000-1000-8000-00805f9b34fb",
+                "name": "Battery Level"
+            },
+            {
+                "uuid": "00001816-0000-1000-8000-00805f9b34fb",
+                "name": "Cycling Speed and Cadence"
+            },
+            {
+                "uuid": "00002a5b-0000-1000-8000-00805f9b34fb",
+                "name": "CSC Measurement"
+            },
+            {
+                "uuid": "00001814-0000-1000-8000-00805f9b34fb",
+                "name": "Running Speed and Cadence"
+            },
+            {
+                "uuid": "00002a53-0000-1000-8000-00805f9b34fb",
+                "name": "RSC Measurement"
+            },
+            {
+                "uuid": "00001818-0000-1000-8000-00805f9b34fb",
+                "name": "Cycling Power"
+            },
+            {
+                "uuid": "00002a63-0000-1000-8000-00805f9b34fb",
+                "name": "Cycling Power Measurement"
+            },
+            {
+                "uuid": "a026ee07-0a7d-4ab3-97fa-f1500f9feb8b",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "a026e01d-0a7d-4ab3-97fa-f1500f9feb8b",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00001101-0000-1000-8000-00805f9b34fb",
+                "name": "SPP Serial Port Service UUID"
+            },
+            {
+                "uuid": "00002902-0000-1000-8000-00805f9b34fb",
+                "name": "Client Characteristic Configuration"
+            },
+            {
+                "uuid": "258eafa5-e914-47da-95ca-c5ab0dc85b11",
+                "name": "RFC6455 Websocket String"
+            }
+        ]
+    },
+    {
+        "package": "eu.mauzesoft.heartratemonitor",
+        "apk": "heart-rate-monitor_2.2.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.CAMERA",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "android.permission.WRITE_SETTINGS",
+            "android.permission.ACCESS_NETWORK_STATE"
+        ],
+        "feature_set": [
+            "android.hardware.camera",
+            "android.hardware.camera.autofocus",
+            "android.hardware.camera.flash"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.fitdigits.irunner.app",
+        "apk": "irunner-run-tracking-heart-rate-training_10.020.apk",
+        "bluetooth_permissions": true,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.VIBRATE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.BLUETOOTH",
+            "android.permission.WAKE_LOCK",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.CAMERA",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.BLUETOOTH_ADMIN",
+            "com.android.vending.BILLING",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.READ_PHONE_STATE"
+        ],
+        "feature_set": [
+            "android.hardware.bluetooth_le"
+        ],
+        "uuid_count": 15,
+        "uuids": [
+            {
+                "uuid": "0000180d-0000-1000-8000-00805f9b34fb",
+                "name": "Heart Rate"
+            },
+            {
+                "uuid": "00002a37-0000-1000-8000-00805f9b34fb",
+                "name": "Heart Rate Measurement"
+            },
+            {
+                "uuid": "0000180f-0000-1000-8000-00805f9b34fb",
+                "name": "Battery Service"
+            },
+            {
+                "uuid": "00002a19-0000-1000-8000-00805f9b34fb",
+                "name": "Battery Level"
+            },
+            {
+                "uuid": "00001816-0000-1000-8000-00805f9b34fb",
+                "name": "Cycling Speed and Cadence"
+            },
+            {
+                "uuid": "00002a5b-0000-1000-8000-00805f9b34fb",
+                "name": "CSC Measurement"
+            },
+            {
+                "uuid": "00001814-0000-1000-8000-00805f9b34fb",
+                "name": "Running Speed and Cadence"
+            },
+            {
+                "uuid": "00002a53-0000-1000-8000-00805f9b34fb",
+                "name": "RSC Measurement"
+            },
+            {
+                "uuid": "00001818-0000-1000-8000-00805f9b34fb",
+                "name": "Cycling Power"
+            },
+            {
+                "uuid": "00002a63-0000-1000-8000-00805f9b34fb",
+                "name": "Cycling Power Measurement"
+            },
+            {
+                "uuid": "a026ee07-0a7d-4ab3-97fa-f1500f9feb8b",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "a026e01d-0a7d-4ab3-97fa-f1500f9feb8b",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00001101-0000-1000-8000-00805f9b34fb",
+                "name": "SPP Serial Port Service UUID"
+            },
+            {
+                "uuid": "00002902-0000-1000-8000-00805f9b34fb",
+                "name": "Client Characteristic Configuration"
+            },
+            {
+                "uuid": "258eafa5-e914-47da-95ca-c5ab0dc85b11",
+                "name": "RFC6455 Websocket String"
+            }
+        ]
+    },
+    {
+        "package": "com.icebit.pulse",
+        "apk": "pulse-heart-rate-monitor_3.1.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.WAKE_LOCK",
+            "com.icebit.pulse.permission.C2D_MESSAGE",
+            "android.permission.CAMERA",
+            "android.permission.INTERNET"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.Abott.EASYHEARTAPP",
+        "apk": "easy-heart_1.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.CAMERA",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET"
+        ],
+        "feature_set": [
+            "android.hardware.camera",
+            "android.hardware.camera.autofocus",
+            "android.hardware.camera.front",
+            "android.hardware.touchscreen",
+            "android.hardware.touchscreen.multitouch",
+            "android.hardware.touchscreen.multitouch.distinct"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "tw.com.ivtech.HeartCam",
+        "apk": "heart-cam_1.0.2.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.VIBRATE",
+            "android.permission.INTERNET",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.CAMERA",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.android.launcher.permission.UNINSTALL_SHORTCUT",
+            "android.permission.FLASHLIGHT",
+            "com.android.launcher.permission.INSTALL_SHORTCUT",
+            "android.permission.WAKE_LOCK"
+        ],
+        "feature_set": [
+            "android.hardware.camera",
+            "android.hardware.camera.autofocus",
+            "android.hardware.camera.front",
+            "android.hardware.camera.front.autofocus"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    }
+]

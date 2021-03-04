@@ -1,0 +1,401 @@
+[
+    {
+        "package": "com.snis.stroke",
+        "apk": "stroke-scales-for-ems_1.3.2.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.INTERNET",
+            "android.permission.WRITE_EXTERNAL_STORAGE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "ch.iAgentur.iswa",
+        "apk": "stroke-guidelines_1.1.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.INTERNET",
+            "android.permission.WRITE_EXTERNAL_STORAGE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.blackfrogweb.rehabcoach",
+        "apk": "rehab-coach-cva-stroke-rehabilitation-recovery_1.14.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "appinventor.ai_poopatdgr8.Neurology_Stroke",
+        "apk": "neurology-stroke-localization_5.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACCESS_WIFI_STATE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.imagiration.aphasia",
+        "apk": "recoverbrain-therapy-for-aphasia-stroke-dementia_7.5.2.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.INTERNET",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "com.android.vending.BILLING",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.amazonaws.unity.permission.C2D_MESSAGE"
+        ],
+        "feature_set": [
+            "android.software.vr.mode",
+            "android.software.vr.high_performance",
+            "android.hardware.vulkan",
+            "android.hardware.touchscreen",
+            "android.hardware.touchscreen.multitouch",
+            "android.hardware.touchscreen.multitouch.distinct"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.gule.bottom_nav",
+        "apk": "stroke-riskometer_1.0.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.INTERNET",
+            "android.permission.VIBRATE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.soft.etz.nihstrokescale",
+        "apk": "nih-stroke-scale-nihss_1.2.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.INTERNET"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.joskyjosh.hopeafter",
+        "apk": "hope-after-stroke_3.0.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.WAKE_LOCK"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.ninezest.stroke",
+        "apk": "9zest-stroke-recovery_3.2.2.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.INTERNET",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.USE_CREDENTIALS",
+            "android.permission.GET_ACCOUNTS",
+            "com.android.vending.BILLING",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.ninezest.stroke.permission.C2D_MESSAGE",
+            "android.permission.WAKE_LOCK"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "appinventor.ai_NIHSSapp.NIHStrokeScale3",
+        "apk": "nihss-nih-stroke-scale_3.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.WRITE_EXTERNAL_STORAGE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.sasyabook.ivt",
+        "apk": "iv-stroke-thrombolysis_1.41.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.myprograms.nihss",
+        "apk": "nihss_3.6.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "net.allm.fasted",
+        "apk": "jointriage_2.4.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.MANAGE_ACCOUNTS",
+            "android.permission.AUTHENTICATE_ACCOUNTS",
+            "com.android.launcher.permission.INSTALL_SHORTCUT",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.GET_ACCOUNTS",
+            "android.permission.ACCESS_FINE_LOCATION"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.cardioneurology.af",
+        "apk": "af-stroke-free_1.1.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.healthinn.rehand",
+        "apk": "rehand-hand-rehabilitation-on-tablet-device_1.4.2.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.anddoes.launcher.permission.UPDATE_COUNT",
+            "android.permission.GET_ACCOUNTS",
+            "com.sec.android.provider.badge.permission.READ",
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            "com.oppo.launcher.permission.WRITE_SETTINGS",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.healthinn.rehand.permission.C2D_MESSAGE",
+            "android.permission.READ_APP_BADGE",
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            "android.permission.WAKE_LOCK",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.sonyericsson.home.permission.BROADCAST_BADGE",
+            "android.permission.GET_ACCOUNTS_PRIVILEGED",
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            "me.everything.badger.permission.BADGE_COUNT_READ",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.INTERNET",
+            "com.oppo.launcher.permission.READ_SETTINGS",
+            "com.android.vending.BILLING",
+            "com.htc.launcher.permission.READ_SETTINGS",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            "com.sec.android.provider.badge.permission.WRITE",
+            "com.majeur.launcher.permission.UPDATE_BADGE",
+            "me.everything.badger.permission.BADGE_COUNT_WRITE",
+            "android.permission.VIBRATE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.qompium.fibricheck",
+        "apk": "fibricheck-check-your-heart-prevent-strokes_1.8.2.apk",
+        "bluetooth_permissions": true,
+        "permission_set": [
+            "com.samsung.accessory.permission.ACCESSORY_FRAMEWORK",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.CAMERA",
+            "com.samsung.WATCH_APP_TYPE.Companion",
+            "android.permission.WAKE_LOCK",
+            "android.permission.VIBRATE",
+            "android.permission.FLASHLIGHT",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.BLUETOOTH",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.BLUETOOTH_ADMIN",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.FOREGROUND_SERVICE"
+        ],
+        "feature_set": [],
+        "uuid_count": 2,
+        "uuids": [
+            {
+                "uuid": "258eafa5-e914-47da-95ca-c5ab0dc85b11",
+                "name": "RFC6455 Websocket String"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-000000000000",
+                "name": "Unknown"
+            }
+        ]
+    },
+    {
+        "package": "com.bhavajeet.charan.myspeechtherapy",
+        "apk": "aphasia-speech-therapy_9.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.bhavajeet.charan.myspeechtherapy.permission.C2D_MESSAGE",
+            "android.permission.INTERNET",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.CAMERA",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.WAKE_LOCK"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.reflexpainmanagement.orientatefree",
+        "apk": "orientate_1.1.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.android.vending.BILLING",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.INTERNET"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.constanttherapy.android.main",
+        "apk": "constant-therapy_5.0.3.0.apk",
+        "bluetooth_permissions": true,
+        "permission_set": [
+            "com.constanttherapy.android.main.permission.RECEIVE_ADM_MESSAGE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.amazon.device.messaging.permission.RECEIVE",
+            "android.permission.RECORD_AUDIO",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.BLUETOOTH",
+            "android.permission.WAKE_LOCK",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.VIBRATE"
+        ],
+        "feature_set": [
+            "android.hardware.bluetooth"
+        ],
+        "uuid_count": 2,
+        "uuids": [
+            {
+                "uuid": "258eafa5-e914-47da-95ca-c5ab0dc85b11",
+                "name": "RFC6455 Websocket String"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-000000000000",
+                "name": "Unknown"
+            }
+        ]
+    },
+    {
+        "package": "com.tactustherapy.advancedlanguagetherapy.lite",
+        "apk": "advanced-language-therapy-lite_2.0.84.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.RECORD_AUDIO",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.SYSTEM_ALERT_WINDOW",
+            "android.permission.INTERNET",
+            "android.permission.WRITE_EXTERNAL_STORAGE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "ase.cha2ds2_vas",
+        "apk": "cha2ds2-vasc-has-bled-score-calculator_1.4.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.WAKE_LOCK",
+            "com.google.android.c2dm.permission.RECEIVE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "kr.pe.skeo.stroke",
+        "apk": "\ub1cc\uc878\uc911-stop_1.8.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.WAKE_LOCK",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.INTERNET",
+            "android.permission.VIBRATE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.USE_CREDENTIALS",
+            "kr.pe.skeo.stroke.permission.C2D_MESSAGE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.GET_ACCOUNTS"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    }
+]

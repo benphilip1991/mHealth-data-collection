@@ -1,0 +1,91 @@
+[
+    {
+        "package": "gov.hhs.samhsa.app.bullying",
+        "apk": "knowbullying-by-samhsa_2.1.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.INTERNET",
+            "com.sec.android.provider.badge.permission.WRITE",
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            "com.oppo.launcher.permission.WRITE_SETTINGS",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.anddoes.launcher.permission.UPDATE_COUNT",
+            "com.oppo.launcher.permission.READ_SETTINGS",
+            "android.permission.WAKE_LOCK",
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            "android.permission.READ_APP_BADGE",
+            "me.everything.badger.permission.BADGE_COUNT_WRITE",
+            "com.htc.launcher.permission.READ_SETTINGS",
+            "android.permission.ACCESS_WIFI_STATE",
+            "com.majeur.launcher.permission.UPDATE_BADGE",
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            "me.everything.badger.permission.BADGE_COUNT_READ",
+            "com.sec.android.provider.badge.permission.READ",
+            "com.sonyericsson.home.permission.BROADCAST_BADGE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.bearpty.talkcampus",
+        "apk": "talkcampus_1.6.3.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_FINE_LOCATION",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.android.vending.BILLING",
+            "android.permission.GET_ACCOUNTS",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.RECORD_AUDIO",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.bearpty.talkcampus.permission.C2D_MESSAGE",
+            "android.permission.INTERNET",
+            "android.permission.USE_CREDENTIALS",
+            "android.permission.CAMERA",
+            "android.permission.GET_TASKS",
+            "android.permission.VIBRATE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.READ_CONTACTS",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "com.google.android.providers.gsf.permission.READ_GSERVICES"
+        ],
+        "feature_set": [
+            "android.hardware.camera",
+            "android.hardware.camera.autofocus",
+            "android.hardware.camera.front",
+            "android.hardware.microphone"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "bot.touchkin",
+        "apk": "wysa-stress-depression-anxiety-therapy-chatbot_2.2.8.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.INTERNET",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.RECORD_AUDIO",
+            "com.android.vending.BILLING",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.WAKE_LOCK"
+        ],
+        "feature_set": [
+            "android.hardware.wifi",
+            "android.hardware.screen.portrait",
+            "android.hardware.telephony"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    }
+]

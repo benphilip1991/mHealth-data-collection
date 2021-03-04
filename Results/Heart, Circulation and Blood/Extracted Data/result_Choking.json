@@ -1,0 +1,27 @@
+[
+    {
+        "package": "org.learncpr.videoapp",
+        "apk": "resuscitate_2.1.1712021348.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.INTERNET",
+            "android.permission.WRITE_EXTERNAL_STORAGE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.fundacionmapfre.sosrespira",
+        "apk": "sos-respira_2.0.100.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.INTERNET"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    }
+]

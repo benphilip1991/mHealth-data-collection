@@ -1,0 +1,1871 @@
+[
+    {
+        "package": "eu.smartpatient.mytherapy",
+        "apk": "pill-reminder-medication-tracker-mytherapy_3.69.2.apk",
+        "bluetooth_permissions": true,
+        "permission_set": [
+            "android.permission.CAMERA",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "android.permission.DISABLE_KEYGUARD",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.USE_FINGERPRINT",
+            "android.permission.BLUETOOTH",
+            "android.permission.VIBRATE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            "android.permission.BLUETOOTH_ADMIN",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.USE_FULL_SCREEN_INTENT",
+            "android.permission.RECEIVE_BOOT_COMPLETED"
+        ],
+        "feature_set": [
+            "android.hardware.camera",
+            "android.hardware.bluetooth",
+            "android.hardware.location",
+            "android.hardware.bluetooth_le"
+        ],
+        "uuid_count": 7,
+        "uuids": [
+            {
+                "uuid": "00002902-0000-1000-8000-00805f9b34fb",
+                "name": "Client Characteristic Configuration"
+            },
+            {
+                "uuid": "d41e8ebd-11d3-43d1-963a-e409aef79f72",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "7d5e25ae-4011-4003-b6bc-51ecae948c8e",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "2cf1be01-bb28-4485-92f4-fd6a6ccada11",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "e30afd03-91c5-452f-9ba9-ce09243b154a",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "e30afd02-91c5-452f-9ba9-ce09243b154a",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "e30afd01-91c5-452f-9ba9-ce09243b154a",
+                "name": "Unknown"
+            }
+        ]
+    },
+    {
+        "package": "com.medisafe.android.client",
+        "apk": "pill-reminder-medication-tracker-medisafe_8.92.09877.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.READ_CALENDAR",
+            "com.medisafe.android.debugapp.RECEIVE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.WRITE_INTERNAL_STORAGE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.WAKE_LOCK",
+            "android.permission.VIBRATE",
+            "android.permission.ACCESS_BACKGROUND_LOCATION",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.android.vending.BILLING",
+            "android.permission.SYSTEM_ALERT_WINDOW",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.READ_CONTACTS",
+            "android.permission.WRITE_CALENDAR",
+            "android.permission.GET_ACCOUNTS",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.FOREGROUND_SERVICE"
+        ],
+        "feature_set": [
+            "android.hardware.screen.portrait",
+            "android.hardware.touchscreen"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.bestfuncoolapps.TakeYourPills",
+        "apk": "pill-reminder-medication-tracker-takeyourpills_2.1.5.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.RECEIVE_BOOT_COMPLETED"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.devsoldiers.calendar.pills.limit",
+        "apk": "medication-reminder_1.4.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.VIBRATE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            "android.permission.INTERNET",
+            "com.android.vending.BILLING",
+            "android.permission.WRITE_EXTERNAL_STORAGE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "mobilecreatures.pillstime",
+        "apk": "pills-time-medication-tracker-pill-reminder_2.0.2.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.CAMERA",
+            "android.permission.WAKE_LOCK",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.INTERNET",
+            "android.permission.VIBRATE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            "com.android.vending.BILLING",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.RECEIVE_BOOT_COMPLETED"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "app.medcontrol.alarm.pillreminder",
+        "apk": "pill-reminder-medicine-app-medcontrol_1.7.2.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.WAKE_LOCK",
+            "android.permission.SYSTEM_ALERT_WINDOW",
+            "android.permission.INTERNET",
+            "android.permission.VIBRATE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "doctorram.medlist",
+        "apk": "medlist-pro-medication-reminder_4.04.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.SYSTEM_ALERT_WINDOW",
+            "android.permission.BODY_SENSORS",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.USE_CREDENTIALS",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.android.vending.BILLING",
+            "android.permission.WRITE_INTERNAL_STORAGE",
+            "android.permission.ACCESS_NOTIFICATION_POLICY",
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.INTERNET",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.VIBRATE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_CONTACTS",
+            "com.android.vending.CHECK_LICENSE",
+            "android.permission.CAMERA",
+            "android.permission.GET_ACCOUNTS",
+            "android.permission.WAKE_LOCK"
+        ],
+        "feature_set": [
+            "android.hardware.camera",
+            "android.hardware.camera.autofocus",
+            "android.hardware.wifi"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.irwaa.medicareminders",
+        "apk": "medica-medication-reminder-pill-tracker-refill_8.1.1.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.INTERNET",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.CAMERA",
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            "com.android.vending.BILLING",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.WAKE_LOCK",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.SYSTEM_ALERT_WINDOW",
+            "android.permission.VIBRATE",
+            "android.permission.REORDER_TASKS"
+        ],
+        "feature_set": [
+            "android.hardware.camera",
+            "android.hardware.camera.autofocus",
+            "android.hardware.screen.portrait"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.aidareminder.pillreminder",
+        "apk": "pill-reminder-medication-tracker-with-alarm_1.5.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.INTERNET",
+            "android.permission.READ_CONTACTS",
+            "com.android.vending.BILLING",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "com.aidareminder.pillreminder.PRIVATE",
+            "android.permission.WRITE_EXTERNAL_STORAGE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.carezone.caredroid.careapp.medications",
+        "apk": "carezone_9.5.2.0+(flagship).apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.CAMERA",
+            "android.permission.READ_SYNC_STATS",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.WAKE_LOCK",
+            "android.permission.VIBRATE",
+            "android.permission.MANAGE_ACCOUNTS",
+            "android.permission.READ_SYNC_SETTINGS",
+            "android.permission.FLASHLIGHT",
+            "android.permission.AUTHENTICATE_ACCOUNTS",
+            "com.carezone.caredroid.careapp.permission.CZ_CONTENT_PROVIDER",
+            "com.carezone.caredroid.permission.CZ_ACCOUNT",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.WRITE_SYNC_SETTINGS",
+            "android.permission.USE_CREDENTIALS",
+            "android.permission.WRITE_SETTINGS",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.google.android.providers.gsf.permission.READ_GSERVICES",
+            "android.permission.READ_CONTACTS",
+            "android.permission.GET_ACCOUNTS",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.FOREGROUND_SERVICE"
+        ],
+        "feature_set": [
+            "android.hardware.camera",
+            "android.hardware.camera.autofocus",
+            "android.hardware.camera.flash"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.montunosoftware.dosecast",
+        "apk": "dosecast-pill-reminder-medication-tracker-app_5.23.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.WAKE_LOCK",
+            "android.permission.VIBRATE",
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            "com.montunosoftware.dosecast.permission.C2D_MESSAGE",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_CONTACTS",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.GET_ACCOUNTS",
+            "com.android.vending.BILLING",
+            "android.permission.ACCESS_WIFI_STATE"
+        ],
+        "feature_set": [
+            "android.hardware.telephony"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.artifyapp.mcare",
+        "apk": "pill-reminder-max-nutrition-management-tracker_1.3.4.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.USE_FULL_SCREEN_INTENT",
+            "android.permission.FOREGROUND_SERVICE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "android.permission.VIBRATE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.ks.notipills",
+        "apk": "dailypills-pill-reminder-alarm-checker_0.1.14.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.VIBRATE",
+            "android.permission.INTERNET",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.USE_FULL_SCREEN_INTENT",
+            "android.permission.WAKE_LOCK"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.careclinicsoftware.careclinic",
+        "apk": "symptom-tracker-medicine-health-symptoms-diary_2.06.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_FINE_LOCATION",
+            "com.majeur.launcher.permission.UPDATE_BADGE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.anddoes.launcher.permission.UPDATE_COUNT",
+            "android.permission.SYSTEM_ALERT_WINDOW",
+            "me.everything.badger.permission.BADGE_COUNT_WRITE",
+            "com.oppo.launcher.permission.WRITE_SETTINGS",
+            "android.permission.RECORD_AUDIO",
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.android.vending.BILLING",
+            "com.sec.android.provider.badge.permission.READ",
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            "me.everything.badger.permission.BADGE_COUNT_READ",
+            "com.sec.android.provider.badge.permission.WRITE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            "android.permission.INTERNET",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.VIBRATE",
+            "com.oppo.launcher.permission.READ_SETTINGS",
+            "android.permission.READ_APP_BADGE",
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_CONTACTS",
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+            "com.sonyericsson.home.permission.BROADCAST_BADGE",
+            "android.permission.CAMERA",
+            "android.permission.USE_FINGERPRINT",
+            "android.permission.WAKE_LOCK",
+            "com.htc.launcher.permission.READ_SETTINGS"
+        ],
+        "feature_set": [
+            "android.hardware.camera.autofocus"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.whisperarts.mrpillster",
+        "apk": "mr-pillster-pill-box-pill-reminder-tracker-rx_2.4.4.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.VIBRATE",
+            "android.permission.INTERNET",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "com.android.vending.BILLING",
+            "android.permission.SYSTEM_ALERT_WINDOW",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.WAKE_LOCK"
+        ],
+        "feature_set": [
+            "android.hardware.location",
+            "android.hardware.location.network",
+            "android.hardware.location.gps"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.baviux.pillreminder",
+        "apk": "lady-pill-reminder-\u00ae_2.8.1.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.VIBRATE",
+            "android.permission.MODIFY_AUDIO_SETTINGS"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.qappscom.reminder.medicationreminder",
+        "apk": "medication-reminder-medicine-app-2019_3.7.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.qappscom.reminder.medicationreminder.permission.C2D_MESSAGE",
+            "android.permission.INTERNET",
+            "android.permission.VIBRATE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.medfoxdigital.medfox",
+        "apk": "pill-reminder-and-medication-tracker-from-medfox_1.35.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.CAMERA",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.RECEIVE_BOOT_COMPLETED"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.earthflare.android.medhelper.lite",
+        "apk": "med-helper-pill-reminder_3.5.1.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.VIBRATE",
+            "android.permission.READ_LOGS",
+            "android.permission.INTERNET",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.earthflare.android.medhelper.lite.permission.C2D_MESSAGE",
+            "android.permission.WAKE_LOCK"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "pill.reminder.medication.tracker.tadpole",
+        "apk": "pill-reminder-medication-tracker_1.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.INTERNET",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.WAKE_LOCK"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "ch.innovation6.tom.android",
+        "apk": "tom-pill-reminder-and-tablet-medication-tracker_1.6.5.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.android.vending.BILLING",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            "me.everything.badger.permission.BADGE_COUNT_READ",
+            "com.majeur.launcher.permission.UPDATE_BADGE",
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            "com.anddoes.launcher.permission.UPDATE_COUNT",
+            "android.permission.ACCESS_WIFI_STATE",
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+            "android.permission.WAKE_LOCK",
+            "ch.innovation6.tom.android.permission.C2D_MESSAGE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.sec.android.provider.badge.permission.READ",
+            "com.sonyericsson.home.permission.BROADCAST_BADGE",
+            "com.sec.android.provider.badge.permission.WRITE",
+            "android.permission.INTERNET",
+            "com.oppo.launcher.permission.WRITE_SETTINGS",
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            "android.permission.CAMERA",
+            "android.permission.VIBRATE",
+            "com.oppo.launcher.permission.READ_SETTINGS",
+            "android.permission.READ_APP_BADGE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "me.everything.badger.permission.BADGE_COUNT_WRITE",
+            "android.permission.FOREGROUND_SERVICE",
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            "com.htc.launcher.permission.READ_SETTINGS"
+        ],
+        "feature_set": [
+            "android.hardware.camera"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "uk.co.pilllogger",
+        "apk": "pill-logger-meds-tracker_2.12.11.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.INTERNET",
+            "uk.co.pilllogger.permission.C2D_MESSAGE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.WAKE_LOCK",
+            "com.android.vending.BILLING",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.VIBRATE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.WRITE_EXTERNAL_STORAGE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "medication.reminder.app",
+        "apk": "medication-reminder-pill-reminder_3.3.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.WAKE_LOCK",
+            "android.permission.VIBRATE",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.google.android.c2dm.permission.RECEIVE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.instait.pocketnurse",
+        "apk": "pocketnurse-pill-reminder_1.2.3.apk",
+        "bluetooth_permissions": true,
+        "permission_set": [
+            "android.permission.VIBRATE",
+            "com.android.alarm.permission.SET_ALARM",
+            "android.permission.INTERNET",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.BLUETOOTH",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.GET_TASKS",
+            "android.permission.WAKE_LOCK"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.abbvie.patientapp",
+        "apk": "complete-\u2013-medication-tracker_7.2.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.CALL_PHONE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.VIBRATE",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.USE_BIOMETRIC",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.CAMERA",
+            "android.permission.USE_FINGERPRINT",
+            "android.permission.READ_PHONE_STATE"
+        ],
+        "feature_set": [
+            "android.hardware.camera",
+            "android.hardware.camera.autofocus"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.abbvie.patientapp",
+        "apk": "complete-\u2013-medication-tracker_7.2.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.CALL_PHONE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.VIBRATE",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.USE_BIOMETRIC",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.CAMERA",
+            "android.permission.USE_FINGERPRINT",
+            "android.permission.READ_PHONE_STATE"
+        ],
+        "feature_set": [
+            "android.hardware.camera",
+            "android.hardware.camera.autofocus"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.drugscom.app",
+        "apk": "drugs-com-medication-guide_2.10.4.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.INTERNET",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            "android.permission.DOWNLOAD_WITHOUT_NOTIFICATION",
+            "com.android.vending.BILLING",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "com.google.android.providers.gsf.permission.READ_GSERVICES",
+            "android.permission.ACCESS_WIFI_STATE",
+            "com.drugscom.app.permission.MAPS_RECEIVE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.WAKE_LOCK",
+            "com.google.android.c2dm.permission.RECEIVE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.nio.medicationreminder",
+        "apk": "medication-reminders-widget_1.1.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.VIBRATE",
+            "android.permission.CAMERA"
+        ],
+        "feature_set": [
+            "android.hardware.camera",
+            "android.hardware.camera.front",
+            "android.hardware.camera.autofocus"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "ah_apps.medicinereminder",
+        "apk": "medicine-pills-time-reminder_3.0.2.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            "android.permission.WAKE_LOCK",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.INTERNET",
+            "android.permission.VIBRATE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "birth.control.pill.reminder.tadpole",
+        "apk": "birth-control-pill-reminder-tracker_1.2.1.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.WAKE_LOCK",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.INTERNET",
+            "android.permission.RECEIVE_BOOT_COMPLETED"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.medactionplan.mymedscheduleplus",
+        "apk": "mymedschedule-plus_1.1.45.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.INTERNET",
+            "com.sec.android.provider.badge.permission.WRITE",
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            "com.oppo.launcher.permission.WRITE_SETTINGS",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.anddoes.launcher.permission.UPDATE_COUNT",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.oppo.launcher.permission.READ_SETTINGS",
+            "android.permission.WAKE_LOCK",
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.READ_APP_BADGE",
+            "me.everything.badger.permission.BADGE_COUNT_WRITE",
+            "com.htc.launcher.permission.READ_SETTINGS",
+            "com.majeur.launcher.permission.UPDATE_BADGE",
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            "me.everything.badger.permission.BADGE_COUNT_READ",
+            "com.medactionplan.mymedscheduleplus.permission.C2D_MESSAGE",
+            "com.sec.android.provider.badge.permission.READ",
+            "com.sonyericsson.home.permission.BROADCAST_BADGE",
+            "com.google.android.c2dm.permission.RECEIVE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.devsoldiers.calendar.vesta.pills",
+        "apk": "birth-control-pill-reminder_1.3.7.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.WAKE_LOCK",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.android.vending.BILLING",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            "android.permission.INTERNET",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.VIBRATE",
+            "android.permission.WRITE_EXTERNAL_STORAGE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.mangohealth.mango",
+        "apk": "mango-health_2.6.49-dd9048a1e.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.GET_ACCOUNTS",
+            "com.google.android.providers.gsf.permission.READ_GSERVICES",
+            "android.permission.WAKE_LOCK",
+            "android.permission.READ_CONTACTS",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.SYSTEM_ALERT_WINDOW",
+            "android.permission.ACTIVITY_RECOGNITION",
+            "android.permission.AUTHENTICATE_ACCOUNTS",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.MANAGE_ACCOUNTS",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.INTERNET",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.USE_CREDENTIALS",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.VIBRATE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "co.quanyong.pinkbird",
+        "apk": "period-tracker-ovulation-calendar-by-pinkbird_1.20.3.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.android.vending.BILLING",
+            "android.permission.USE_FINGERPRINT",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.INTERNET",
+            "android.permission.VIBRATE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.WRITE_CALENDAR",
+            "android.permission.ACCESS_WIFI_STATE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.READ_CALENDAR",
+            "com.google.android.c2dm.permission.RECEIVE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "at.jclehner.rxdroid",
+        "apk": "rxdroid_0.9.33.2.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.VIBRATE"
+        ],
+        "feature_set": [
+            "android.hardware.vibrate"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.pill.view",
+        "apk": "contraceptive-pill-reminder_1.1.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.INTERNET",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.pill.view.permission.C2D_MESSAGE",
+            "android.permission.WAKE_LOCK"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.jmsoft.medicinereminder",
+        "apk": "medicine-time_4.5.12.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.android.vending.BILLING",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "android.permission.VIBRATE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.CHANGE_NETWORK_STATE"
+        ],
+        "feature_set": [
+            "android.hardware.touchscreen",
+            "android.hardware.telephony",
+            "android.hardware.camera",
+            "android.hardware.front"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.bearable",
+        "apk": "bearable-symptoms-mood-tracker_1.0.145.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.USE_FINGERPRINT",
+            "com.anddoes.launcher.permission.UPDATE_COUNT",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.sec.android.provider.badge.permission.READ",
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            "android.permission.USE_BIOMETRIC",
+            "com.oppo.launcher.permission.WRITE_SETTINGS",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_APP_BADGE",
+            "android.permission.WAKE_LOCK",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.sonyericsson.home.permission.BROADCAST_BADGE",
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            "com.android.vending.CHECK_LICENSE",
+            "me.everything.badger.permission.BADGE_COUNT_READ",
+            "android.permission.INTERNET",
+            "com.oppo.launcher.permission.READ_SETTINGS",
+            "com.android.vending.BILLING",
+            "com.htc.launcher.permission.READ_SETTINGS",
+            "android.permission.ACCESS_WIFI_STATE",
+            "me.everything.badger.permission.BADGE_COUNT_WRITE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            "com.sec.android.provider.badge.permission.WRITE",
+            "com.majeur.launcher.permission.UPDATE_BADGE",
+            "android.permission.ACCESS_FINE_LOCATION"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.smsrobot.reminder",
+        "apk": "birth-control-pill-reminder_3.5.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.smsrobot.reminder.permission.C2D_MESSAGE",
+            "android.permission.GET_ACCOUNTS",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.USE_FINGERPRINT"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.vitusvet.android",
+        "apk": "vitusvet-pet-health-care-app_3.31.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.CAMERA",
+            "android.permission.READ_PHONE_STATE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.VIBRATE",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.SYSTEM_ALERT_WINDOW",
+            "android.permission.USE_CREDENTIALS",
+            "com.vitusvet.android.permission.RECEIVE_ADM_MESSAGE",
+            "com.vitusvet.android.permission.C2D_MESSAGE",
+            "android.permission.GET_TASKS",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.amazon.device.messaging.permission.RECEIVE",
+            "com.vitusvet.android.permission.UA_DATA",
+            "android.permission.RECEIVE_BOOT_COMPLETED"
+        ],
+        "feature_set": [
+            "android.hardware.camera",
+            "android.hardware.camera.autofocus",
+            "android.hardware.camera.front",
+            "android.hardware.microphone"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.pill.view",
+        "apk": "contraceptive-pill-reminder_1.1.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.INTERNET",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.pill.view.permission.C2D_MESSAGE",
+            "android.permission.WAKE_LOCK"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.benbasha.pill",
+        "apk": "birth-control-pill-reminder_1.23.72.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "android.permission.VIBRATE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.android.vending.BILLING",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.RECEIVE_BOOT_COMPLETED"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.drink.water.reminder.alarm.tracker",
+        "apk": "drink-water-app-water-tracker-drinking-reminder_1.22.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "com.android.vending.BILLING",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.INTERNET",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.ACCESS_BACKGROUND_LOCATION",
+            "com.android.alarm.permission.SET_ALARM"
+        ],
+        "feature_set": [
+            "android.hardware.location",
+            "android.hardware.location.network"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.eatwise.MealReminder",
+        "apk": "eatwise-meal-reminder_1.1.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "android.permission.VIBRATE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.mobilecreatures.drinkwater",
+        "apk": "water-time-drink-tracker-reminder_10.0.3.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.QUICKBOOT_POWERON",
+            "android.permission.WAKE_LOCK",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.VIBRATE",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.android.alarm.permission.SET_ALARM",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "com.android.vending.BILLING",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.ACCESS_WIFI_STATE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.clue.android",
+        "apk": "clue-period-tracker-ovulation-cycle-pregnancy_31.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.WRITE_SYNC_SETTINGS",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "ANDROID.PERMISSION.VIBRATE",
+            "android.permission.INTERNET",
+            "android.permission.READ_SYNC_SETTINGS",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.AUTHENTICATE_ACCOUNTS",
+            "android.permission.GET_ACCOUNTS",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.MANAGE_ACCOUNTS",
+            "com.android.vending.BILLING",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.WAKE_LOCK",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.VIBRATE",
+            "android.permission.FOREGROUND_SERVICE"
+        ],
+        "feature_set": [
+            "android.hardware.wifi"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "ascendik.drinkwaterreminder.hydration.watertracker.drinkwater",
+        "apk": "drink-water-reminder-water-tracker-and-diet_1.24.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.WAKE_LOCK",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.android.vending.BILLING",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            "android.permission.INTERNET",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "swimminsparrow.ricordamelo",
+        "apk": "adviseme-simple-pill-reminder_2.9.31.08.19.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.CAMERA",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.WAKE_LOCK",
+            "com.android.vending.CHECK_LICENSE",
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            "android.permission.VIBRATE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.DISABLE_KEYGUARD",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.INTERNET",
+            "android.permission.USE_CREDENTIALS",
+            "com.google.android.gm.permission.WRITE_GMAIL",
+            "com.google.android.gm.permission.AUTO_SEND",
+            "android.permission.FLASHLIGHT",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.GET_ACCOUNTS",
+            "android.permission.RECEIVE_BOOT_COMPLETED"
+        ],
+        "feature_set": [
+            "android.hardware.touchscreen",
+            "android.hardware.camera",
+            "android.hardware.camera.autofocus"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.mymeds",
+        "apk": "mymeds_6.1.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.google.android.providers.gsf.permission.READ_GSERVICES",
+            "android.permission.WAKE_LOCK",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.CAMERA",
+            "android.permission.USE_FINGERPRINT",
+            "com.android.vending.BILLING",
+            "android.permission.SYSTEM_ALERT_WINDOW",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.INTERNET",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.VIBRATE",
+            "android.permission.WRITE_EXTERNAL_STORAGE"
+        ],
+        "feature_set": [
+            "android.hardware.fingerprint"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.fourdesire.plantnanny2",
+        "apk": "plant-nanny\u00b2-your-adorable-water-reminder_2.1.17.2.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.WAKE_LOCK",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.INTERNET",
+            "android.permission.VIBRATE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.android.vending.BILLING",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+        ],
+        "feature_set": [
+            "android.hardware.touchscreen",
+            "android.hardware.touchscreen.multitouch",
+            "android.hardware.touchscreen.multitouch.distinct"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "ru.appdevelopers.mealreminder",
+        "apk": "meal-reminder_1.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.INTERNET",
+            "com.android.vending.BILLING",
+            "android.permission.VIBRATE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.lsdinfotech.medicationlist",
+        "apk": "medication-list-medical-records_1.3.1.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.CAMERA",
+            "android.permission.WAKE_LOCK",
+            "android.permission.CALL_PHONE",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.android.vending.BILLING",
+            "android.permission.READ_CALENDAR",
+            "android.permission.MANAGE_ACCOUNTS",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.WRITE_CALENDAR",
+            "android.permission.GET_ACCOUNTS"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.epocrates",
+        "apk": "epocrates_20.10.1.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "com.sec.android.provider.badge.permission.WRITE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.epocrates.stm.permission.PROVIDER",
+            "com.sonyericsson.home.permission.BROADCAST_BADGE",
+            "com.android.vending.BILLING",
+            "com.sonyericsson.home.permission.RECEIVE_BADGE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.BROADCAST_STICKY",
+            "com.sec.android.provider.badge.permission.READ",
+            "android.permission.CHANGE_WIFI_STATE",
+            "android.permission.INTERNET",
+            "android.permission.VIBRATE",
+            "android.permission.ACCESS_WIFI_STATE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.knowyourmeds",
+        "apk": "knowyourmeds_2.3.8.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.CAMERA",
+            "android.permission.RECORD_AUDIO",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            "android.permission.WAKE_LOCK",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.INTERNET",
+            "com.knowyourmeds.PARTIAL_WAKE_LOCK",
+            "android.permission.DOWNLOAD_WITHOUT_NOTIFICATION",
+            "com.android.vending.BILLING",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.ACCESS_FINE_LOCATION"
+        ],
+        "feature_set": [
+            "android.hardware.camera.autofocus",
+            "android.hardware.camera"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.medplus.mobile.android",
+        "apk": "medplus-mart-online-pharmacy_5.0.7.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.google.android.providers.gsf.permission.READ_GSERVICES",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+        ],
+        "feature_set": [
+            "android.hardware.location.gps"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.lemondraft.medicalog",
+        "apk": "medicalog-for-families_2.05.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.INTERNET",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.android.vending.BILLING",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.RECEIVE_BOOT_COMPLETED"
+        ],
+        "feature_set": [
+            "android.hardware.screen.portrait",
+            "android.hardware.location",
+            "android.hardware.location.network"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "br.com.drcuco",
+        "apk": "cuco-pill-reminders_5.4.3.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.sec.android.provider.badge.permission.READ",
+            "com.htc.launcher.permission.READ_SETTINGS",
+            "com.sec.android.provider.badge.permission.WRITE",
+            "com.majeur.launcher.permission.UPDATE_BADGE",
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            "br.com.drcuco.permission.C2D_MESSAGE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.READ_APP_BADGE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            "android.permission.CAMERA",
+            "me.everything.badger.permission.BADGE_COUNT_READ",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.CALL_PHONE",
+            "android.permission.WAKE_LOCK",
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            "android.permission.VIBRATE",
+            "com.sonyericsson.home.permission.BROADCAST_BADGE",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.anddoes.launcher.permission.UPDATE_COUNT",
+            "me.everything.badger.permission.BADGE_COUNT_WRITE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.SYSTEM_ALERT_WINDOW",
+            "com.oppo.launcher.permission.WRITE_SETTINGS",
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.oppo.launcher.permission.READ_SETTINGS"
+        ],
+        "feature_set": [
+            "android.hardware.camera",
+            "android.hardware.camera.front",
+            "android.hardware.camera.autofocus",
+            "android.hardware.camera.flash",
+            "android.hardware.screen.landscape",
+            "android.hardware.wifi"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "app.avax.health",
+        "apk": "avax-blood-pressure-diary-ad-free_1.43.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.anddoes.launcher.permission.UPDATE_COUNT",
+            "com.majeur.launcher.permission.UPDATE_BADGE",
+            "app.avax.health.permission.C2D_MESSAGE",
+            "com.android.vending.BILLING",
+            "com.htc.launcher.permission.READ_SETTINGS",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.sonyericsson.home.permission.BROADCAST_BADGE",
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            "android.permission.WAKE_LOCK",
+            "com.oppo.launcher.permission.WRITE_SETTINGS",
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            "android.permission.INTERNET",
+            "com.oppo.launcher.permission.READ_SETTINGS",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.READ_APP_BADGE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "me.everything.badger.permission.BADGE_COUNT_WRITE",
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            "me.everything.badger.permission.BADGE_COUNT_READ",
+            "com.sec.android.provider.badge.permission.WRITE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.ACCESS_WIFI_STATE",
+            "com.sec.android.provider.badge.permission.READ",
+            "android.permission.VIBRATE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "ru.artembotnev.medicationregimen",
+        "apk": "medication-regimen_1.6.6.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.VIBRATE",
+            "android.permission.INTERNET",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.google.android.providers.gsf.permission.READ_GSERVICES",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.WAKE_LOCK"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.medscape.android",
+        "apk": "medscape_7.8.2.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "aondroid.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.FOREGROUND_SERVICE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.INTERNET",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.WRITE_EXTERNAL_STORAGE"
+        ],
+        "feature_set": [
+            "android.hardware.camera"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "me.pills2.app",
+        "apk": "2-pills-reminders-generic-drugs-12_1.0.2.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.WAKE_LOCK",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.USE_FULL_SCREEN_INTENT",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.CAMERA"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.ohealthstudio.waterdrinkingreminderalarm",
+        "apk": "water-drinking-reminder-drink-water-reminder-app_1.4.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "android.permission.VIBRATE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "org.kp.tpmg.android.mykpmeds",
+        "apk": "my-kp-meds_5.0.0.apk",
+        "bluetooth_permissions": true,
+        "permission_set": [
+            "android.permission.READ_CONTACTS",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.CAMERA",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.USE_FINGERPRINT",
+            "org.kp.tpmg.android.mykpmeds.permission.BROADCAST",
+            "android.permission.WAKE_LOCK",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.VIBRATE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.BLUETOOTH",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "org.kp.tpmg.preventivecare.permission.APP_DATA_ACCESS",
+            "org.kp.tpmg.android.mykpmeds..permission.MAPS_RECEIVE",
+            "android.permission.CALL_PHONE",
+            "android.permission.RECEIVE_BOOT_COMPLETED"
+        ],
+        "feature_set": [
+            "android.hardware.telephony"
+        ],
+        "uuid_count": 1,
+        "uuids": [
+            {
+                "uuid": "edadf58a-0fa7-48c3-8be9-b4b6530b6483",
+                "name": "Unknown"
+            }
+        ]
+    },
+    {
+        "package": "com.webmd.android",
+        "apk": "webmd-check-symptoms-rx-savings-find-doctors_8.2.1.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.WRITE_CONTACTS",
+            "android.permission.READ_INTERNAL_STORAGE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.CAMERA",
+            "android.permission.WRITE_INTERNAL_STORAGE",
+            "android.permission.GET_TASKS",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.INTERNET",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.android.alarm.permission.SET_ALARM"
+        ],
+        "feature_set": [
+            "android.hardware.telephony",
+            "android.hardware.camera",
+            "android.hardware.camera.autofocus",
+            "android.hardware.camera.any"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.goodrx",
+        "apk": "goodrx-prescription-drugs-discounts-coupons-app_5.11.13.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.CAMERA",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.goodrx.permission.C2D_MESSAGE",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.INTERNET",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.VIBRATE",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.ACCESS_WIFI_STATE"
+        ],
+        "feature_set": [
+            "android.hardware.camera"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.vgfit.waterbalance",
+        "apk": "water-reminder-daily-tracker_1.1.5.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.android.vending.BILLING",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.ACCESS_FINE_LOCATION"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "andrew.arproductions.healthlog",
+        "apk": "health-log_1.4.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.GET_ACCOUNTS",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.INTERNET",
+            "com.android.vending.BILLING",
+            "android.permission.WRITE_EXTERNAL_STORAGE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.epsyhealth.epsy",
+        "apk": "epsy-seizure-aura-medication-epilepsy-tracking_1.7.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.BODY_SENSORS",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "com.google.android.providers.gsf.permission.READ_GSERVICES",
+            "android.permission.USE_FULL_SCREEN_INTENT",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.ACTIVITY_RECOGNITION",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "android.permission.FOREGROUND_SERVICE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "info.androidx.medicinecalenf",
+        "apk": "medication-log-free-medicine_1.0.37.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "info.androidx.medicinecalenf.permission.C2D_MESSAGE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.VIBRATE",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.google.android.c2dm.permission.RECEIVE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "drink.water.reminder.aquarium",
+        "apk": "drink-water-aquarium-water-tracker-reminder_1.7.2.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "zte.permission.LAUNCH_POWER_SAVER_ACTIVITY",
+            "android.permission.WAKE_LOCK",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.android.vending.BILLING",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.FOREGROUND_SERVICE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.INTERNET",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.VIBRATE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "vladimir.yerokhin.medicalrecord",
+        "apk": "medical-records_1.5.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.INTERNET",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.android.vending.BILLING",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.WAKE_LOCK",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.FOREGROUND_SERVICE"
+        ],
+        "feature_set": [
+            "android.hardware.camera"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.optum.rx",
+        "apk": "optumrx_2.27.1.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.USE_FINGERPRINT",
+            "android.permission.USE_CREDENTIALS",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.INTERNET",
+            "android.permission.GET_ACCOUNTS",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.google.android.gms.permission.ACTIVITY_RECOGNITION",
+            "android.permission.CAMERA",
+            "com.google.android.providers.gsf.permission.READ_GSERVICES",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.FLASHLIGHT",
+            "com.optum.rx.permission.C2D_MESSAGE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.WAKE_LOCK",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.VIBRATE"
+        ],
+        "feature_set": [
+            "android.hardware.camera",
+            "android.hardware.location.gps",
+            "android.hardware.camera.autofocus"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.PillIdentifierandDrugList.app",
+        "apk": "pill-identifier-and-drug-list_4.3.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.anddoes.launcher.permission.UPDATE_COUNT",
+            "com.sec.android.provider.badge.permission.READ",
+            "android.permission.RECORD_AUDIO",
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            "com.oppo.launcher.permission.WRITE_SETTINGS",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_APP_BADGE",
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            "android.permission.WAKE_LOCK",
+            "android.permission.WRITE_CALENDAR",
+            "com.sonyericsson.home.permission.BROADCAST_BADGE",
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            "android.permission.READ_CALENDAR",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.INTERNET",
+            "me.everything.badger.permission.BADGE_COUNT_READ",
+            "com.oppo.launcher.permission.READ_SETTINGS",
+            "com.htc.launcher.permission.READ_SETTINGS",
+            "me.everything.badger.permission.BADGE_COUNT_WRITE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            "com.sec.android.provider.badge.permission.WRITE",
+            "com.majeur.launcher.permission.UPDATE_BADGE",
+            "android.permission.ACCESS_FINE_LOCATION"
+        ],
+        "feature_set": [
+            "android.hardware.location.gps"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.glow.android",
+        "apk": "glow-ovulation-period-tracker_7.21.3-play.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.MANAGE_ACCOUNTS",
+            "android.permission.CALL_PHONE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.glow.android.accounts",
+            "android.permission.GET_ACCOUNTS",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.android.vending.BILLING",
+            "android.permission.AUTHENTICATE_ACCOUNTS",
+            "android.permission.WRITE_SYNC_SETTINGS",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.RECORD_AUDIO",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.NETWORK",
+            "android.permission.INTERNET",
+            "android.permission.USE_CREDENTIALS",
+            "android.permission.CAMERA",
+            "android.permission.READ_SYNC_SETTINGS",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.glow.android.permission.C2D_MESSAGE",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.FLASHLIGHT"
+        ],
+        "feature_set": [
+            "android.hardware.location.gps",
+            "android.hardware.location.network",
+            "android.hardware.camera",
+            "android.hardware.camera.autofocus"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    }
+]

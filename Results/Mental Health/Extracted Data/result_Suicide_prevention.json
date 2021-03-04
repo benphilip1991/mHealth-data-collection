@@ -1,0 +1,3338 @@
+[
+    {
+        "package": "uk.org.suicideprevention.stayalive",
+        "apk": "stay-alive_3.5.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.INTERNET",
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_CONTACTS",
+            "android.permission.CAMERA",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.FOREGROUND_SERVICE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.moodtools.crisis.app",
+        "apk": "suicide-safety-plan_1.8.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [],
+        "feature_set": [
+            "android.hardware.telephony"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "gov.hhs.samhsa.app.spa",
+        "apk": "suicide-safe_2.1.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.WAKE_LOCK",
+            "android.permission.NETWORK_ACCESS",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.GET_ACCOUNTS"
+        ],
+        "feature_set": [
+            "android.hardware.location.gps"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.betterappcompany.betterstopsuicide",
+        "apk": "better-stop-suicide_1.03.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.INTERNET",
+            "com.sec.android.provider.badge.permission.WRITE",
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            "com.oppo.launcher.permission.WRITE_SETTINGS",
+            "android.permission.RECORD_AUDIO",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.anddoes.launcher.permission.UPDATE_COUNT",
+            "android.permission.GET_ACCOUNTS",
+            "com.oppo.launcher.permission.READ_SETTINGS",
+            "android.permission.WAKE_LOCK",
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            "android.permission.WRITE_CONTACTS",
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            "android.permission.READ_APP_BADGE",
+            "me.everything.badger.permission.BADGE_COUNT_WRITE",
+            "com.htc.launcher.permission.READ_SETTINGS",
+            "com.majeur.launcher.permission.UPDATE_BADGE",
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            "android.permission.READ_PHONE_STATE",
+            "me.everything.badger.permission.BADGE_COUNT_READ",
+            "android.permission.READ_CONTACTS",
+            "com.sec.android.provider.badge.permission.READ",
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            "com.sonyericsson.home.permission.BROADCAST_BADGE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "org.dontpanic",
+        "apk": "don-t-panic-depression-and-panic-help_1.53.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.CAMERA",
+            "android.permission.INTERNET",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.RECORD_AUDIO",
+            "android.permission.RECEIVE_BOOT_COMPLETED"
+        ],
+        "feature_set": [
+            "android.hardware.camera",
+            "android.hardware.camera.autofocus",
+            "android.hardware.microphone"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.bearpty.talklife",
+        "apk": "talklife-for-anxiety-depression-stress_5.7.63.22.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_FINE_LOCATION",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.android.vending.BILLING",
+            "android.permission.GET_ACCOUNTS",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.RECORD_AUDIO",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.INTERNET",
+            "android.permission.USE_CREDENTIALS",
+            "android.permission.CAMERA",
+            "android.permission.GET_TASKS",
+            "android.permission.VIBRATE",
+            "com.bearpty.talklife.permission.C2D_MESSAGE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.READ_CONTACTS",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.google.android.providers.gsf.permission.READ_GSERVICES",
+            "android.permission.FOREGROUND_SERVICE"
+        ],
+        "feature_set": [
+            "android.hardware.camera",
+            "android.hardware.camera.autofocus",
+            "android.hardware.camera.front",
+            "android.hardware.microphone"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "bot.touchkin",
+        "apk": "wysa-stress-depression-anxiety-therapy-chatbot_2.2.8.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.INTERNET",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.RECORD_AUDIO",
+            "com.android.vending.BILLING",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.WAKE_LOCK"
+        ],
+        "feature_set": [
+            "android.hardware.wifi",
+            "android.hardware.screen.portrait",
+            "android.hardware.telephony"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.sevencupsoftea.app",
+        "apk": "7-cups-anxiety-stress-chat_4.6.9.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.WAKE_LOCK",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.INTERNET",
+            "android.permission.VIBRATE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.android.vending.BILLING",
+            "android.permission.ACCESS_LOCATION",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.ACCESS_ASSISTED_GPS",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.ACCESS_GPS",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.RECEIVE_BOOT_COMPLETED"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.moodtools.depressiontest",
+        "apk": "depression-test_1.8.1.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.android.alarm.permission.SET_ALARM",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.WAKE_LOCK"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "uk.org.stem4.calmharm",
+        "apk": "calm-harm-manages-self-harm_4.3.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "android.permission.WRITE_EXTERNAL_STORAGE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "app.therapeer",
+        "apk": "therapeer-peer-emotional-support_1.9.6.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.android.vending.BILLING",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            "me.everything.badger.permission.BADGE_COUNT_READ",
+            "com.majeur.launcher.permission.UPDATE_BADGE",
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            "com.anddoes.launcher.permission.UPDATE_COUNT",
+            "android.permission.ACCESS_WIFI_STATE",
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+            "android.permission.USE_FINGERPRINT",
+            "android.permission.WAKE_LOCK",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.sec.android.provider.badge.permission.READ",
+            "com.sonyericsson.home.permission.BROADCAST_BADGE",
+            "com.sec.android.provider.badge.permission.WRITE",
+            "android.permission.INTERNET",
+            "com.oppo.launcher.permission.WRITE_SETTINGS",
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            "android.permission.CAMERA",
+            "android.permission.VIBRATE",
+            "com.oppo.launcher.permission.READ_SETTINGS",
+            "android.permission.READ_APP_BADGE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "me.everything.badger.permission.BADGE_COUNT_WRITE",
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            "com.htc.launcher.permission.READ_SETTINGS"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "org.minddiagnostics",
+        "apk": "mental-health-tests_1.23.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.INTERNET",
+            "android.permission.SYSTEM_ALERT_WINDOW",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.ACCESS_WIFI_STATE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.involtapp.psyans",
+        "apk": "online-therapy-mental-help-support-groups_8.6.4.499.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "me.everything.badger.permission.BADGE_COUNT_WRITE",
+            "com.android.vending.BILLING",
+            "com.sec.android.provider.badge.permission.READ",
+            "com.htc.launcher.permission.READ_SETTINGS",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.anddoes.launcher.permission.UPDATE_COUNT",
+            "android.permission.VIBRATE",
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            "com.oppo.launcher.permission.READ_SETTINGS",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.REORDER_TASKS",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            "android.permission.RECORD_AUDIO",
+            "android.permission.INTERNET",
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+            "com.sonyericsson.home.permission.BROADCAST_BADGE",
+            "com.oppo.launcher.permission.WRITE_SETTINGS",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.AUTHENTICATE_ACCOUNTS",
+            "android.permission.MANAGE_ACCOUNTS",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            "me.everything.badger.permission.BADGE_COUNT_READ",
+            "android.permission.CAMERA",
+            "com.majeur.launcher.permission.UPDATE_BADGE",
+            "android.permission.READ_APP_BADGE",
+            "com.sec.android.provider.badge.permission.WRITE",
+            "android.permission.GET_TASKS"
+        ],
+        "feature_set": [
+            "android.hardware.camera"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.pacificalabs.pacifica",
+        "apk": "sanvello-for-anxiety-depression-stress_8.16.0.apk",
+        "bluetooth_permissions": true,
+        "permission_set": [
+            "com.anddoes.launcher.permission.UPDATE_COUNT",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.GET_ACCOUNTS",
+            "com.sec.android.provider.badge.permission.READ",
+            "android.permission.CAMERA",
+            "android.permission.RECORD_AUDIO",
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            "android.permission.BROADCAST_STICKY",
+            "com.oppo.launcher.permission.WRITE_SETTINGS",
+            "android.permission.USE_CREDENTIALS",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.READ_APP_BADGE",
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            "android.permission.WAKE_LOCK",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.sonyericsson.home.permission.BROADCAST_BADGE",
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            "me.everything.badger.permission.BADGE_COUNT_READ",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.INTERNET",
+            "com.oppo.launcher.permission.READ_SETTINGS",
+            "com.android.vending.BILLING",
+            "com.htc.launcher.permission.READ_SETTINGS",
+            "android.permission.BLUETOOTH",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.sec.android.provider.badge.permission.WRITE",
+            "com.majeur.launcher.permission.UPDATE_BADGE",
+            "me.everything.badger.permission.BADGE_COUNT_WRITE",
+            "android.permission.VIBRATE"
+        ],
+        "feature_set": [
+            "android.hardware.camera",
+            "android.hardware.camera.autofocus"
+        ],
+        "uuid_count": 4,
+        "uuids": [
+            {
+                "uuid": "00000000-0000-0000-0000-000000000000",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "258eafa5-e914-47da-95ca-c5ab0dc85b11",
+                "name": "RFC6455 Websocket String"
+            },
+            {
+                "uuid": "bb392ec0-8d4d-11e0-a896-0002a5d5c51b",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "c06c8400-8e06-11e0-9cb6-0002a5d5c51b",
+                "name": "Unknown"
+            }
+        ]
+    },
+    {
+        "package": "com.bearpty.talkcampus",
+        "apk": "talkcampus_1.6.3.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_FINE_LOCATION",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.android.vending.BILLING",
+            "android.permission.GET_ACCOUNTS",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.RECORD_AUDIO",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.bearpty.talkcampus.permission.C2D_MESSAGE",
+            "android.permission.INTERNET",
+            "android.permission.USE_CREDENTIALS",
+            "android.permission.CAMERA",
+            "android.permission.GET_TASKS",
+            "android.permission.VIBRATE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.READ_CONTACTS",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "com.google.android.providers.gsf.permission.READ_GSERVICES"
+        ],
+        "feature_set": [
+            "android.hardware.camera",
+            "android.hardware.camera.autofocus",
+            "android.hardware.camera.front",
+            "android.hardware.microphone"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.meemo_tec.bip_app",
+        "apk": "up-depression-bipolar-borderline-management_1.5.11.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.INTERNET",
+            "com.sec.android.provider.badge.permission.WRITE",
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            "com.oppo.launcher.permission.WRITE_SETTINGS",
+            "android.permission.VIBRATE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.PACKAGE_USAGE_STATS",
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+            "com.anddoes.launcher.permission.UPDATE_COUNT",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.oppo.launcher.permission.READ_SETTINGS",
+            "android.permission.WAKE_LOCK",
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.READ_APP_BADGE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "me.everything.badger.permission.BADGE_COUNT_WRITE",
+            "com.htc.launcher.permission.READ_SETTINGS",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.FOREGROUND_SERVICE",
+            "com.majeur.launcher.permission.UPDATE_BADGE",
+            "com.meemo_tec.bip_app.permission.C2D_MESSAGE",
+            "com.sonyericsson.home.permission.BROADCAST_BADGE",
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "com.google.android.gms.permission.ACTIVITY_RECOGNITION",
+            "me.everything.badger.permission.BADGE_COUNT_READ",
+            "com.android.vending.BILLING",
+            "com.sec.android.provider.badge.permission.READ",
+            "com.google.android.c2dm.permission.RECEIVE"
+        ],
+        "feature_set": [
+            "android.hardware.location.gps"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "es.aciliainternet.prevensuic",
+        "apk": "prevensuic_1.7.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.WRITE_CONTACTS",
+            "com.google.android.providers.gsf.permission.READ_GSERVICES",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.READ_CONTACTS",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.INTERNET",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.READ_PHONE_STATE"
+        ],
+        "feature_set": [
+            "android.hardware.camera"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.jacksontempra.apps.whatsup",
+        "apk": "what-s-up-a-mental-health-app_2.3.6.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.android.vending.CHECK_LICENSE",
+            "com.android.vending.BILLING",
+            "android.permission.INTERNET"
+        ],
+        "feature_set": [
+            "android.hardware.telephony",
+            "android.hardware.screen.portrait",
+            "android.hardware.screen.landscape"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "de.moodpath.android",
+        "apk": "minddoc-depression-anxiety_4.0.1.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.google.android.providers.gsf.permission.READ_GSERVICES",
+            "android.permission.INTERNET",
+            "com.sec.android.provider.badge.permission.WRITE",
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            "com.oppo.launcher.permission.WRITE_SETTINGS",
+            "android.permission.VIBRATE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "de.moodpath.android.permission.C2D_MESSAGE",
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.anddoes.launcher.permission.UPDATE_COUNT",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.oppo.launcher.permission.READ_SETTINGS",
+            "android.permission.WAKE_LOCK",
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            "android.permission.READ_APP_BADGE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "me.everything.badger.permission.BADGE_COUNT_WRITE",
+            "com.htc.launcher.permission.READ_SETTINGS",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.USE_FINGERPRINT",
+            "com.majeur.launcher.permission.UPDATE_BADGE",
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            "android.permission.USE_BIOMETRIC",
+            "me.everything.badger.permission.BADGE_COUNT_READ",
+            "com.android.vending.BILLING",
+            "com.sec.android.provider.badge.permission.READ",
+            "com.sonyericsson.home.permission.BROADCAST_BADGE",
+            "com.google.android.c2dm.permission.RECEIVE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "suicide.prevention.app",
+        "apk": "operation-reach-out_1.0.6.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.CALL_PHONE",
+            "android.permission.READ_CONTACTS",
+            "android.permission.WRITE_CONTACTS",
+            "android.permission.INTERNET"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.Psychiatry.pro",
+        "apk": "psychiatry-pro-diagnosis-info-treatment-cbt-dbt_1.1.2.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.INTERNET"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.blue_bird_tech.safetyplan.safetyplan",
+        "apk": "safety-plan_1.17.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.INTERNET",
+            "android.permission.MANAGE_DOCUMENTS"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.diary.journal",
+        "apk": "mind-journal-anxiety-relief-mental-health-diary_0.9.8.4.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.WAKE_LOCK",
+            "android.permission.READ_SYNC_SETTINGS",
+            "android.permission.USE_BIOMETRIC",
+            "android.permission.INTERNET",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.USE_FINGERPRINT",
+            "android.permission.VIBRATE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.WRITE_SYNC_SETTINGS",
+            "com.android.vending.BILLING",
+            "android.permission.READ_SYNC_STATS",
+            "android.permission.MANAGE_ACCOUNTS",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.AUTHENTICATE_ACCOUNTS",
+            "android.permission.GET_ACCOUNTS"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.lohcj.lohcj.imeetmyself",
+        "apk": "i-meet-myself_1.6.7.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            "com.lohcj.lohcj.imeetmyself.permission.C2D_MESSAGE",
+            "android.permission.SYSTEM_ALERT_WINDOW",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.STORAGE",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.ACCESS_WIFI_STATE",
+            "host.exp.exponent.permission.C2D_MESSAGE",
+            "android.permission.USE_BIOMETRIC"
+        ],
+        "feature_set": [
+            "android.software.leanback",
+            "android.hardware.touchscreen",
+            "android.hardware.camera",
+            "android.hardware.camera.autofocus",
+            "android.hardware.location",
+            "android.hardware.location.gps",
+            "android.hardware.location.network",
+            "android.hardware.wifi",
+            "android.hardware.microphone",
+            "android.hardware.telephony",
+            "android.hardware.bluetooth"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "boundless.moodgym",
+        "apk": "moodspace-stress-anxiety-low-mood-self-help_5.0.1.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.WAKE_LOCK",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.android.vending.BILLING",
+            "android.permission.QUICKBOOT_POWERON",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.INTERNET",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.VIBRATE",
+            "android.permission.ACCESS_NOTIFICATION_POLICY"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.aurum",
+        "apk": "aurum-best-therapy-counselling-anxiety-stress_1.0.29.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_FINE_LOCATION",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.SYSTEM_ALERT_WINDOW",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            "com.android.vending.BILLING",
+            "com.android.vending.CHECK_LICENSE",
+            "me.everything.badger.permission.BADGE_COUNT_READ",
+            "com.majeur.launcher.permission.UPDATE_BADGE",
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            "com.anddoes.launcher.permission.UPDATE_COUNT",
+            "android.permission.ACCESS_WIFI_STATE",
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.sec.android.provider.badge.permission.READ",
+            "com.sonyericsson.home.permission.BROADCAST_BADGE",
+            "com.sec.android.provider.badge.permission.WRITE",
+            "android.permission.INTERNET",
+            "com.oppo.launcher.permission.WRITE_SETTINGS",
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            "android.permission.CAMERA",
+            "android.permission.VIBRATE",
+            "com.oppo.launcher.permission.READ_SETTINGS",
+            "android.permission.READ_APP_BADGE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "me.everything.badger.permission.BADGE_COUNT_WRITE",
+            "com.aurum.permission.C2D_MESSAGE",
+            "android.permission.FOREGROUND_SERVICE",
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            "com.htc.launcher.permission.READ_SETTINGS"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "id.com.WorryDolls",
+        "apk": "worrydolls_1.3.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.USE_FINGERPRINT",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.google.android.providers.gsf.permission.READ_GSERVICES",
+            "android.permission.USE_BIOMETRIC",
+            "android.permission.WAKE_LOCK",
+            "com.google.android.c2dm.permission.RECEIVE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.andromo.dev462136.app429809",
+        "apk": "fight-depression-naturally_12.4.2.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            "com.anddoes.launcher.permission.UPDATE_COUNT",
+            "com.majeur.launcher.permission.UPDATE_BADGE",
+            "com.htc.launcher.permission.READ_SETTINGS",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.sonyericsson.home.permission.BROADCAST_BADGE",
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            "android.permission.WAKE_LOCK",
+            "com.oppo.launcher.permission.WRITE_SETTINGS",
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            "android.permission.INTERNET",
+            "com.oppo.launcher.permission.READ_SETTINGS",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.READ_APP_BADGE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "me.everything.badger.permission.BADGE_COUNT_WRITE",
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            "me.everything.badger.permission.BADGE_COUNT_READ",
+            "com.sec.android.provider.badge.permission.WRITE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.sec.android.provider.badge.permission.READ",
+            "android.permission.VIBRATE",
+            "com.andromo.dev462136.app429809.permission.C2D_MESSAGE"
+        ],
+        "feature_set": [
+            "android.hardware.touchscreen"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.ifeel.ifeeluserchat",
+        "apk": "online-therapy-emotional-diary-mindfulness-tools_2.25.apk",
+        "bluetooth_permissions": true,
+        "permission_set": [
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.BROADCAST_STICKY",
+            "android.permission.SYSTEM_ALERT_WINDOW",
+            "android.permission.BLUETOOTH_ADMIN",
+            "android.permission.RECORD_AUDIO",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            "android.permission.CALL_PHONE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.INTERNET",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.VIBRATE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.CAMERA",
+            "android.permission.USE_FINGERPRINT",
+            "android.permission.WAKE_LOCK",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.BLUETOOTH"
+        ],
+        "feature_set": [
+            "android.hardware.camera",
+            "android.hardware.camera.autofocus",
+            "android.hardware.telephony",
+            "android.hardware.bluetooth",
+            "android.hardware.microphone"
+        ],
+        "uuid_count": 13,
+        "uuids": [
+            {
+                "uuid": "258eafa5-e914-47da-95ca-c5ab0dc85b11",
+                "name": "RFC6455 Websocket String"
+            },
+            {
+                "uuid": "2a001800-2803-2801-2800-1d9ff2d5c442",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0000e001-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00009141-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00009142-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00009145-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00009146-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0000e101-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0000e102-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0000e103-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0000e104-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0000e105-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0000e10a-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            }
+        ]
+    },
+    {
+        "package": "com.theinnerhour.b2b",
+        "apk": "innerhour-self-care-therapy-anxiety-depression_3.42.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.CAMERA",
+            "android.permission.RECORD_AUDIO",
+            "com.android.vending.BILLING",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.WAKE_LOCK",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.android.alarm.permission.SET_ALARM",
+            "android.permission.FOREGROUND_SERVICE"
+        ],
+        "feature_set": [
+            "android.hardware.camera"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.t2.vhb",
+        "apk": "virtual-hope-box_1.5.9.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.READ_CONTACTS",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.CAMERA",
+            "android.permission.READ_CALENDAR",
+            "android.permission.USE_FINGERPRINT",
+            "android.permission.WRITE_CALENDAR",
+            "android.permission.INTERNET",
+            "android.permission.WRITE_EXTERNAL_STORAGE"
+        ],
+        "feature_set": [
+            "android.hardware.camera"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "my.tracker",
+        "apk": "emoods-bipolar-mood-tracker_2.8.4.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.android.vending.BILLING",
+            "android.permission.WAKE_LOCK",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.ACTIVITY_RECOGNITION",
+            "android.permission.VIBRATE",
+            "android.permission.FOREGROUND_SERVICE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.betterhelp",
+        "apk": "betterhelp-online-counseling-therapy_1.63.apk",
+        "bluetooth_permissions": true,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.GET_ACCOUNTS",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.BLUETOOTH",
+            "android.permission.WAKE_LOCK",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "com.betterhelp.permission.C2D_MESSAGE",
+            "android.permission.BROADCAST_STICKY",
+            "android.permission.CAMERA",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.RECORD_AUDIO",
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            "android.permission.CAMERA.front",
+            "android.permission.INTERNET",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.READ_PHONE_STATE"
+        ],
+        "feature_set": [
+            "android.hardware.camera",
+            "android.hardware.camera.autofocus"
+        ],
+        "uuid_count": 3,
+        "uuids": [
+            {
+                "uuid": "bb392ec0-8d4d-11e0-a896-0002a5d5c51b",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "c06c8400-8e06-11e0-9cb6-0002a5d5c51b",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "258eafa5-e914-47da-95ca-c5ab0dc85b11",
+                "name": "RFC6455 Websocket String"
+            }
+        ]
+    },
+    {
+        "package": "com.smilingmind.app",
+        "apk": "smiling-mind_3.8.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.USE_CREDENTIALS",
+            "android.permission.WRITE_SYNC_SETTINGS",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.INTERNET",
+            "android.permission.GET_ACCOUNTS",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.AUTHENTICATE_ACCOUNTS",
+            "android.permission.READ_SYNC_SETTINGS",
+            "android.permission.MANAGE_ACCOUNTS",
+            "com.smilingmind.app.permission.C2D_MESSAGE",
+            "android.permission.WAKE_LOCK",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.READ_SYNC_STATS",
+            "android.permission.VIBRATE",
+            "android.permission.FOREGROUND_SERVICE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "uk.org.stem4.clearfear",
+        "apk": "clear-fear_1.6.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.viha.boosterbuddy",
+        "apk": "booster-buddy_1.7.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE"
+        ],
+        "feature_set": [
+            "android.hardware.touchscreen",
+            "android.hardware.touchscreen.multitouch",
+            "android.hardware.touchscreen.multitouch.distinct"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "gov.va.mobilehealth.ncptsd.aims",
+        "apk": "aims-for-anger-management_1.1.8.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.CAMERA",
+            "android.permission.READ_CONTACTS",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.RECORD_AUDIO",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.INTERNET",
+            "android.permission.RECEIVE_BOOT_COMPLETED"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.moodpixel",
+        "apk": "moodflow-mood-tracker-journal-self-improvement_5.1.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.anddoes.launcher.permission.UPDATE_COUNT",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.sec.android.provider.badge.permission.READ",
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            "android.permission.SYSTEM_ALERT_WINDOW",
+            "com.oppo.launcher.permission.WRITE_SETTINGS",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.READ_APP_BADGE",
+            "android.permission.WAKE_LOCK",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.sonyericsson.home.permission.BROADCAST_BADGE",
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            "me.everything.badger.permission.BADGE_COUNT_READ",
+            "com.android.vending.CHECK_LICENSE",
+            "android.permission.DOWNLOAD_WITHOUT_NOTIFICATION",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "com.oppo.launcher.permission.READ_SETTINGS",
+            "com.android.vending.BILLING",
+            "com.htc.launcher.permission.READ_SETTINGS",
+            "android.permission.ACCESS_WIFI_STATE",
+            "me.everything.badger.permission.BADGE_COUNT_WRITE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.sec.android.provider.badge.permission.WRITE",
+            "com.majeur.launcher.permission.UPDATE_BADGE",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.VIBRATE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.despdev.quitzilla",
+        "apk": "sobriety-counter-\u2013-bad-habits_2.0.2.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "android.permission.VIBRATE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.android.vending.BILLING",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.RECEIVE_BOOT_COMPLETED"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.moodtools.cbtassistant.app",
+        "apk": "cbt-thought-diary-mood-tracker-journal-record_4.1.11.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.WAKE_LOCK",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.android.vending.BILLING",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.INTERNET",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.android.alarm.permission.SET_ALARM"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "me.mindspa.app",
+        "apk": "mindspa-self-help-4ur-mental-wellbeing-wellness_1.0.46.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.anddoes.launcher.permission.UPDATE_COUNT",
+            "com.sec.android.provider.badge.permission.READ",
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            "com.oppo.launcher.permission.WRITE_SETTINGS",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_APP_BADGE",
+            "android.permission.WAKE_LOCK",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.sonyericsson.home.permission.BROADCAST_BADGE",
+            "me.mindspa.app.permission.C2D_MESSAGE",
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            "me.everything.badger.permission.BADGE_COUNT_READ",
+            "android.permission.INTERNET",
+            "com.oppo.launcher.permission.READ_SETTINGS",
+            "com.android.vending.BILLING",
+            "com.htc.launcher.permission.READ_SETTINGS",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.sec.android.provider.badge.permission.WRITE",
+            "com.majeur.launcher.permission.UPDATE_BADGE",
+            "me.everything.badger.permission.BADGE_COUNT_WRITE",
+            "android.permission.VIBRATE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "it.ppndrd.disturbidellapersonalita",
+        "apk": "pd-test-personality-disorders-test_4.2.1.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.android.vending.BILLING",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.CHANGE_WIFI_STATE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.INTERNET",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.WRITE_EXTERNAL_STORAGE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.ptsd.test",
+        "apk": "ptsd-test_1.1.1.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.WAKE_LOCK",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.android.alarm.permission.SET_ALARM"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.happify.happifyinc",
+        "apk": "happify_1.59.1-2ee627a42dcb.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.INTERNET",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.READ_CONTACTS",
+            "com.android.vending.BILLING",
+            "android.permission.CAMERA",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.samsung.permission.SSENSOR_HRM_RAW_PPG",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.FLASHLIGHT",
+            "com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY",
+            "android.permission.BODY_SENSORS",
+            "android.permission.WAKE_LOCK"
+        ],
+        "feature_set": [
+            "android.hardware.telephony",
+            "android.hardware.camera",
+            "android.hardware.camera.autofocus",
+            "android.hardware.camera.front",
+            "android.hardware.sensor.accelerometer",
+            "android.hardware.touchscreen",
+            "android.hardware.touchscreen.multitouch",
+            "android.hardware.touchscreen.multitouch.distinct"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "is.vertical.ptsdcoach",
+        "apk": "ptsd-coach_3.2.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.android.vending.CHECK_LICENSE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.CAMERA",
+            "android.permission.READ_CONTACTS",
+            "android.permission.RECORD_AUDIO",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.FOREGROUND_SERVICE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "gov.cdc.general",
+        "apk": "cdc_3.1.1.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "me.everything.badger.permission.BADGE_COUNT_WRITE",
+            "com.sec.android.provider.badge.permission.READ",
+            "com.htc.launcher.permission.READ_SETTINGS",
+            "gov.cdc.general.permission.RECEIVE_ADM_MESSAGE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.anddoes.launcher.permission.UPDATE_COUNT",
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            "android.permission.VIBRATE",
+            "com.oppo.launcher.permission.READ_SETTINGS",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+            "android.permission.INTERNET",
+            "com.sonyericsson.home.permission.BROADCAST_BADGE",
+            "com.oppo.launcher.permission.WRITE_SETTINGS",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            "com.amazon.device.messaging.permission.RECEIVE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            "me.everything.badger.permission.BADGE_COUNT_READ",
+            "com.majeur.launcher.permission.UPDATE_BADGE",
+            "android.permission.READ_APP_BADGE",
+            "com.sec.android.provider.badge.permission.WRITE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.urbandroid.ddc",
+        "apk": "digital-detox-\ud83d\udcf4-focus-and-fight-phone-addiction_6.8.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.SYSTEM_ALERT_WINDOW",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.EXPAND_STATUS_BAR",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.PACKAGE_USAGE_STATS",
+            "com.android.vending.BILLING",
+            "android.permission.FOREGROUND_SERVICE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.recoveryrecord",
+        "apk": "rr-eating-disorder-management_5.5.6.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.android.vending.CHECK_LICENSE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.CAMERA",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.recoveryrecord.permission.C2D_MESSAGE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.VIBRATE",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.SET_ALARM",
+            "android.permission.MODIFY_AUDIO_SETTINGS"
+        ],
+        "feature_set": [
+            "android.hardware.camera2",
+            "android.hardware.camera",
+            "android.hardware.camera.front",
+            "android.hardware.camera.autofocus"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "app.unlockyourmind.lockscreen",
+        "apk": "unlock-your-mind-train-your-subconscious-mind_3.0.3.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.INTERNET",
+            "com.sec.android.provider.badge.permission.WRITE",
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            "com.oppo.launcher.permission.WRITE_SETTINGS",
+            "android.permission.VIBRATE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.anddoes.launcher.permission.UPDATE_COUNT",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.oppo.launcher.permission.READ_SETTINGS",
+            "android.permission.WAKE_LOCK",
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            "android.permission.SET_WALLPAPER",
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.READ_APP_BADGE",
+            "android.permission.SET_WALLPAPER_HINTS",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "me.everything.badger.permission.BADGE_COUNT_WRITE",
+            "com.htc.launcher.permission.READ_SETTINGS",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.FOREGROUND_SERVICE",
+            "com.majeur.launcher.permission.UPDATE_BADGE",
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            "me.everything.badger.permission.BADGE_COUNT_READ",
+            "com.sec.android.provider.badge.permission.READ",
+            "com.sonyericsson.home.permission.BROADCAST_BADGE",
+            "app.unlockyourmind.lockscreen.permission.C2D_MESSAGE",
+            "com.google.android.c2dm.permission.RECEIVE"
+        ],
+        "feature_set": [
+            "android.hardware.telephony"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "co.swasth.cbtcompanion",
+        "apk": "cbt-companion-cognitive-behavioral-therapy-app_3.1.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.CAMERA",
+            "android.permission.INTERNET",
+            "com.sec.android.provider.badge.permission.WRITE",
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            "com.oppo.launcher.permission.WRITE_SETTINGS",
+            "android.permission.VIBRATE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "co.swasth.cbtcompanion.permission.C2D_MESSAGE",
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.anddoes.launcher.permission.UPDATE_COUNT",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.oppo.launcher.permission.READ_SETTINGS",
+            "android.permission.WAKE_LOCK",
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            "android.permission.SYSTEM_ALERT_WINDOW",
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.READ_APP_BADGE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "me.everything.badger.permission.BADGE_COUNT_WRITE",
+            "com.htc.launcher.permission.READ_SETTINGS",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.USE_FINGERPRINT",
+            "com.majeur.launcher.permission.UPDATE_BADGE",
+            "com.android.vending.CHECK_LICENSE",
+            "com.sonyericsson.home.permission.BROADCAST_BADGE",
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            "me.everything.badger.permission.BADGE_COUNT_READ",
+            "com.android.vending.BILLING",
+            "com.sec.android.provider.badge.permission.READ",
+            "com.google.android.c2dm.permission.RECEIVE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.hearme",
+        "apk": "hearme-empathy-not-therapy_3.3.2.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.android.vending.BILLING",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            "me.everything.badger.permission.BADGE_COUNT_READ",
+            "com.majeur.launcher.permission.UPDATE_BADGE",
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            "com.anddoes.launcher.permission.UPDATE_COUNT",
+            "android.permission.ACCESS_WIFI_STATE",
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.sec.android.provider.badge.permission.READ",
+            "com.sonyericsson.home.permission.BROADCAST_BADGE",
+            "com.sec.android.provider.badge.permission.WRITE",
+            "android.permission.INTERNET",
+            "com.oppo.launcher.permission.WRITE_SETTINGS",
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            "android.permission.CAMERA",
+            "android.permission.VIBRATE",
+            "com.oppo.launcher.permission.READ_SETTINGS",
+            "android.permission.READ_APP_BADGE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "me.everything.badger.permission.BADGE_COUNT_WRITE",
+            "android.permission.FOREGROUND_SERVICE",
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            "com.htc.launcher.permission.READ_SETTINGS"
+        ],
+        "feature_set": [
+            "android.hardware.camera",
+            "android.hardware.camera.front"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "md.your",
+        "apk": "healthily-by-your-md-self-care-health-journal_4.01.05.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_PROFILE",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.BODY_SENSORS",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.INTERNET",
+            "android.permission.USE_CREDENTIALS",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.WRITE_EXTERNAL_STORAGE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.lasting.lasting",
+        "apk": "lasting-marriage-counseling_2.6.1.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.majeur.launcher.permission.UPDATE_BADGE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.anddoes.launcher.permission.UPDATE_COUNT",
+            "me.everything.badger.permission.BADGE_COUNT_WRITE",
+            "com.oppo.launcher.permission.WRITE_SETTINGS",
+            "com.google.android.providers.gsf.permission.READ_GSERVICES",
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.android.vending.BILLING",
+            "com.sec.android.provider.badge.permission.READ",
+            "android.permission.WRITE_CALENDAR",
+            "me.everything.badger.permission.BADGE_COUNT_READ",
+            "com.sec.android.provider.badge.permission.WRITE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            "android.permission.INTERNET",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.VIBRATE",
+            "com.oppo.launcher.permission.READ_SETTINGS",
+            "android.permission.READ_APP_BADGE",
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+            "com.sonyericsson.home.permission.BROADCAST_BADGE",
+            "android.permission.CAMERA",
+            "android.permission.READ_CALENDAR",
+            "android.permission.WAKE_LOCK",
+            "android.permission.FOREGROUND_SERVICE",
+            "com.htc.launcher.permission.READ_SETTINGS"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "co.swasth.dbtcoach",
+        "apk": "dbt-coach-dialectical-behavior-therapy-app_3.0.9.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.oppo.launcher.permission.WRITE_SETTINGS",
+            "co.swasth.dbtcoach.permission.C2D_MESSAGE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            "com.android.vending.CHECK_LICENSE",
+            "me.everything.badger.permission.BADGE_COUNT_WRITE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.USE_FINGERPRINT",
+            "com.anddoes.launcher.permission.UPDATE_COUNT",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.majeur.launcher.permission.UPDATE_BADGE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            "android.permission.CAMERA",
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            "com.sec.android.provider.badge.permission.READ",
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+            "com.oppo.launcher.permission.READ_SETTINGS",
+            "android.permission.READ_APP_BADGE",
+            "com.htc.launcher.permission.READ_SETTINGS",
+            "com.sec.android.provider.badge.permission.WRITE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.sonyericsson.home.permission.BROADCAST_BADGE",
+            "me.everything.badger.permission.BADGE_COUNT_READ",
+            "android.permission.VIBRATE",
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            "com.android.vending.BILLING",
+            "android.permission.ACCESS_FINE_LOCATION"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "gov.va.mobilehealth.ncptsd.mindfulnesscoach",
+        "apk": "mindfulness-coach_2.6.2.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_CONTACTS",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.WAKE_LOCK",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.FOREGROUND_SERVICE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "ai.replika.app",
+        "apk": "replika-my-ai-friend_5.1.4.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY",
+            "android.permission.RECORD_AUDIO",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.CAMERA",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.android.vending.BILLING",
+            "android.permission.USE_FINGERPRINT",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.VIBRATE",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.MODIFY_AUDIO_SETTINGS"
+        ],
+        "feature_set": [
+            "android.hardware.touchscreen",
+            "android.hardware.touchscreen.multitouch",
+            "android.hardware.touchscreen.multitouch.distinct"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.remente.app",
+        "apk": "remente-self-improvement_1.6.3.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.INTERNET",
+            "com.google.android.gms.permission.ACTIVITY_RECOGNITION",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.remente.app.permission.C2D_MESSAGE",
+            "com.android.vending.BILLING",
+            "android.permission.WAKE_LOCK",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.android.alarm.permission.SET_ALARM",
+            "android.permission.FOREGROUND_SERVICE"
+        ],
+        "feature_set": [
+            "android.hardware.camera",
+            "android.hardware.screen.portrait"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.reflectlyApp",
+        "apk": "reflectly-journal-diary_3.12.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.INTERNET",
+            "com.sec.android.provider.badge.permission.WRITE",
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            "com.oppo.launcher.permission.WRITE_SETTINGS",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.anddoes.launcher.permission.UPDATE_COUNT",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.oppo.launcher.permission.READ_SETTINGS",
+            "android.permission.WAKE_LOCK",
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.READ_APP_BADGE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "me.everything.badger.permission.BADGE_COUNT_WRITE",
+            "com.htc.launcher.permission.READ_SETTINGS",
+            "android.permission.USE_FINGERPRINT",
+            "com.majeur.launcher.permission.UPDATE_BADGE",
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            "android.permission.USE_BIOMETRIC",
+            "me.everything.badger.permission.BADGE_COUNT_READ",
+            "com.android.vending.BILLING",
+            "com.sec.android.provider.badge.permission.READ",
+            "com.sonyericsson.home.permission.BROADCAST_BADGE",
+            "com.google.android.c2dm.permission.RECEIVE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.slayminex.rescuer",
+        "apk": "safety-help-sos_1.2.9.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.SEND_SMS",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.WAKE_LOCK",
+            "android.permission.VIBRATE",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_CONTACTS",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.READ_PHONE_STATE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "ie.armour.dare2",
+        "apk": "dare-break-free-from-anxiety_6.5.1-0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.google.android.providers.gsf.permission.READ_GSERVICES",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.android.vending.BILLING",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.FOREGROUND_SERVICE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "co.intellect.app",
+        "apk": "intellect-create-a-better-you_1.1.5.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "me.everything.badger.permission.BADGE_COUNT_WRITE",
+            "com.sec.android.provider.badge.permission.READ",
+            "com.htc.launcher.permission.READ_SETTINGS",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.anddoes.launcher.permission.UPDATE_COUNT",
+            "android.permission.VIBRATE",
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            "com.oppo.launcher.permission.READ_SETTINGS",
+            "co.intellect.app.permission.C2D_MESSAGE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+            "android.permission.INTERNET",
+            "android.permission.READ_PHONE_STATE",
+            "com.sonyericsson.home.permission.BROADCAST_BADGE",
+            "com.oppo.launcher.permission.WRITE_SETTINGS",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            "me.everything.badger.permission.BADGE_COUNT_READ",
+            "com.majeur.launcher.permission.UPDATE_BADGE",
+            "android.permission.READ_APP_BADGE",
+            "com.sec.android.provider.badge.permission.WRITE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.rootd",
+        "apk": "rootd-panic-attack-anxiety-relief_2.2.10.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.VIBRATE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.android.vending.BILLING",
+            "android.permission.READ_CALENDAR",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.WRITE_CALENDAR",
+            "android.permission.RECEIVE_BOOT_COMPLETED"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.woebot",
+        "apk": "woebot-your-self-care-expert_3.26.2.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.INTERNET",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.USE_BIOMETRIC",
+            "android.permission.WAKE_LOCK",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_PHONE_STATE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.USE_FINGERPRINT"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.flowneuroscience.flow.droid",
+        "apk": "flow-depression_2.9.0.apk",
+        "bluetooth_permissions": true,
+        "permission_set": [
+            "android.permission.ACCESS_NOTIFICATION_POLICY",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.BLUETOOTH",
+            "android.permission.WAKE_LOCK",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.CAMERA",
+            "android.permission.READ_CALENDAR",
+            "android.permission.INTERNET",
+            "android.permission.WRITE_CALENDAR",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.BLUETOOTH_ADMIN",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.WRITE_EXTERNAL_STORAGE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "app.chiku",
+        "apk": "chiku-\u2013-journal-diary-mood-tracker_5.8.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.anddoes.launcher.permission.UPDATE_COUNT",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "com.majeur.launcher.permission.UPDATE_BADGE",
+            "com.fingerprints.service.ACCESS_FINGERPRINT_MANAGER",
+            "com.android.vending.BILLING",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.htc.launcher.permission.READ_SETTINGS",
+            "com.sonyericsson.home.permission.BROADCAST_BADGE",
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            "android.permission.WAKE_LOCK",
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            "android.permission.INTERNET",
+            "android.permission.FOREGROUND_SERVICE",
+            "com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY",
+            "android.permission.DOWNLOAD_WITHOUT_NOTIFICATION",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+            "com.android.vending.CHECK_LICENSE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.USE_FINGERPRINT",
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            "com.sec.android.provider.badge.permission.WRITE",
+            "android.permission.USE_BIOMETRIC",
+            "android.permission.SYSTEM_ALERT_WINDOW",
+            "app.chiku.permission.C2D_MESSAGE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.CAMERA",
+            "android.permission.ACCESS_WIFI_STATE",
+            "com.sec.android.provider.badge.permission.READ",
+            "android.permission.VIBRATE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.shinetext.shine",
+        "apk": "shine-calm-anxiety-stress_4.8.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.anddoes.launcher.permission.UPDATE_COUNT",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "com.majeur.launcher.permission.UPDATE_BADGE",
+            "com.android.vending.BILLING",
+            "com.htc.launcher.permission.READ_SETTINGS",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.sonyericsson.home.permission.BROADCAST_BADGE",
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            "android.permission.WAKE_LOCK",
+            "com.oppo.launcher.permission.WRITE_SETTINGS",
+            "com.shinetext.shine.permission.C2D_MESSAGE",
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            "android.permission.INTERNET",
+            "com.oppo.launcher.permission.READ_SETTINGS",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.READ_APP_BADGE",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+            "com.android.vending.CHECK_LICENSE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "me.everything.badger.permission.BADGE_COUNT_WRITE",
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            "me.everything.badger.permission.BADGE_COUNT_READ",
+            "com.sec.android.provider.badge.permission.WRITE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.ACCESS_WIFI_STATE",
+            "com.sec.android.provider.badge.permission.READ",
+            "android.permission.VIBRATE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.moodtools.moodtools",
+        "apk": "moodtools-depression-aid_2.4.10.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.android.alarm.permission.SET_ALARM",
+            "com.android.vending.BILLING"
+        ],
+        "feature_set": [
+            "android.hardware.telephony"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.appstronautstudios.anxietylog",
+        "apk": "anxiety-tracker-stress-and-anxiety-log_1.6.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.VIBRATE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.INTERNET",
+            "com.android.vending.BILLING",
+            "android.permission.WRITE_EXTERNAL_STORAGE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.calm.android",
+        "apk": "calm-meditate-sleep-relax_5.6.apk",
+        "bluetooth_permissions": true,
+        "permission_set": [
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.android.vending.BILLING",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.BLUETOOTH",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NOTIFICATION_POLICY",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "com.android.vending.CHECK_LICENSE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.VIBRATE",
+            "android.permission.WRITE_EXTERNAL_STORAGE"
+        ],
+        "feature_set": [],
+        "uuid_count": 2,
+        "uuids": [
+            {
+                "uuid": "00000000-0000-0000-0000-000000000000",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "258eafa5-e914-47da-95ca-c5ab0dc85b11",
+                "name": "RFC6455 Websocket String"
+            }
+        ]
+    },
+    {
+        "package": "english.minplan.controllers",
+        "apk": "myplan-your-safety-plan_16.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.google.android.providers.gsf.permission.READ_GSERVICES",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_WIFI_STATE",
+            "english.minplan.controllers.permission.MAPS_RECEIVE",
+            "android.permission.WRITE_CONTACTS",
+            "android.permission.VIBRATE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.READ_CONTACTS",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.WRITE_EXTERNAL_STORAGE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "cleanday.cleandayapp.com.cleanday2",
+        "apk": "clean-day-free_2.1.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.SYSTEM_ALERT_WINDOW",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.WRITE_EXTERNAL_STORAGE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.happyneuron.cesd",
+        "apk": "cesd-depression-test_1.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.INTERNET"
+        ],
+        "feature_set": [
+            "android.hardware.touchscreen",
+            "android.hardware.touchscreen.multitouch",
+            "android.hardware.touchscreen.multitouch.distinct"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.dtest2",
+        "apk": "depression-test_1.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.INTERNET",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.SYSTEM_ALERT_WINDOW",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.WAKE_LOCK"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.datechnologies.tappingsolution",
+        "apk": "the-tapping-solution_2.9.5.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.DOWNLOAD_WITHOUT_NOTIFICATION",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.android.vending.BILLING",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.SET_ALARM"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.fatbelly.dealingwithdepression",
+        "apk": "dealing-with-depression_1.0.4.apk",
+        "bluetooth_permissions": true,
+        "permission_set": [
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.BLUETOOTH",
+            "android.permission.INTERNET",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "org.na.naapp",
+        "apk": "na-meeting-search-5-0_5.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.GET_ACCOUNTS",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.INTERNET",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "com.google.android.providers.gsf.permission.READ_GSERVICES"
+        ],
+        "feature_set": [
+            "android.hardware.location.gps",
+            "android.hardware.location"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "nl.japps.android.depressiontest",
+        "apk": "depression-test_1.24.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "nl.japps.android.depressiontest.permission.C2D_MESSAGE",
+            "android.permission.INTERNET"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "co.twenty.stop.spread",
+        "apk": "healthy-together-covid-19_1.3.67.apk",
+        "bluetooth_permissions": true,
+        "permission_set": [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.WAKE_LOCK",
+            "android.permission.CAMERA",
+            "android.permission.VIBRATE",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.BLUETOOTH",
+            "android.permission.USE_BIOMETRIC",
+            "android.permission.BLUETOOTH_ADMIN",
+            "android.permission.READ_CONTACTS",
+            "android.permission.ACCESS_WIFI_STATE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.USE_FINGERPRINT"
+        ],
+        "feature_set": [
+            "android.hardware.camera.any",
+            "android.hardware.wifi"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "ar.com.fennoma.psicotest",
+        "apk": "psytests_3.1.10.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.INTERNET",
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.android.alarm.permission.SET_ALARM",
+            "com.android.vending.BILLING",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.WAKE_LOCK",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.VIBRATE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.uwe.myoxygen",
+        "apk": "self-help-anxiety-management_1.2.8.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.RECORD_AUDIO",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.VIBRATE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.ionicframework.tatudobemapp",
+        "apk": "t\u00e1-tudo-bem_0.0.27.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.amazon.device.messaging.permission.RECEIVE",
+            "android.permission.INTERNET",
+            "com.sec.android.provider.badge.permission.WRITE",
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            "com.oppo.launcher.permission.WRITE_SETTINGS",
+            "android.permission.RECORD_AUDIO",
+            "android.permission.VIBRATE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.ionicframework.tatudobemapp.permission.C2D_MESSAGE",
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.anddoes.launcher.permission.UPDATE_COUNT",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.oppo.launcher.permission.READ_SETTINGS",
+            "android.permission.WAKE_LOCK",
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            "android.permission.READ_APP_BADGE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "me.everything.badger.permission.BADGE_COUNT_WRITE",
+            "com.htc.launcher.permission.READ_SETTINGS",
+            "com.majeur.launcher.permission.UPDATE_BADGE",
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            "android.permission.READ_PHONE_STATE",
+            "me.everything.badger.permission.BADGE_COUNT_READ",
+            "com.sec.android.provider.badge.permission.READ",
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            "com.sonyericsson.home.permission.BROADCAST_BADGE",
+            "com.ionicframework.tatudobemapp.permission.RECEIVE_ADM_MESSAGE",
+            "com.google.android.c2dm.permission.RECEIVE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.t2.vas",
+        "apk": "t2-mood-tracker_4.2.5.apk",
+        "bluetooth_permissions": true,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.USE_FINGERPRINT",
+            "android.permission.BLUETOOTH",
+            "android.permission.BODY_SENSORS",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.SYSTEM_ALERT_WINDOW",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.INTERNET",
+            "android.permission.WRITE_EXTERNAL_STORAGE"
+        ],
+        "feature_set": [
+            "android.hardware.fingerprint"
+        ],
+        "uuid_count": 1,
+        "uuids": [
+            {
+                "uuid": "00001101-0000-1000-8000-00805f9b34fb",
+                "name": "SPP Serial Port Service UUID"
+            }
+        ]
+    },
+    {
+        "package": "com.bstro.MindShift",
+        "apk": "mindshift-cbt-anxiety-and-panic-relief_2.0.4.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.VIBRATE",
+            "android.permission.INTERNET",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.WAKE_LOCK"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.gmail.mrqspeacock.destressme",
+        "apk": "de-stressme-cbt-tools-to-manage-stress_1.06.5.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.android.vending.BILLING"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "gov.cdc.ncbddd.actearly.milestones",
+        "apk": "cdc-milestone-tracker_1.3.42.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "android.permission.FOREGROUND_SERVICE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.changecollective.tenpercenthappier",
+        "apk": "ten-percent-happier-meditation-sleep_2.12.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.android.vending.BILLING",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.ACCESS_NOTIFICATION_POLICY"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.programming.advanced.depressiontest",
+        "apk": "\ud83c\uddfa\ud83c\uddf8depression-test_3.0.1.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.WAKE_LOCK",
+            "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE"
+        ],
+        "feature_set": [
+            "android.hardware.sensor.accelerometer",
+            "android.hardware.touchscreen",
+            "android.hardware.touchscreen.multitouch",
+            "android.hardware.touchscreen.multitouch.distinct"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.excelatlife.cbtdiary",
+        "apk": "cbt-tools-for-healthy-living-self-help-mood-diary_6.1.1.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.clarity.eap.alert",
+        "apk": "emergency-sos-safety-alert-\u2013-personal-alarm-app_0.36.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_CONTACTS",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.SEND_SMS"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "app.medicalid.free",
+        "apk": "medical-id-free-in-case-of-emergency_7.11.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.CALL_PHONE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.ACCESS_BACKGROUND_LOCATION",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.READ_CONTACTS",
+            "android.permission.INTERNET",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.CHANGE_WIFI_STATE",
+            "android.permission.USE_FINGERPRINT",
+            "android.permission.USE_BIOMETRIC",
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.VIBRATE"
+        ],
+        "feature_set": [
+            "android.hardware.location.gps",
+            "android.hardware.location"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "info.moodpatterns.moodpatterns",
+        "apk": "mood-patterns-a-mood-tracker-with-privacy_0.32.1.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.USE_FINGERPRINT",
+            "com.android.vending.CHECK_LICENSE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.android.vending.BILLING",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.WAKE_LOCK",
+            "android.permission.VIBRATE",
+            "android.permission.FOREGROUND_SERVICE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.lifeomic.lifeextend",
+        "apk": "life-extend-complete-health-wellness-tracker_5.1.5.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.android.vending.CHECK_LICENSE",
+            "com.sec.android.provider.badge.permission.READ",
+            "com.htc.launcher.permission.READ_SETTINGS",
+            "com.sec.android.provider.badge.permission.WRITE",
+            "com.majeur.launcher.permission.UPDATE_BADGE",
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.READ_APP_BADGE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            "android.permission.CAMERA",
+            "me.everything.badger.permission.BADGE_COUNT_READ",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.WAKE_LOCK",
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            "android.permission.VIBRATE",
+            "com.sonyericsson.home.permission.BROADCAST_BADGE",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.anddoes.launcher.permission.UPDATE_COUNT",
+            "me.everything.badger.permission.BADGE_COUNT_WRITE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.android.vending.BILLING",
+            "android.permission.SYSTEM_ALERT_WINDOW",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+            "com.oppo.launcher.permission.WRITE_SETTINGS",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "com.oppo.launcher.permission.READ_SETTINGS",
+            "android.permission.FOREGROUND_SERVICE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.medco.medcopharmacy",
+        "apk": "express-scripts_11.6.2.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.WAKE_LOCK",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.USE_FINGERPRINT",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.INTERNET",
+            "android.permission.USE_BIOMETRIC",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.android.alarm.permission.SET_ALARM"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.Meditation.app",
+        "apk": "breethe-calm-meditation-sleep-sounds_5.2.1.apk",
+        "bluetooth_permissions": true,
+        "permission_set": [
+            "android.permission.WAKE_LOCK",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.INTERNET",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.BLUETOOTH",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.android.vending.BILLING",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.asus.msa.SupplementaryDID.ACCESS"
+        ],
+        "feature_set": [],
+        "uuid_count": 2,
+        "uuids": [
+            {
+                "uuid": "00000000-0000-0000-0000-000000000000",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "258eafa5-e914-47da-95ca-c5ab0dc85b11",
+                "name": "RFC6455 Websocket String"
+            }
+        ]
+    },
+    {
+        "package": "com.symptomate.mobile",
+        "apk": "symptomate-\u2013-symptom-checker_2.2.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.FOREGROUND_SERVICE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.herzberg.easyquitsdrinking",
+        "apk": "sobriety-counter-stop-drinking-easyquit_1.2.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.WAKE_LOCK",
+            "android.permission.VIBRATE",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.android.alarm.permission.SET_ALARM",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.ACCESS_WIFI_STATE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "melstudio.msugar",
+        "apk": "glucose-tracker-diabetic-diary-your-blood-sugar_3.2.6.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.android.alarm.permission.SET_ALARM",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.android.vending.BILLING"
+        ],
+        "feature_set": [
+            "android.hardware.location",
+            "android.hardware.location.network"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.orga.project_nathaniel",
+        "apk": "six-pillars-build-a-healthy-self-esteem_1.7.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.FOREGROUND_SERVICE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.beachbody.bod",
+        "apk": "beachbody-on-demand-the-best-fitness-workouts_4.5.0.apk",
+        "bluetooth_permissions": true,
+        "permission_set": [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.CAMERA",
+            "android.permission.RECORD_AUDIO",
+            "android.permission.BROADCAST_STICKY",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            "android.permission.WAKE_LOCK",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.INTERNET",
+            "com.android.vending.BILLING",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.BLUETOOTH",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.CHANGE_WIFI_STATE",
+            "android.permission.QUICKBOOT_POWERON"
+        ],
+        "feature_set": [
+            "android.hardware.camera",
+            "android.hardware.microphone",
+            "android.hardware.touchscreen",
+            "android.hardware.sensor.accelerometer",
+            "android.hardware.camera.autofocus"
+        ],
+        "uuid_count": 25,
+        "uuids": [
+            {
+                "uuid": "99999999-9999-9999-9999-999999999999",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "68cee207-1ad1-4e09-b381-3004fa53696d",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "98871bf4-81ee-4cc2-859a-cbcfc192a41b",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "e7f6b666-cf81-415f-9b89-31f35411c458",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "5d27f726-705f-4cd3-9e33-5991b7ef55b8",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "9adfb50d-e623-4801-9527-b0a8146d5c97",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "ec5d1185-13ca-417e-9c9f-5a764c098506",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "836530da-f29f-44ed-8b0f-74722178a9b8",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "c3d3555a-761b-4def-8dc7-d812dd27a5e8",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "84c9f158-d68a-4dab-bbf9-4e7049c39539",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "52c58525-e60c-40c7-ac4b-8fac85718ed4",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "ffc3ff78-7602-4fe7-8b53-c4266d103924",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "6b3cc970-15f0-11e9-ab14-d663bd873d93",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "9136dc6d-affd-4e8b-8d8a-451759d63d63",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "919f20df-09f5-4e00-95fd-16ce06591bc6",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "c46f1445-8008-4cfd-a963-17e6383a816c",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "e5fb71cb-31f3-40b7-91f2-bed33e237b77",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "c40654ab-30ca-433a-8867-069cb1f6d4d0",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "997603ff-ac83-48e2-918f-c9dd91d31d61",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "5543cab5-8fac-4453-b246-ff841d80656d",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "e8b43fae-548d-45ee-b548-83a4fa7c0d58",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "edef8ba9-79d6-4ace-a3c8-27dcd51d21ed",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "258eafa5-e914-47da-95ca-c5ab0dc85b11",
+                "name": "RFC6455 Websocket String"
+            },
+            {
+                "uuid": "bb392ec0-8d4d-11e0-a896-0002a5d5c51b",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "c06c8400-8e06-11e0-9cb6-0002a5d5c51b",
+                "name": "Unknown"
+            }
+        ]
+    },
+    {
+        "package": "com.ideofuzion.relaxoceansounds",
+        "apk": "calm-ocean-waves-sounds-relax-music-white-noise_12.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.WAKE_LOCK",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.android.vending.BILLING",
+            "android.permission.FOREGROUND_SERVICE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.INTERNET",
+            "android.permission.SET_WALLPAPER",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.WRITE_EXTERNAL_STORAGE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "gov.vdh.exposurenotification",
+        "apk": "covidwise_1.0.apk",
+        "bluetooth_permissions": true,
+        "permission_set": [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.BLUETOOTH",
+            "android.permission.FOREGROUND_SERVICE"
+        ],
+        "feature_set": [
+            "android.hardware.bluetooth_le",
+            "android.hardware.bluetooth",
+            "android.hardware.bluetooth",
+            "android.hardware.bluetooth_le"
+        ],
+        "uuid_count": 1,
+        "uuids": [
+            {
+                "uuid": "00000000-0000-1000-8000-00805f9b34fb",
+                "name": "Base UUID"
+            }
+        ]
+    },
+    {
+        "package": "com.mayulinavarro.psicologiadeladepresion",
+        "apk": "psicologia-de-la-depresi\u00f3n_1.5.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.USE_FINGERPRINT",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.INTERNET",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.CAMERA",
+            "android.permission.RECORD_AUDIO",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.WAKE_LOCK",
+            "com.google.android.c2dm.permission.RECEIVE"
+        ],
+        "feature_set": [
+            "android.hardware.location",
+            "android.hardware.location.network",
+            "android.hardware.location.gps",
+            "android.hardware.microphone",
+            "android.hardware.camera",
+            "android.hardware.camera.autofocus",
+            "android.hardware.screen.portrait",
+            "android.hardware.screen.landscape"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.rp.rpdiet",
+        "apk": "rp-diet-coach_1.14.7.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.rp.rpdiet.permission.C2D_MESSAGE",
+            "android.permission.SYSTEM_ALERT_WINDOW",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.android.vending.BILLING",
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            "com.android.vending.CHECK_LICENSE",
+            "com.majeur.launcher.permission.UPDATE_BADGE",
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            "com.anddoes.launcher.permission.UPDATE_COUNT",
+            "android.permission.ACCESS_WIFI_STATE",
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.sec.android.provider.badge.permission.READ",
+            "com.sonyericsson.home.permission.BROADCAST_BADGE",
+            "com.sec.android.provider.badge.permission.WRITE",
+            "android.permission.INTERNET",
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            "android.permission.CAMERA",
+            "android.permission.VIBRATE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            "com.htc.launcher.permission.READ_SETTINGS"
+        ],
+        "feature_set": [
+            "android.hardware.camera",
+            "android.hardware.camera.autofocus"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "gov.ny.health.proximity",
+        "apk": "covid-alert-ny_1.0.2.apk",
+        "bluetooth_permissions": true,
+        "permission_set": [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.BLUETOOTH",
+            "android.permission.ACCESS_WIFI_STATE"
+        ],
+        "feature_set": [
+            "android.hardware.bluetooth_le",
+            "android.hardware.bluetooth"
+        ],
+        "uuid_count": 1,
+        "uuids": [
+            {
+                "uuid": "258eafa5-e914-47da-95ca-c5ab0dc85b11",
+                "name": "RFC6455 Websocket String"
+            }
+        ]
+    },
+    {
+        "package": "com.ellisapps.itrackbitesplus",
+        "apk": "itrackbites-easy-weight-loss-diet-and-tracker_6.13.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.READ_CONTACTS",
+            "android.permission.CAMERA",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.RECORD_AUDIO",
+            "com.android.vending.BILLING",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.VIBRATE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.FLASHLIGHT"
+        ],
+        "feature_set": [
+            "android.hardware.camera",
+            "android.hardware.camera.autofocus",
+            "android.hardware.camera.flash"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.askendiet.us.asken",
+        "apk": "calorie-counter-asken-diet_2.7.3.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.VIBRATE",
+            "android.permission.INTERNET",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.CAMERA",
+            "com.android.vending.BILLING",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.WRITE_SETTINGS",
+            "android.permission.ACTIVITY_RECOGNITION",
+            "com.google.android.providers.gsf.permission.READ_GSERVICES",
+            "android.permission.WAKE_LOCK"
+        ],
+        "feature_set": [
+            "android.hardware.camera",
+            "android.hardware.camera.front",
+            "android.hardware.camera.autofocus",
+            "android.hardware.camera.flash",
+            "android.hardware.screen.landscape",
+            "android.hardware.wifi"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "gov.nc.dhhs.exposurenotification",
+        "apk": "slowcovidnc_1.1.apk",
+        "bluetooth_permissions": true,
+        "permission_set": [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.BLUETOOTH",
+            "android.permission.WAKE_LOCK",
+            "android.permission.FOREGROUND_SERVICE"
+        ],
+        "feature_set": [
+            "android.hardware.bluetooth_le",
+            "android.hardware.bluetooth"
+        ],
+        "uuid_count": 1,
+        "uuids": [
+            {
+                "uuid": "00000000-0000-1000-8000-00805f9b34fb",
+                "name": "Base UUID"
+            }
+        ]
+    },
+    {
+        "package": "com.yanaapp",
+        "apk": "yana-tu-acompa\u00f1ante-emocional_2.0.3.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "me.everything.badger.permission.BADGE_COUNT_WRITE",
+            "com.android.vending.BILLING",
+            "com.sec.android.provider.badge.permission.READ",
+            "com.htc.launcher.permission.READ_SETTINGS",
+            "com.android.vending.CHECK_LICENSE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.anddoes.launcher.permission.UPDATE_COUNT",
+            "android.permission.VIBRATE",
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            "com.oppo.launcher.permission.READ_SETTINGS",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+            "android.permission.INTERNET",
+            "android.permission.READ_PHONE_STATE",
+            "com.sonyericsson.home.permission.BROADCAST_BADGE",
+            "com.oppo.launcher.permission.WRITE_SETTINGS",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            "me.everything.badger.permission.BADGE_COUNT_READ",
+            "com.majeur.launcher.permission.UPDATE_BADGE",
+            "android.permission.READ_APP_BADGE",
+            "com.sec.android.provider.badge.permission.WRITE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.focusatwill.androidApp",
+        "apk": "focus-will-control-your-add_39.0.2.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.android.vending.CHECK_LICENSE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.android.vending.BILLING",
+            "android.permission.WAKE_LOCK",
+            "android.permission.SYSTEM_ALERT_WINDOW",
+            "android.permission.INTERNET",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.FOREGROUND_SERVICE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.zenklub.android",
+        "apk": "zenklub-se-conhecer-faz-bem_0.37.0-R.apk",
+        "bluetooth_permissions": true,
+        "permission_set": [
+            "android.permission.CAMERA",
+            "android.permission.INTERNET",
+            "com.sec.android.provider.badge.permission.WRITE",
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            "com.oppo.launcher.permission.WRITE_SETTINGS",
+            "android.permission.RECORD_AUDIO",
+            "android.permission.VIBRATE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.anddoes.launcher.permission.UPDATE_COUNT",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.oppo.launcher.permission.READ_SETTINGS",
+            "android.permission.WAKE_LOCK",
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            "android.permission.SYSTEM_ALERT_WINDOW",
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            "com.zenklub.android.permission.MAPS_RECEIVE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.READ_APP_BADGE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "me.everything.badger.permission.BADGE_COUNT_WRITE",
+            "com.htc.launcher.permission.READ_SETTINGS",
+            "android.permission.ACCESS_WIFI_STATE",
+            "com.majeur.launcher.permission.UPDATE_BADGE",
+            "android.permission.BLUETOOTH",
+            "com.sonyericsson.home.permission.BROADCAST_BADGE",
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.READ_PHONE_STATE",
+            "com.zenklub.android.permission.C2D_MESSAGE",
+            "me.everything.badger.permission.BADGE_COUNT_READ",
+            "com.sec.android.provider.badge.permission.READ",
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            "com.google.android.c2dm.permission.RECEIVE"
+        ],
+        "feature_set": [],
+        "uuid_count": 6,
+        "uuids": [
+            {
+                "uuid": "b2f7f966-d8cc-11e4-bed1-df8f05be55ba",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "5eb5a37e-b458-11e3-ac11-000c2940e62c",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-000000000000",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "258eafa5-e914-47da-95ca-c5ab0dc85b11",
+                "name": "RFC6455 Websocket String"
+            },
+            {
+                "uuid": "bb392ec0-8d4d-11e0-a896-0002a5d5c51b",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "c06c8400-8e06-11e0-9cb6-0002a5d5c51b",
+                "name": "Unknown"
+            }
+        ]
+    },
+    {
+        "package": "com.dexcom.clarity.mobile",
+        "apk": "dexcom-clarity_2.13.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "com.dexcom.g6.content_provider.READ_PERMISSION",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.REORDER_TASKS",
+            "android.hardware.camera.autofocus",
+            "android.hardware.camera",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.android.vending.BILLING",
+            "com.dexcom.cgm.content_provider.READ_PERMISSION",
+            "android.permission.CAMERA",
+            "com.dexcom.clarity.firebase.READ_PERMISSION"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.zelo_fasting.zelo",
+        "apk": "zero-calories-fasting-tracker-intermittent-fast_162.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "android.permission.FOREGROUND_SERVICE",
+            "com.android.alarm.permission.SET_ALARM",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.android.vending.BILLING",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA",
+            "android.permission.RECEIVE_BOOT_COMPLETED"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "io.medek.safepass",
+        "apk": "covid-safepass_1.2.2.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.CAMERA",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.ACCESS_FINE_LOCATION"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.calmradio",
+        "apk": "calmradio-com-relaxing-music_11.9.4.apk",
+        "bluetooth_permissions": true,
+        "permission_set": [
+            "android.permission.GET_ACCOUNTS",
+            "com.android.vending.BILLING",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.BLUETOOTH",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.RECORD_AUDIO",
+            "android.permission.INTERNET",
+            "com.android.launcher.permission.UNINSTALL_SHORTCUT",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            "com.calmradio.permission.C2D_MESSAGE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.BLUETOOTH_ADMIN",
+            "com.android.launcher.permission.INSTALL_SHORTCUT",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.USE_CREDENTIALS",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.GET_TASKS"
+        ],
+        "feature_set": [
+            "android.software.leanback",
+            "android.hardware.touchscreen",
+            "android.hardware.camera",
+            "android.hardware.camera.autofocus",
+            "android.hardware.microphone",
+            "android.hardware.wifi",
+            "android.hardware.bluetooth",
+            "android.hardware.location",
+            "android.hardware.location.gps",
+            "android.hardware.location.network",
+            "android.hardware.telephony"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.holoash.leavoice",
+        "apk": "ashley-\u2013-connect-make-friends_4.1.2.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.READ_INTERNAL_STORAGE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.RECORD_AUDIO",
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.MANAGE_DOCUMENTS",
+            "android.permission.READ_CONTACTS",
+            "android.permission.INTERNET",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.android.vending.CHECK_LICENSE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.USE_FINGERPRINT",
+            "android.permission.READ_CALENDAR",
+            "android.permission.WRITE_CALENDAR",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.STORAGE",
+            "android.permission.WRITE_SETTINGS",
+            "android.permission.SYSTEM_ALERT_WINDOW",
+            "com.google.android.providers.gsf.permission.READ_GSERVICES",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.CAMERA",
+            "android.permission.ACCESS_WIFI_STATE",
+            "com.google.android.gms.permission.ACTIVITY_RECOGNITION",
+            "android.permission.VIBRATE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.period.calendar.ovulation.tracker.lunar",
+        "apk": "lunar-period-tracker-ovulation-calendar_1.6.1.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.CAMERA",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.VIBRATE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "com.android.launcher.permission.UNINSTALL_SHORTCUT",
+            "android.permission.AUTHENTICATE_ACCOUNTS",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.INTERNET",
+            "android.permission.PACKAGE_USAGE_STATS",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.SYSTEM_ALERT_WINDOW",
+            "com.android.vending.BILLING",
+            "android.permission.GET_TASKS",
+            "com.android.launcher.permission.INSTALL_SHORTCUT",
+            "android.permission.READ_SYNC_STATS",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.GET_ACCOUNTS",
+            "android.permission.WRITE_SYNC_SETTINGS",
+            "android.permission.EXPAND_STATUS_BAR"
+        ],
+        "feature_set": [
+            "android.hardware.camera",
+            "android.hardware.camera.autofocus",
+            "android.hardware.camera.front",
+            "android.hardware.microphone"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.intelycare.m",
+        "apk": "intelycare-nursing-jobs-on-demand-staffing_8.9.6.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.CALL_PHONE",
+            "com.anddoes.launcher.permission.UPDATE_COUNT",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "com.majeur.launcher.permission.UPDATE_BADGE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.htc.launcher.permission.READ_SETTINGS",
+            "com.sonyericsson.home.permission.BROADCAST_BADGE",
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            "android.permission.WAKE_LOCK",
+            "com.oppo.launcher.permission.WRITE_SETTINGS",
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            "android.permission.INTERNET",
+            "com.oppo.launcher.permission.READ_SETTINGS",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.READ_APP_BADGE",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.USE_FINGERPRINT",
+            "me.everything.badger.permission.BADGE_COUNT_WRITE",
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            "me.everything.badger.permission.BADGE_COUNT_READ",
+            "com.sec.android.provider.badge.permission.WRITE",
+            "com.amazon.device.messaging.permission.RECEIVE",
+            "com.google.android.providers.gsf.permission.READ_GSERVICES",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "com.intelycare.m.permission.RECEIVE_ADM_MESSAGE",
+            "android.permission.CAMERA",
+            "android.permission.ACCESS_WIFI_STATE",
+            "com.sec.android.provider.badge.permission.READ",
+            "android.permission.VIBRATE"
+        ],
+        "feature_set": [
+            "android.hardware.camera.any",
+            "android.hardware.camera.autofocus",
+            "android.hardware.telephony"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.app.solfeggiomedi",
+        "apk": "solfeggio-frequencies-binaural-beats-meditation_49.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.android.vending.BILLING",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.INTERNET",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    }
+]

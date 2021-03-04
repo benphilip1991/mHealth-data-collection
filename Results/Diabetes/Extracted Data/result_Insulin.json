@@ -1,0 +1,4256 @@
+[
+    {
+        "package": "com.ltmod.insulincalculator",
+        "apk": "insulin-calculator_2.02.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.INTERNET"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.insulindiary.glucosenotes",
+        "apk": "blood-sugar-diary-app-insulin_1.2.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.CAMERA",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.android.vending.BILLING",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.ACCESS_WIFI_STATE",
+            "com.google.android.apps.photos.permission.GOOGLE_PHOTOS"
+        ],
+        "feature_set": [
+            "android.hardware.camera.any"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "lumbrikdev.gmail.com.insulincalculator",
+        "apk": "insulin-dose-calculator-and-timer-for-diabetes_1.2.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.mysugr.android.companion",
+        "apk": "mysugr-diabetes-app-blood-sugar-tracker_3.83.0.apk",
+        "bluetooth_permissions": true,
+        "permission_set": [
+            "android.permission.WAKE_LOCK",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.CAMERA",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "com.android.vending.BILLING",
+            "android.permission.ACTIVITY_RECOGNITION",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.BLUETOOTH",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.BLUETOOTH_ADMIN",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.INTERNET",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.VIBRATE",
+            "android.permission.WRITE_EXTERNAL_STORAGE"
+        ],
+        "feature_set": [
+            "android.com.mysugr.logbook.hardware.microphone",
+            "android.com.mysugr.logbook.hardware.camera",
+            "android.com.mysugr.logbook.hardware.bluetooth",
+            "android.hardware.bluetooth_le",
+            "android.com.mysugr.logbook.hardware.camera.autofocus",
+            "android.com.mysugr.logbook.hardware.location",
+            "android.com.mysugr.logbook.hardware.location.gps",
+            "android.com.mysugr.logbook.hardware.location.network"
+        ],
+        "uuid_count": 32,
+        "uuids": [
+            {
+                "uuid": "dc3ab637-d878-4967-b042-742f8d25c5b0",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "407fa902-ab6d-4b5c-ac30-fb05e91a8e5d",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "436aec80-81a3-422d-9203-9659ea0bf98c",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "6abb78a7-beb0-419c-8a05-317a09080dfe",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00001101-0000-1000-8000-00805f9b34fb",
+                "name": "SPP Serial Port Service UUID"
+            },
+            {
+                "uuid": "6bc4c772-237b-45de-8fe2-2f11fa93b2a5",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "f8df0149-a9e0-48ca-9af2-c249a21022e0",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "258eafa5-e914-47da-95ca-c5ab0dc85b11",
+                "name": "RFC6455 Websocket String"
+            },
+            {
+                "uuid": "00001805-0000-1000-8000-00805f9b34fb",
+                "name": "Current Time Service"
+            },
+            {
+                "uuid": "00002a2b-0000-1000-8000-00805f9b34fb",
+                "name": "Current Time"
+            },
+            {
+                "uuid": "233bf001-5a34-1b6d-975c-000d5690abe4",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "233bf000-5a34-1b6d-975c-000d5690abe4",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0x2a18",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0x2a34",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0x2a51",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0x2a52",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0x1808",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-1000-1000-000000000001",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-1000-1000-000000000000",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0x2a29",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0x2a24",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0x2a25",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0x2a27",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0x2a26",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0x2a28",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0x2a23",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0x2a2a",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0x2a50",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0x180a",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "23434101-1fe4-1eff-80cb-00ff78297d8b",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "23434102-1fe4-1eff-80cb-00ff78297d8b",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "23434100-1fe4-1eff-80cb-00ff78297d8b",
+                "name": "Unknown"
+            }
+        ]
+    },
+    {
+        "package": "appinventor.ai_digitallysmarter.InCalc",
+        "apk": "incalc-insulin-calculator_1.2.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_WIFI_STATE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.plssolucoesti.insulincalculator",
+        "apk": "insulin-calculator_1.26.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.plssolucoesti.insulincalculator.permission.C2D_MESSAGE",
+            "host.exp.exponent.permission.C2D_MESSAGE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.ACCESS_BACKGROUND_LOCATION",
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.WAKE_LOCK",
+            "com.oppo.launcher.permission.WRITE_SETTINGS",
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            "android.permission.INTERNET",
+            "com.oppo.launcher.permission.READ_SETTINGS",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.READ_APP_BADGE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.USE_FINGERPRINT",
+            "me.everything.badger.permission.BADGE_COUNT_WRITE",
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            "me.everything.badger.permission.BADGE_COUNT_READ",
+            "android.permission.USE_BIOMETRIC",
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            "android.permission.STORAGE",
+            "android.permission.SYSTEM_ALERT_WINDOW",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.VIBRATE"
+        ],
+        "feature_set": [
+            "android.software.leanback",
+            "android.hardware.touchscreen",
+            "android.hardware.camera",
+            "android.hardware.camera.autofocus",
+            "android.hardware.location",
+            "android.hardware.location.gps",
+            "android.hardware.location.network",
+            "android.hardware.wifi",
+            "android.hardware.microphone",
+            "android.hardware.telephony",
+            "android.hardware.bluetooth"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "glucosapp.glucosapp",
+        "apk": "glucosapp_7.1.1.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.WAKE_LOCK",
+            "com.android.vending.BILLING",
+            "android.permission.INTERNET"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "melstudio.msugar",
+        "apk": "glucose-tracker-diabetic-diary-your-blood-sugar_3.2.6.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.android.alarm.permission.SET_ALARM",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.android.vending.BILLING"
+        ],
+        "feature_set": [
+            "android.hardware.location",
+            "android.hardware.location.network"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.mydiabetes",
+        "apk": "diabetes-m-management-blood-sugar-tracker-app_8.0.8.apk",
+        "bluetooth_permissions": true,
+        "permission_set": [
+            "android.permission.CHANGE_WIFI_STATE",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.ACTIVITY_RECOGNITION",
+            "android.permission.BLUETOOTH_ADMIN",
+            "android.permission.AUTHENTICATE_ACCOUNTS",
+            "android.permission.NFC",
+            "android.permission.USE_CREDENTIALS",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+            "com.android.vending.BILLING",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.google.android.permission.PROVIDE_BACKGROUND",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.INTERNET",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.VIBRATE",
+            "com.google.android.gms.permission.ACTIVITY_RECOGNITION",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.CAMERA",
+            "android.permission.GET_ACCOUNTS",
+            "android.permission.WAKE_LOCK",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.ACCESS_BACKGROUND_LOCATION",
+            "android.permission.BLUETOOTH"
+        ],
+        "feature_set": [
+            "android.hardware.bluetooth",
+            "android.hardware.bluetooth_le",
+            "android.hardware.location",
+            "android.hardware.location.network",
+            "android.hardware.location.gps",
+            "android.hardware.telephony",
+            "android.hardware.telephony.cdma",
+            "android.hardware.telephony.gsm",
+            "android.hardware.camera",
+            "android.hardware.camera.autofocus",
+            "android.hardware.nfc"
+        ],
+        "uuid_count": 24,
+        "uuids": [
+            {
+                "uuid": "00001808-0000-1000-8000-00805f9b34fb",
+                "name": "Glucose"
+            },
+            {
+                "uuid": "00002a18-0000-1000-8000-00805f9b34fb",
+                "name": "Glucose Measurement"
+            },
+            {
+                "uuid": "00002a34-0000-1000-8000-00805f9b34fb",
+                "name": "Glucose Measurement Context"
+            },
+            {
+                "uuid": "00002a51-0000-1000-8000-00805f9b34fb",
+                "name": "Glucose Feature"
+            },
+            {
+                "uuid": "00002a52-0000-1000-8000-00805f9b34fb",
+                "name": "Record Access Control Point"
+            },
+            {
+                "uuid": "436a62c0-082e-4ce8-a08b-01d81f195b24",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "436aa6e9-082e-4ce8-a08b-01d81f195b24",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "436a0c82-082e-4ce8-a08b-01d81f195b24",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "6e400001-b5a3-f393-e0a9-e50e24dcca9e",
+                "name": "Nordic Service UUID"
+            },
+            {
+                "uuid": "6e400003-b5a3-f393-e0a9-e50e24dcca9e",
+                "name": "Nordic TX Characteristic"
+            },
+            {
+                "uuid": "6e400002-b5a3-f393-e0a9-e50e24dcca9e",
+                "name": "Nordic RX Characteristic"
+            },
+            {
+                "uuid": "00001523-1212-efde-1523-785feabcd123",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00001524-1212-efde-1523-785feabcd123",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "af9df7a1-e595-11e3-96b4-0002a5d5c51b",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "af9df7a2-e595-11e3-96b4-0002a5d5c51b",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "af9df7a3-e595-11e3-96b4-0002a5d5c51b",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00002902-0000-1000-8000-00805f9b34fb",
+                "name": "Client Characteristic Configuration"
+            },
+            {
+                "uuid": "0000180f-0000-1000-8000-00805f9b34fb",
+                "name": "Battery Service"
+            },
+            {
+                "uuid": "00002a19-0000-1000-8000-00805f9b34fb",
+                "name": "Battery Level"
+            },
+            {
+                "uuid": "00001801-0000-1000-8000-00805f9b34fb",
+                "name": "Generic Attribute"
+            },
+            {
+                "uuid": "00002a05-0000-1000-8000-00805f9b34fb",
+                "name": "Service Changed"
+            },
+            {
+                "uuid": "79eac9d0-baf9-11ce-8c82-00aa004ba90b",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "79eac9e0-baf9-11ce-8c82-00aa004ba90b",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000303-0000-0000-c000-000000000046",
+                "name": "Unknown"
+            }
+        ]
+    },
+    {
+        "package": "ru.hintsolutions.diabets",
+        "apk": "diabetes_2.3.5.apk",
+        "bluetooth_permissions": true,
+        "permission_set": [
+            "android.permission.WRITE_INTERNAL_STORAGE",
+            "android.permission.CAMERA",
+            "android.permission.INTERNET",
+            "android.permission.DISABLE_KEYGUARD",
+            "android.permission.REORDER_TASKS",
+            "android.permission.RECORD_AUDIO",
+            "android.permission.VIBRATE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.READ_INTERNAL_STORAGE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.WRITE_SECURE_SETTINGS",
+            "android.permission.SYSTEM_ALERT_WINDOW",
+            "android.permission.BLUETOOTH_PRIVILEGED",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "com.google.android.permission.PROVIDE_BACKGROUND",
+            "com.android.alarm.permission.SET_ALARM",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.NFC",
+            "no.nordicsemi.android.LOG",
+            "android.permission.BLUETOOTH",
+            "android.permission.BLUETOOTH_ADMIN",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.WRITE_CALENDAR",
+            "android.permission.READ_USER_DICTIONARY",
+            "android.permission.READ_PHONE_STATE",
+            "com.android.vending.BILLING",
+            "android.permission.WRITE_USER_DICTIONARY",
+            "com.google.android.c2dm.permission.RECEIVE"
+        ],
+        "feature_set": [
+            "android.hardware.bluetooth_le",
+            "android.hardware.camera",
+            "android.hardware.camera.autofocus",
+            "android.hardware.camera.flash",
+            "android.hardware.touchscreen",
+            "android.hardware.sensor.accelerometer",
+            "android.hardware.camera.front",
+            "android.hardware.screen.landscape",
+            "android.hardware.wifi"
+        ],
+        "uuid_count": 31,
+        "uuids": [
+            {
+                "uuid": "258eafa5-e914-47da-95ca-c5ab0dc85b11",
+                "name": "RFC6455 Websocket String"
+            },
+            {
+                "uuid": "1994890a-41fe-4799-b9f5-a7ab27400f9f",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "20799a27-fa80-4b36-b2db-0f8141f24180",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0e5e9c33-f8c3-4568-86c5-2e4f57523f72",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "01528cc0-dd34-494d-9218-24af1317e1ee",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "4e610cd2-753f-4bfc-9b05-772ce8905c5e",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "67bb016b-be40-4c08-a190-96a3f3b503d3",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "e4250327-8d3c-4d35-b9e8-3c1720a64b91",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "6c5f504e-8928-47b5-bfb5-73af8d8bf4b4",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "7d962ba4-a392-449a-a02d-6c5be5613928",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-000000000000",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-1000-8000-00805f9b34fb",
+                "name": "Base UUID"
+            },
+            {
+                "uuid": "00001808-0000-1000-8000-00805f9b34fb",
+                "name": "Glucose"
+            },
+            {
+                "uuid": "af9df7a1-e595-11e3-96b4-0002a5d5c51b",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "af9df7a2-e595-11e3-96b4-0002a5d5c51b",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "af9df7a3-e595-11e3-96b4-0002a5d5c51b",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00001805-0000-1000-8000-00805f9b34fb",
+                "name": "Current Time Service"
+            },
+            {
+                "uuid": "0000180a-0000-1000-8000-00805f9b34fb",
+                "name": "Device Information"
+            },
+            {
+                "uuid": "00000000-0002-11e2-9e96-0800200c9a66",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00002902-0000-1000-8000-00805f9b34fb",
+                "name": "Client Characteristic Configuration"
+            },
+            {
+                "uuid": "00002a18-0000-1000-8000-00805f9b34fb",
+                "name": "Glucose Measurement"
+            },
+            {
+                "uuid": "00002a34-0000-1000-8000-00805f9b34fb",
+                "name": "Glucose Measurement Context"
+            },
+            {
+                "uuid": "00002a52-0000-1000-8000-00805f9b34fb",
+                "name": "Record Access Control Point"
+            },
+            {
+                "uuid": "00002a2b-0000-1000-8000-00805f9b34fb",
+                "name": "Current Time"
+            },
+            {
+                "uuid": "00002a08-0000-1000-8000-00805f9b34fb",
+                "name": "Date Time"
+            },
+            {
+                "uuid": "00001022-0002-11e2-9e96-0800200c9a66",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00001025-0002-11e2-9e96-0800200c9a66",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00001026-0002-11e2-9e96-0800200c9a66",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0000fff0-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0000fff1-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00002a29-0000-1000-8000-00805f9b34fb",
+                "name": "Manufacturer Name String"
+            }
+        ]
+    },
+    {
+        "package": "com.companionmedical.inpen",
+        "apk": "inpen-diabetes-management-app_5.4.3.0.apk",
+        "bluetooth_permissions": true,
+        "permission_set": [
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "com.google.android.gm.permission.AUTO_SEND",
+            "android.permission.BLUETOOTH",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.BLUETOOTH_ADMIN",
+            "android.permission.READ_CONTACTS",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.RECEIVE_BOOT_COMPLETED"
+        ],
+        "feature_set": [
+            "android.hardware.camera"
+        ],
+        "uuid_count": 2,
+        "uuids": [
+            {
+                "uuid": "00002902-0000-1000-8000-00805f9b34fb",
+                "name": "Client Characteristic Configuration"
+            },
+            {
+                "uuid": "258eafa5-e914-47da-95ca-c5ab0dc85b11",
+                "name": "RFC6455 Websocket String"
+            }
+        ]
+    },
+    {
+        "package": "com.squaremed.diabetesplus.typ1",
+        "apk": "diabetes-plus_1.0.5.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.INTERNET"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "mobi.littlebytes.android.bloodglucosetracker",
+        "apk": "blood-glucose-tracker_1.8.12.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.GET_ACCOUNTS",
+            "mobi.littlebytes.android.bloodglucosetracker.permission.C2D_MESSAGE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "com.android.vending.BILLING",
+            "android.permission.VIBRATE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.doctorkalina",
+        "apk": "diabetic-s-logbook_1.1.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.WRITE_EXTERNAL_STORAGE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "mine.mydiabeticcalculator",
+        "apk": "diabetic-calculator_3.5+trial.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.WRITE_EXTERNAL_STORAGE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "insulin.calculator",
+        "apk": "advanced-insulin-advisor-free_1.7.2.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "android.permission.VIBRATE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.SYSTEM_ALERT_WINDOW",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.android.vending.CHECK_LICENSE",
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            "android.permission.RECEIVE_BOOT_COMPLETED"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.suderman.diabeteslog",
+        "apk": "diabetes-journal_2.2.9.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "android.permission.WRITE_INTERNAL_STORAGE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.lehreer.glucose",
+        "apk": "glucose-control_1.9.1.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.WAKE_LOCK",
+            "android.permission.VIBRATE",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.FOREGROUND_SERVICE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.creamsoft.mygi",
+        "apk": "glycemic-index-load-in-food-net-carbs-diet-tracker_3.6.0.1.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.INTERNET",
+            "com.sec.android.provider.badge.permission.WRITE",
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            "com.oppo.launcher.permission.WRITE_SETTINGS",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.anddoes.launcher.permission.UPDATE_COUNT",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.oppo.launcher.permission.READ_SETTINGS",
+            "android.permission.WAKE_LOCK",
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            "android.permission.READ_APP_BADGE",
+            "me.everything.badger.permission.BADGE_COUNT_WRITE",
+            "com.htc.launcher.permission.READ_SETTINGS",
+            "android.permission.FOREGROUND_SERVICE",
+            "com.majeur.launcher.permission.UPDATE_BADGE",
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            "me.everything.badger.permission.BADGE_COUNT_READ",
+            "com.android.vending.BILLING",
+            "com.sec.android.provider.badge.permission.READ",
+            "com.sonyericsson.home.permission.BROADCAST_BADGE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.futuretech.diabetes.logs",
+        "apk": "blood-sugar-log-\u2013-diabetes-tracker_1.7.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.android.vending.BILLING",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.WAKE_LOCK"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "eu.smartpatient.mytherapy",
+        "apk": "pill-reminder-medication-tracker-mytherapy_3.69.2.apk",
+        "bluetooth_permissions": true,
+        "permission_set": [
+            "android.permission.CAMERA",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "android.permission.DISABLE_KEYGUARD",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.USE_FINGERPRINT",
+            "android.permission.BLUETOOTH",
+            "android.permission.VIBRATE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            "android.permission.BLUETOOTH_ADMIN",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.USE_FULL_SCREEN_INTENT",
+            "android.permission.RECEIVE_BOOT_COMPLETED"
+        ],
+        "feature_set": [
+            "android.hardware.camera",
+            "android.hardware.bluetooth",
+            "android.hardware.location",
+            "android.hardware.bluetooth_le"
+        ],
+        "uuid_count": 7,
+        "uuids": [
+            {
+                "uuid": "00002902-0000-1000-8000-00805f9b34fb",
+                "name": "Client Characteristic Configuration"
+            },
+            {
+                "uuid": "d41e8ebd-11d3-43d1-963a-e409aef79f72",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "7d5e25ae-4011-4003-b6bc-51ecae948c8e",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "2cf1be01-bb28-4485-92f4-fd6a6ccada11",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "e30afd03-91c5-452f-9ba9-ce09243b154a",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "e30afd02-91c5-452f-9ba9-ce09243b154a",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "e30afd01-91c5-452f-9ba9-ce09243b154a",
+                "name": "Unknown"
+            }
+        ]
+    },
+    {
+        "package": "br.com.quasar.gliconline",
+        "apk": "glic-diabetes-e-glicemia_3.0.32.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.android.alarm.permission.SET_ALARM",
+            "android.permission.INTERNET",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.WAKE_LOCK"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.andromo.dev601172.app847446",
+        "apk": "type-2-diabetes-causes_1.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE"
+        ],
+        "feature_set": [
+            "android.hardware.touchscreen"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.szyk.diabetes",
+        "apk": "diabetes_4.4.apk",
+        "bluetooth_permissions": true,
+        "permission_set": [
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.android.vending.BILLING",
+            "android.permission.VIBRATE",
+            "android.permission.BLUETOOTH_ADMIN",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "no.nordicsemi.android.LOG",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.BLUETOOTH",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+        ],
+        "feature_set": [
+            "android.hardware.bluetooth_le"
+        ],
+        "uuid_count": 17,
+        "uuids": [
+            {
+                "uuid": "00000000-0000-1000-8000-00805f9b34fb",
+                "name": "Base UUID"
+            },
+            {
+                "uuid": "00002902-0000-1000-8000-00805f9b34fb",
+                "name": "Client Characteristic Configuration"
+            },
+            {
+                "uuid": "0000180f-0000-1000-8000-00805f9b34fb",
+                "name": "Battery Service"
+            },
+            {
+                "uuid": "00002a19-0000-1000-8000-00805f9b34fb",
+                "name": "Battery Level"
+            },
+            {
+                "uuid": "00001801-0000-1000-8000-00805f9b34fb",
+                "name": "Generic Attribute"
+            },
+            {
+                "uuid": "00002a05-0000-1000-8000-00805f9b34fb",
+                "name": "Service Changed"
+            },
+            {
+                "uuid": "6e400001-b5a3-f393-e0a9-e50e24dcca9e",
+                "name": "Nordic Service UUID"
+            },
+            {
+                "uuid": "6e400002-b5a3-f393-e0a9-e50e24dcca9e",
+                "name": "Nordic RX Characteristic"
+            },
+            {
+                "uuid": "6e400003-b5a3-f393-e0a9-e50e24dcca9e",
+                "name": "Nordic TX Characteristic"
+            },
+            {
+                "uuid": "00001808-0000-1000-8000-00805f9b34fb",
+                "name": "Glucose"
+            },
+            {
+                "uuid": "00002a18-0000-1000-8000-00805f9b34fb",
+                "name": "Glucose Measurement"
+            },
+            {
+                "uuid": "00002a34-0000-1000-8000-00805f9b34fb",
+                "name": "Glucose Measurement Context"
+            },
+            {
+                "uuid": "00002a51-0000-1000-8000-00805f9b34fb",
+                "name": "Glucose Feature"
+            },
+            {
+                "uuid": "00002a52-0000-1000-8000-00805f9b34fb",
+                "name": "Record Access Control Point"
+            },
+            {
+                "uuid": "0000180d-0000-1000-8000-00805f9b34fb",
+                "name": "Heart Rate"
+            },
+            {
+                "uuid": "00002a38-0000-1000-8000-00805f9b34fb",
+                "name": "Body Sensor Location"
+            },
+            {
+                "uuid": "00002a37-0000-1000-8000-00805f9b34fb",
+                "name": "Heart Rate Measurement"
+            }
+        ]
+    },
+    {
+        "package": "com.mightybell.beyondtype1",
+        "apk": "beyond-type-1-diabetes_7.1.apk",
+        "bluetooth_permissions": true,
+        "permission_set": [
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.CAMERA",
+            "android.permission.CALL_PHONE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.VIBRATE",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.BLUETOOTH",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.SYSTEM_ALERT_WINDOW",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.READ_CONTACTS",
+            "android.permission.BLUETOOTH_ADMIN",
+            "android.permission.RECORD_AUDIO",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.BROADCAST_STICKY",
+            "android.permission.FOREGROUND_SERVICE"
+        ],
+        "feature_set": [
+            "android.hardware.camera",
+            "android.hardware.camera.front",
+            "android.hardware.touchscreen",
+            "android.hardware.camera.autofocus",
+            "android.hardware.telephony",
+            "android.hardware.bluetooth",
+            "android.hardware.microphone"
+        ],
+        "uuid_count": 15,
+        "uuids": [
+            {
+                "uuid": "2a001800-2803-2801-2800-1d9ff2d5c442",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0000e001-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00009141-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00009142-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00009145-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00009146-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0000e101-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0000e102-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0000e103-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0000e104-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0000e105-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0000e10a-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "2d417d54-63c2-45c5-9583-0a2b50d4c711",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-000000000000",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "258eafa5-e914-47da-95ca-c5ab0dc85b11",
+                "name": "RFC6455 Websocket String"
+            }
+        ]
+    },
+    {
+        "package": "com.getglycemicindex",
+        "apk": "glycemic-index-of-products_2.7.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.INTERNET"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.diabetes.logbook",
+        "apk": "diabetes-logbook-blood-glucose-tracker_2.7.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_FINE_LOCATION",
+            "com.majeur.launcher.permission.UPDATE_BADGE",
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.anddoes.launcher.permission.UPDATE_COUNT",
+            "me.everything.badger.permission.BADGE_COUNT_WRITE",
+            "com.oppo.launcher.permission.WRITE_SETTINGS",
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "com.sec.android.provider.badge.permission.READ",
+            "com.diabetes.logbook.permission.C2D_MESSAGE",
+            "me.everything.badger.permission.BADGE_COUNT_READ",
+            "com.sec.android.provider.badge.permission.WRITE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            "android.permission.INTERNET",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.VIBRATE",
+            "com.oppo.launcher.permission.READ_SETTINGS",
+            "android.permission.READ_APP_BADGE",
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+            "com.sonyericsson.home.permission.BROADCAST_BADGE",
+            "android.permission.WAKE_LOCK",
+            "com.htc.launcher.permission.READ_SETTINGS"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.aiims.mysugardiary",
+        "apk": "my-sugar-diary-diabetes-app_1.8.3.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.android.vending.BILLING",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.WAKE_LOCK"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.faltenreich.diaguard",
+        "apk": "diaguard-diabetes-diary_3.7.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.VIBRATE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.INTERNET",
+            "android.permission.WRITE_EXTERNAL_STORAGE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "br.com.insulinapp.appbr",
+        "apk": "insulinapp-solu\u00e7\u00e3o-hospitalar_1.1.3.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.INTERNET"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.insulclock.insulclockAndroid",
+        "apk": "diabetes-control-app_3.3.12.6.1-insulclock.apk",
+        "bluetooth_permissions": true,
+        "permission_set": [
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            "android.permission.READ_CONTACTS",
+            "android.permission.CAMERA",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.RECORD_AUDIO",
+            "android.permission.BLUETOOTH_ADMIN",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.VIBRATE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.NFC",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.BLUETOOTH",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.CALL_PHONE",
+            "android.permission.RECEIVE_BOOT_COMPLETED"
+        ],
+        "feature_set": [
+            "android.hardware.telephony",
+            "android.hardware.camera"
+        ],
+        "uuid_count": 38,
+        "uuids": [
+            {
+                "uuid": "3274e8e8-1d2c-445f-af09-8d94977a0219",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "3274e8e8-1d2c-445f-af09-8d94977a021b",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "3274e8e8-1d2c-445f-af09-8d94977a0223",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "92e86c7a-d961-4091-b74f-2409e72efe36",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "347f7608-2e2d-47eb-913b-75d4edc4de3b",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00002902-0000-1000-8000-00805f9b34fb",
+                "name": "Client Characteristic Configuration"
+            },
+            {
+                "uuid": "3274e8e8-1d2c-445f-af09-8d94977a0216",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "3274e8e8-1d2c-445f-af09-8d94977a0225",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "3274e8e8-1d2c-445f-af09-8d94977a021d",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "3274e8e8-1d2c-445f-af09-8d94977a021f",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "3274e8e8-1d2c-445f-af09-8d94977a0221",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "9e5d1e47-5c13-43a0-8635-82ad38a1386f",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "e3dd50bf-f7a7-4e99-838e-570a086c666b",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00002a23-0000-1000-8000-00805f9b34fb",
+                "name": "System ID"
+            },
+            {
+                "uuid": "6e400001-b5a3-f393-e0a9-e50e24dcca9e",
+                "name": "Nordic Service UUID"
+            },
+            {
+                "uuid": "6e400003-b5a3-f393-e0a9-e50e24dcca9e",
+                "name": "Nordic TX Characteristic"
+            },
+            {
+                "uuid": "6e400002-b5a3-f393-e0a9-e50e24dcca9e",
+                "name": "Nordic RX Characteristic"
+            },
+            {
+                "uuid": "436a62c0-082e-4ce8-a08b-01d81f195b24",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "436aa6e9-082e-4ce8-a08b-01d81f195b24",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "436a0c82-082e-4ce8-a08b-01d81f195b24",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "af9df7a1-e595-11e3-96b4-0002a5d5c51b",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "af9df7a2-e595-11e3-96b4-0002a5d5c51b",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "af9df7a3-e595-11e3-96b4-0002a5d5c51b",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "d5dcbb7b-7d7e-4361-98a7-6b109025af1c",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "521cd437-67bb-4acc-9ff8-d2d39c5ca158",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "5d90e5d2-e240-4503-a824-19b1eeab6b87",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00001808-0000-1000-8000-00805f9b34fb",
+                "name": "Glucose"
+            },
+            {
+                "uuid": "00001805-0000-1000-8000-00805f9b34fb",
+                "name": "Current Time Service"
+            },
+            {
+                "uuid": "0000180a-0000-1000-8000-00805f9b34fb",
+                "name": "Device Information"
+            },
+            {
+                "uuid": "00002a18-0000-1000-8000-00805f9b34fb",
+                "name": "Glucose Measurement"
+            },
+            {
+                "uuid": "00002a34-0000-1000-8000-00805f9b34fb",
+                "name": "Glucose Measurement Context"
+            },
+            {
+                "uuid": "00002a52-0000-1000-8000-00805f9b34fb",
+                "name": "Record Access Control Point"
+            },
+            {
+                "uuid": "00002a2b-0000-1000-8000-00805f9b34fb",
+                "name": "Current Time"
+            },
+            {
+                "uuid": "00002a08-0000-1000-8000-00805f9b34fb",
+                "name": "Date Time"
+            },
+            {
+                "uuid": "00002a29-0000-1000-8000-00805f9b34fb",
+                "name": "Manufacturer Name String"
+            },
+            {
+                "uuid": "258eafa5-e914-47da-95ca-c5ab0dc85b11",
+                "name": "RFC6455 Websocket String"
+            },
+            {
+                "uuid": "bb392ec0-8d4d-11e0-a896-0002a5d5c51b",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "c06c8400-8e06-11e0-9cb6-0002a5d5c51b",
+                "name": "Unknown"
+            }
+        ]
+    },
+    {
+        "package": "com.lilly.BeginningBasaglar",
+        "apk": "beginning-basaglar_2.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "mclexic.self_checkdiary",
+        "apk": "self-check-diary_1.7.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.READ_EXTERNAL_STORAGE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.welldoc.platform.android",
+        "apk": "bluestar-diabetes_5.6.apk",
+        "bluetooth_permissions": true,
+        "permission_set": [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.BLUETOOTH",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.DISABLE_KEYGUARD",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "android.permission.FOREGROUND_SERVICE",
+            "com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY",
+            "android.permission.DOWNLOAD_WITHOUT_NOTIFICATION",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.USE_FINGERPRINT",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.CAMERA",
+            "android.permission.ACTIVITY_RECOGNITION",
+            "android.permission.BLUETOOTH_ADMIN",
+            "android.permission.VIBRATE",
+            "android.permission.BLUETOOTH_PRIVILEGED"
+        ],
+        "feature_set": [
+            "android.hardware.camera",
+            "android.hardware.camera.autofocus",
+            "android.hardware.bluetooth_le",
+            "android.hardware.wifi",
+            "android.hardware.bluetooth"
+        ],
+        "uuid_count": 33,
+        "uuids": [
+            {
+                "uuid": "00002902-0000-1000-8000-00805f9b34fb",
+                "name": "Client Characteristic Configuration"
+            },
+            {
+                "uuid": "00000000-0000-1000-8000-00805f9b34fb",
+                "name": "Base UUID"
+            },
+            {
+                "uuid": "258eafa5-e914-47da-95ca-c5ab0dc85b11",
+                "name": "RFC6455 Websocket String"
+            },
+            {
+                "uuid": "0000110b-0000-1000-8000-00805f9b34fb",
+                "name": "Advanced Audio Distribution Profile Sink"
+            },
+            {
+                "uuid": "0000110a-0000-1000-8000-00805f9b34fb",
+                "name": "Advanced Audio Distribution Profile (A2DP) Source"
+            },
+            {
+                "uuid": "0000110d-0000-1000-8000-00805f9b34fb",
+                "name": "Advanced Audio Distribution Service Class"
+            },
+            {
+                "uuid": "00001108-0000-1000-8000-00805f9b34fb",
+                "name": "Headset Profile (HSP)"
+            },
+            {
+                "uuid": "00001112-0000-1000-8000-00805f9b34fb",
+                "name": "Headset Profile (HSP) Audio Gateway"
+            },
+            {
+                "uuid": "0000111e-0000-1000-8000-00805f9b34fb",
+                "name": "Hands Free Profile UUID"
+            },
+            {
+                "uuid": "0000111f-0000-1000-8000-00805f9b34fb",
+                "name": "Hands Free Profile (HFP) Audio Gateway"
+            },
+            {
+                "uuid": "0000110e-0000-1000-8000-00805f9b34fb",
+                "name": "AVRCP Controller"
+            },
+            {
+                "uuid": "0000110c-0000-1000-8000-00805f9b34fb",
+                "name": "AVRCP Target"
+            },
+            {
+                "uuid": "00001105-0000-1000-8000-00805f9b34fb",
+                "name": "OBEX Object Push"
+            },
+            {
+                "uuid": "00001124-0000-1000-8000-00805f9b34fb",
+                "name": "Human Interface Device"
+            },
+            {
+                "uuid": "00001812-0000-1000-8000-00805f9b34fb",
+                "name": "Human Interface Device"
+            },
+            {
+                "uuid": "00001115-0000-1000-8000-00805f9b34fb",
+                "name": "PANU"
+            },
+            {
+                "uuid": "00001116-0000-1000-8000-00805f9b34fb",
+                "name": "Network Aggregation Point"
+            },
+            {
+                "uuid": "0000000f-0000-1000-8000-00805f9b34fb",
+                "name": "Bluetooth Network Encapsulation Protocol"
+            },
+            {
+                "uuid": "0000112e-0000-1000-8000-00805f9b34fb",
+                "name": "OBEX Phonebook Client Equipment"
+            },
+            {
+                "uuid": "0000112f-0000-1000-8000-00805f9b34fb",
+                "name": "Phonebook Access Profile"
+            },
+            {
+                "uuid": "00001134-0000-1000-8000-00805f9b34fb",
+                "name": "OBEX Message Access Profile"
+            },
+            {
+                "uuid": "00001133-0000-1000-8000-00805f9b34fb",
+                "name": "OBEX Message Notification Service"
+            },
+            {
+                "uuid": "00001132-0000-1000-8000-00805f9b34fb",
+                "name": "OBEX Message Access"
+            },
+            {
+                "uuid": "0000112d-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00008a81-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "448af2d8-36a2-42a1-86b5-f51207c36760",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "8ff2ddfb-4a52-4ce5-85a4-d2f97917792a",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "5df5e817-a945-4f81-89c0-3d4e9759c07c",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00001523-1212-efde-1523-785feabcd123",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00001524-1212-efde-1523-785feabcd123",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00008a82-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "233bf001-5a34-1b6d-975c-000d5690abe4",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00008a22-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            }
+        ]
+    },
+    {
+        "package": "com.socialdiabetes.android",
+        "apk": "socialdiabetes-take-control-of-your-diabetes_4.17.31.apk",
+        "bluetooth_permissions": true,
+        "permission_set": [
+            "com.android.vending.BILLING",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "com.eveningoutpost.dexdrip.permissions.RECEIVE_BG_ESTIMATE",
+            "android.permission.BROADCAST_STICKY",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.BLUETOOTH_PRIVILEGED",
+            "android.permission.VIBRATE",
+            "com.google.android.wearable.permission.RECEIVE_COMPLICATION_DATA",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACTIVITY_RECOGNITION",
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            "android.permission.BLUETOOTH",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.RECORD_AUDIO",
+            "android.permission.INTERNET",
+            "com.google.android.permission.PROVIDE_BACKGROUND",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            "android.permission.WAKE_LOCK",
+            "android.permission.AUTHENTICATE_ACCOUNTS",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.USE_FULL_SCREEN_INTENT",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.BLUETOOTH_ADMIN",
+            "android.permission.MANAGE_ACCOUNTS",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.USE_CREDENTIALS",
+            "android.permission.NFC",
+            "com.axenya.android.communication",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.CAMERA",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "com.axenya.b95b7984-91c9-11ea-bb37-0242ac130002",
+            "android.permission.SYSTEM_ALERT_WINDOW",
+            "com.socialdiabetes.android.READ"
+        ],
+        "feature_set": [
+            "android.hardware.touchscreen",
+            "android.hardware.bluetooth_le",
+            "android.hardware.camera",
+            "android.hardware.camera.autofocus",
+            "android.hardware.nfc",
+            "android.hardware.camera.front",
+            "android.hardware.camera.flash",
+            "android.hardware.screen.landscape",
+            "android.hardware.wifi"
+        ],
+        "uuid_count": 42,
+        "uuids": [
+            {
+                "uuid": "00001800-0000-1000-8000-00805f9b34fb",
+                "name": "Generic Access"
+            },
+            {
+                "uuid": "00001801-0000-1000-8000-00805f9b34fb",
+                "name": "Generic Attribute"
+            },
+            {
+                "uuid": "00001808-0000-1000-8000-00805f9b34fb",
+                "name": "Glucose"
+            },
+            {
+                "uuid": "0000180a-0000-1000-8000-00805f9b34fb",
+                "name": "Device Information"
+            },
+            {
+                "uuid": "0000180f-0000-1000-8000-00805f9b34fb",
+                "name": "Battery Service"
+            },
+            {
+                "uuid": "b12e821d-b904-47bb-9225-446a98ae6aa9",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00001805-0000-1000-8000-00805f9b34fb",
+                "name": "Current Time Service"
+            },
+            {
+                "uuid": "d5dcbb7b-7d7e-4361-98a7-6b109025af1c",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "682283f5-3918-4159-8533-f5899a949a47",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00002a00-0000-1000-8000-00805f9b34fb",
+                "name": "Device Name"
+            },
+            {
+                "uuid": "00002a01-0000-1000-8000-00805f9b34fb",
+                "name": "Appearance"
+            },
+            {
+                "uuid": "00002a29-0000-1000-8000-00805f9b34fb",
+                "name": "Manufacturer Name String"
+            },
+            {
+                "uuid": "00002a24-0000-1000-8000-00805f9b34fb",
+                "name": "Model Number String"
+            },
+            {
+                "uuid": "00002a25-0000-1000-8000-00805f9b34fb",
+                "name": "Serial Number String"
+            },
+            {
+                "uuid": "00002a26-0000-1000-8000-00805f9b34fb",
+                "name": "Firmware Revision String"
+            },
+            {
+                "uuid": "00002a18-0000-1000-8000-00805f9b34fb",
+                "name": "Glucose Measurement"
+            },
+            {
+                "uuid": "00002a34-0000-1000-8000-00805f9b34fb",
+                "name": "Glucose Measurement Context"
+            },
+            {
+                "uuid": "00002a51-0000-1000-8000-00805f9b34fb",
+                "name": "Glucose Feature"
+            },
+            {
+                "uuid": "00002a52-0000-1000-8000-00805f9b34fb",
+                "name": "Record Access Control Point"
+            },
+            {
+                "uuid": "00002a19-0000-1000-8000-00805f9b34fb",
+                "name": "Battery Level"
+            },
+            {
+                "uuid": "783f700c-8152-4ea2-9a80-3cbd51c50a40",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "c909a031-f513-4e21-8c2d-817c9fc2e46b",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "9a14aa21-3907-456a-a43d-3387de01a02a",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00002a2b-0000-1000-8000-00805f9b34fb",
+                "name": "Current Time"
+            },
+            {
+                "uuid": "5ec7ec13-0479-47fc-9d97-01e17afb4642",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "ca312059-b749-466d-9fc2-3b23f03bd3c4",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "5d90e5d2-e240-4503-a824-19b1eeab6b87",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "521cd437-67bb-4acc-9ff8-d2d39c5ca158",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00002902-0000-1000-8000-00805f9b34fb",
+                "name": "Client Characteristic Configuration"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-000000000000",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0x532e",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00002a08-0000-1000-8000-00805f9b34fb",
+                "name": "Date Time"
+            },
+            {
+                "uuid": "00001523-1212-efde-1523-785feabcd123",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00001524-1212-efde-1523-785feabcd123",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00001101-0000-1000-8000-00805f9b34fb",
+                "name": "SPP Serial Port Service UUID"
+            },
+            {
+                "uuid": "0000fff0-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0000fff1-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00001809-0000-1000-8000-00805f9b34fb",
+                "name": "Health Thermometer"
+            },
+            {
+                "uuid": "00002a1c-0000-1000-8000-00805f9b34fb",
+                "name": "Temperature Measurement"
+            },
+            {
+                "uuid": "258eafa5-e914-47da-95ca-c5ab0dc85b11",
+                "name": "RFC6455 Websocket String"
+            },
+            {
+                "uuid": "bb392ec0-8d4d-11e0-a896-0002a5d5c51b",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "c06c8400-8e06-11e0-9cb6-0002a5d5c51b",
+                "name": "Unknown"
+            }
+        ]
+    },
+    {
+        "package": "com.easy.diabetes",
+        "apk": "easy-diabetes_1.18.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.android.vending.BILLING"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.intellin.standard",
+        "apk": "intellin-diabetes-manager-blood-sugar-tracker_1.9.151.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.SYSTEM_ALERT_WINDOW",
+            "com.android.vending.BILLING",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.INTERNET",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.VIBRATE",
+            "android.permission.GET_TASKS"
+        ],
+        "feature_set": [
+            "android.hardware.bluetooth_le"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.glooko.novo",
+        "apk": "cornerstones4care\u00ae-diabetes-app_1.12.0C-1-g3a40c26.apk",
+        "bluetooth_permissions": true,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.BLUETOOTH_ADMIN",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.BLUETOOTH",
+            "android.permission.WAKE_LOCK",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.CAMERA",
+            "android.permission.RECORD_AUDIO",
+            "com.glooko.novo.permission.UA_DATA",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.INTERNET",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.VIBRATE"
+        ],
+        "feature_set": [
+            "android.hardware.usb.accessory",
+            "android.hardware.bluetooth_le"
+        ],
+        "uuid_count": 34,
+        "uuids": [
+            {
+                "uuid": "bb1ffbe3-09d4-4668-a7dd-7507e17638ff",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "1c96d6ac-6e3e-4879-9223-6be9779402b1",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "03d8060d-4881-4dbd-baa9-598be56dcc9d",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "4bc07acb-731a-438b-8d70-ad5884078bbe",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "ca05ce95-68a5-42e0-9edd-1d395c841b0d",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "3bc07acb-731a-438b-8d70-ad5884078bbe",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "2bc07acb-731a-438b-8d70-ad5884078bbe",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00002902-0000-1000-8000-00805f9b34fb",
+                "name": "Client Characteristic Configuration"
+            },
+            {
+                "uuid": "0000180d-0000-1000-8000-00805f9b34fb",
+                "name": "Heart Rate"
+            },
+            {
+                "uuid": "0000180a-0000-1000-8000-00805f9b34fb",
+                "name": "Device Information"
+            },
+            {
+                "uuid": "00002a37-0000-1000-8000-00805f9b34fb",
+                "name": "Heart Rate Measurement"
+            },
+            {
+                "uuid": "00002a29-0000-1000-8000-00805f9b34fb",
+                "name": "Manufacturer Name String"
+            },
+            {
+                "uuid": "0000fff0-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0000fff1-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0000fff4-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0000fff5-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0000fff6-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0000fff7-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00001805-0000-1000-8000-00805f9b34fb",
+                "name": "Current Time Service"
+            },
+            {
+                "uuid": "00001808-0000-1000-8000-00805f9b34fb",
+                "name": "Glucose"
+            },
+            {
+                "uuid": "00002a18-0000-1000-8000-00805f9b34fb",
+                "name": "Glucose Measurement"
+            },
+            {
+                "uuid": "00002a34-0000-1000-8000-00805f9b34fb",
+                "name": "Glucose Measurement Context"
+            },
+            {
+                "uuid": "00002a51-0000-1000-8000-00805f9b34fb",
+                "name": "Glucose Feature"
+            },
+            {
+                "uuid": "00002a52-0000-1000-8000-00805f9b34fb",
+                "name": "Record Access Control Point"
+            },
+            {
+                "uuid": "00002a24-0000-1000-8000-00805f9b34fb",
+                "name": "Model Number String"
+            },
+            {
+                "uuid": "00002a25-0000-1000-8000-00805f9b34fb",
+                "name": "Serial Number String"
+            },
+            {
+                "uuid": "00002a08-0000-1000-8000-00805f9b34fb",
+                "name": "Date Time"
+            },
+            {
+                "uuid": "00002a2b-0000-1000-8000-00805f9b34fb",
+                "name": "Current Time"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-000000000000",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-1000-1000-000000000000",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-1000-1000-000000000001",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-1000-8000-00805f9b34fb",
+                "name": "Base UUID"
+            },
+            {
+                "uuid": "ffffffff-ffff-ffff-ffff-ffffffffffff",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "258eafa5-e914-47da-95ca-c5ab0dc85b11",
+                "name": "RFC6455 Websocket String"
+            }
+        ]
+    },
+    {
+        "package": "steve.diabetescarbcounter",
+        "apk": "diabetes-carb-counter-for-type-1-diabetics_3.3.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.WAKE_LOCK",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.CAMERA",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.INTERNET",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.WRITE_EXTERNAL_STORAGE"
+        ],
+        "feature_set": [
+            "android.hardware.camera"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.skyhealth.glucosebuddyfree",
+        "apk": "glucose-buddy-diabetes-tracker_5.36.7773.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NOTIFICATION_POLICY",
+            "com.skyhealth.glucosebuddyfree.intents.ACTIVITY_TRACKER_STATE_CHANGED",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.BODY_SENSORS",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.DISABLE_KEYGUARD",
+            "com.android.vending.BILLING",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.WAKE_LOCK",
+            "com.skyhealth.glucosebuddyfree.intents.STEPS_COUNT_CHANGED",
+            "android.permission.INTERNET",
+            "android.permission.FOREGROUND_SERVICE",
+            "com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.FLASHLIGHT",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.GET_ACCOUNTS",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.CAMERA",
+            "android.permission.ACTIVITY_RECOGNITION",
+            "android.permission.ACCESS_WIFI_STATE",
+            "com.google.android.gms.permission.ACTIVITY_RECOGNITION",
+            "android.permission.VIBRATE"
+        ],
+        "feature_set": [
+            "android.hardware.sensor.stepcounter",
+            "android.hardware.sensor.accelerometer",
+            "android.hardware.sensor.stepcounter",
+            "android.hardware.sensor.accelerometer",
+            "android.hardware.camera",
+            "android.hardware.camera.flash",
+            "android.hardware.camera",
+            "android.hardware.camera.flash",
+            "android.hardware.camera.front",
+            "android.hardware.camera.autofocus",
+            "android.hardware.screen.landscape",
+            "android.hardware.wifi"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.insyncapp.diabete",
+        "apk": "my-glycemia-diabete-tracker_1.7.6.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.WRITE_INTERNAL_STORAGE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.CALL_PHONE",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.VIBRATE",
+            "com.android.email.permission.READ_ATTACHMENT",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.android.vending.BILLING",
+            "com.insyncapp.diabete.permission.C2D_MESSAGE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.READ_CONTACTS",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.FLAG_GRANT_READ_URI_PERMISSION",
+            "android.permission.READ_INTERNAL_STORAGE"
+        ],
+        "feature_set": [
+            "android.hardware.telephony",
+            "android.hardware.wifi"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.squaremed.diabetesconnect.android",
+        "apk": "diabetes-connect_2.5.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.squaremed.diabetesconnect.android.permission.C2D_MESSAGE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.android.vending.BILLING",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.WAKE_LOCK",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.VIBRATE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.msint.bloodsugar.tracker",
+        "apk": "diabetes-diary-blood-glucose-tracker_1.22.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.INTERNET",
+            "com.android.vending.BILLING",
+            "android.permission.WRITE_EXTERNAL_STORAGE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.wonggordon.bgmonitor",
+        "apk": "bg-monitor-diabetes_8.0.1.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "android.permission.VIBRATE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.android.vending.BILLING",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.RECEIVE_BOOT_COMPLETED"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "org.bosik.diacomp.android",
+        "apk": "diacomp-diabetes-diary_2.9.1.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.GET_ACCOUNTS",
+            "android.permission.READ_SYNC_SETTINGS",
+            "android.permission.AUTHENTICATE_ACCOUNTS",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.READ_SYNC_STATS",
+            "android.permission.INTERNET",
+            "android.permission.WRITE_SYNC_SETTINGS"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.lifescan.reveal",
+        "apk": "onetouch-reveal\u00ae-mobile-app-for-diabetes_4.7.apk",
+        "bluetooth_permissions": true,
+        "permission_set": [
+            "android.permission.USE_FINGERPRINT",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.INTERNET",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.BLUETOOTH_ADMIN",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.BLUETOOTH",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.WAKE_LOCK",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.android.alarm.permission.SET_ALARM"
+        ],
+        "feature_set": [
+            "android.hardware.bluetooth_le"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.ascensia.contour.us",
+        "apk": "contour-diabetes-app-us_2.12.0.apk",
+        "bluetooth_permissions": true,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_CONTACTS",
+            "com.google.android.providers.gsf.permission.READ_GSERVICES",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.CAMERA",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.WRITE_INTERNAL_STORAGE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.WAKE_LOCK",
+            "android.permission.BLUETOOTH_ADMIN",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.INTERNET",
+            "android.permission.BLUETOOTH",
+            "android.permission.CALL_PHONE"
+        ],
+        "feature_set": [
+            "android.hardware.telephony",
+            "android.hardware.camera",
+            "android.hardware.camera.autofocus",
+            "android.hardware.bluetooth_le",
+            "android.hardware.location.gps",
+            "android.hardware.location.network"
+        ],
+        "uuid_count": 11,
+        "uuids": [
+            {
+                "uuid": "00002902-0000-1000-8000-00805f9b34fb",
+                "name": "Client Characteristic Configuration"
+            },
+            {
+                "uuid": "00001808-0000-1000-8000-00805f9b34fb",
+                "name": "Glucose"
+            },
+            {
+                "uuid": "0x0000",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0x2a2b",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "47b0c154-1d52-4395-bc5d-83ef1203f8f2",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "56901030-cf2b-4cca-9978-4fb6c48c176a",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0x2a18",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0x2a00",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0x1800",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0x2a52",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0x1808",
+                "name": "Unknown"
+            }
+        ]
+    },
+    {
+        "package": "migi.app.diabetes",
+        "apk": "diabetes-tracker_1.11.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.CALL_PHONE",
+            "android.permission.INTERNET",
+            "com.android.launcher.permission.INSTALL_SHORTCUT",
+            "android.permission.VIBRATE",
+            "android.permission.BROADCAST_STICKY",
+            "android.permission.KILL_BACKGROUND_PROCESSES",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.RECEIVE_BOOT_COMPLETED"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.procyonconsult.a1cconvert",
+        "apk": "a1c-blood-sugar-calculator-tracker-diabetes-app_3.1.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.WAKE_LOCK",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.android.vending.BILLING",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.INTERNET",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.VIBRATE",
+            "android.permission.WRITE_EXTERNAL_STORAGE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.vento.homaircalculator",
+        "apk": "homa-ir-calculator_2.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.INTERNET"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.glucome.android.glucomeandroidapp6",
+        "apk": "glucome_3.10.16.apk",
+        "bluetooth_permissions": true,
+        "permission_set": [
+            "android.permission.READ_CONTACTS",
+            "android.permission.CAMERA",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.RECORD_AUDIO",
+            "android.permission.WRITE_CALENDAR",
+            "android.permission.BLUETOOTH_ADMIN",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.BLUETOOTH",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.READ_CALENDAR",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            "android.permission.DOWNLOAD_WITHOUT_NOTIFICATION",
+            "android.permission.GET_TASKS"
+        ],
+        "feature_set": [
+            "android.hardware.bluetooth_le"
+        ],
+        "uuid_count": 23,
+        "uuids": [
+            {
+                "uuid": "fea768a3-eb8a-4859-9c4a-fb74183be7a7",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00002a24-0000-1000-8000-00805f9b34fb",
+                "name": "Model Number String"
+            },
+            {
+                "uuid": "00001808-0000-1000-8000-00805f9b34fb",
+                "name": "Glucose"
+            },
+            {
+                "uuid": "00002a18-0000-1000-8000-00805f9b34fb",
+                "name": "Glucose Measurement"
+            },
+            {
+                "uuid": "00002a34-0000-1000-8000-00805f9b34fb",
+                "name": "Glucose Measurement Context"
+            },
+            {
+                "uuid": "00002a52-0000-1000-8000-00805f9b34fb",
+                "name": "Record Access Control Point"
+            },
+            {
+                "uuid": "0000180a-0000-1000-8000-00805f9b34fb",
+                "name": "Device Information"
+            },
+            {
+                "uuid": "00002a29-0000-1000-8000-00805f9b34fb",
+                "name": "Manufacturer Name String"
+            },
+            {
+                "uuid": "00001800-0000-1000-8000-00805f9b34fb",
+                "name": "Generic Access"
+            },
+            {
+                "uuid": "00001801-0000-1000-8000-00805f9b34fb",
+                "name": "Generic Attribute"
+            },
+            {
+                "uuid": "00001805-0000-1000-8000-00805f9b34fb",
+                "name": "Current Time Service"
+            },
+            {
+                "uuid": "00002a19-0000-1000-8000-00805f9b34fb",
+                "name": "Battery Level"
+            },
+            {
+                "uuid": "00002a51-0000-1000-8000-00805f9b34fb",
+                "name": "Glucose Feature"
+            },
+            {
+                "uuid": "00002a00-0000-1000-8000-00805f9b34fb",
+                "name": "Device Name"
+            },
+            {
+                "uuid": "00002a01-0000-1000-8000-00805f9b34fb",
+                "name": "Appearance"
+            },
+            {
+                "uuid": "00002a04-0000-1000-8000-00805f9b34fb",
+                "name": "Peripheral Preferred Connection Parameters"
+            },
+            {
+                "uuid": "00002a23-0000-1000-8000-00805f9b34fb",
+                "name": "System ID"
+            },
+            {
+                "uuid": "00002a25-0000-1000-8000-00805f9b34fb",
+                "name": "Serial Number String"
+            },
+            {
+                "uuid": "00002a26-0000-1000-8000-00805f9b34fb",
+                "name": "Firmware Revision String"
+            },
+            {
+                "uuid": "00002a28-0000-1000-8000-00805f9b34fb",
+                "name": "Software Revision String"
+            },
+            {
+                "uuid": "410159af-b3b8-485d-a6a1-45ddc57bcdeb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00002902-0000-1000-8000-00805f9b34fb",
+                "name": "Client Characteristic Configuration"
+            },
+            {
+                "uuid": "258eafa5-e914-47da-95ca-c5ab0dc85b11",
+                "name": "RFC6455 Websocket String"
+            }
+        ]
+    },
+    {
+        "package": "com.sidiary.app",
+        "apk": "sidiary-diabetes-management_1.45.apk",
+        "bluetooth_permissions": true,
+        "permission_set": [
+            "android.permission.WAKE_LOCK",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.SYSTEM_ALERT_WINDOW",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.BLUETOOTH",
+            "android.permission.BLUETOOTH_ADMIN",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.INTERNET",
+            "android.permission.STATUS_BAR",
+            "android.permission.NFC",
+            "android.permission.VIBRATE",
+            "com.android.alarm.permission.SET_ALARM",
+            "android.permission.WRITE_EXTERNAL_STORAGE"
+        ],
+        "feature_set": [
+            "android.hardware.telephony",
+            "android.hardware.nfc",
+            "android.hardware.bluetooth_le"
+        ],
+        "uuid_count": 34,
+        "uuids": [
+            {
+                "uuid": "d0a2ff00-2996-d38b-e214-86515df5a1df",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "7905ff01-b5ce-4e99-a40f-4b1e122d00d0",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "7905ff02-b5ce-4e99-a40f-4b1e122d00d0",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "7905ff04-b5ce-4e99-a40f-4b1e122d00d0",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0000180a-0000-1000-8000-00805f9b34fb",
+                "name": "Device Information"
+            },
+            {
+                "uuid": "00002a25-0000-1000-8000-00805f9b34fb",
+                "name": "Serial Number String"
+            },
+            {
+                "uuid": "00001523-1212-efde-1523-785feabcd123",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00001524-1212-efde-1523-785feabcd123",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00001808-0000-1000-8000-00805f9b34fb",
+                "name": "Glucose"
+            },
+            {
+                "uuid": "00002a52-0000-1000-8000-00805f9b34fb",
+                "name": "Record Access Control Point"
+            },
+            {
+                "uuid": "00002a18-0000-1000-8000-00805f9b34fb",
+                "name": "Glucose Measurement"
+            },
+            {
+                "uuid": "00002a34-0000-1000-8000-00805f9b34fb",
+                "name": "Glucose Measurement Context"
+            },
+            {
+                "uuid": "0000fff0-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0000fff2-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0000fff4-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0000181c-0000-1000-8000-00805f9b34fb",
+                "name": "User Data"
+            },
+            {
+                "uuid": "00002a9f-0000-1000-8000-00805f9b34fb",
+                "name": "User Control Point"
+            },
+            {
+                "uuid": "0000181d-0000-1000-8000-00805f9b34fb",
+                "name": "Weight Scale"
+            },
+            {
+                "uuid": "00002a9d-0000-1000-8000-00805f9b34fb",
+                "name": "Weight Measurement"
+            },
+            {
+                "uuid": "00001805-0000-1000-8000-00805f9b34fb",
+                "name": "Current Time Service"
+            },
+            {
+                "uuid": "00002a2b-0000-1000-8000-00805f9b34fb",
+                "name": "Current Time"
+            },
+            {
+                "uuid": "00002a85-0000-1000-8000-00805f9b34fb",
+                "name": "Date of Birth"
+            },
+            {
+                "uuid": "00002a8c-0000-1000-8000-00805f9b34fb",
+                "name": "Gender"
+            },
+            {
+                "uuid": "00002a8e-0000-1000-8000-00805f9b34fb",
+                "name": "Height"
+            },
+            {
+                "uuid": "00002a99-0000-1000-8000-00805f9b34fb",
+                "name": "Database Change Increment"
+            },
+            {
+                "uuid": "0000fff1-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0000ffe0-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0000ffe1-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0000ffe2-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00001810-0000-1000-8000-00805f9b34fb",
+                "name": "Blood Pressure"
+            },
+            {
+                "uuid": "00002a35-0000-1000-8000-00805f9b34fb",
+                "name": "Blood Pressure Measurement"
+            },
+            {
+                "uuid": "0000fed0-494c-4f47-4943-544543480000",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0000fed1-494c-4f47-4943-544543480000",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00001101-0000-1000-8000-00805f9b34fb",
+                "name": "SPP Serial Port Service UUID"
+            }
+        ]
+    },
+    {
+        "package": "com.dieta.para.diabeticos.diabetic.diet.receitas",
+        "apk": "diabetic-diet_1.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.WAKE_LOCK",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.USE_FINGERPRINT",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.INTERNET",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+        ],
+        "feature_set": [
+            "android.hardware.screen.portrait",
+            "android.hardware.screen.landscape"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.distillr.app",
+        "apk": "center-health-\u2014-the-diabetes-app_2.43.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.CAMERA",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.BODY_SENSORS",
+            "android.permission.RECORD_AUDIO",
+            "android.permission.INTERNET",
+            "android.permission.FLASHLIGHT",
+            "android.permission.ACCESS_NOTIFICATION_POLICY"
+        ],
+        "feature_set": [
+            "android.hardware.camera"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.jacdebug.bloodsugarconverter",
+        "apk": "blood-sugar-converter_1.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.dev.matt.sugarlog",
+        "apk": "betes-your-diabetes-diary_1.0.2.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.diabnext.diabnext",
+        "apk": "diabnext-make-your-diabetes-management-easy_1.2.25.apk",
+        "bluetooth_permissions": true,
+        "permission_set": [
+            "com.google.android.providers.gsf.permission.READ_GSERVICES",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.gms.permission.ACTIVITY_RECOGNITION",
+            "android.permission.VIBRATE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACTIVITY_RECOGNITION",
+            "android.permission.BLUETOOTH",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.INTERNET",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.BLUETOOTH_ADMIN",
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "com.google.android.gms.permission.ACTIVITY_RECOGNITION",
+            "no.nordicsemi.android.LOG"
+        ],
+        "feature_set": [
+            "android.hardware.bluetooth_le",
+            "android.hardware.usb.host"
+        ],
+        "uuid_count": 31,
+        "uuids": [
+            {
+                "uuid": "00000000-0000-0000-0000-000000000000",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "11223344-5566-7788-99aa-bbccddeeff00",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00004a5b-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0000fee0-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0000fee1-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0000fee2-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0000fee3-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "6e400001-b5a3-f393-e0a9-e50e24dcca9e",
+                "name": "Nordic Service UUID"
+            },
+            {
+                "uuid": "6e400003-b5a3-f393-e0a9-e50e24dcca9e",
+                "name": "Nordic TX Characteristic"
+            },
+            {
+                "uuid": "6e400002-b5a3-f393-e0a9-e50e24dcca9e",
+                "name": "Nordic RX Characteristic"
+            },
+            {
+                "uuid": "00002902-0000-1000-8000-00805f9b34fb",
+                "name": "Client Characteristic Configuration"
+            },
+            {
+                "uuid": "0000181b-0000-1000-8000-00805f9b34fb",
+                "name": "Body Composition"
+            },
+            {
+                "uuid": "00002a9c-0000-1000-8000-00805f9b34fb",
+                "name": "Body Composition Measurement"
+            },
+            {
+                "uuid": "00001523-1212-efde-1523-785feabcd123",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00001524-1212-efde-1523-785feabcd123",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0000180f-0000-1000-8000-00805f9b34fb",
+                "name": "Battery Service"
+            },
+            {
+                "uuid": "00002a19-0000-1000-8000-00805f9b34fb",
+                "name": "Battery Level"
+            },
+            {
+                "uuid": "00001808-0000-1000-8000-00805f9b34fb",
+                "name": "Glucose"
+            },
+            {
+                "uuid": "00002a18-0000-1000-8000-00805f9b34fb",
+                "name": "Glucose Measurement"
+            },
+            {
+                "uuid": "00002a34-0000-1000-8000-00805f9b34fb",
+                "name": "Glucose Measurement Context"
+            },
+            {
+                "uuid": "00002a51-0000-1000-8000-00805f9b34fb",
+                "name": "Glucose Feature"
+            },
+            {
+                "uuid": "00002a52-0000-1000-8000-00805f9b34fb",
+                "name": "Record Access Control Point"
+            },
+            {
+                "uuid": "0000180a-0000-1000-8000-00805f9b34fb",
+                "name": "Device Information"
+            },
+            {
+                "uuid": "00002a25-0000-1000-8000-00805f9b34fb",
+                "name": "Serial Number String"
+            },
+            {
+                "uuid": "00002a28-0000-1000-8000-00805f9b34fb",
+                "name": "Software Revision String"
+            },
+            {
+                "uuid": "0000fff0-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0000fff1-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "258eafa5-e914-47da-95ca-c5ab0dc85b11",
+                "name": "RFC6455 Websocket String"
+            },
+            {
+                "uuid": "00000000-0000-1000-8000-00805f9b34fb",
+                "name": "Base UUID"
+            },
+            {
+                "uuid": "00001801-0000-1000-8000-00805f9b34fb",
+                "name": "Generic Attribute"
+            },
+            {
+                "uuid": "00002a05-0000-1000-8000-00805f9b34fb",
+                "name": "Service Changed"
+            }
+        ]
+    },
+    {
+        "package": "com.company.insulina_uci",
+        "apk": "terapias-de-insulina-en-uci_1.1.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.INTERNET"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.heyworld.pregnantwithdiabetes",
+        "apk": "pregnant-with-diabetes_1.4.1.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.WAKE_LOCK"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "no.telemed.diabetesdiary",
+        "apk": "diabetes-diary_2.0.apk",
+        "bluetooth_permissions": true,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.BLUETOOTH_ADMIN",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.BLUETOOTH",
+            "no.telemed.diabetesdiary.ACTION_BROADCAST_PERMISSION",
+            "no.telemed.diabetesdiary.permission.CONTENT_PROVIDER_EXPORTED_FILE",
+            "android.permission.INTERNET",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.RECEIVE_BOOT_COMPLETED"
+        ],
+        "feature_set": [],
+        "uuid_count": 4,
+        "uuids": [
+            {
+                "uuid": "4dab81a6-d2fc-458a-992c-7a1f3b96a970",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "cf1e816a-9db0-4511-bbb8-f60c48ca8fac",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00001101-0000-1000-8000-00805f9b34fb",
+                "name": "SPP Serial Port Service UUID"
+            },
+            {
+                "uuid": "2ab7f844-56ed-4fa8-a510-28e43bf6b876",
+                "name": "Unknown"
+            }
+        ]
+    },
+    {
+        "package": "it.ct.glicemia",
+        "apk": "glimp_4.19.14.apk",
+        "bluetooth_permissions": true,
+        "permission_set": [
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            "android.permission.WAKE_LOCK",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.BLUETOOTH",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.BLUETOOTH_ADMIN",
+            "android.permission.INTERNET",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.NFC",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.ACCESS_BACKGROUND_LOCATION",
+            "android.permission.VIBRATE",
+            "android.permission.WRITE_EXTERNAL_STORAGE"
+        ],
+        "feature_set": [
+            "android.hardware.location.gps",
+            "android.hardware.nfc",
+            "android.hardware.bluetooth_le"
+        ],
+        "uuid_count": 16,
+        "uuids": [
+            {
+                "uuid": "00002902-0000-1000-8000-00805f9b34fb",
+                "name": "Client Characteristic Configuration"
+            },
+            {
+                "uuid": "436a62c0-082e-4ce8-a08b-01d81f195b24",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "436a0c82-082e-4ce8-a08b-01d81f195b24",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "436aa6e9-082e-4ce8-a08b-01d81f195b24",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0000180a-0000-1000-8000-00805f9b34fb",
+                "name": "Device Information"
+            },
+            {
+                "uuid": "00002a29-0000-1000-8000-00805f9b34fb",
+                "name": "Manufacturer Name String"
+            },
+            {
+                "uuid": "00002a08-0000-1000-8000-00805f9b34fb",
+                "name": "Date Time"
+            },
+            {
+                "uuid": "0000180f-0000-1000-8000-00805f9b34fb",
+                "name": "Battery Service"
+            },
+            {
+                "uuid": "00002a19-0000-1000-8000-00805f9b34fb",
+                "name": "Battery Level"
+            },
+            {
+                "uuid": "00001808-0000-1000-8000-00805f9b34fb",
+                "name": "Glucose"
+            },
+            {
+                "uuid": "00002a18-0000-1000-8000-00805f9b34fb",
+                "name": "Glucose Measurement"
+            },
+            {
+                "uuid": "00002a34-0000-1000-8000-00805f9b34fb",
+                "name": "Glucose Measurement Context"
+            },
+            {
+                "uuid": "00002a52-0000-1000-8000-00805f9b34fb",
+                "name": "Record Access Control Point"
+            },
+            {
+                "uuid": "6e400001-b5a3-f393-e0a9-e50e24dcca9e",
+                "name": "Nordic Service UUID"
+            },
+            {
+                "uuid": "6e400002-b5a3-f393-e0a9-e50e24dcca9e",
+                "name": "Nordic RX Characteristic"
+            },
+            {
+                "uuid": "6e400003-b5a3-f393-e0a9-e50e24dcca9e",
+                "name": "Nordic TX Characteristic"
+            }
+        ]
+    },
+    {
+        "package": "com.medisafe.android.client",
+        "apk": "pill-reminder-medication-tracker-medisafe_8.92.09877.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.READ_CALENDAR",
+            "com.medisafe.android.debugapp.RECEIVE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.WRITE_INTERNAL_STORAGE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.WAKE_LOCK",
+            "android.permission.VIBRATE",
+            "android.permission.ACCESS_BACKGROUND_LOCATION",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.android.vending.BILLING",
+            "android.permission.SYSTEM_ALERT_WINDOW",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.READ_CONTACTS",
+            "android.permission.WRITE_CALENDAR",
+            "android.permission.GET_ACCOUNTS",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.FOREGROUND_SERVICE"
+        ],
+        "feature_set": [
+            "android.hardware.screen.portrait",
+            "android.hardware.touchscreen"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "io.kodular.Tariqahmedgur.Diabetes_Diet_Tracker",
+        "apk": "diabetes-app_3.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.INTERNET",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.WRITE_EXTERNAL_STORAGE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "gr.tessera.fordiabetesapp",
+        "apk": "fordiabetes-diabetes-self-management-app_1.18.0.apk",
+        "bluetooth_permissions": true,
+        "permission_set": [
+            "com.sec.android.provider.badge.permission.READ",
+            "com.htc.launcher.permission.READ_SETTINGS",
+            "com.sec.android.provider.badge.permission.WRITE",
+            "com.majeur.launcher.permission.UPDATE_BADGE",
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            "android.permission.NFC",
+            "android.permission.READ_APP_BADGE",
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            "me.everything.badger.permission.BADGE_COUNT_READ",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.WAKE_LOCK",
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            "com.sonyericsson.home.permission.BROADCAST_BADGE",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.INTERNET",
+            "com.anddoes.launcher.permission.UPDATE_COUNT",
+            "android.permission.BLUETOOTH",
+            "android.permission.BODY_SENSORS",
+            "me.everything.badger.permission.BADGE_COUNT_WRITE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.USE_CREDENTIALS",
+            "com.oppo.launcher.permission.WRITE_SETTINGS",
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+            "android.permission.BLUETOOTH_ADMIN",
+            "android.permission.GET_ACCOUNTS",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "com.oppo.launcher.permission.READ_SETTINGS"
+        ],
+        "feature_set": [
+            "android.hardware.nfc"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.google.android.apps.diabetes",
+        "apk": "onduo-for-diabetes_338044297+(1.25-R186-v3).apk",
+        "bluetooth_permissions": true,
+        "permission_set": [
+            "com.google.android.providers.gsf.permission.READ_GSERVICES",
+            "android.permission.CAMERA",
+            "android.permission.WAKE_LOCK",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.RECORD_AUDIO",
+            "android.permission.BLUETOOTH",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.BLUETOOTH_ADMIN",
+            "android.permission.USE_CREDENTIALS",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            "android.permission.GET_ACCOUNTS"
+        ],
+        "feature_set": [
+            "android.hardware.camera",
+            "android.hardware.screen.portrait"
+        ],
+        "uuid_count": 9,
+        "uuids": [
+            {
+                "uuid": "f1b4f182-2873-9410-0a72-2c3060ef1ce2",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "e4478768-eeb7-dc33-82fb-8185fecee16d",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0f95e11c-9bde-2691-d507-e589919cdba4",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "f82904c2-e19a-9525-752f-d90b3f0e75bb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "b5bdd399-86db-1b81-dbe5-9cd078a33aa5",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "28eafa19-528c-5dcf-c01e-cc8f1cefc134",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "bafb9f28-fe4d-3498-2cdd-ddae04a94d2c",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "bb392ec0-8d4d-11e0-a896-0002a5d5c51b",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "c06c8400-8e06-11e0-9cb6-0002a5d5c51b",
+                "name": "Unknown"
+            }
+        ]
+    },
+    {
+        "package": "com.janacare.habits",
+        "apk": "habits-diabetes-coach_1.7.33.apk",
+        "bluetooth_permissions": true,
+        "permission_set": [
+            "android.permission.MANAGE_ACCOUNTS",
+            "com.android.alarm.permission.SET_ALARM",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.BLUETOOTH_ADMIN",
+            "android.permission.GET_ACCOUNTS",
+            "android.permission.SYSTEM_ALERT_WINDOW",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            "me.everything.badger.permission.BADGE_COUNT_READ",
+            "com.majeur.launcher.permission.UPDATE_BADGE",
+            "android.permission.AUTHENTICATE_ACCOUNTS",
+            "com.anddoes.launcher.permission.UPDATE_COUNT",
+            "android.permission.WRITE_SYNC_SETTINGS",
+            "android.permission.ACCESS_WIFI_STATE",
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+            "android.permission.WAKE_LOCK",
+            "com.google.android.gms.permission.ACTIVITY_RECOGNITION",
+            "android.permission.RECORD_AUDIO",
+            "com.janacare.habits.permission.C2D_MESSAGE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_SYNC_STATS",
+            "android.permission.WRITE_SETTINGS",
+            "com.sec.android.provider.badge.permission.READ",
+            "com.sonyericsson.home.permission.BROADCAST_BADGE",
+            "com.sec.android.provider.badge.permission.WRITE",
+            "android.permission.INTERNET",
+            "com.oppo.launcher.permission.WRITE_SETTINGS",
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            "android.permission.USE_CREDENTIALS",
+            "android.permission.GET_TASKS",
+            "android.permission.VIBRATE",
+            "android.permission.READ_SYNC_SETTINGS",
+            "com.oppo.launcher.permission.READ_SETTINGS",
+            "android.permission.READ_APP_BADGE",
+            "android.permission.BLUETOOTH",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "me.everything.badger.permission.BADGE_COUNT_WRITE",
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            "com.htc.launcher.permission.READ_SETTINGS"
+        ],
+        "feature_set": [
+            "android.hardware.telephony",
+            "android.hardware.location.gps",
+            "android.hardware.camera",
+            "android.hardware.camera.autofocus"
+        ],
+        "uuid_count": 6,
+        "uuids": [
+            {
+                "uuid": "0000fff0-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0000fff1-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0000fff2-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00002902-0000-1000-8000-00805f9b34fb",
+                "name": "Client Characteristic Configuration"
+            },
+            {
+                "uuid": "b2f7f966-d8cc-11e4-bed1-df8f05be55ba",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "5eb5a37e-b458-11e3-ac11-000c2940e62c",
+                "name": "Unknown"
+            }
+        ]
+    },
+    {
+        "package": "com.bloodsugartest.blood.sugar.diabetes",
+        "apk": "blood-sugar-test-converter-and-info_1.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "uk.ac.rvc.petdiabetestracker",
+        "apk": "rvc-pet-diabetes-app_2.02.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.INTERNET",
+            "android.permission.RECORD_AUDIO",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            "android.permission.RECEIVE_BOOT_COMPLETED"
+        ],
+        "feature_set": [
+            "android.hardware.location.gps"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.agamatrix.nimbus",
+        "apk": "agamatrix-diabetes-manager_1.11.apk",
+        "bluetooth_permissions": true,
+        "permission_set": [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.READ_SETTINGS",
+            "android.permission.BLUETOOTH_ADMIN",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.MANAGE_ACCOUNTS",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.ACCESS_BACKGROUND_LOCATION",
+            "android.permission.READ_SYNC_SETTINGS",
+            "android.permission.AUTHENTICATE_ACCOUNTS",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.BLUETOOTH",
+            "android.permission.INTERNET",
+            "android.permission.USE_CREDENTIALS",
+            "android.permission.READ_SYNC_STATS",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.GET_ACCOUNTS",
+            "android.permission.CALL_PHONE",
+            "android.permission.WRITE_SYNC_SETTINGS",
+            "android.permission.RECEIVE_BOOT_COMPLETED"
+        ],
+        "feature_set": [
+            "android.hardware.telephony",
+            "android.hardware.bluetooth",
+            "android.hardware.wifi"
+        ],
+        "uuid_count": 40,
+        "uuids": [
+            {
+                "uuid": "00001800-0000-1000-8000-00805f9b34fb",
+                "name": "Generic Access"
+            },
+            {
+                "uuid": "00001801-0000-1000-8000-00805f9b34fb",
+                "name": "Generic Attribute"
+            },
+            {
+                "uuid": "00001808-0000-1000-8000-00805f9b34fb",
+                "name": "Glucose"
+            },
+            {
+                "uuid": "0000181f-0000-1000-8000-00805f9b34fb",
+                "name": "Continuous Glucose Monitoring"
+            },
+            {
+                "uuid": "852b5751-e8e6-47cc-8ad6-da5fb9c5cf2c",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0000180a-0000-1000-8000-00805f9b34fb",
+                "name": "Device Information"
+            },
+            {
+                "uuid": "0000180f-0000-1000-8000-00805f9b34fb",
+                "name": "Battery Service"
+            },
+            {
+                "uuid": "b12e821d-b904-47bb-9225-446a98ae6aa9",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00001805-0000-1000-8000-00805f9b34fb",
+                "name": "Current Time Service"
+            },
+            {
+                "uuid": "d5dcbb7b-7d7e-4361-98a7-6b109025af1c",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "682283f5-3918-4159-8533-f5899a949a47",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "c4dea010-5a9d-11e9-8647-d663bd873d93",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "c4dea3bc-5a9d-11e9-8647-d663bd873d93",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00002a34-0000-1000-8000-00805f9b34fb",
+                "name": "Glucose Measurement Context"
+            },
+            {
+                "uuid": "00002a00-0000-1000-8000-00805f9b34fb",
+                "name": "Device Name"
+            },
+            {
+                "uuid": "00002a01-0000-1000-8000-00805f9b34fb",
+                "name": "Appearance"
+            },
+            {
+                "uuid": "00002a29-0000-1000-8000-00805f9b34fb",
+                "name": "Manufacturer Name String"
+            },
+            {
+                "uuid": "00002a24-0000-1000-8000-00805f9b34fb",
+                "name": "Model Number String"
+            },
+            {
+                "uuid": "00002a25-0000-1000-8000-00805f9b34fb",
+                "name": "Serial Number String"
+            },
+            {
+                "uuid": "00002a26-0000-1000-8000-00805f9b34fb",
+                "name": "Firmware Revision String"
+            },
+            {
+                "uuid": "00002a18-0000-1000-8000-00805f9b34fb",
+                "name": "Glucose Measurement"
+            },
+            {
+                "uuid": "00002a51-0000-1000-8000-00805f9b34fb",
+                "name": "Glucose Feature"
+            },
+            {
+                "uuid": "00002a52-0000-1000-8000-00805f9b34fb",
+                "name": "Record Access Control Point"
+            },
+            {
+                "uuid": "00002aa8-0000-1000-8000-00805f9b34fb",
+                "name": "CGM Feature"
+            },
+            {
+                "uuid": "19d94ce1-6532-43a0-8923-a6bfca6043bd",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "bd3d80fc-97c3-457b-92ff-cc60b0d78552",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00002aaa-0000-1000-8000-00805f9b34fb",
+                "name": "CGM Session Start Time"
+            },
+            {
+                "uuid": "0600455a-190f-4ca1-bbbb-f68105a0e6fa",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "d406629c-0a83-442b-b83b-633eb5f9eb4a",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00002a19-0000-1000-8000-00805f9b34fb",
+                "name": "Battery Level"
+            },
+            {
+                "uuid": "783f700c-8152-4ea2-9a80-3cbd51c50a40",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "c909a031-f513-4e21-8c2d-817c9fc2e46b",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "9a14aa21-3907-456a-a43d-3387de01a02a",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00002a2b-0000-1000-8000-00805f9b34fb",
+                "name": "Current Time"
+            },
+            {
+                "uuid": "5ec7ec13-0479-47fc-9d97-01e17afb4642",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "ca312059-b749-466d-9fc2-3b23f03bd3c4",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "5d90e5d2-e240-4503-a824-19b1eeab6b87",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "521cd437-67bb-4acc-9ff8-d2d39c5ca158",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00002902-0000-1000-8000-00805f9b34fb",
+                "name": "Client Characteristic Configuration"
+            },
+            {
+                "uuid": "258eafa5-e914-47da-95ca-c5ab0dc85b11",
+                "name": "RFC6455 Websocket String"
+            }
+        ]
+    },
+    {
+        "package": "com.sfvinfotech.bloodglucosetracker.sugar",
+        "apk": "blood-glucose-tracker-diabetes-tracker_1.7.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.android.vending.BILLING",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.CAMERA"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.ninutek.glukometre",
+        "apk": "glucometer-diabetes-tracking_2.11.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.android.vending.BILLING",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.WRITE_EXTERNAL_STORAGE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.andromo.dev462136.app489914",
+        "apk": "beat-diabetes_9.1.8.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.andromo.dev462136.app489914.permission.C2D_MESSAGE",
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.VIBRATE",
+            "com.sec.android.provider.badge.permission.WRITE",
+            "com.sonyericsson.home.permission.BROADCAST_BADGE",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.majeur.launcher.permission.UPDATE_BADGE",
+            "me.everything.badger.permission.BADGE_COUNT_WRITE",
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            "android.permission.READ_APP_BADGE",
+            "android.permission.INTERNET",
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            "com.oppo.launcher.permission.WRITE_SETTINGS",
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            "me.everything.badger.permission.BADGE_COUNT_READ",
+            "com.anddoes.launcher.permission.UPDATE_COUNT",
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.oppo.launcher.permission.READ_SETTINGS",
+            "com.sec.android.provider.badge.permission.READ",
+            "com.htc.launcher.permission.READ_SETTINGS",
+            "android.permission.RECEIVE_BOOT_COMPLETED"
+        ],
+        "feature_set": [
+            "android.hardware.touchscreen"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.cmsdevteam.diacalc.diacalc",
+        "apk": "diacalc-\u043a\u0430\u043b\u044c\u043a\u0443\u043b\u044f\u0442\u043e\u0440-\u0443\u0433\u043b\u0435\u0432\u043e\u0434\u043e\u0432-\u0445-\u0435-\u0438-\u0438\u043d\u0441\u0443\u043b\u0438\u043d\u0430_1.2.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.INTERNET"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.michaelfester.glucool.lite",
+        "apk": "glucool-diabetes_1.4.3.1.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.INTERNET",
+            "android.permission.FLASHLIGHT",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.VIBRATE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.medm.medmbg.diary",
+        "apk": "medm-diabetes_2.8.248.apk",
+        "bluetooth_permissions": true,
+        "permission_set": [
+            "android.permission.WAKE_LOCK",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.FOREGROUND_SERVICE",
+            "com.medm.medmbg.diary.permission.C2D_MESSAGE",
+            "android.permission.INTERNET",
+            "android.permission.BLUETOOTH",
+            "android.permission.USE_BIOMETRIC",
+            "android.permission.BLUETOOTH_ADMIN",
+            "android.permission.NFC",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.CAMERA",
+            "android.permission.USE_FINGERPRINT"
+        ],
+        "feature_set": [
+            "android.hardware.camera",
+            "android.hardware.camera.flash",
+            "android.hardware.bluetooth",
+            "android.hardware.bluetooth_le"
+        ],
+        "uuid_count": 17,
+        "uuids": [
+            {
+                "uuid": "0x7fff",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0xffff",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0x0000",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00001101-0000-1000-8000-00805f9b34fb",
+                "name": "SPP Serial Port Service UUID"
+            },
+            {
+                "uuid": "00000000-deca-fade-deca-deafdecacaff",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00002a2b-0000-1000-8000-00805f9b34fb",
+                "name": "Current Time"
+            },
+            {
+                "uuid": "00001805-0000-1000-8000-00805f9b34fb",
+                "name": "Current Time Service"
+            },
+            {
+                "uuid": "00002a0f-0000-1000-8000-00805f9b34fb",
+                "name": "Local Time Information"
+            },
+            {
+                "uuid": "00002a14-0000-1000-8000-00805f9b34fb",
+                "name": "Reference Time Information"
+            },
+            {
+                "uuid": "00001801-0000-1000-8000-00805f9b34fb",
+                "name": "Generic Attribute"
+            },
+            {
+                "uuid": "00001800-0000-1000-8000-00805f9b34fb",
+                "name": "Generic Access"
+            },
+            {
+                "uuid": "00002a00-0000-1000-8000-00805f9b34fb",
+                "name": "Device Name"
+            },
+            {
+                "uuid": "00002a01-0000-1000-8000-00805f9b34fb",
+                "name": "Appearance"
+            },
+            {
+                "uuid": "00002902-0000-1000-8000-00805f9b34fb",
+                "name": "Client Characteristic Configuration"
+            },
+            {
+                "uuid": "00002a21-0000-1000-8000-00805f9b34fb",
+                "name": "Measurement Interval"
+            },
+            {
+                "uuid": "0000ffb1-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "273e5100-6b90-4779-83b8-b8bf1dadac35",
+                "name": "Unknown"
+            }
+        ]
+    },
+    {
+        "package": "today.onedrop.android",
+        "apk": "one-drop-transform-your-life_2.0.36181.apk",
+        "bluetooth_permissions": true,
+        "permission_set": [
+            "android.permission.GET_ACCOUNTS",
+            "com.android.vending.BILLING",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.CHANGE_WIFI_STATE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.VIBRATE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.BLUETOOTH",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.INTERNET",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.BLUETOOTH_ADMIN",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.CAMERA",
+            "android.permission.ACCESS_COARSE_LOCATION"
+        ],
+        "feature_set": [
+            "android.permission.CAMERA",
+            "android.hardware.bluetooth_le"
+        ],
+        "uuid_count": 34,
+        "uuids": [
+            {
+                "uuid": "00001800-0000-1000-8000-00805f9b34fb",
+                "name": "Generic Access"
+            },
+            {
+                "uuid": "00001801-0000-1000-8000-00805f9b34fb",
+                "name": "Generic Attribute"
+            },
+            {
+                "uuid": "00001808-0000-1000-8000-00805f9b34fb",
+                "name": "Glucose"
+            },
+            {
+                "uuid": "0000180a-0000-1000-8000-00805f9b34fb",
+                "name": "Device Information"
+            },
+            {
+                "uuid": "0000180f-0000-1000-8000-00805f9b34fb",
+                "name": "Battery Service"
+            },
+            {
+                "uuid": "b12e821d-b904-47bb-9225-446a98ae6aa9",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00001805-0000-1000-8000-00805f9b34fb",
+                "name": "Current Time Service"
+            },
+            {
+                "uuid": "d5dcbb7b-7d7e-4361-98a7-6b109025af1c",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "682283f5-3918-4159-8533-f5899a949a47",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00002a00-0000-1000-8000-00805f9b34fb",
+                "name": "Device Name"
+            },
+            {
+                "uuid": "00002a01-0000-1000-8000-00805f9b34fb",
+                "name": "Appearance"
+            },
+            {
+                "uuid": "00002a29-0000-1000-8000-00805f9b34fb",
+                "name": "Manufacturer Name String"
+            },
+            {
+                "uuid": "00002a24-0000-1000-8000-00805f9b34fb",
+                "name": "Model Number String"
+            },
+            {
+                "uuid": "00002a25-0000-1000-8000-00805f9b34fb",
+                "name": "Serial Number String"
+            },
+            {
+                "uuid": "00002a26-0000-1000-8000-00805f9b34fb",
+                "name": "Firmware Revision String"
+            },
+            {
+                "uuid": "00002a18-0000-1000-8000-00805f9b34fb",
+                "name": "Glucose Measurement"
+            },
+            {
+                "uuid": "00002a34-0000-1000-8000-00805f9b34fb",
+                "name": "Glucose Measurement Context"
+            },
+            {
+                "uuid": "00002a51-0000-1000-8000-00805f9b34fb",
+                "name": "Glucose Feature"
+            },
+            {
+                "uuid": "00002a52-0000-1000-8000-00805f9b34fb",
+                "name": "Record Access Control Point"
+            },
+            {
+                "uuid": "00002a19-0000-1000-8000-00805f9b34fb",
+                "name": "Battery Level"
+            },
+            {
+                "uuid": "783f700c-8152-4ea2-9a80-3cbd51c50a40",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "c909a031-f513-4e21-8c2d-817c9fc2e46b",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "9a14aa21-3907-456a-a43d-3387de01a02a",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00002a2b-0000-1000-8000-00805f9b34fb",
+                "name": "Current Time"
+            },
+            {
+                "uuid": "5ec7ec13-0479-47fc-9d97-01e17afb4642",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "ca312059-b749-466d-9fc2-3b23f03bd3c4",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "5d90e5d2-e240-4503-a824-19b1eeab6b87",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "521cd437-67bb-4acc-9ff8-d2d39c5ca158",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00002902-0000-1000-8000-00805f9b34fb",
+                "name": "Client Characteristic Configuration"
+            },
+            {
+                "uuid": "258eafa5-e914-47da-95ca-c5ab0dc85b11",
+                "name": "RFC6455 Websocket String"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-000000000000",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00001810-0000-1000-8000-00805f9b34fb",
+                "name": "Blood Pressure"
+            },
+            {
+                "uuid": "00002a35-0000-1000-8000-00805f9b34fb",
+                "name": "Blood Pressure Measurement"
+            },
+            {
+                "uuid": "00002a08-0000-1000-8000-00805f9b34fb",
+                "name": "Date Time"
+            }
+        ]
+    },
+    {
+        "package": "com.totalketodiet.ketodiet",
+        "apk": "total-keto-diet-low-carb-recipes-keto-meal-plan_5.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.CAMERA",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.VIBRATE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.android.vending.BILLING",
+            "com.android.vending.CHECK_LICENSE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.RECEIVE_BOOT_COMPLETED"
+        ],
+        "feature_set": [
+            "android.hardware.camera",
+            "android.hardware.camera.autofocus"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.andromo.dev553557.app541724",
+        "apk": "type-2-diabetes-healthy-eating_2.3.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.INTERNET"
+        ],
+        "feature_set": [
+            "android.hardware.touchscreen"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "fr.be4life.mydiabbydt",
+        "apk": "mydiabby_2.5.1.apk",
+        "bluetooth_permissions": true,
+        "permission_set": [
+            "com.sec.android.provider.badge.permission.READ",
+            "com.htc.launcher.permission.READ_SETTINGS",
+            "com.sec.android.provider.badge.permission.WRITE",
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            "com.majeur.launcher.permission.UPDATE_BADGE",
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.READ_APP_BADGE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            "android.permission.CAMERA",
+            "me.everything.badger.permission.BADGE_COUNT_READ",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.WAKE_LOCK",
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            "android.permission.VIBRATE",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.MANAGE_USB",
+            "android.permission.ACCESS_BACKGROUND_LOCATION",
+            "com.sonyericsson.home.permission.BROADCAST_BADGE",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.USB_PERMISSION",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.anddoes.launcher.permission.UPDATE_COUNT",
+            "android.permission.BLUETOOTH",
+            "me.everything.badger.permission.BADGE_COUNT_WRITE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            "com.oppo.launcher.permission.WRITE_SETTINGS",
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+            "android.permission.BLUETOOTH_ADMIN",
+            "android.permission.RECORD_AUDIO",
+            "fr.be4life.mydiabbydt.permission.C2D_MESSAGE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.hardware.usb.host",
+            "com.oppo.launcher.permission.READ_SETTINGS"
+        ],
+        "feature_set": [
+            "android.hardware.usb.host"
+        ],
+        "uuid_count": 4,
+        "uuids": [
+            {
+                "uuid": "258eafa5-e914-47da-95ca-c5ab0dc85b11",
+                "name": "RFC6455 Websocket String"
+            },
+            {
+                "uuid": "edef8ba9-79d6-4ace-a3c8-27dcd51d21ed",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "bb392ec0-8d4d-11e0-a896-0002a5d5c51b",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "c06c8400-8e06-11e0-9cb6-0002a5d5c51b",
+                "name": "Unknown"
+            }
+        ]
+    },
+    {
+        "package": "com.whitening.marsocaro",
+        "apk": "_\u0639\u0644\u0627\u062c-\u0645\u0631\u0636-\u0627\u0644\u0633\u0643\u0631\u064a-\u0627\u0644\u0648\u0642\u0627\u064a\u0629-\u062e\u064a\u0631\u064c-\u0645\u0646-\u0627\u0644\u0639\u0644\u0627\u062c_1.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.INTERNET"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.bloodglucosetracker.app",
+        "apk": "blood-glucose-tracker-track-your-blood-glucose_1.8.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.anddoes.launcher.permission.UPDATE_COUNT",
+            "android.permission.SET_ALARM",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "com.majeur.launcher.permission.UPDATE_BADGE",
+            "com.android.vending.BILLING",
+            "com.htc.launcher.permission.READ_SETTINGS",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.sonyericsson.home.permission.BROADCAST_BADGE",
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            "android.permission.WAKE_LOCK",
+            "com.oppo.launcher.permission.WRITE_SETTINGS",
+            "com.bloodglucosetracker.app.permission.C2D_MESSAGE",
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            "android.permission.INTERNET",
+            "com.oppo.launcher.permission.READ_SETTINGS",
+            "android.permission.READ_APP_BADGE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "me.everything.badger.permission.BADGE_COUNT_WRITE",
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            "me.everything.badger.permission.BADGE_COUNT_READ",
+            "com.sec.android.provider.badge.permission.WRITE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.sec.android.provider.badge.permission.READ",
+            "android.permission.VIBRATE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "dfd.biofit",
+        "apk": "the-low-glycal-diet\u2122-by-biofit_1.8.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.INTERNET"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.gexperts.ontrack",
+        "apk": "ontrack-diabetes_3.2.7.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.VIBRATE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.glink.diabetes",
+        "apk": "glink-diabetes_1.0.9.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.CAMERA",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.CALL_PHONE",
+            "android.permission.READ_EXTERNAL_STORAGE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.fourtechnologies.mynetdiary.ad",
+        "apk": "calorie-counter-mynetdiary-food-diary-tracker_7.4.7.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.android.vending.CHECK_LICENSE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.android.vending.BILLING",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.CAMERA"
+        ],
+        "feature_set": [
+            "android.hardware.camera",
+            "android.hardware.camera.autofocus",
+            "android.hardware.camera.flash",
+            "android.hardware.screen.landscape",
+            "android.hardware.wifi",
+            "android.hardware.touchscreen"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "edart.alsukkary.com",
+        "apk": "\u0625\u062f\u0627\u0631\u0629-\u0627\u0644\u0633\u0643\u0631\u064a-diabetes-management_103.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.VIBRATE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.FLASHLIGHT"
+        ],
+        "feature_set": [
+            "android.hardware.location.network",
+            "android.hardware.touchscreen",
+            "android.hardware.wifi"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.blueloop.mycareconnect",
+        "apk": "blueloop_2.3.46.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.INTERNET",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.WRITE_EXTERNAL_STORAGE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "mallik.apps.sugarlog",
+        "apk": "blood-sugar-log_1.1.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.venninteractive.ssketo",
+        "apk": "stupid-simple-keto-low-carb-diet-tracking-app_7.0.3.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.VIBRATE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.CAMERA",
+            "com.android.vending.BILLING",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.INTERNET",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.WAKE_LOCK",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+        ],
+        "feature_set": [
+            "android.hardware.camera",
+            "android.hardware.camera.autofocus",
+            "android.hardware.camera.front",
+            "android.hardware.touchscreen",
+            "android.hardware.touchscreen.multitouch",
+            "android.hardware.touchscreen.multitouch.distinct"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.glow.android",
+        "apk": "glow-ovulation-period-tracker_7.21.3-play.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.MANAGE_ACCOUNTS",
+            "android.permission.CALL_PHONE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.glow.android.accounts",
+            "android.permission.GET_ACCOUNTS",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.android.vending.BILLING",
+            "android.permission.AUTHENTICATE_ACCOUNTS",
+            "android.permission.WRITE_SYNC_SETTINGS",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.RECORD_AUDIO",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.NETWORK",
+            "android.permission.INTERNET",
+            "android.permission.USE_CREDENTIALS",
+            "android.permission.CAMERA",
+            "android.permission.READ_SYNC_SETTINGS",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.glow.android.permission.C2D_MESSAGE",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.FLASHLIGHT"
+        ],
+        "feature_set": [
+            "android.hardware.location.gps",
+            "android.hardware.location.network",
+            "android.hardware.camera",
+            "android.hardware.camera.autofocus"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.duethealth.nationwide",
+        "apk": "mychildren-s_5.2.0.2694-892c6d81.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.RECORD_AUDIO",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.CAMERA",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.USE_FINGERPRINT",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.VIBRATE",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            "android.permission.CALL_PHONE"
+        ],
+        "feature_set": [
+            "android.hardware.location",
+            "android.hardware.location.gps",
+            "android.hardware.location.network",
+            "android.hardware.camera",
+            "android.hardware.telephony",
+            "android.hardware.touchscreen",
+            "android.hardware.fingerprint"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.lifeincontrol",
+        "apk": "life-in-control-diabetes-coach_1.7.2.27.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.lifeincontrol.debug.supportmapfragment.permission.MAPS_RECEIVE",
+            "android.permission.GET_ACCOUNTS",
+            "android.permission.AUTHENTICATE_ACCOUNTS",
+            "android.permission.CAMERA",
+            "android.permission.USE_CREDENTIALS",
+            "android.permission.READ_SYNC_SETTINGS",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_CONTACTS",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.WRITE_SYNC_SETTINGS",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.INTERNET",
+            "android.permission.READ_PROFILE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.GET_TASKS",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.READ_SYNC_STATS"
+        ],
+        "feature_set": [
+            "android.hardware.camera"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.infochecker.bloodsugardaily",
+        "apk": "blood-sugar-checker-blood-glucose-tracker_1.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.INTERNET",
+            "android.permission.VIBRATE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.android.vending.BILLING",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.WRITE_EXTERNAL_STORAGE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    }
+]
