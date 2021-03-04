@@ -1,0 +1,4413 @@
+[
+    {
+        "package": "com.amila.water",
+        "apk": "water-tracker_1.0.18.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.WAKE_LOCK",
+            "android.permission.VIBRATE",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.google.android.c2dm.permission.RECEIVE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.northpark.drinkwater",
+        "apk": "water-drink-reminder_4.314.255.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.android.alarm.permission.SET_ALARM",
+            "android.permission.GET_ACCOUNTS",
+            "com.android.vending.BILLING",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.VIBRATE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.remind.drink.water.hourly",
+        "apk": "water-reminder-remind-drink-water_15.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.VIBRATE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "com.android.alarm.permission.SET_ALARM",
+            "android.permission.FOREGROUND_SERVICE",
+            "com.android.vending.BILLING",
+            "android.permission.EXPAND_STATUS_BAR",
+            "android.permission.RECEIVE_BOOT_COMPLETED"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.appstronautstudios.hydrationlog",
+        "apk": "hydration-tracker-water-intake-reminder-and-log_1.2.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.INTERNET",
+            "com.android.vending.BILLING",
+            "android.permission.WRITE_EXTERNAL_STORAGE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.overseasolutions.waterapp.app",
+        "apk": "aqualert-water-intake-tracker-reminder-google-fit_7.70.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.WAKE_LOCK",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.VIBRATE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.drink.water.alarm",
+        "apk": "water-tracker-hydrillo_2.2.7.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.WAKE_LOCK",
+            "android.permission.VIBRATE",
+            "com.google.android.providers.gsf.permission.READ_GSERVICES",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.USE_FULL_SCREEN_INTENT",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.android.vending.BILLING",
+            "com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.FOREGROUND_SERVICE",
+            "com.codium.hydrocoach.obsolete.provider.ACCESS_DB"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.mobilecreatures.drinkwater",
+        "apk": "water-time-drink-tracker-reminder_10.0.3.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.QUICKBOOT_POWERON",
+            "android.permission.WAKE_LOCK",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.VIBRATE",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.android.alarm.permission.SET_ALARM",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "com.android.vending.BILLING",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.ACCESS_WIFI_STATE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.drink.water.reminder.alarm.tracker",
+        "apk": "drink-water-app-water-tracker-drinking-reminder_1.22.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "com.android.vending.BILLING",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.INTERNET",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.ACCESS_BACKGROUND_LOCATION",
+            "com.android.alarm.permission.SET_ALARM"
+        ],
+        "feature_set": [
+            "android.hardware.location",
+            "android.hardware.location.network"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.victorsharov.mywaterapp",
+        "apk": "my-water-balance_3.8.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.INTERNET",
+            "com.sec.android.provider.badge.permission.WRITE",
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            "com.oppo.launcher.permission.WRITE_SETTINGS",
+            "android.permission.VIBRATE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.victorsharov.mywaterapp.permission.C2D_MESSAGE",
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.anddoes.launcher.permission.UPDATE_COUNT",
+            "android.permission.GET_ACCOUNTS",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.oppo.launcher.permission.READ_SETTINGS",
+            "android.permission.WAKE_LOCK",
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            "android.permission.SYSTEM_ALERT_WINDOW",
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.GET_TASKS",
+            "android.permission.READ_APP_BADGE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "me.everything.badger.permission.BADGE_COUNT_WRITE",
+            "com.htc.launcher.permission.READ_SETTINGS",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.FOREGROUND_SERVICE",
+            "com.majeur.launcher.permission.UPDATE_BADGE",
+            "com.sonyericsson.home.permission.BROADCAST_BADGE",
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.READ_PHONE_STATE",
+            "me.everything.badger.permission.BADGE_COUNT_READ",
+            "com.android.vending.BILLING",
+            "com.sec.android.provider.badge.permission.READ",
+            "com.google.android.c2dm.permission.RECEIVE"
+        ],
+        "feature_set": [
+            "android.hardware.location",
+            "android.hardware.location.network",
+            "android.hardware.location.gps"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "gndzkrkc.stayhydrated",
+        "apk": "stay-hydrated-water-intake-reminder-tracker_1.1.8.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.VIBRATE",
+            "android.permission.INTERNET",
+            "com.android.vending.BILLING",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.huawei.permission.external_app_settings.USE_COMPONENT",
+            "android.permission.FOREGROUND_SERVICE",
+            "oppo.permission.OPPO_COMPONENT_SAFE"
+        ],
+        "feature_set": [
+            "android.hardware.camera",
+            "android.hardware.camera.autofocus",
+            "android.hardware.microphone"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.utilitech.watertracker",
+        "apk": "water-tracker-drink-water-reminder_110.59.21.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.WAKE_LOCK",
+            "com.android.alarm.permission.SET_ALARM",
+            "android.permission.RECEIVE_BOOT_COMPLETED"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.fourdesire.plantnanny2",
+        "apk": "plant-nanny\u00b2-your-adorable-water-reminder_2.1.17.2.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.WAKE_LOCK",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.INTERNET",
+            "android.permission.VIBRATE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.android.vending.BILLING",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+        ],
+        "feature_set": [
+            "android.hardware.touchscreen",
+            "android.hardware.touchscreen.multitouch",
+            "android.hardware.touchscreen.multitouch.distinct"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "ascendik.drinkwaterreminder.hydration.watertracker.drinkwater",
+        "apk": "drink-water-reminder-water-tracker-and-diet_1.24.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.WAKE_LOCK",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.android.vending.BILLING",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            "android.permission.INTERNET",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.vandersw.waterHealth",
+        "apk": "water-intake-tracking_12.5.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.android.vending.BILLING",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "android.permission.RECEIVE_BOOT_COMPLETED"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.aquila.drinkwaterreminder",
+        "apk": "water-drinking-reminder-water-tracker_3.01.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.WAKE_LOCK",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.android.vending.BILLING",
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            "android.permission.INTERNET",
+            "android.permission.VIBRATE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.ohealthstudio.waterdrinkingreminderalarm",
+        "apk": "water-drinking-reminder-drink-water-reminder-app_1.4.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "android.permission.VIBRATE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "hydration.watertracker.waterreminder.drinkwaterreminder",
+        "apk": "drink-water-reminder_1.081.14.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.INTERNET",
+            "android.permission.GET_ACCOUNTS",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.android.alarm.permission.SET_ALARM",
+            "com.android.vending.BILLING",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.WAKE_LOCK",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.VIBRATE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.drink.water.reminder.tracker.health",
+        "apk": "drink-water-reminder-water-tracker-alarm_1.2.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "android.permission.FOREGROUND_SERVICE",
+            "com.android.alarm.permission.SET_ALARM",
+            "android.permission.VIBRATE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            "com.android.vending.BILLING",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.RECEIVE_BOOT_COMPLETED"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.remind.drink.water.watery",
+        "apk": "water-reminder-drink-water-on-time-daily_3.2.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.android.alarm.permission.SET_ALARM",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.EXPAND_STATUS_BAR",
+            "android.permission.WAKE_LOCK",
+            "android.permission.VIBRATE",
+            "android.permission.FOREGROUND_SERVICE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.drinkwaterreminderappspop.youremindtodrinkwater",
+        "apk": "water-drink-reminder-step-counter-heart-rate_1.5.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.CAMERA",
+            "android.permission.INTERNET",
+            "com.sec.android.provider.badge.permission.WRITE",
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            "com.oppo.launcher.permission.WRITE_SETTINGS",
+            "android.permission.VIBRATE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.FLASHLIGHT",
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+            "com.anddoes.launcher.permission.UPDATE_COUNT",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.oppo.launcher.permission.READ_SETTINGS",
+            "android.permission.WAKE_LOCK",
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            "android.permission.SYSTEM_ALERT_WINDOW",
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            "android.permission.READ_APP_BADGE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "me.everything.badger.permission.BADGE_COUNT_WRITE",
+            "com.drinkwaterreminderappspop.youremindtodrinkwater.permission.C2D_MESSAGE",
+            "com.htc.launcher.permission.READ_SETTINGS",
+            "android.permission.FOREGROUND_SERVICE",
+            "com.majeur.launcher.permission.UPDATE_BADGE",
+            "com.sonyericsson.home.permission.BROADCAST_BADGE",
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            "me.everything.badger.permission.BADGE_COUNT_READ",
+            "android.permission.ACTION_UNINSTALL_PACKAGE",
+            "android.permission.ACTIVITY_RECOGNITION",
+            "android.permission.KILL_BACKGROUND_PROCESSES",
+            "com.sec.android.provider.badge.permission.READ",
+            "com.google.android.c2dm.permission.RECEIVE"
+        ],
+        "feature_set": [
+            "android.hardware.camera",
+            "android.hardware.camera.flash"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.remind.drink.water.often",
+        "apk": "water-balance-drink-water-reminder-water-tracker_1.4.10.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "com.android.vending.BILLING",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.remind.drink.water.often.permission.C2D_MESSAGE",
+            "android.permission.WAKE_LOCK"
+        ],
+        "feature_set": [
+            "android.hardware.location.gps",
+            "android.hardware.location",
+            "android.hardware.touchscreen",
+            "android.hardware.touchscreen.multitouch",
+            "android.hardware.touchscreen.multitouch.distinct",
+            "android.software.vr.mode",
+            "android.software.vr.high_performance"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "io.appsly.drinkwater",
+        "apk": "drink-water-reminder-alarm_1.1.1.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.WAKE_LOCK",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.android.vending.BILLING",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.INTERNET",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.VIBRATE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.drink.water.drinkwaterreminder",
+        "apk": "waterclock_1.3.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.GET_ACCOUNTS",
+            "me.everything.badger.permission.BADGE_COUNT_WRITE",
+            "com.sec.android.provider.badge.permission.READ",
+            "com.htc.launcher.permission.READ_SETTINGS",
+            "com.anddoes.launcher.permission.UPDATE_COUNT",
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            "android.permission.VIBRATE",
+            "com.oppo.launcher.permission.READ_SETTINGS",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+            "android.permission.INTERNET",
+            "com.sonyericsson.home.permission.BROADCAST_BADGE",
+            "com.oppo.launcher.permission.WRITE_SETTINGS",
+            "android.permission.WAKE_LOCK",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            "com.drink.water.drinkwaterreminder.permission.C2D_MESSAGE",
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            "me.everything.badger.permission.BADGE_COUNT_READ",
+            "com.majeur.launcher.permission.UPDATE_BADGE",
+            "android.permission.READ_APP_BADGE",
+            "com.sec.android.provider.badge.permission.WRITE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.iarigo.meal",
+        "apk": "mealtimer-food-and-water-reminder_4.0.6.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.INTERNET",
+            "android.permission.QUICKBOOT_POWERON",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.WAKE_LOCK"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "drink.water.reminder.aquarium",
+        "apk": "drink-water-aquarium-water-tracker-reminder_1.7.2.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "zte.permission.LAUNCH_POWER_SAVER_ACTIVITY",
+            "android.permission.WAKE_LOCK",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.android.vending.BILLING",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.FOREGROUND_SERVICE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.INTERNET",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.VIBRATE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "hcc.feedthefish",
+        "apk": "feed-the-fish-drink-water-reminder-track-sugar_1.38.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.android.vending.BILLING",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "android.permission.WRITE_EXTERNAL_STORAGE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.codium.hydrocoach",
+        "apk": "drink-water-reminder-water-tracker-hydro-coach_4.3.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY",
+            "android.permission.USE_FULL_SCREEN_INTENT",
+            "android.permission.ACCESS_WIFI_STATE",
+            "com.codium.hydrocoach.obsolete.provider.ACCESS_DB",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.android.vending.BILLING",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "android.permission.VIBRATE",
+            "android.permission.FOREGROUND_SERVICE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.vgfit.waterbalance",
+        "apk": "water-reminder-daily-tracker_1.1.5.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.android.vending.BILLING",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.ACCESS_FINE_LOCATION"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.watertracker.drinkwaterreminderapp",
+        "apk": "water-tracker-water-drinking-reminder-app_1.2.1.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.anddoes.launcher.permission.UPDATE_COUNT",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.sec.android.provider.badge.permission.READ",
+            "android.permission.CAMERA",
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            "com.oppo.launcher.permission.WRITE_SETTINGS",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.READ_APP_BADGE",
+            "android.permission.WAKE_LOCK",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.FOREGROUND_SERVICE",
+            "com.sonyericsson.home.permission.BROADCAST_BADGE",
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            "me.everything.badger.permission.BADGE_COUNT_READ",
+            "android.permission.INTERNET",
+            "com.oppo.launcher.permission.READ_SETTINGS",
+            "com.htc.launcher.permission.READ_SETTINGS",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.sec.android.provider.badge.permission.WRITE",
+            "com.majeur.launcher.permission.UPDATE_BADGE",
+            "me.everything.badger.permission.BADGE_COUNT_WRITE",
+            "android.permission.VIBRATE",
+            "com.watertracker.drinkwaterreminderapp.permission.C2D_MESSAGE"
+        ],
+        "feature_set": [
+            "android.hardware.screen.portrait"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.hodoz.drinkwaterreminder",
+        "apk": "drink-water-reminder_2.1.100.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.android.vending.BILLING",
+            "com.google.android.c2dm.permission.RECEIVE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.drink.water.reminder.tracker",
+        "apk": "drink-water-reminder-water-alarm-tracker_2.2.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.android.vending.BILLING",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.CHANGE_WIFI_STATE",
+            "android.permission.INTERNET",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.tarahonich.bewet",
+        "apk": "drink-water-reminder-and-hydration-tracker-bewet_1.16.8.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.VIBRATE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.QUICKBOOT_POWERON",
+            "android.permission.INTERNET",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.android.vending.BILLING",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.WAKE_LOCK"
+        ],
+        "feature_set": [
+            "android.hardware.sensor.accelerometer"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.grassaper.watertracker2",
+        "apk": "daily-water-tracker-reminder-hydration-log_23.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.android.vending.BILLING",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "android.permission.VIBRATE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+        ],
+        "feature_set": [
+            "android.hardware.touchscreen",
+            "android.hardware.touchscreen.multitouch",
+            "android.hardware.touchscreen.multitouch.distinct",
+            "android.software.vr.mode",
+            "android.software.vr.high_performance"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.rbjmobileapp.water",
+        "apk": "water-diet-plan_1.14.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.VIBRATE",
+            "android.permission.INTERNET",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.CAMERA",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.intent.action.ACTION_BOOT_COMPLETED",
+            "android.permission.USE_FINGERPRINT",
+            "android.permission.WAKE_LOCK",
+            "android.permission.MODIFY_AUDIO_SETTINGS"
+        ],
+        "feature_set": [
+            "android.hardware.screen.portrait",
+            "android.hardware.screen.landscape"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "daily.remind.drinkwater",
+        "apk": "drink-water-reminder-daily-water-tracker-record_1.2.1.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.WAKE_LOCK",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.SYSTEM_ALERT_WINDOW",
+            "android.permission.DISABLE_KEYGUARD",
+            "com.android.vending.BILLING",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.VIBRATE",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.google.android.c2dm.permission.RECEIVE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.artemitsoftapp.waterreminder",
+        "apk": "water-drink-reminder_1.0.9.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.anddoes.launcher.permission.UPDATE_COUNT",
+            "com.sec.android.provider.badge.permission.READ",
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            "com.oppo.launcher.permission.WRITE_SETTINGS",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.READ_APP_BADGE",
+            "android.permission.WAKE_LOCK",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.sonyericsson.home.permission.BROADCAST_BADGE",
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            "me.everything.badger.permission.BADGE_COUNT_READ",
+            "android.permission.INTERNET",
+            "com.artemitsoftapp.waterreminder.permission.C2D_MESSAGE",
+            "com.oppo.launcher.permission.READ_SETTINGS",
+            "com.htc.launcher.permission.READ_SETTINGS",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.sec.android.provider.badge.permission.WRITE",
+            "com.majeur.launcher.permission.UPDATE_BADGE",
+            "me.everything.badger.permission.BADGE_COUNT_WRITE",
+            "android.permission.VIBRATE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.waterbalance",
+        "apk": "waterbalance_2.1.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.WAKE_LOCK",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.VIBRATE"
+        ],
+        "feature_set": [
+            "android.hardware.location.network"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "net.easycreation.drink_reminder",
+        "apk": "water-drink-reminder_1.4.7.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.QUICKBOOT_POWERON",
+            "android.permission.WAKE_LOCK",
+            "android.permission.VIBRATE",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.android.vending.BILLING"
+        ],
+        "feature_set": [
+            "android.hardware.telephony"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "reminder.drink.water",
+        "apk": "waterly-water-drink-reminder-hydration-tracker_v1.0.97.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.VIBRATE",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.INTERNET",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.android.vending.BILLING",
+            "android.permission.ACTION_MANAGE_OVERLAY_PERMISSION",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.SYSTEM_ALERT_WINDOW",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.USE_FULL_SCREEN_INTENT",
+            "android.permission.ACTIVITY_RECOGNITION",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.WAKE_LOCK"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "reminder.drink.water",
+        "apk": "waterly-water-drink-reminder-hydration-tracker_v1.0.97.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.VIBRATE",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.INTERNET",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.android.vending.BILLING",
+            "android.permission.ACTION_MANAGE_OVERLAY_PERMISSION",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.SYSTEM_ALERT_WINDOW",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.USE_FULL_SCREEN_INTENT",
+            "android.permission.ACTIVITY_RECOGNITION",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.WAKE_LOCK"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "hidratenow.com.hidrate.hidrateandroid",
+        "apk": "hidratespark-water-bottle_2.1.81.apk",
+        "bluetooth_permissions": true,
+        "permission_set": [
+            "android.permission.ACCESS_FINE_LOCATION",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.BLUETOOTH_ADMIN",
+            "com.android.vending.BILLING",
+            "android.permission.GET_ACCOUNTS",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.INTERNET",
+            "android.permission.CAMERA",
+            "android.permission.VIBRATE",
+            "hidratenow.com.hidrate.hidrateandroid.permission.MAPS_RECEIVE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.BLUETOOTH",
+            "android.permission.READ_CONTACTS",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.BLUETOOTH_PRIVILEGED",
+            "com.google.android.providers.gsf.permission.READ_GSERVICES",
+            "hidratenow.com.hidrate.hidrateandroid.permission.C2D_MESSAGE"
+        ],
+        "feature_set": [
+            "android.hardware.location.network",
+            "android.hardware.bluetooth_le"
+        ],
+        "uuid_count": 15,
+        "uuids": [
+            {
+                "uuid": "00000000-0000-1000-8000-00805f9b34fb",
+                "name": "Base UUID"
+            },
+            {
+                "uuid": "00002902-0000-1000-8000-00805f9b34fb",
+                "name": "Client Characteristic Configuration"
+            },
+            {
+                "uuid": "e3578b0d-caa7-46d6-b7c2-7331c08de044",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00002a19-0000-1000-8000-00805f9b34fb",
+                "name": "Battery Level"
+            },
+            {
+                "uuid": "31fb5b6c-0166-4c97-ba1d-bf0a82fbbcb6",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00002a26-0000-1000-8000-00805f9b34fb",
+                "name": "Firmware Revision String"
+            },
+            {
+                "uuid": "00060001-f8ce-11e4-abf4-0002a5d5c51b",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "016e11b1-6c8a-4074-9e5a-076053f93784",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "a1d9a5bf-f5d8-49f3-a440-e6bf27440cb0",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "b44b03f0-b850-4090-86eb-72863fb3618d",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "6ac24e8b-056c-4077-8221-8f816ade71e6",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0000180a-0000-1000-8000-00805f9b34fb",
+                "name": "Device Information"
+            },
+            {
+                "uuid": "00002a25-0000-1000-8000-00805f9b34fb",
+                "name": "Serial Number String"
+            },
+            {
+                "uuid": "5190279c-3e63-4492-bf84-e29292ffee0d",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "258eafa5-e914-47da-95ca-c5ab0dc85b11",
+                "name": "RFC6455 Websocket String"
+            }
+        ]
+    },
+    {
+        "package": "com.olegsheremet.kropla",
+        "apk": "kropla-drink-water-tracker-and-reminder_1.9.20.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.INTERNET",
+            "com.android.vending.BILLING",
+            "android.permission.VIBRATE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "waterdrinkingreminder.watertracker.waterreminder.drinkwaterapp",
+        "apk": "water-drinking-reminder-water-tracker_1.0.3.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.RECEIVE_USER_PRESENT",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.VIBRATE",
+            "android.permission.FOREGROUND_SERVICE"
+        ],
+        "feature_set": [
+            "android.hardware.screen.LANDSCAPE"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "info.andrewdahm.gulp",
+        "apk": "gulp-hydrate-track-water_1.5.2.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.RECEIVE_BOOT_COMPLETED"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.water.reminder.daily",
+        "apk": "nox-watertime-\ud83d\udca7-remind-drink-water-daily-tracker_1.0.6.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.CHANGE_WIFI_STATE",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.SYSTEM_ALERT_WINDOW",
+            "android.permission.INTERNET",
+            "android.permission.VIBRATE",
+            "android.permission.FOREGROUND_SERVICE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.healthy.everyday.drinkwater.reminder",
+        "apk": "water-drink-reminder-free-\u2013-water-tracker-alarm_2.0.8.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.INTERNET",
+            "com.sec.android.provider.badge.permission.WRITE",
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            "android.permission.SET_ALARM",
+            "com.oppo.launcher.permission.WRITE_SETTINGS",
+            "android.permission.VIBRATE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.anddoes.launcher.permission.UPDATE_COUNT",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.oppo.launcher.permission.READ_SETTINGS",
+            "android.permission.WAKE_LOCK",
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.READ_APP_BADGE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "me.everything.badger.permission.BADGE_COUNT_WRITE",
+            "com.htc.launcher.permission.READ_SETTINGS",
+            "com.android.alarm.permission.SET_ALARM",
+            "com.majeur.launcher.permission.UPDATE_BADGE",
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            "com.healthy.everyday.drinkwater.reminder.permission.C2D_MESSAGE",
+            "me.everything.badger.permission.BADGE_COUNT_READ",
+            "com.android.vending.BILLING",
+            "com.sec.android.provider.badge.permission.READ",
+            "com.sonyericsson.home.permission.BROADCAST_BADGE",
+            "com.google.android.c2dm.permission.RECEIVE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.aplicativoslegais.beberagua",
+        "apk": "drink-water_2.90.00.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.WAKE_LOCK",
+            "ANDROID.PERMISSION.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "android.permission.FOREGROUND_SERVICE",
+            "com.android.alarm.permission.SET_ALARM",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.VIBRATE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.android.vending.BILLING",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.RECEIVE_BOOT_COMPLETED"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "st.info.wl",
+        "apk": "natural-weight-loss-in-30-days_9.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.veevapps.waterdrink",
+        "apk": "water-drink-reminder_1.1.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "android.permission.VIBRATE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.veevapps.waterdrink.permission.C2D_MESSAGE",
+            "com.google.android.c2dm.permission.RECEIVE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "waterup.drink.reminder",
+        "apk": "water-drink-reminder-water-reminder-tracker_2.9.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.android.vending.BILLING",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            "me.everything.badger.permission.BADGE_COUNT_READ",
+            "com.majeur.launcher.permission.UPDATE_BADGE",
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            "com.anddoes.launcher.permission.UPDATE_COUNT",
+            "android.permission.ACCESS_WIFI_STATE",
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            "android.permission.WRITE_INTERNAL_STORAGE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.sec.android.provider.badge.permission.READ",
+            "com.sonyericsson.home.permission.BROADCAST_BADGE",
+            "com.sec.android.provider.badge.permission.WRITE",
+            "android.permission.INTERNET",
+            "com.oppo.launcher.permission.WRITE_SETTINGS",
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            "android.permission.VIBRATE",
+            "com.oppo.launcher.permission.READ_SETTINGS",
+            "android.permission.READ_APP_BADGE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "me.everything.badger.permission.BADGE_COUNT_WRITE",
+            "waterup.drink.reminder.permission.C2D_MESSAGE",
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            "com.htc.launcher.permission.READ_SETTINGS"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "bakaz.tool.drink.water.reminder.watertracker",
+        "apk": "drink-water-tracker-reminder_1.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.android.alarm.permission.SET_ALARM",
+            "com.android.vending.BILLING",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.EXPAND_STATUS_BAR",
+            "android.permission.WAKE_LOCK",
+            "android.permission.VIBRATE",
+            "android.permission.FOREGROUND_SERVICE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.freshware.hydro",
+        "apk": "water-drink-reminder-hydro_2.1.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.WAKE_LOCK",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.VIBRATE",
+            "com.freshware.hydro.permission.C2D_MESSAGE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.app.health.reminder.drink.water",
+        "apk": "drink-water-reminder_1.4.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.EXPAND_STATUS_BAR",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.android.alarm.permission.SET_ALARM",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "com.android.vending.BILLING",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "android.permission.VIBRATE",
+            "android.permission.FOREGROUND_SERVICE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.laselabs.drinkwaterreminder",
+        "apk": "water-drink-reminder_1.3.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.BOOT_COMPLETED",
+            "android.permission.WAKE_LOCK",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.INTERNET",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.BIND_APPWIDGET",
+            "com.laselabs.drinkwaterreminder.permission.C2D_MESSAGE",
+            "android.permission.VIBRATE",
+            "android.permission.WRITE_EXTERNAL_STORAGE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.livestrong.tracker",
+        "apk": "myplate-calorie-tracker_3.5.3(8).apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.WAKE_LOCK",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.CAMERA",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "com.livestrong.tracker.permission.C2D_MESSAGE",
+            "com.android.vending.BILLING",
+            "android.permission.MANAGE_DOCUMENTS",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.INTERNET",
+            "android.permission.SET_WALLPAPER",
+            "com.google.android.permission.PROVIDE_BACKGROUND",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.VIBRATE",
+            "android.permission.WRITE_EXTERNAL_STORAGE"
+        ],
+        "feature_set": [
+            "android.hardware.camera",
+            "android.hardware.camera.autofocus"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.q4u.wateremainder",
+        "apk": "drink-water-reminder-water-drinking-tracker_3.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            "com.android.vending.BILLING",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.PACKAGE_USAGE_STATS",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.WAKE_LOCK",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.VIBRATE",
+            "android.permission.FOREGROUND_SERVICE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.ab.drinkwaterapp",
+        "apk": "waterby-water-drink-tracker-reminder-alarm_1.7.2.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.SYSTEM_ALERT_WINDOW",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.android.alarm.permission.SET_ALARM",
+            "android.permission.FOREGROUND_SERVICE",
+            "com.android.vending.BILLING",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            "android.permission.VIBRATE",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.ACCESS_BACKGROUND_SERVICE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.androidapps.healthmanager",
+        "apk": "health-pal-fitness-weight-loss-coach-pedometer_4.2.54.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.INTERNET",
+            "android.permission.MOUNT_UNMOUNT_FILESYSTEMS",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.CAMERA",
+            "android.permission.VIBRATE",
+            "com.android.vending.BILLING",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.android.alarm.permission.RECEIVE_BOOT_COMPLETED",
+            "com.android.alarm.permission.SET_ALARM"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.appworld.watertracker",
+        "apk": "daily-water-drink-reminder-water-intake-tracker_1.4.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.VIBRATE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.RasxinApps.DrinkwaterreminderRemindDrinkingwateralarm",
+        "apk": "daily-water-reminder-alarm-2020_1.2.1.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.WAKE_LOCK",
+            "android.permission.VIBRATE",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.sdgcode.drinkwater",
+        "apk": "drink-water_5.0.1.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.INTERNET",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.WAKE_LOCK"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.thetamobile.waterreminder",
+        "apk": "drink-water-reminder-water-tracker-alarm-app_1.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.VIBRATE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.INTERNET"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "at.murbit.android.mowater",
+        "apk": "drink-water-health-reminder_2.0.2.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.INTERNET",
+            "com.android.vending.BILLING",
+            "android.permission.VIBRATE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.daily.water.drink.reminder.water.alarm.tracker",
+        "apk": "drink-water-reminder-water-reminder-tracker-app_14.1.2.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.VIBRATE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.drinkwater.waterloseweight",
+        "apk": "how-to-drink-water-to-lose-weight_1.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.INTERNET"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.funnmedia.waterminder",
+        "apk": "waterminder-water-tracker-and-drink-reminder-app_2.11.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.INTERNET",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "com.android.vending.BILLING",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.SET_ALARM",
+            "android.permission.WAKE_LOCK"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.cronometer.android.gold",
+        "apk": "cronometer-\u2013-nutrition-tracker_3.5.4.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.WAKE_LOCK",
+            "android.permission.VIBRATE",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.BODY_SENSORS",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.android.vending.BILLING",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.CAMERA"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.water.reminder",
+        "apk": "drinking-water-reminder-app_2.5.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.android.vending.BILLING",
+            "android.permission.VIBRATE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.android.alarm.permission.SET_ALARM"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.alistairwong.waterWidget",
+        "apk": "water-counter-widget_1.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.eywinapps.waterreminder",
+        "apk": "water-reminder-hydration-drinking-tracker_0.3.3.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "com.google.android.gms.permission.ACTIVITY_REC\u200c\u200bOGNITION",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.VIBRATE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.android.vending.BILLING",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.RECEIVE_BOOT_COMPLETED"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.bubllbub.waterplanner",
+        "apk": "drink-water-reminder_1.1.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.WAKE_LOCK",
+            "android.permission.VIBRATE",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.wachanga.watertracker",
+        "apk": "water-tracker\ud83d\udca7-hydration-reminder-drink-water_2.1.1.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.sec.android.provider.badge.permission.READ",
+            "com.htc.launcher.permission.READ_SETTINGS",
+            "com.sec.android.provider.badge.permission.WRITE",
+            "com.majeur.launcher.permission.UPDATE_BADGE",
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            "android.permission.READ_APP_BADGE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            "me.everything.badger.permission.BADGE_COUNT_READ",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.WAKE_LOCK",
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            "android.permission.VIBRATE",
+            "com.sonyericsson.home.permission.BROADCAST_BADGE",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.anddoes.launcher.permission.UPDATE_COUNT",
+            "me.everything.badger.permission.BADGE_COUNT_WRITE",
+            "com.android.vending.BILLING",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.oppo.launcher.permission.WRITE_SETTINGS",
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+            "com.wachanga.watertracker.permission.C2D_MESSAGE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "com.oppo.launcher.permission.READ_SETTINGS",
+            "android.permission.FOREGROUND_SERVICE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.paperact.android.iuflow",
+        "apk": "bladder-diary-by-iuflow_4.135.apk",
+        "bluetooth_permissions": true,
+        "permission_set": [
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.INTERNET",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.BLUETOOTH_ADMIN",
+            "android.permission.BLUETOOTH",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.ACCESS_NOTIFICATION_POLICY",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.ACCESS_BACKGROUND_LOCATION",
+            "android.permission.WAKE_LOCK"
+        ],
+        "feature_set": [
+            "android.hardware.bluetooth_le"
+        ],
+        "uuid_count": 9,
+        "uuids": [
+            {
+                "uuid": "00002902-0000-1000-8000-00805f9b34fb",
+                "name": "Client Characteristic Configuration"
+            },
+            {
+                "uuid": "f000ffd0-0451-4000-b000-000000000000",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "f000ffc0-0451-4000-b000-000000000000",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "f000ccc0-0451-4000-b000-000000000000",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "6e400001-b5a3-f393-e0a9-e50e24dcca9e",
+                "name": "Nordic Service UUID"
+            },
+            {
+                "uuid": "6e400002-b5a3-f393-e0a9-e50e24dcca9e",
+                "name": "Nordic RX Characteristic"
+            },
+            {
+                "uuid": "6e400003-b5a3-f393-e0a9-e50e24dcca9e",
+                "name": "Nordic TX Characteristic"
+            },
+            {
+                "uuid": "0000180f-0000-1000-8000-00805f9b34fb",
+                "name": "Battery Service"
+            },
+            {
+                "uuid": "00002a19-0000-1000-8000-00805f9b34fb",
+                "name": "Battery Level"
+            }
+        ]
+    },
+    {
+        "package": "com.fourtechnologies.mynetdiary.ad",
+        "apk": "calorie-counter-mynetdiary-food-diary-tracker_7.4.7.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.android.vending.CHECK_LICENSE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.android.vending.BILLING",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.CAMERA"
+        ],
+        "feature_set": [
+            "android.hardware.camera",
+            "android.hardware.camera.autofocus",
+            "android.hardware.camera.flash",
+            "android.hardware.screen.landscape",
+            "android.hardware.wifi",
+            "android.hardware.touchscreen"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.slfteam.qwater",
+        "apk": "water-reminder-drink-water-reminder_V1.6.43.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.VIBRATE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.FLASHLIGHT",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.RECEIVE_BOOT_COMPLETED"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.jeet.healthydiet",
+        "apk": "healthy-diet-best-diet-plan-calorie-counter_1.8.9.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.CAMERA",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.android.vending.BILLING",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.WAKE_LOCK",
+            "com.jeet.healthydiet.permission.C2D_MESSAGE",
+            "android.permission.INTERNET",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.VIBRATE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.sillens.shapeupclub",
+        "apk": "lifesum-diet-plan-macro-calculator-food-diary_7.17.0.apk",
+        "bluetooth_permissions": true,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.samsung.wmanager.ENABLE_NOTIFICATION",
+            "android.permission.BLUETOOTH",
+            "android.permission.WAKE_LOCK",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.sillens.shapeupclub.permission.C2D_MESSAGE",
+            "android.permission.CAMERA",
+            "android.permission.ACCESS_WIFI_STATE",
+            "com.samsung.accessory.permission.ACCESSORY_FRAMEWORK",
+            "android.permission.INTERNET",
+            "com.android.vending.BILLING",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY"
+        ],
+        "feature_set": [
+            "android.hardware.wifi",
+            "android.hardware.camera.autofocus",
+            "android.hardware.camera",
+            "android.hardware.bluetooth",
+            "android.hardware.camera.front",
+            "android.hardware.camera.flash",
+            "android.hardware.screen.landscape"
+        ],
+        "uuid_count": 2,
+        "uuids": [
+            {
+                "uuid": "258eafa5-e914-47da-95ca-c5ab0dc85b11",
+                "name": "RFC6455 Websocket String"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-000000000000",
+                "name": "Unknown"
+            }
+        ]
+    },
+    {
+        "package": "com.links.wateralert",
+        "apk": "water-alert_2.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.sec.android.provider.badge.permission.READ",
+            "com.htc.launcher.permission.READ_SETTINGS",
+            "com.sec.android.provider.badge.permission.WRITE",
+            "com.majeur.launcher.permission.UPDATE_BADGE",
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.READ_APP_BADGE",
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            "me.everything.badger.permission.BADGE_COUNT_READ",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.WAKE_LOCK",
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            "com.sonyericsson.home.permission.BROADCAST_BADGE",
+            "android.permission.USE_FINGERPRINT",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.MOUNT_UNMOUNT_FILESYSTEMS",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.anddoes.launcher.permission.UPDATE_COUNT",
+            "com.huawei.android.launcher.permission.CHANGE_BADGE ",
+            "me.everything.badger.permission.BADGE_COUNT_WRITE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.GET_TASKS",
+            "com.android.vending.BILLING",
+            "com.oppo.launcher.permission.WRITE_SETTINGS",
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+            "com.oppo.launcher.permission.READ_SETTINGS"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "org.M.alcodroid",
+        "apk": "alcodroid-alcohol-tracker_2.37.04.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.INTERNET",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "com.android.vending.BILLING",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.WAKE_LOCK"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.sparkpeople.androidtracker",
+        "apk": "calorie-counter-diet-tracker_4.8.5.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.READ_CONTACTS",
+            "android.permission.CAMERA",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.GET_ACCOUNTS",
+            "com.android.alarm.permission.SET_ALARM",
+            "com.android.vending.BILLING",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.READ_PROFILE",
+            "android.permission.SET_ALARM",
+            "android.permission.INTERNET",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.VIBRATE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.ACCESS_WIFI_STATE"
+        ],
+        "feature_set": [
+            "android.hardware.touchscreen",
+            "android.hardware.camera",
+            "android.hardware.camera.autofocus"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.leoregulus.uri_diary",
+        "apk": "easy-urination-diary\uff5efrequent-urination\uff5e_6.8.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.INTERNET",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.WAKE_LOCK"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.fitnow.loseit",
+        "apk": "calorie-counter-by-lose-it-for-diet-weight-loss_12.6.201.apk",
+        "bluetooth_permissions": true,
+        "permission_set": [
+            "android.permission.CAMERA",
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.BLUETOOTH",
+            "android.permission.VIBRATE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACTIVITY_RECOGNITION",
+            "com.android.vending.BILLING",
+            "com.android.vending.CHECK_LICENSE",
+            "android.permission.DOWNLOAD_WITHOUT_NOTIFICATION",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.GET_ACCOUNTS"
+        ],
+        "feature_set": [
+            "android.hardware.bluetooth_le",
+            "android.hardware.camera.autofocus",
+            "android.hardware.camera",
+            "android.hardware.camera.front",
+            "android.hardware.camera.flash",
+            "android.hardware.screen.landscape",
+            "android.hardware.wifi"
+        ],
+        "uuid_count": 241,
+        "uuids": [
+            {
+                "uuid": "00000000-0000-0000-0000-000000000000",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "cfdab6f4-1eeb-4de7-ad50-22c0b0c89b75",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "369640a4-fc1c-5035-bd54-00117cfc43ba",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "aac04b8d-70c3-4db7-9352-bbc86ec674ec",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "512c00c3-b4ec-45f2-895b-9202e3aeba2e",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "cf337232-47c0-4742-ac90-252421e3ac84",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0b5c7b99-80cc-40ed-94b8-6f73b148886b",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "102a0d1b-6bf5-4743-92b6-25ec6a2a3bbc",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "877aca63-b37f-4f00-b818-0f4a5a136f7e",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "cf737105-6f11-4d66-8a15-7f6011f59c7e",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "872cb076-328f-49fe-aca4-262fd6988a3b",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "2bc3f6b6-4a6b-45c1-8660-02a65a39ed5c",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "96eb2ab9-9db3-471a-b2f2-750f331e5e5d",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "4c19a59f-3407-48e9-8038-6850c2c6fafa",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "e9c33371-46bd-4538-b2b7-b85749a8e62c",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "a578b1be-69f5-4c00-9d3e-22820ae738ac",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "3e172a44-3465-4d48-874d-6f6bb1f83270",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "649059a7-f677-4f35-b701-194b9b10ce40",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "21ad318a-8d04-4ecf-939a-180cd29dd75a",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "e9339958-606a-443b-80fa-e64d7092c13d",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "247d319a-d63c-49f9-8218-7f53f7e8bdf8",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "f76dfdba-d7dc-4850-b35f-a0572e184afa",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "3c5d5324-3ebb-436d-b110-17b3a1905aad",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "257e5daf-37ab-41d4-91f0-39513b5e6f1a",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "c1ed4385-d6e1-4815-bac5-4ab19a1d08ba",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "8fe1cfd2-4519-4287-be8d-19f8145d26f6",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0c365959-0587-49b0-b592-8bb102062551",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "3e20aa62-43b9-4e0a-a60e-bdc25f926a3b",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "f0472e8f-1abd-416c-8fed-afaee3ee19be",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0c88c348-667e-4e68-8d99-fffba6d8eaf4",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "181d95b2-50a0-456a-8e15-1ffce927a8ad",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "e301ebc9-d808-4a4e-abe1-165988482613",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "cf3e1e81-8060-48ef-b50d-9f6d4f79011f",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "f0d44365-2ea1-4c8a-93b2-cb2a7ae855ac",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "b42c0635-b616-4edb-9f3c-247dc895b877",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "4f010d1b-9d12-42d2-b8d0-6bbe4e2529ca",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "677b0215-8cee-479c-a6f1-69c543d75c93",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "594e70b6-4a94-4725-96fe-479fbd329850",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "15c3104d-49f4-46e0-a580-cdcee6f786f7",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "2db140cb-d92b-4cfe-980b-9ef5aac65edf",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "2de34d47-31b7-4004-b00a-44ad03bdc58e",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "5687be2f-592c-494b-8b53-ef99eb9dab68",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0da607c8-0f35-45ac-b0ce-b27312fe7d1f",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "c97c9a55-df9f-436d-b8b3-86b8c7ab58e0",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "5c9bec65-08c1-4c36-882d-9caac03ff2b2",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "1557bfc5-187d-4012-8b5c-f55d5a1721a0",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "09f63db1-d4be-42f3-a846-7f9fbf0c8322",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "b4542aaa-6788-45e8-827b-dc5b34860e88",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "2df98fd8-097d-4e84-8732-8718e1e1343b",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "e8c95b59-112b-4c10-940c-dfa499c2cca7",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "a17eb5c5-14c3-4566-9433-f363e5b4592d",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "be221002-31fc-49a5-bd17-3c12292bef4c",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "54638f16-0cf4-419e-a655-46df984a16f9",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "82eeeec8-acfe-477c-9f61-d02f4b0740bd",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "6b8cbb46-8bba-4d7e-b907-26483c0af18b",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "112e6465-f93e-4f4c-8ae8-95160b342720",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "5b8e0b56-e872-4c7d-9583-aa9ab98f166d",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "dafae032-23e5-4b4a-8af6-9472e7c4739e",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "ccaafb58-8a18-47a5-95b6-7c3a3623565c",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "172d5095-e511-44cb-80b1-4e6ecee60045",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "db9b4178-1f3f-4377-9f63-11be585f0063",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "fd40f1ad-e84d-4473-858f-0fe8c4073b7c",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "c7bf30c0-cc1d-4544-ba04-c3784774f1f8",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "96d169a9-a7a5-40c5-adbf-bf4b3fee4fa5",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "eaee78ad-571a-4a00-ad1b-06909c245f96",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "bbbee193-03e0-4f5b-af3f-9ba05c52a389",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "d72fd110-65fc-4420-8338-a2ff011c0bc8",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "7bfea1c3-f19f-4581-89af-78c470213d68",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0bd6178a-721c-4ba1-b9a0-2b2632f094d4",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "ac53a1b4-96e8-4a6f-a70e-dc5cd66b9d1f",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "50367dbb-669b-4a65-92f9-e8fc0e56cdc6",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "713bd757-dca0-458d-b945-db60c7a30702",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "36c3f996-f396-4bbe-a944-a81ff9549059",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00342efc-70b3-4b76-978d-2d7ab4b23dd1",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "8f150e00-f571-4dce-88c2-2f4a4fb025fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "b2a6d869-2e50-4af2-8c9d-ed51f6758cf6",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "03cd8506-d8b0-4619-9ce7-fbfe1692f601",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "db0af09f-edc4-4a57-b918-c7ddb1cf1504",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "9f5d7f8b-f80b-4e4e-8bf0-c5eefe9fbe7c",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "ad89139d-f200-4ac3-9729-bc4a541187e0",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "41ba21a2-c240-4dfe-9d9a-cde8c55a916a",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "2eef3649-fc86-4ad2-863f-a1d045560383",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "dbe11277-fd85-4490-8906-255e09b77a8e",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "2148cf35-36cb-4509-ac40-e04f7bf1d4a4",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "09e2f12d-36dc-46e5-86b4-645a49d5b160",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "fa3172df-7eea-44ee-85fa-32948ee70d88",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "94991be6-a857-410f-86ce-b4c2899a0c51",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "9355de10-8e22-4baa-a3e9-4377a1895562",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "9bd833d5-f945-4ec1-a3e4-9f8c611b4dea",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0907e9c1-734a-4a76-8983-3c9e8608fbb2",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "a5a6792e-0b7d-4025-a47c-1b73b1179b9b",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "738faca5-8e8e-4819-9bba-65bee27d0c59",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "90827239-f2ef-45ae-8583-0fd54474a448",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "f935f563-8f87-4ef4-b3f2-30e57689f34b",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "353110f7-f1f8-4f0f-958a-569855ae98b8",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "4fa97ed5-8e10-4402-96e8-20a8843a5f30",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "80e273dc-2d1a-4919-b0a6-61d23de377fc",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "6ae3c963-7ed3-41bd-a16b-9c8e5fe6b594",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "dd16b453-eb0c-4f16-9240-20161e7de996",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "ebcf1f81-d6a6-4c3a-b0d0-3ac95a663a90",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "1536630b-6808-4180-a0bd-08733fba5282",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "15c2e57a-c757-48e1-bd3a-1c79eb097996",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "a176e274-aae1-403c-b86a-318b857f3787",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "190f5c57-fdac-4474-b2b0-0e2d1e72757a",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "20fafc8e-684e-4283-8c15-5b4d66b298e0",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "65304939-0183-443c-bf69-fca6bb3fa5b6",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "c0dd5000-0452-4d76-9abf-1c39c7a158e9",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "a4a4cb40-1b33-40fe-9332-29a9a6ceb3a4",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "740eedf4-31c3-498d-9295-2d940e52e5ae",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "cedc2337-714c-4fa2-bb9b-6f12ad5b22d1",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "3a35628e-1f4b-421c-a9e2-94aba3ad2893",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "37315f61-1f13-45ed-a3ff-1a4d26dcb7a4",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "1be13b5d-9863-4d57-803c-b11b39443a76",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "4124ebdc-22a4-460c-b35c-aa1716e3a394",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "f2e51d92-7f46-43bc-93c6-5dd67b6b4fc7",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "ab086292-dc00-4b7e-a99c-400028badaac",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "a7d4cfde-654a-491b-8b38-d5567b580c5d",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0e4b9309-63c3-475b-817f-40272f2336c3",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "8ea49526-46dc-4298-a70e-447a93c6fe72",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "1bc020d4-63c8-4376-80d9-43c114bff8c9",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "7f8e25ec-7a34-4895-b1f2-2fa3b73d987e",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "ad9c1d05-8e2e-449c-803e-48d29957a557",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "ab37c054-b381-4640-9992-d2c71f7500e4",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "408963df-a82f-41d1-aba9-93968867ef1d",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "41941617-39cf-4e9c-bf3b-9212fb2bd201",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "a6351ea6-7d0f-4afc-8ecf-1410688ab49c",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "73cd8b74-9651-40d6-8674-74ad76b42dc1",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "4c340e07-46a7-4e48-a110-839b1bb1ed64",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "f5beb72b-641b-455d-974c-a7f19c726a60",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "089be17d-abf3-46a2-a0bb-4ecfb5e00041",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "cb61eb89-c622-469b-a584-9e67d7782451",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "372fb2da-1318-4c35-aa04-559a6924cc08",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "a281bd69-0324-4b19-ba35-28e38daebd74",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "c743de37-2666-415b-a65d-b7b3061a8554",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "5ce99ca0-ddec-4978-8177-9591b46811d1",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "04e59289-0f47-4950-b016-4fe030b7ae9a",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "6a18d2a5-f323-405b-abdf-710b59426b51",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "e3d4aa8c-8626-4447-9990-986be7b565df",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "88a6ac5b-8ece-45c2-8e35-c4327676b546",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "825a7e71-aada-4a5a-843e-120bce278c97",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "6ba7b810-9dad-11d1-80b4-00c04fd430c8",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "6ba7b811-9dad-11d1-80b4-00c04fd430c8",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "6ba7b812-9dad-11d1-80b4-00c04fd430c8",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "6ba7b814-9dad-11d1-80b4-00c04fd430c8",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "653bb7e4-736f-43fa-9ff0-b623d3418cce",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "f12b1200-0000-46c7-ac6f-23cdfc72e51f",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "74637323-6325-4a3c-956a-0adf18c76aeb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "3e659fb3-8688-4ed8-b84d-ff00bc8ad381",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "bf565ac7-dbb3-4602-9481-bafe6f7fd971",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "b480b98b-8a51-4396-ac60-e221c98233c3",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "30e7017a-fc14-4168-be0a-255b9c10c6d2",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "05068d71-069e-4eef-92e0-72fad95b0887",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "eb923b84-1b30-4c09-9e96-1119c1edc137",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "b2f88c1b-7e56-4ab9-8e72-3f1c91d204f6",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "83a495fc-cfbf-4763-aa5a-51fcae050152",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "285d00f5-82e2-4014-b819-3550adf86d49",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "17d8d968-6cbc-4e61-8e60-9b92f3aa2add",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "40add1df-2b52-4ab2-a874-9ffedc97314c",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "da549402-e641-4369-9294-7219e6363fb9",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0d01e756-7bbc-4478-b169-1b989b66937b",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "f744eb1f-df85-4ff3-b9a4-ecd974df7ebb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "9556489b-aa91-4255-b81e-5017ee4dd98a",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "e6063b97-e007-4886-b246-82f06b67028c",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "09b0b413-e68b-416d-849a-99d124365ef8",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "b360b31b-e630-4583-95de-400bcda2e47e",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "ddab788a-475b-4aad-91c2-12b72ada3fe6",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "53db47f0-938b-452d-ac3f-ae17a95e25f6",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "1660e19f-647d-4898-a977-72c04f2ba9a0",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "bfe65309-321c-405d-b7cc-9f94c8566236",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "ff0150c8-5917-4965-a1d4-df37d3ce5a60",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "b02682c3-2ca5-489c-ac27-9bb45799ac79",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "17eb370a-4feb-4125-ba6c-3f2a4e32e0eb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "5561cfdb-b5bb-4bc4-b996-f95e9a1a7325",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "f223d8f5-1ea8-429d-8f8f-042bbf865273",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "7e8085e1-a5ae-4437-b59d-ee723197b730",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "02555aec-0743-41fd-9f1e-3ada707534db",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "6260fe6a-0f9a-41af-b6b4-94a956d7e46b",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "4f1c6ada-5f16-4f6b-98c3-46ec86813796",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "e8d63425-418b-4e18-a69b-e21ef122ee87",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "44cf8f4a-949e-49c5-a1a3-c00994da23a9",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "e56bcb9a-7414-46e5-89f3-42930fa9d540",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "2d10cff4-89c0-4813-9c6f-c979d9cc1c0b",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "1f5c37f5-f128-466c-bee1-08bd9df1dc0c",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "52860d01-3346-4772-9e5e-647813531f95",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "5631c5d9-0d6c-4615-a6a6-77ec64edf39c",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "6c02bc3f-167b-46a9-a983-c73377355c17",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "70aadae8-fc19-4364-96cf-30c3fb9801f8",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "6749af4d-b459-4b2f-835a-086f918838be",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "369e5a76-5ab8-4b75-8cd0-f2808fc482e6",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "ee0d6762-6e2a-4d34-bf3e-4f030371c5a6",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "01219961-4225-47bb-932d-dcb0a2c67303",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "03eaa1b1-2a1d-4eee-bc47-c0d1f42f9433",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "073b6eaf-e8d6-44ba-87f5-e0649bf6377a",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "678c5ef3-eb76-42aa-9c1c-596143ba57b0",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "baf37e00-c154-4dcf-9783-3ff071cce0a3",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "3314e1e6-2b28-4651-9715-2a069c09921e",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "a0e982c9-5a7c-4a57-a46f-442804bdc92f",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "610a202a-c460-46ba-be1a-be48bf65326d",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "31067426-4c53-4903-b01c-1260f4953f62",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "5e2fc893-222c-4127-a1fa-bba725168841",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "35733d96-ff7b-414f-8f3a-1213d6125e33",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "1cccfa3f-3d03-4cd5-9384-41430ec3ff3c",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "98614d8b-7b4c-4109-93b4-bccdbb296482",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "8cb7cf08-0711-4665-a519-f88f8651fd90",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "d5c27b7b-7a54-4da5-89b1-eb3413bf7de4",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "d9061e13-e047-42ed-9108-26d50a3d1219",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "52d0de09-dd09-4f21-9e9e-516b8656237a",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "90e98415-d169-4bb5-9213-059073afd423",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0afb8e30-6a82-42d4-91c7-df4bfc11d5a6",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "5b0ca40b-eb65-4cdb-93a2-e99d78b93bed",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0fe01a60-6be6-48f2-9f9a-50943d62c5e6",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "49237401-2813-4805-8d8e-8868eaea5ea1",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "abf6fd21-b50a-4042-a864-c42265b353e0",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "52ff59e9-d8bf-4887-bdc2-e1e9b792d756",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "d801adb4-c5ac-4cb1-8800-8c922932d125",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "4df95b84-fdf5-447a-ac6b-f447dc1509ba",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "6849e623-8906-4728-8337-a14732b0ac2a",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "9e919c0c-77e4-4d5c-a8b1-28beddcbbb1a",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "ecab6f13-79a5-48d5-b5dc-afb04e038243",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "b1298867-f926-4f91-9cb5-724dd6eea72a",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "5194a31f-fe57-4543-804b-6fb64377dfd8",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "19ac4737-5ac6-42f5-ae99-1f776552b70c",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "311569b4-d5ac-4fd0-82df-6f0ae669a697",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "e3062b5c-7c4f-48f2-acab-682f6f118162",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "4fa5d52b-8ae1-4f91-9eb5-19810caa144e",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "768d67fb-2439-412d-89ed-721e0fe16db2",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "6870bb7c-81d9-402c-baf7-3198f1832908",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "d24cd7fa-a2f8-44bf-a8bc-1c984b8984db",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "749ccd64-c18a-4cd3-8d8e-8a9db5bd0277",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "6d6dbdf0-a7aa-4f3d-bb56-63fc28d1d46c",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "9a6974c3-1898-4326-ba50-895bff2ce835",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "6ade33cf-ffe2-4bac-8330-de9eebda60c0",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "c030e27c-5e1e-4537-ac70-cec353c922e4",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "5265cb80-f85f-441d-9ca1-2860d2a85796",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "016ea38e-2113-465d-b7dd-261a76a587f2",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "86b004f0-d118-46f0-ab07-440ccd8c188f",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "f3b439fe-4f09-48c1-b615-af3acb36f1ca",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "9f51392d-cf5f-4c98-8766-26c79c20cbf1",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "22242d4f-751e-4523-89bb-f82f71e48d7f",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "e7ead450-db47-40a3-9bee-6027b96ef723",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "03f89830-e1d2-4bbf-a8df-c150c45f2e60",
+                "name": "Unknown"
+            }
+        ]
+    },
+    {
+        "package": "com.initio.waterreminder",
+        "apk": "drink-water-reminder-alert-water-time_1.2.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.WRITE_INTERNAL_STORAGE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.VIBRATE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "de.fastic.app",
+        "apk": "fastic-fasting-app-intermittent-fasting-tracker_1.29.2.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.android.vending.BILLING",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.ACTIVITY_RECOGNITION",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.VIBRATE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.ronyetonini.h2oAlarm",
+        "apk": "h2o-alarm_2.2.9.apk",
+        "bluetooth_permissions": true,
+        "permission_set": [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.DISABLE_KEYGUARD",
+            "android.permission.WAKE_LOCK",
+            "android.permission.VIBRATE",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.BLUETOOTH",
+            "com.ronyetonini.h2oAlarm.permission.C2D_MESSAGE",
+            "android.permission.ACCESS_NOTIFICATION_POLICY",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.ACCESS_WIFI_STATE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.devsoldiers.bodytracker.water",
+        "apk": "aqua-alert_3.4.1.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.VIBRATE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.INTERNET",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.CAMERA",
+            "com.android.vending.BILLING",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            "android.permission.WAKE_LOCK"
+        ],
+        "feature_set": [
+            "android.hardware.camera",
+            "android.hardware.camera.flash"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "net.gozetk.waterdrinkreminder",
+        "apk": "drink-water-remember-water-reminder-tracker_1.1.2.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "net.gozetk.waterdrinkreminder.permission.C2D_MESSAGE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.android.vending.BILLING",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.QUICKBOOT_POWERON",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.VIBRATE"
+        ],
+        "feature_set": [
+            "android.hardware.telephony"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.ellisapps.itrackbitesplus",
+        "apk": "itrackbites-easy-weight-loss-diet-and-tracker_6.13.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.READ_CONTACTS",
+            "android.permission.CAMERA",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.RECORD_AUDIO",
+            "com.android.vending.BILLING",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.VIBRATE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.FLASHLIGHT"
+        ],
+        "feature_set": [
+            "android.hardware.camera",
+            "android.hardware.camera.autofocus",
+            "android.hardware.camera.flash"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.myfitnesspal.android",
+        "apk": "calorie-counter-myfitnesspal_20.21.2.apk",
+        "bluetooth_permissions": true,
+        "permission_set": [
+            "android.permission.GET_ACCOUNTS",
+            "com.android.vending.BILLING",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.CHANGE_WIFI_STATE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.VIBRATE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACTIVITY_RECOGNITION",
+            "android.permission.BLUETOOTH",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.INTERNET",
+            "android.permission.FLASHLIGHT",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.samsung.accessory.permission.ACCESSORY_FRAMEWORK",
+            "android.permission.WAKE_LOCK",
+            "android.permission.READ_CONTACTS",
+            "android.permission.CHANGE_NETWORK_STATE",
+            "android.permission.MANAGE_DOCUMENTS",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.BLUETOOTH_ADMIN",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.USE_CREDENTIALS",
+            "com.samsung.WATCH_APP_TYPE.Companion",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.CAMERA",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "com.myfitnesspal.android.permission.C2D_MESSAGE"
+        ],
+        "feature_set": [
+            "android.hardware.camera",
+            "android.hardware.camera.front",
+            "android.hardware.camera.autofocus"
+        ],
+        "uuid_count": 8,
+        "uuids": [
+            {
+                "uuid": "00000000-0000-0000-0000-000000000000",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "258eafa5-e914-47da-95ca-c5ab0dc85b11",
+                "name": "RFC6455 Websocket String"
+            },
+            {
+                "uuid": "8b28ae46-f8c8-447b-9772-6ffb6b46fe89",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "616feb6e-4bb1-4718-bb8c-8c88bd978a9c",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "b11efcc8-da04-47c4-8feb-3ed98d6503ef",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "1c70aed5-15c7-40a2-b4f0-a55ed1a5c43c",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "e3b7e8fd-af82-4b84-b7e8-fdaf82db8442",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "4f9e4415-31e7-4e9f-b3b3-eb172ffa1aec",
+                "name": "Unknown"
+            }
+        ]
+    },
+    {
+        "package": "com.deerlabs.suicmehatirlaticisi",
+        "apk": "water-drinking-reminder_3.1.2.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.crisoleo.drinktolosebellyfat",
+        "apk": "drink-to-lose-belly-fat_1.5.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.google.android.providers.gsf.permission.READ_GSERVICES",
+            "android.permission.WAKE_LOCK",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.INTERNET",
+            "android.permission.VIBRATE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.crisoleo.drinktolosebellyfat.permission.C2D_MESSAGE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.google.android.c2dm.permission.RECEIVE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.andromo.dev551559.app527548",
+        "apk": "detox-water-drinks-best-detox-recipes_1.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE"
+        ],
+        "feature_set": [
+            "android.hardware.touchscreen"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.lifeomic.lifeextend",
+        "apk": "life-extend-complete-health-wellness-tracker_5.1.5.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.android.vending.CHECK_LICENSE",
+            "com.sec.android.provider.badge.permission.READ",
+            "com.htc.launcher.permission.READ_SETTINGS",
+            "com.sec.android.provider.badge.permission.WRITE",
+            "com.majeur.launcher.permission.UPDATE_BADGE",
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.READ_APP_BADGE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            "android.permission.CAMERA",
+            "me.everything.badger.permission.BADGE_COUNT_READ",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.WAKE_LOCK",
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            "android.permission.VIBRATE",
+            "com.sonyericsson.home.permission.BROADCAST_BADGE",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.anddoes.launcher.permission.UPDATE_COUNT",
+            "me.everything.badger.permission.BADGE_COUNT_WRITE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.android.vending.BILLING",
+            "android.permission.SYSTEM_ALERT_WINDOW",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+            "com.oppo.launcher.permission.WRITE_SETTINGS",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "com.oppo.launcher.permission.READ_SETTINGS",
+            "android.permission.FOREGROUND_SERVICE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "app.fitness.mevofit.water.loseweight.watertracker.reminder.drinkwater",
+        "apk": "drink-water-reminder-water-tracker-to-lose-weight_1.0.7.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.hardware.camera.autofocus",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.RECORD_AUDIO",
+            "android.permission.GET_TASKS",
+            "app.fitness.mevofit.water.loseweight.watertracker.reminder.drinkwater.permission.C2D_MESSAGE",
+            "com.android.vending.BILLING",
+            "com.mevolife.mevo.permission.C2D_MESSAGE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.BROADCAST_STICKY",
+            "android.permission.BROADCAST_PACKAGE_REMOVED",
+            "android.permission.WAKE_LOCK",
+            "android.permission.READ_CONTACTS",
+            "android.permission.INTERNET",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.CHANGE_WIFI_STATE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.CAMERA",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.VIBRATE"
+        ],
+        "feature_set": [
+            "android.hardware.bluetooth_le",
+            "android.hardware.bluetooth",
+            "android.hardware.camera",
+            "android.hardware.camera.autofocus"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.water.drinking.reminder",
+        "apk": "water-drink-reminder-water-tracker_1.0.5.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.WAKE_LOCK"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "br.com.buritimobileapps.water_app",
+        "apk": "healthy-living-drink-water_2.0.3.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.android.vending.BILLING",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.VIBRATE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "android.permission.SET_ALARM"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.sglabs.mysymptoms",
+        "apk": "mysymptoms-food-diary-symptom-tracker-lite_5.28-f.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "com.android.vending.CHECK_LICENSE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.android.vending.BILLING",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.CAMERA"
+        ],
+        "feature_set": [
+            "android.hardware.camera",
+            "android.hardware.camera.autofocus"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.examobile.drinkwater",
+        "apk": "drink-water-reminder_1.0.2.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.WAKE_LOCK",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.android.vending.BILLING",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.INTERNET",
+            "android.permission.VIBRATE",
+            "com.examobile.drinkwater.permission.C2D_MESSAGE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.askendiet.us.asken",
+        "apk": "calorie-counter-asken-diet_2.7.3.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.VIBRATE",
+            "android.permission.INTERNET",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.CAMERA",
+            "com.android.vending.BILLING",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.WRITE_SETTINGS",
+            "android.permission.ACTIVITY_RECOGNITION",
+            "com.google.android.providers.gsf.permission.READ_GSERVICES",
+            "android.permission.WAKE_LOCK"
+        ],
+        "feature_set": [
+            "android.hardware.camera",
+            "android.hardware.camera.front",
+            "android.hardware.camera.autofocus",
+            "android.hardware.camera.flash",
+            "android.hardware.screen.landscape",
+            "android.hardware.wifi"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.droidinfinity.healthplus",
+        "apk": "health-fitness-tracker-with-calorie-counter_2.0.85.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.CAMERA",
+            "com.google.android.gms.permission.ACTIVITY_RECOGNITION",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.VIBRATE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACTIVITY_RECOGNITION",
+            "com.android.vending.BILLING",
+            "android.permission.BODY_SENSORS",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.RECEIVE_BOOT_COMPLETED"
+        ],
+        "feature_set": [
+            "android.hardware.camera",
+            "android.hardware.camera.autofocus",
+            "android.hardware.location",
+            "android.hardware.location.gps"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "miracle.water.balance",
+        "apk": "miracle-water-balance_1.1.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.SYSTEM_ALERT_WINDOW",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.INTERNET",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.WRITE_EXTERNAL_STORAGE"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.dietcoacher.sos",
+        "apk": "my-diet-coach-weight-loss-motivation-tracker_5.3.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.VIBRATE",
+            "android.permission.FLASHLIGHT",
+            "android.permission.INTERNET",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.inspiredapps.mydietcoachpro.permission.C2D_MESSAGE",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "com.dietcoacher.sos.permission.C2D_MESSAGE",
+            "com.android.vending.BILLING",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.android.vending.CHECK_LICENSE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.WAKE_LOCK"
+        ],
+        "feature_set": [
+            "android.hardware.touchscreen",
+            "android.hardware.screen.portrait",
+            "android.hardware.wifi",
+            "android.hardware.camera",
+            "android.hardware.camera.autofocus",
+            "android.hardware.telephony"
+        ],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.masacre.waterink",
+        "apk": "waterink-water-tracker_1.5.2.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.GET_ACCOUNTS",
+            "android.permission.WAKE_LOCK",
+            "com.masacre.waterink.permission.C2D_MESSAGE",
+            "android.permission.INTERNET"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "weightwatchers.diet.tracker",
+        "apk": "mydietdaily-diet-watchers-smart-weight-loss_4.8.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.CAMERA",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.GET_ACCOUNTS",
+            "com.android.alarm.permission.SET_ALARM",
+            "android.permission.RECORD_AUDIO",
+            "com.android.vending.BILLING",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.ACCESS_WIFI_STATE",
+            "com.android.launcher.permission.INSTALL_SHORTCUT"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    },
+    {
+        "package": "com.sec.android.app.shealth",
+        "apk": "samsung-health_6.12.3.001.apk",
+        "bluetooth_permissions": true,
+        "permission_set": [
+            "com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY",
+            "com.samsung.android.rubin.app.ui.permission.LAUNCH_RUBIN_SETTING",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.samsung.android.rubin.context.permission.READ_CONTEXT_MANAGER",
+            "android.permission.GET_ACCOUNTS",
+            "android.permission.AUTHENTICATE_ACCOUNTS",
+            "android.permission.CAMERA",
+            "android.permission.WRITE_SETTINGS",
+            "android.permission.READ_SYNC_SETTINGS",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_CONTACTS",
+            "android.permission.READ_PHONE_NUMBERS",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.BLUETOOTH_ADMIN",
+            "com.sec.spp.permission.TOKEN_c6bbae539f5994fc130a6ce9ba9b5fc4f54564bd01e0b1ccb8ffcdf3bef305faae4eec16a8316c02433cb3095486314842a58858641f71a1a5e0a8cb90344f0336d54728d000ba3967db09e0103bd8418b8bc885533d3aac74432897939464afedd9866e154eb0b718cad3da47370960d91d90dc826095e20de810fa71bef02e",
+            "com.samsung.android.rubin.persona.permission.READ_PERSONA_MANAGER",
+            "com.sec.android.service.health.permission.SWEIGHTSENSOR",
+            "android.permission.WAKE_LOCK",
+            "android.permission.ACTIVITY_RECOGNITION",
+            "android.permission.WRITE_SYNC_SETTINGS",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.FOREGROUND_SERVICE",
+            "com.samsung.android.app.spage.permission.WRITE_CARD_DATA",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_WIFI_STATE",
+            "android.permission.BLUETOOTH",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.NFC",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.google.android.gms.permission.ACTIVITY_RECOGNITION",
+            "com.google.android.providers.gsf.permission.READ_GSERVICES",
+            "com.sec.spp.permission.PUSH_SERVICE_PROVIDER",
+            "com.samsung.android.app.withtv.ACCESS_WITH_TV",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.READ_SYNC_STATS",
+            "android.permission.VIBRATE"
+        ],
+        "feature_set": [
+            "android.hardware.bluetooth_le",
+            "android.hardware.nfc"
+        ],
+        "uuid_count": 211,
+        "uuids": [
+            {
+                "uuid": "00000000-0000-0000-0000-000000000000",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0000180a-0000-1000-8000-00805f9b34fb",
+                "name": "Device Information"
+            },
+            {
+                "uuid": "0000180d-0000-1000-8000-00805f9b34fb",
+                "name": "Heart Rate"
+            },
+            {
+                "uuid": "00001816-0000-1000-8000-00805f9b34fb",
+                "name": "Cycling Speed and Cadence"
+            },
+            {
+                "uuid": "00001814-0000-1000-8000-00805f9b34fb",
+                "name": "Running Speed and Cadence"
+            },
+            {
+                "uuid": "00001818-0000-1000-8000-00805f9b34fb",
+                "name": "Cycling Power"
+            },
+            {
+                "uuid": "0000181d-0000-1000-8000-00805f9b34fb",
+                "name": "Weight Scale"
+            },
+            {
+                "uuid": "0000181b-0000-1000-8000-00805f9b34fb",
+                "name": "Body Composition"
+            },
+            {
+                "uuid": "00001808-0000-1000-8000-00805f9b34fb",
+                "name": "Glucose"
+            },
+            {
+                "uuid": "0000181f-0000-1000-8000-00805f9b34fb",
+                "name": "Continuous Glucose Monitoring"
+            },
+            {
+                "uuid": "00001810-0000-1000-8000-00805f9b34fb",
+                "name": "Blood Pressure"
+            },
+            {
+                "uuid": "0000181a-0000-1000-8000-00805f9b34fb",
+                "name": "Environmental Sensing"
+            },
+            {
+                "uuid": "0000180f-0000-1000-8000-00805f9b34fb",
+                "name": "Battery Service"
+            },
+            {
+                "uuid": "00001800-0000-1000-8000-00805f9b34fb",
+                "name": "Generic Access"
+            },
+            {
+                "uuid": "00001801-0000-1000-8000-00805f9b34fb",
+                "name": "Generic Attribute"
+            },
+            {
+                "uuid": "0000181c-0000-1000-8000-00805f9b34fb",
+                "name": "User Data"
+            },
+            {
+                "uuid": "00001811-0000-1000-8000-00805f9b34fb",
+                "name": "Alert Notification Service"
+            },
+            {
+                "uuid": "0000181e-0000-1000-8000-00805f9b34fb",
+                "name": "Bond Management Service"
+            },
+            {
+                "uuid": "00001805-0000-1000-8000-00805f9b34fb",
+                "name": "Current Time Service"
+            },
+            {
+                "uuid": "00001812-0000-1000-8000-00805f9b34fb",
+                "name": "Human Interface Device"
+            },
+            {
+                "uuid": "00001821-0000-1000-8000-00805f9b34fb",
+                "name": "Indoor Positioning"
+            },
+            {
+                "uuid": "00001802-0000-1000-8000-00805f9b34fb",
+                "name": "Immediate Alert"
+            },
+            {
+                "uuid": "00001819-0000-1000-8000-00805f9b34fb",
+                "name": "Location and Navigation"
+            },
+            {
+                "uuid": "00001807-0000-1000-8000-00805f9b34fb",
+                "name": "Next DST Change Service"
+            },
+            {
+                "uuid": "0000180e-0000-1000-8000-00805f9b34fb",
+                "name": "Phone Alert Status Service"
+            },
+            {
+                "uuid": "00001806-0000-1000-8000-00805f9b34fb",
+                "name": "Reference Time Update Service"
+            },
+            {
+                "uuid": "00001813-0000-1000-8000-00805f9b34fb",
+                "name": "Scan Parameters"
+            },
+            {
+                "uuid": "00001804-0000-1000-8000-00805f9b34fb",
+                "name": "Tx Power"
+            },
+            {
+                "uuid": "00001803-0000-1000-8000-00805f9b34fb",
+                "name": "Link Loss"
+            },
+            {
+                "uuid": "00001820-0000-1000-8000-00805f9b34fb",
+                "name": "Internet Protocol Support Service"
+            },
+            {
+                "uuid": "00001809-0000-1000-8000-00805f9b34fb",
+                "name": "Health Thermometer"
+            },
+            {
+                "uuid": "00001815-0000-1000-8000-00805f9b34fb",
+                "name": "Automation IO"
+            },
+            {
+                "uuid": "00001823-0000-1000-8000-00805f9b34fb",
+                "name": "HTTP Proxy"
+            },
+            {
+                "uuid": "00000100-ebae-4526-9511-8357c35d7be2",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000200-ebae-4526-9511-8357c35d7be2",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000300-ebae-4526-9511-8357c35d7be2",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000400-ebae-4526-9511-8357c35d7be2",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0000fe00-ebae-4526-9511-8357c35d7be2",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00002a29-0000-1000-8000-00805f9b34fb",
+                "name": "Manufacturer Name String"
+            },
+            {
+                "uuid": "00002a24-0000-1000-8000-00805f9b34fb",
+                "name": "Model Number String"
+            },
+            {
+                "uuid": "00002a25-0000-1000-8000-00805f9b34fb",
+                "name": "Serial Number String"
+            },
+            {
+                "uuid": "00002a27-0000-1000-8000-00805f9b34fb",
+                "name": "Hardware Revision String"
+            },
+            {
+                "uuid": "00002a26-0000-1000-8000-00805f9b34fb",
+                "name": "Firmware Revision String"
+            },
+            {
+                "uuid": "00002a28-0000-1000-8000-00805f9b34fb",
+                "name": "Software Revision String"
+            },
+            {
+                "uuid": "00002a23-0000-1000-8000-00805f9b34fb",
+                "name": "System ID"
+            },
+            {
+                "uuid": "00002a2a-0000-1000-8000-00805f9b34fb",
+                "name": "IEEE 11073-20601 Regulatory Certification Data List"
+            },
+            {
+                "uuid": "00002a50-0000-1000-8000-00805f9b34fb",
+                "name": "PnP ID"
+            },
+            {
+                "uuid": "00002a08-0000-1000-8000-00805f9b34fb",
+                "name": "Date Time"
+            },
+            {
+                "uuid": "00002a2b-0000-1000-8000-00805f9b34fb",
+                "name": "Current Time"
+            },
+            {
+                "uuid": "00002a0c-0000-1000-8000-00805f9b34fb",
+                "name": "Exact Time 256"
+            },
+            {
+                "uuid": "00002a0a-0000-1000-8000-00805f9b34fb",
+                "name": "Day Date Time"
+            },
+            {
+                "uuid": "00002a37-0000-1000-8000-00805f9b34fb",
+                "name": "Heart Rate Measurement"
+            },
+            {
+                "uuid": "00002a38-0000-1000-8000-00805f9b34fb",
+                "name": "Body Sensor Location"
+            },
+            {
+                "uuid": "00002a39-0000-1000-8000-00805f9b34fb",
+                "name": "Heart Rate Control Point"
+            },
+            {
+                "uuid": "00000101-ebae-4526-9511-8357c35d7be2",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000102-ebae-4526-9511-8357c35d7be2",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000103-ebae-4526-9511-8357c35d7be2",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00002a5b-0000-1000-8000-00805f9b34fb",
+                "name": "CSC Measurement"
+            },
+            {
+                "uuid": "00002a5c-0000-1000-8000-00805f9b34fb",
+                "name": "CSC Feature"
+            },
+            {
+                "uuid": "00002a5d-0000-1000-8000-00805f9b34fb",
+                "name": "Sensor Location"
+            },
+            {
+                "uuid": "00002a55-0000-1000-8000-00805f9b34fb",
+                "name": "SC Control Point"
+            },
+            {
+                "uuid": "00002a53-0000-1000-8000-00805f9b34fb",
+                "name": "RSC Measurement"
+            },
+            {
+                "uuid": "00002a54-0000-1000-8000-00805f9b34fb",
+                "name": "RSC Feature"
+            },
+            {
+                "uuid": "00002a9d-0000-1000-8000-00805f9b34fb",
+                "name": "Weight Measurement"
+            },
+            {
+                "uuid": "00002a9e-0000-1000-8000-00805f9b34fb",
+                "name": "Weight Scale Feature"
+            },
+            {
+                "uuid": "00002a9c-0000-1000-8000-00805f9b34fb",
+                "name": "Body Composition Measurement"
+            },
+            {
+                "uuid": "00002a9b-0000-1000-8000-00805f9b34fb",
+                "name": "Body Composition Feature"
+            },
+            {
+                "uuid": "00002a18-0000-1000-8000-00805f9b34fb",
+                "name": "Glucose Measurement"
+            },
+            {
+                "uuid": "00002a34-0000-1000-8000-00805f9b34fb",
+                "name": "Glucose Measurement Context"
+            },
+            {
+                "uuid": "00002a51-0000-1000-8000-00805f9b34fb",
+                "name": "Glucose Feature"
+            },
+            {
+                "uuid": "00002a52-0000-1000-8000-00805f9b34fb",
+                "name": "Record Access Control Point"
+            },
+            {
+                "uuid": "00002aa7-0000-1000-8000-00805f9b34fb",
+                "name": "CGM Measurement"
+            },
+            {
+                "uuid": "00002aa8-0000-1000-8000-00805f9b34fb",
+                "name": "CGM Feature"
+            },
+            {
+                "uuid": "00002aa9-0000-1000-8000-00805f9b34fb",
+                "name": "CGM Status"
+            },
+            {
+                "uuid": "00002aaa-0000-1000-8000-00805f9b34fb",
+                "name": "CGM Session Start Time"
+            },
+            {
+                "uuid": "00002aab-0000-1000-8000-00805f9b34fb",
+                "name": "CGM Session Run Time"
+            },
+            {
+                "uuid": "00002aac-0000-1000-8000-00805f9b34fb",
+                "name": "CGM Specific Ops Control Point"
+            },
+            {
+                "uuid": "00002a35-0000-1000-8000-00805f9b34fb",
+                "name": "Blood Pressure Measurement"
+            },
+            {
+                "uuid": "00002a36-0000-1000-8000-00805f9b34fb",
+                "name": "Intermediate Cuff Pressure"
+            },
+            {
+                "uuid": "00002a49-0000-1000-8000-00805f9b34fb",
+                "name": "Blood Pressure Feature"
+            },
+            {
+                "uuid": "00002a63-0000-1000-8000-00805f9b34fb",
+                "name": "Cycling Power Measurement"
+            },
+            {
+                "uuid": "00002a65-0000-1000-8000-00805f9b34fb",
+                "name": "Cycling Power Feature"
+            },
+            {
+                "uuid": "00002a64-0000-1000-8000-00805f9b34fb",
+                "name": "Cycling Power Vector"
+            },
+            {
+                "uuid": "00002a66-0000-1000-8000-00805f9b34fb",
+                "name": "Cycling Power Control Point"
+            },
+            {
+                "uuid": "00002a6f-0000-1000-8000-00805f9b34fb",
+                "name": "Humidity"
+            },
+            {
+                "uuid": "00002a75-0000-1000-8000-00805f9b34fb",
+                "name": "Pollen Concentration"
+            },
+            {
+                "uuid": "00002a6e-0000-1000-8000-00805f9b34fb",
+                "name": "Temperature"
+            },
+            {
+                "uuid": "00002a76-0000-1000-8000-00805f9b34fb",
+                "name": "UV Index"
+            },
+            {
+                "uuid": "00002a7a-0000-1000-8000-00805f9b34fb",
+                "name": "Heat Index"
+            },
+            {
+                "uuid": "00002a7d-0000-1000-8000-00805f9b34fb",
+                "name": "Descriptor Value Changed"
+            },
+            {
+                "uuid": "00002a19-0000-1000-8000-00805f9b34fb",
+                "name": "Battery Level"
+            },
+            {
+                "uuid": "00002a00-0000-1000-8000-00805f9b34fb",
+                "name": "Device Name"
+            },
+            {
+                "uuid": "00002a01-0000-1000-8000-00805f9b34fb",
+                "name": "Appearance"
+            },
+            {
+                "uuid": "00002a02-0000-1000-8000-00805f9b34fb",
+                "name": "Peripheral Privacy Flag"
+            },
+            {
+                "uuid": "00002a03-0000-1000-8000-00805f9b34fb",
+                "name": "Reconnection Address"
+            },
+            {
+                "uuid": "00002a04-0000-1000-8000-00805f9b34fb",
+                "name": "Peripheral Preferred Connection Parameters"
+            },
+            {
+                "uuid": "00002a05-0000-1000-8000-00805f9b34fb",
+                "name": "Service Changed"
+            },
+            {
+                "uuid": "00002a8a-0000-1000-8000-00805f9b34fb",
+                "name": "First Name"
+            },
+            {
+                "uuid": "00002a90-0000-1000-8000-00805f9b34fb",
+                "name": "Last Name"
+            },
+            {
+                "uuid": "00002a87-0000-1000-8000-00805f9b34fb",
+                "name": "Email Address"
+            },
+            {
+                "uuid": "00002a80-0000-1000-8000-00805f9b34fb",
+                "name": "Age"
+            },
+            {
+                "uuid": "00002a85-0000-1000-8000-00805f9b34fb",
+                "name": "Date of Birth"
+            },
+            {
+                "uuid": "00002a8c-0000-1000-8000-00805f9b34fb",
+                "name": "Gender"
+            },
+            {
+                "uuid": "00002a98-0000-1000-8000-00805f9b34fb",
+                "name": "Weight"
+            },
+            {
+                "uuid": "00002a8e-0000-1000-8000-00805f9b34fb",
+                "name": "Height"
+            },
+            {
+                "uuid": "00002a96-0000-1000-8000-00805f9b34fb",
+                "name": "VO2 Max"
+            },
+            {
+                "uuid": "00002a8d-0000-1000-8000-00805f9b34fb",
+                "name": "Heart Rate Max"
+            },
+            {
+                "uuid": "00002a92-0000-1000-8000-00805f9b34fb",
+                "name": "Resting Heart Rate"
+            },
+            {
+                "uuid": "00002a91-0000-1000-8000-00805f9b34fb",
+                "name": "Maximum Recommended Heart Rate"
+            },
+            {
+                "uuid": "00002a7f-0000-1000-8000-00805f9b34fb",
+                "name": "Aerobic Threshold"
+            },
+            {
+                "uuid": "00002a83-0000-1000-8000-00805f9b34fb",
+                "name": "Anaerobic Threshold"
+            },
+            {
+                "uuid": "00002a93-0000-1000-8000-00805f9b34fb",
+                "name": "Sport Type for Aerobic and Anaerobic Thresholds"
+            },
+            {
+                "uuid": "00002a97-0000-1000-8000-00805f9b34fb",
+                "name": "Waist Circumference"
+            },
+            {
+                "uuid": "00002a8f-0000-1000-8000-00805f9b34fb",
+                "name": "Hip Circumference"
+            },
+            {
+                "uuid": "00002a88-0000-1000-8000-00805f9b34fb",
+                "name": "Fat Burn Heart Rate Lower Limit"
+            },
+            {
+                "uuid": "00002a89-0000-1000-8000-00805f9b34fb",
+                "name": "Fat Burn Heart Rate Upper Limit"
+            },
+            {
+                "uuid": "00002a86-0000-1000-8000-00805f9b34fb",
+                "name": "Date of Threshold Assessment"
+            },
+            {
+                "uuid": "00002a7e-0000-1000-8000-00805f9b34fb",
+                "name": "Aerobic Heart Rate Lower Limit"
+            },
+            {
+                "uuid": "00002a84-0000-1000-8000-00805f9b34fb",
+                "name": "Aerobic Heart Rate Upper Limit"
+            },
+            {
+                "uuid": "00002a81-0000-1000-8000-00805f9b34fb",
+                "name": "Anaerobic Heart Rate Lower Limit"
+            },
+            {
+                "uuid": "00002a82-0000-1000-8000-00805f9b34fb",
+                "name": "Anaerobic Heart Rate Upper Limit"
+            },
+            {
+                "uuid": "00002a8b-0000-1000-8000-00805f9b34fb",
+                "name": "Five Zone Heart Rate Limits"
+            },
+            {
+                "uuid": "00002a94-0000-1000-8000-00805f9b34fb",
+                "name": "Three Zone Heart Rate Limits"
+            },
+            {
+                "uuid": "00002a95-0000-1000-8000-00805f9b34fb",
+                "name": "Two Zone Heart Rate Limit"
+            },
+            {
+                "uuid": "00002a99-0000-1000-8000-00805f9b34fb",
+                "name": "Database Change Increment"
+            },
+            {
+                "uuid": "00002a9a-0000-1000-8000-00805f9b34fb",
+                "name": "User Index"
+            },
+            {
+                "uuid": "00002a9f-0000-1000-8000-00805f9b34fb",
+                "name": "User Control Point"
+            },
+            {
+                "uuid": "00002aa2-0000-1000-8000-00805f9b34fb",
+                "name": "Language"
+            },
+            {
+                "uuid": "00002a1c-0000-1000-8000-00805f9b34fb",
+                "name": "Temperature Measurement"
+            },
+            {
+                "uuid": "00002a1d-0000-1000-8000-00805f9b34fb",
+                "name": "Temperature Type"
+            },
+            {
+                "uuid": "00002a1e-0000-1000-8000-00805f9b34fb",
+                "name": "Intermediate Temperature"
+            },
+            {
+                "uuid": "00002a21-0000-1000-8000-00805f9b34fb",
+                "name": "Measurement Interval"
+            },
+            {
+                "uuid": "00002a3f-0000-1000-8000-00805f9b34fb",
+                "name": "Alert Status"
+            },
+            {
+                "uuid": "00002a46-0000-1000-8000-00805f9b34fb",
+                "name": "New Alert"
+            },
+            {
+                "uuid": "00002a14-0000-1000-8000-00805f9b34fb",
+                "name": "Reference Time Information"
+            },
+            {
+                "uuid": "00002a56-0000-1000-8000-00805f9b34fb",
+                "name": "Digital"
+            },
+            {
+                "uuid": "00002902-0000-1000-8000-00805f9b34fb",
+                "name": "Client Characteristic Configuration"
+            },
+            {
+                "uuid": "0000fff0-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00001310-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0000d618-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00005801-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0000ffe5-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0000ffe0-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "ecbe3980-c9a2-11e1-b1bd-0002a5d5c51b",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-1000-1000-000000000000",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "53544d54-4552-494f-5345-525631303030",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "6e400001-b5a3-f393-e0a9-e50e24dcca9e",
+                "name": "Nordic Service UUID"
+            },
+            {
+                "uuid": "0000fff1-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00002a2f-0000-3512-2118-0009af100700",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0000ffe9-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0000ffe4-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "53544f55-4152-5449-4e20-205630303031",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "6e400002-b5a3-f393-e0a9-e50e24dcca9e",
+                "name": "Nordic RX Characteristic"
+            },
+            {
+                "uuid": "6e400003-b5a3-f393-e0a9-e50e24dcca9e",
+                "name": "Nordic TX Characteristic"
+            },
+            {
+                "uuid": "0000fe01-ebae-4526-9511-8357c35d7be2",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0000fe02-ebae-4526-9511-8357c35d7be2",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "0000fe95-0000-1000-8000-00805f9b34fb",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00002a0f-0000-1000-8000-00805f9b34fb",
+                "name": "Local Time Information"
+            },
+            {
+                "uuid": "00000401-ebae-4526-9511-8357c35d7be2",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000407-ebae-4526-9511-8357c35d7be2",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000402-ebae-4526-9511-8357c35d7be2",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000403-ebae-4526-9511-8357c35d7be2",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000404-ebae-4526-9511-8357c35d7be2",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000405-ebae-4526-9511-8357c35d7be2",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000406-ebae-4526-9511-8357c35d7be2",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000301-ebae-4526-9511-8357c35d7be2",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000302-ebae-4526-9511-8357c35d7be2",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000303-ebae-4526-9511-8357c35d7be2",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000304-ebae-4526-9511-8357c35d7be2",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000201-ebae-4526-9511-8357c35d7be2",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000202-ebae-4526-9511-8357c35d7be2",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000203-ebae-4526-9511-8357c35d7be2",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "7aa99a1d-c128-4218-af51-3ed5fccbb631",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "768694f0-94fe-4cd4-b354-ee44a727998b",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "a5aba82a-6933-4685-8843-b1c94dff816b",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-000000000001",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-000000000002",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-000000000003",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-000000000004",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-000000000005",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-000000000006",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-000000000007",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-000000000008",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-000000000009",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-00000000000a",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-00000000000b",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-00000000000c",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-00000000000d",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-00000000000e",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-00000000000f",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-000000000010",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-000000000011",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-000000000012",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-000000000013",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-000000000014",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-000000000015",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-000000000016",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-000000000017",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-000000000018",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-000000000019",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-00000000001a",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-00000000001b",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-00000000001c",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-00000000001d",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-00000000001e",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-00000000001f",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "00000000-0000-0000-0000-000000000020",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "a49eb41e-cb06-495c-9f4f-aa80a90cdf4a",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "fc1cff01-71f1-887f-c5fa-a19b3dca3230",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "fc1cff08-71f1-887f-c5fa-a19b3dca3230",
+                "name": "Unknown"
+            },
+            {
+                "uuid": "fc1cff07-71f1-887f-c5fa-a19b3dca3230",
+                "name": "Unknown"
+            }
+        ]
+    },
+    {
+        "package": "cz.plague.android.watin",
+        "apk": "water-intake-drink-hydrate_1.3.0.apk",
+        "bluetooth_permissions": false,
+        "permission_set": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.INTERNET"
+        ],
+        "feature_set": [],
+        "uuid_count": 0,
+        "uuids": []
+    }
+]
